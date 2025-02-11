@@ -20,7 +20,7 @@ Lecture Notes
 - Harmonics
 	- Frequency components that are integer multiples of the fundamental frequency
 		- E.g. Middle A=440Hz while All As has a fundamental frequency of 27.5Hz (1/16)
-	- Overtones: Not necessarily frequency components
+	- Overtones: Not necessarily integral multiples
 - Formants
 	- Concentration of <abbr Title="Speaking, NOT SINGING where pitch is changed">Acoustic Energy</abbr> where a Specific Frequency is Amplified ("Mountain Ranges" in a Spectrogram)
 
