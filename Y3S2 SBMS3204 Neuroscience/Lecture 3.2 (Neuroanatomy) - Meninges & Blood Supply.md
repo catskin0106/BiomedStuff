@@ -21,7 +21,8 @@ Lecture Notes
 	- Posterior: Vertebral Artery
 
 **Venous Drainage of Blood**
-- To Jugular Vein through Sinuses between Dura Mater Layers
+- To Jugular Vein 
+	- through Sinuses between Dura Mater Layers
 
 
 #### **Cerebrospinal Fluid**
