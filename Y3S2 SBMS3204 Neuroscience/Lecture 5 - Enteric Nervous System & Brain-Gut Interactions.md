@@ -75,4 +75,4 @@ Lecture Notes
 	- Enterococcus
 
 **Autism Spectrum Disorder (ASD)**
-- High correlation in severity comorbidity of ASD & GI symptoms
+- ASD & GI symptoms has high correlation in severity & comorbidity
