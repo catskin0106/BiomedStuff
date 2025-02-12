@@ -34,6 +34,12 @@ Lecture Notes
 | :----------------: | :----------------: | :------------------------: |
 |     Ventricles     | Subarachnoid Space | Lateral & Median Apertures |
 | Subarachnoid Space |   Venous Sinuses   |      Arachnoid Villi       |
+```mermaid
+flowchart LR
+	A[Ventricles]-- Lateral & Median Apertures ---B[Subarachnoid Space]
+	B-- Arachnoid Villi ---C[Venous Sinuses]
+	style A color:#000
+```
 
 
 **Functions of Cerebrospinal Fluid**
