@@ -11,10 +11,10 @@ Lecture Notes
 **Components**
 - Ganglia interconnected by 2 Plexuses:
 
-| Plexus                         | Location | Distribution            |
-| ------------------------------ | -------- | ----------------------- |
-| Myenteric (Auerbach's Plexus)  | Outer    | Entire Alimentary Canal |
-| Submucosal (Meissner's Plexus) | Inner    | Small & Big Intestines  |
+| Plexus                         | Location           | Distribution            |
+| ------------------------------ | ------------------ | ----------------------- |
+| Myenteric (Auerbach's Plexus)  | Muscularis Externa | Entire Alimentary Canal |
+| Submucosal (Meissner's Plexus) | Submucosa          | Small & Big Intestines  |
 
 **Structure**
 - 400-600 Million Neurons
@@ -75,5 +75,4 @@ Lecture Notes
 	- Enterococcus
 
 **Autism Spectrum Disorder (ASD)**
-- High comorbidity of ASD & GI symptoms
-- High correlation of ASD & GI symptoms severity
+- High correlation in severity comorbidity of ASD & GI symptoms
