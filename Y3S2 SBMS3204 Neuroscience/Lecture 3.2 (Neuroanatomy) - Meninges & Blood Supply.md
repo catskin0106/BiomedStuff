@@ -36,9 +36,11 @@ Lecture Notes
 | Subarachnoid Space |   Venous Sinuses   |      Arachnoid Villi       |
 ```mermaid
 flowchart LR
-	A[Ventricles]-- Lateral & Median Apertures ---B[Subarachnoid Space]
-	B-- Arachnoid Villi ---C[Venous Sinuses]
+	A[**Ventricles**]-- Lateral & Median Apertures ---B[**Subarachnoid Space**]
+	B-- Arachnoid Villi ---C[**Venous Sinuses**]
 	style A color:#000
+	style B color:#000
+	style C color:#000
 ```
 
 
