@@ -44,7 +44,7 @@ Lecture Notes
 
 **Place Coding in Frequency Analysis: Tonotopy**
 - Different neurons on the Basilar Membrane has their own sensitivity towards different frequencies of sound
-	- Crudely produces a "spectrogram" of perceived sounds where different neurons occupy different frequency bands (y values)
+	- Crudely produces a "spectrogram" of perceived sounds where different neurons represent different frequency bands (y values)
 	- → Excitation of particular places give rise to respective pitch
 
 **Time Coding in Frequency Analysis: [Phase Locking](https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/pitch/pitch.html)**
