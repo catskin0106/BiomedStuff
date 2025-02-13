@@ -11,7 +11,7 @@ Lecture Notes
 **Coincidence Detectors**
 - Some channels on neurons only open when specific conditions are met simultaneously
 	- Trigger extra metabolic events
-- E.g. NMDA Channels (Ca<sup>2+</sup>) only activate when:
+- E.g. NMDA Channels (Ca<sup>2+</sup> Channel) only activate when:
 		- Presynaptic Neuron Active: Glutamate released
 		- Postsynaptic Neuron Active: Depolarized membrane to remove Mg<sup>2+</sup> Plug
 	- Triggers metabolic events for learning & memory

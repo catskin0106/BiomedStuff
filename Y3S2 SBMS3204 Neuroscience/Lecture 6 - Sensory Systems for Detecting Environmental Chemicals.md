@@ -26,7 +26,7 @@ Lecture Notes
 	- In contact with air through Cilia
 	- Axon aggregates to become <abbr Title="Olfactory">CN I</abbr>
 - Mitral Cells
-	- Synapses with Receptor Neuron Dendrites in the Olfactory Bulb Glomeruli
+	- Form Synapses with Dendrites of Receptor Neuron in the Olfactory Bulb Glomeruli
 		- Input Convergence: 25000 Axons into ~25 Dendrites
 		- Specific: 1 Glomerulus only has 1 Receptor Type
 - Granule Cells
