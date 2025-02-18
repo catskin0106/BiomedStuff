@@ -86,9 +86,9 @@ Lecture Notes
 		- Nucleotides
 		- ↓ ATP
 
-
 - Opportunistic Modes of Nutrient Acquisition
 	- ∵ ↑ Ras / c-Src
 		- ↑ <abbr Title="Engulfment & Digestion of entire living cells">Entosis</abbr>, Macropinocytosis & <abbr Title="Engulfment & Digestion of Apoptotic Bodies">Phagocytosis</abbr>
 
-- 
+- Alterations in Metabolite-Driven Gene Regulation
+	- ↑ / ↓ <abbr Title="e.g. Acetyl-CoA">Cofactors</abbr> & <abbr Title="e.g. NAD & FAD">Substrates</abbr> for Histone Acetylation & Methylation
