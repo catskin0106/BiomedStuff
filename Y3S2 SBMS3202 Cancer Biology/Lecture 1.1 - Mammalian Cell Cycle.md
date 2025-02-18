@@ -4,7 +4,7 @@ Lecture Notes
 - Cell Cycle
 - Key Cell Cycle Regulatory Genes
 - Cell Cycle Genes in Human Cancers
-- Methods Used in Cell Cycle Studies
+- Cell Cycle Studies
 
 ---
 #### **Cell Cycle**
@@ -107,4 +107,20 @@ Lecture Notes
 - Genomic Instability
 
 
-#### **Methods Used in Cell Cycle Studies**
+#### **Cell Cycle Studies**
+**Purpose of Cell Cycle Studies**
+- Measure DNA Content in Cell population & Assay for 
+
+
+**Methods of Cell Cycle Studies**
+- Flow Cytometry
+	- Uses Fluorescent DNA staining dye
+		- e.g. Propidium Iodide (Excited at 488nm)
+	- Level of fluorescence determines DNA content & thus cell stage
+
+- Nucleoside Analog Incorporation
+	- Detects S-Phase Cells in Proliferation
+		- Measures Thymidine nucleoside analog incorporation into newly synthesized DNA
+	- Types of Nucleoside Analogs:
+		- <abbr Title="Bromodeoxyuridine">BrdU</abbr>: Quantified with Antibodies
+		- <abbr Title="Ethynyldeoxyuridine">EdU</abbr>: Quantified with Fluorescent Dye (<abbr Title="Colorimetric">Biotin</abbr> / <abbr Title="Fluorometric">Streptavidin</abbr>)
