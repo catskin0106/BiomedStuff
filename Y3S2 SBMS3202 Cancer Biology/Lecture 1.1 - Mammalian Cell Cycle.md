@@ -26,7 +26,14 @@ Lecture Notes
 | Cytokinesis (Overlaps with Mitosis) |                 <                 | Physical Cytoplasmic Division into 2 Daughter Cells                      |
 
 **Cell Cycle Checkpoints**
+- Tightly regulated by Internal & External factors
+	- Progression Factors: Growth Factors, Nutrients & Mitogens
+	- Arrest Factors: DNA Damage, <abbr Title="Cell-cell contract / Cell Differentiation">Cell type</abbr>, Anti-mitogenic Factors
+- Prevent accumulation of genetic errors during mitosis
 
-| Checkpoint |     |
-| ---------- | --- |
-|            |     |
+| Checkpoint |        <        | Go-ahead Condition |
+| :--------: | :-------------: | ------------------ |
+|    G1/S    |  S Phase Entry  |                    |
+|  S Phase   | S Phase Halfway |                    |
+|    G2/M    |  Mitosis Entry  |                    |
+|  Mitosis   |  Mitosis Exit   |                    |
