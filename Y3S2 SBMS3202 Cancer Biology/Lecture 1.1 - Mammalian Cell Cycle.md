@@ -37,3 +37,8 @@ Lecture Notes
 |  S Phase   | S Phase Halfway | Correct DNA Replication                                                  |
 |    G2/M    |  Mitosis Entry  | Correct DNA Replication                                                  |
 |  Mitosis   |  Mitosis Exit   | Correct DNA Partition between Daughter Cells                             |
+
+
+#### **Key Cell Cycle Regulatory Genes**
+**Cell Cycle Regulatory Components**
+- Give go-ahead / apoptosis / DNA repair signals to cells
