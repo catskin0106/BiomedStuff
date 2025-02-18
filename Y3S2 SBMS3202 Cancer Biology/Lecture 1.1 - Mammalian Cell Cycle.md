@@ -53,7 +53,24 @@ Lecture Notes
 |  Mitosis   |  Mitosis Exit   |                           B1                            | Correct DNA Partition between Daughter Cells                             |
 
 - Growth Factors:
-	- s
-- G1/S: Retinoblastoma Protein
+	- <abbr Title="Cyclin-dependent Kinase Inhibitors">CDKIs</abbr>: Inhibits cyclin-CDK
+	- <abbr Title="Inhibitors of Kinase 4 Family">INK4</abbr>: Controls G1/S Checkpoint
+
+- Retinoblastoma Protein: Controls G1/S Checkpoint
 	- Hypophosphorylated Form: <abbr Title="Transcription Factor">E2F</abbr> carrier
 	- Hyperphosphorylated by D4/6 to release E2F for S Phase gene Transcriptional Activation
+
+- p53: Arrests Cell Cycle for Repair upon DNA Damage to prevent Cancer
+	- Transcription Factor
+	- Nuclear Phosphoprotein
+	- Regulated by:
+		- MDM2: Destruction
+		- ATM: Activation
+		- Phosphorylation: Activity Regulation
+	- Types of DNA Damage:
+		- Intrinsic Replication Errors: Addition / Deletion / Base Mismatch
+		- Extrinsic Events:
+			- Carcinogens: DNA Adduct
+			- Ionizing Radiation: Double Strand Break
+			- Unionizing Radiation: Pyrimidine Dimer
+
