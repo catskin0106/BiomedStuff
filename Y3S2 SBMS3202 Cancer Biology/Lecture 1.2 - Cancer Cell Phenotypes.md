@@ -2,6 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Oncogene Addiction
+- Cell Senescence
 
 ---
 #### **Oncogene Addiction**
@@ -20,6 +21,19 @@ Lecture Notes
 	- Druggable
 - Examples of cancer types with oncogene addiction:
 
-| Cancer Type | Mutation | Oncogene |
-| ----------- | -------- | -------- |
-|             |          |          |
+|                      Cancer Type                      |       Mutation        |         Oncogene         |
+| :---------------------------------------------------: | :-------------------: | :----------------------: |
+|                       Melanoma                        |     BRAF Mutation     |      Ser/Thr Kinase      |
+| <abbr Title="Chronic Myelogenous Leukemia">CML</abbr> | BCL-ABL Translocation |     Tyrosine Kinase      |
+|                     Breast Cancer                     |  HER2 Amplification   | Tyrosine Kinase Receptor |
+|              Non-Small Cell Lung Cancer               |    ERBB1 Mutation     | Tyrosine Kinase Receptor |
+
+**Targeted Therapy on Oncogene Addiction**
+- <abbr Title="Trastuzumab">Herceptin</abbr>: Humanized antibody with high specificity & affinity with HER2 Protein
+	- Targets HER2 Amplification in Breast Cancer
+	- Ineffective on Breast Cancer without HER2 Amplifcation
+- Drug Resistance might be acquired
+
+
+#### **Cell Senescence**
+- Self-defense mechanism that arrests cell proliferation to prevent neoplastic transformation
