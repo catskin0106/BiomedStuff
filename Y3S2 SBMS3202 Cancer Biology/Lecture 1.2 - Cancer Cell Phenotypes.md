@@ -5,3 +5,12 @@ Lecture Notes
 
 ---
 #### **Oncogene Addiction**
+**Oncogene Actions**
+- Increased:
+	- Growth Factor Products / Receptors
+	- Cell Cycle Components (e.g. Cyclins & CDKs)
+- Mutant:
+	- Signal Transducer
+	- Transcription Factors
+
+**Oncogene Addiction**

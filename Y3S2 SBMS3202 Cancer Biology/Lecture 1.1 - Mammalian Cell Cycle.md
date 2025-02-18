@@ -80,6 +80,7 @@ Lecture Notes
 **Molecular Basis of Cancer**
 - Genetic Disease
 	- Multiple cellular-level genetic changes
+	- Transformation from <abbr Title="Tightly regulated normal genes for growth & proliferation">Proto-oncogenes</abbr> to <abbr Title="Genes that endows cells with self-sufficiency in growth">Oncogenes</abbr> through Mutation, Translocation & Amplification
 - Tumors from Monoclonal Proliferation
 	- All tumor cells originates from 1 single Ancestral Cell
 - Accumulation of Non-lethal Damage / Mutation
