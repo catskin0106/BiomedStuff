@@ -80,12 +80,11 @@ Lecture Notes
 **Molecular Basis of Cancer**
 - Genetic Disease
 	- Multiple cellular-level genetic changes
-	- Alters normal control mechanisms of cell physiology
 - Tumors from Monoclonal Proliferation
 	- All tumor cells originates from 1 single Ancestral Cell
 - Accumulation of Non-lethal Damage / Mutation
-	- Passed onto somatic daughter cells
-	- Neoplastic Transformation is a Progressive Process
+	- Key Genetic <abbr Title="Mutations that Confer Selection Advantages (Antonym: Passenger Mutations)">Driver Mutations</abbr> that alters normal control mechanisms of cell physiology
+	- Passed onto somatic daughter cells → Progressive Neoplastic Transformation
 
 **Loss of Cell Cycle Control in Cancer Cells**
 - Inability to Regulate Cell Cycle
@@ -109,7 +108,8 @@ Lecture Notes
 
 #### **Cell Cycle Studies**
 **Purpose of Cell Cycle Studies**
-- Measure DNA Content in Cell population & Assay for 
+- Measure DNA Content in Cell population & Assay for Cell Cycle State
+	- ∴ Quantitative Analysis of Treatment Effect on Cell Proliferation / Cycle Progression
 
 
 **Methods of Cell Cycle Studies**
