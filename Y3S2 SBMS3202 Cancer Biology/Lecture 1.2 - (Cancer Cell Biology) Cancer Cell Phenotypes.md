@@ -69,7 +69,23 @@ Lecture Notes
 	- For de novo synthesis of nucleotides & polyamines
 	- Cell Acquires Nitrogen from Nucleotide Synthesis
 		- Glutamine deamination into Glutamate
-	
+
+- ↑ Lactate from Aerobic Glycolysis
+	- ↓ Dendritic & T Cell Activation → Immune-permissive Microenvironment
+	- Converts Macrophages to M2 State → Immunosuppression
+	- ↑ Angiogenesis
+	- ↑ Fibroblast Hyaluronic Acid → ↑ Tumor Invasiveness
+	- ↑ Acidity → ECM Proteolysis → ↑ Tumor Invasiveness
+
+- ↑ Diversity of Biomolecule Production from Glycolysis / TCA Cycle Intermediates
+	- Normal Cells: Glucose → Mitochondrial Acetyl-CoA → Mainly ATP
+	- Cancer Cells: Glucose → Reduced Carbon → 
+		- Fatty Acid, Glycerol & Cholesterol
+		- Sugar Derivatives (5-6C)
+		- Non-essential Amino Acids
+		- Nucleotides
+		- ↓ ATP
+
 
 - Opportunistic Modes of Nutrient Acquisition
 	- ∵ ↑ Ras / c-Src
