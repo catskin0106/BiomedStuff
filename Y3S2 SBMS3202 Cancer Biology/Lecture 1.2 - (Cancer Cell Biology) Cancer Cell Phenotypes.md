@@ -59,4 +59,20 @@ Lecture Notes
 	- Promotes uncontrolled proliferation under environment with poor oxygen & nutrient supply
 
 **6 Critical Hallmarks of Cancer Metabolism**
+- ↑ Glucose & Glutamine Uptake
+	- ∵ ↑ PI3K-Akt Oncogenic Pathway 
+		- → ↑ <abbr Title="Glucose Transporter">GLUT1</abbr>
+	- ∵ ↑ c-Myc Oncogene & ↓ Tumor Suppressor Rb
+		- ↑ <abbr Title="Glutamine Transporter">ASCT2/SN2</abbr>
+
+- ↑ Nitrogen Demand from Glutamine
+	- For de novo synthesis of nucleotides & polyamines
+	- Cell Acquires Nitrogen from Nucleotide Synthesis
+		- Glutamine deamination into Glutamate
+	
+
+- Opportunistic Modes of Nutrient Acquisition
+	- ∵ ↑ Ras / c-Src
+		- ↑ <abbr Title="Engulfment & Digestion of entire living cells">Entosis</abbr>, Macropinocytosis & <abbr Title="Engulfment & Digestion of Apoptotic Bodies">Phagocytosis</abbr>
+
 - 
