@@ -74,3 +74,17 @@ Lecture Notes
 			- Ionizing Radiation: Double Strand Break
 			- Unionizing Radiation: Pyrimidine Dimer
 
+
+#### **Cell Cycle Genes in Human Cancer**
+**Molecular Basis of Cancer**
+- Genetic Disease
+	- Multiple cellular-level genetic changes
+	- Alters normal control mechanisms of cell physiology
+- Tumors from Monoclonal Proliferation
+	- All tumor cells originates from 1 single Ancestral Cell
+- Accumulation of Non-lethal Damage / Mutation
+	- Passed onto somatic daughter cells
+	- Neoplastic Transformation is a Progressive Process
+
+**Loss of Cell Cycle Control in Cancer Cells**
+- 
