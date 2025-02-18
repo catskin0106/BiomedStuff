@@ -41,11 +41,19 @@ Lecture Notes
 
 #### **Key Cell Cycle Regulatory Genes**
 **Cell Cycle Regulatory Components**
-- Combination of Cyclin & <abbr Title="Cyclin-dependent Kinase">CDK</abbr>
-	- Give go-ahead / apoptosis / DNA repair signals to cells
+- Combination of Cyclin (A-D) & <abbr Title="Cyclin-dependent Kinase">CDK (1-6)</abbr>
+	- Give go-ahead / apoptosis / DNA repair signals to cells in cell cycle checkpoints
+	- Prevent accumulation of genetic errors during mitosis
 
-| Component                                        | Types | Level during Cell Cycle |
-| ------------------------------------------------ | ----- | ----------------------- |
-| Cyclin                                           | A-D   | Fluctuating             |
-| <abbr Title="Cyclin-dependent Kinase">CDK</abbr> | 1-6   | Stable                  |
+| Checkpoint |        <        | <abbr Title="Cyclin & CDK Combination">Regulator</abbr> | Go-ahead Condition                                                       |
+| :--------: | :-------------: | :-----------------------------------------------------: | ------------------------------------------------------------------------ |
+|    G1/S    |  S Phase Entry  |                        D4/6 & E2                        | Sufficient Cell Size, Nutrients & <abbr Title="Growth Factors">GF</abbr> |
+|  S Phase   | S Phase Halfway |                           A2                            | Correct DNA Replication                                                  |
+|    G2/M    |  Mitosis Entry  |                           A1                            | Correct DNA Replication                                                  |
+|  Mitosis   |  Mitosis Exit   |                           B1                            | Correct DNA Partition between Daughter Cells                             |
 
+- Growth Factors:
+	- s
+- G1/S: Retinoblastoma Protein
+	- Hypophosphorylated Form: <abbr Title="Transcription Factor">E2F</abbr> carrier
+	- Hyperphosphorylated by D4/6 to release E2F for S Phase gene Transcriptional Activation
