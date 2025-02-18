@@ -31,9 +31,9 @@ Lecture Notes
 	- Arrest Factors: DNA Damage, <abbr Title="Cell-cell contract / Cell Differentiation">Cell type</abbr>, Anti-mitogenic Factors
 - Prevent accumulation of genetic errors during mitosis
 
-| Checkpoint |        <        | Go-ahead Condition |
-| :--------: | :-------------: | ------------------ |
-|    G1/S    |  S Phase Entry  |                    |
-|  S Phase   | S Phase Halfway |                    |
-|    G2/M    |  Mitosis Entry  |                    |
-|  Mitosis   |  Mitosis Exit   |                    |
+| Checkpoint |        <        | Go-ahead Condition                                                       |
+| :--------: | :-------------: | ------------------------------------------------------------------------ |
+|    G1/S    |  S Phase Entry  | Sufficient Cell Size, Nutrients & <abbr Title="Growth Factors">GF</abbr> |
+|  S Phase   | S Phase Halfway | Correct DNA Replication                                                  |
+|    G2/M    |  Mitosis Entry  | Correct DNA Replication                                                  |
+|  Mitosis   |  Mitosis Exit   | Correct DNA Partition between Daughter Cells                             |
