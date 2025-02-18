@@ -4,6 +4,7 @@ Lecture Notes
 - Cell Cycle
 - Key Cell Cycle Regulatory Genes
 - Cell Cycle Genes in Human Cancers
+- Methods Used in Cell Cycle Studies
 
 ---
 #### **Cell Cycle**
@@ -87,4 +88,23 @@ Lecture Notes
 	- Neoplastic Transformation is a Progressive Process
 
 **Loss of Cell Cycle Control in Cancer Cells**
-- 
+- Inability to Regulate Cell Cycle
+	- Loss reactivity to regulatory components
+	- Loss of DNA damage Checkpoints
+- Uncontrolled Cell Division
+	- No longer require GFs to reproduce
+- Unusually Rapid Reproduction
+
+**Cancer Treatments Targeting Cancer Cell Cycle**
+- DNA Replication Stress
+	- Chemotherapy: Induce Replication Stress
+	- CDK4/6<abbr Title="Inhibitor">i</abbr>: Forces Cell Cycle Exit
+	- ATRi: Impairs Tolerance to Replication Stress
+- DNA Damage
+	- Radiotherapy & Chemotherapy
+- Mitotic Defects
+	- Taxanes
+- Genomic Instability
+
+
+#### **Methods Used in Cell Cycle Studies**
