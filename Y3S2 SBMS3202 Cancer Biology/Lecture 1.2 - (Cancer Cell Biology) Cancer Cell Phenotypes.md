@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Oncogene Addiction
 - Cell Senescence
+- Metabolic Reprogramming
 
 ---
 #### **Oncogene Addiction**
@@ -53,5 +54,9 @@ Lecture Notes
 - ↑ Metabolism & Lysosomal Activity
 
 
-#### **Cancer Metabolism**
+#### **Metabolic Reprogramming**
+- Consequences of Oncogene Activation / tumor Suppressor Inactivation
+	- Promotes uncontrolled proliferation under environment with poor oxygen & nutrient supply
+
+**6 Critical Hallmarks of Cancer Metabolism**
 - 
