@@ -36,4 +36,22 @@ Lecture Notes
 
 
 #### **Cell Senescence**
-- Self-defense mechanism that arrests cell proliferation to prevent neoplastic transformation
+- Self-defense mechanism that arrests cell proliferation to prevent neoplastic transformation of at-risk cells
+
+**Characteristics of Senescence Cells**
+- Flattened, Enlarged Morphologies
+- Withdrawal from Cell Cycle
+- Resistance to Apoptosis
+- Damaged <abbr Title="DNA, Proteins, Lipids">Macromolecules</abbr>
+- Secretes <abbr Title="Senescence-Associated Secretion Phenotype">SASPs</abbr> Factors
+	- Cytokines: Immunoresponses → Tumor Regression
+	- Chemokines: Inflammation
+	- Growth Factors: Proliferation
+		- Might lead to Tumor Progression
+	- Proteases: Cell Invasion
+	- Angiogenic Factors: Angiogenesis
+- ↑ Metabolism & Lysosomal Activity
+
+
+#### **Cancer Metabolism**
+- 
