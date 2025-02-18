@@ -41,4 +41,11 @@ Lecture Notes
 
 #### **Key Cell Cycle Regulatory Genes**
 **Cell Cycle Regulatory Components**
-- Give go-ahead / apoptosis / DNA repair signals to cells
+- Combination of Cyclin & <abbr Title="Cyclin-dependent Kinase">CDK</abbr>
+	- Give go-ahead / apoptosis / DNA repair signals to cells
+
+| Component                                        | Types | Level during Cell Cycle |
+| ------------------------------------------------ | ----- | ----------------------- |
+| Cyclin                                           | A-D   | Fluctuating             |
+| <abbr Title="Cyclin-dependent Kinase">CDK</abbr> | 1-6   | Stable                  |
+
