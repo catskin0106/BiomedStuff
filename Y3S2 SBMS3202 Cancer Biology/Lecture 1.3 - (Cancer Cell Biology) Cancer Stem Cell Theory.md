@@ -72,4 +72,4 @@ Lecture Notes
 	- Isolated CSCs in studies did not account for CSC-niche Interactions
 - Poor understanding of CSC niche
 	- e.g. <abbr Title="Tumor-Associated Macrophages">TAMs</abbr> & <abbr Title="Cancer-Associated Fibroblasts">CAFs</abbr> Interaction with CSCs
-- CSCs sharin
+- Common pathways shared by CSCs & Normal Stem Cells
