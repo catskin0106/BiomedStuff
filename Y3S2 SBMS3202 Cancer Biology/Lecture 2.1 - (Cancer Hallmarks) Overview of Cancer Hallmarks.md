@@ -24,5 +24,12 @@ Lecture Notes
 		- Activation of downstream components of cognate receptor → Enable activation without ligand & firing
 
 **Evading Growth Suppression**
-- Evade prototypical tumor suppressor genes:
-	- 
+- Evade 2 prototypical tumor suppressor genes:
+	- <abbr Title="Retinoblastoma-Associated">RB</abbr> & TP53: Central control nodes for 2 complementary cellular regulatory circuits
+
+| Protein | Activation Signal                          | Function                                                                                            |
+| ------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| RB      | Extracellular Integrated & Diverse Signals | Checkpoint in cell cycle ([[Lecture 1.1 - (Cancer Cell Biology) Mammalian Cell Cycle\|G1-S Phase]]) |
+| TP53    | Intracellular Stress & Abnormality         | Repairable: Cell Senescence<br>Unrepairable: Apoptosis                                              |
+
+**Replicative Immortality**
