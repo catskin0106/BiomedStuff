@@ -33,3 +33,4 @@ Lecture Notes
 | TP53    | Intracellular Stress & Abnormality         | Repairable: Cell Senescence<br>Unrepairable: Apoptosis                                              |
 
 **Replicative Immortality**
+- Telomerase
