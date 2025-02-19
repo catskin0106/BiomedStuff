@@ -15,4 +15,6 @@ Lecture Notes
 - Ways to sustain proliferative signaling:
 	- Autocrine stimulation: Cancer cell self-produce GF ligands
 	- Paracrine stimulation: Tumor-associated stroma supply GFs upon cancer cell signal
-	- 
+	- Dysregulated receptor signaling:
+		- Elevated surface protein levels
+		- Structural alterations → 
