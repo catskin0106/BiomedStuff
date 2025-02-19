@@ -2,8 +2,9 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Definition of Cancer Hallmarks
-- First 6 Hallmark Capabilities
-- Emerging 2 Hallmark Capabilities
+- 6 First Hallmark Capabilities
+- 2 Emerging Hallmark Capabilities
+- 2 Newer Emerging Hallmark Capabilities
 
 ---
 #### **Definition of Cancer Hallmarks**
@@ -11,7 +12,7 @@ Lecture Notes
 	- Genetic & epigenetic alterations that corrupt latent but activatable normal cell capabilities
 
 
-#### **First 6 Hallmark Capabilities**
+#### **6 First Hallmark Capabilities**
 **1. Sustain Proliferative Signaling**
 - Ways to sustain proliferative signaling:
 	- Autocrine stimulation
@@ -28,10 +29,10 @@ Lecture Notes
 - Evade 2 prototypical tumor suppressor genes:
 	- <abbr Title="Retinoblastoma-Associated">RB</abbr> & TP53: Central control nodes for 2 complementary cellular regulatory circuits
 
-| Protein | Activation Signal                          | Function                                                                                            |
-| ------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| RB      | Extracellular Integrated & Diverse Signals | Checkpoint in cell cycle ([[Lecture 1.1 - (Cancer Cell Biology) Mammalian Cell Cycle\|G1-S Phase]]) |
-| TP53    | Intracellular Stress & Abnormality         | Repairable: Cell Senescence<br>Unrepairable: Apoptosis                                              |
+| Protein | Activation Signal                          | Function                                                                                                                                |
+| ------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| RB      | Extracellular Integrated & Diverse Signals | Checkpoint in cell cycle ([[Lecture 1.1 - (Cancer Cell Biology) Mammalian Cell Cycle#**Key Cell Cycle Regulatory Genes**\|G1-S Phase]]) |
+| TP53    | Intracellular Stress & Abnormality         | Repairable: Cell Senescence<br>Unrepairable: Apoptosis                                                                                  |
 
 **3. Replicative Immortality**
 - Upregulated Telomerase Expression & Activation on Telomere
@@ -72,6 +73,18 @@ Lecture Notes
 | Micrometasis   | Small cancer nodules at <abbr Title="Functional tissue of an organ, distinguished from Connective & Supportive tissues">Parenchyma</abbr> of Distant Tissues |
 | Colonization   | Growth into tumors, Might revert to non-invasive state through <abbr Title="Mesenchymal-Epithelial Transition">MET</abbr>                                    |
 
-#### **Emerging 2 Hallmark Capabilities**
+#### **2 Emerging Hallmark Capabilities**
 **7. Metabolic Reprogramming**
 - [[Lecture 1.2 - (Cancer Cell Biology) Cancer Cell Phenotypes#**Metabolic Reprogramming**|See Lecture 1.2 - Metabolic Reprogramming]]
+
+**8. Evading Immune Destruction**
+- Avoid Detection / Limit Killing by Immune System
+	- Immune Editing selects for weakly immunogenic cells → Increases tumor evasiveness
+	- Immunodeficiency in certain lymphocyte types (CD8<sup>+</sup>, CD4<sup>+</sup> Th1, NK) increases tumor incidence
+	- Epidemiological Evidence:
+		- Tumors heavily infiltrated by lymphocytes have better prognosis
+		- Immunosuppressed organ transplant leads to donor-derived cancers
+
+
+#### **Newer 2 Emerging Hallmark Capabilities**
+**9. Unlocking Phenotypic Plasticity**

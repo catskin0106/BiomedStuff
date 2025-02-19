@@ -57,7 +57,7 @@ Lecture Notes
 	- <abbr Title="Cyclin-dependent Kinase Inhibitors">CDKIs</abbr>: Inhibits cyclin-CDK
 	- <abbr Title="Inhibitors of Kinase 4 Family">INK4</abbr>: Controls G1/S Checkpoint
 
-- Retinoblastoma Protein: Controls G1/S Checkpoint
+- <abbr Title="Retinoblastoma">RB</abbr> Protein: Controls G1/S Checkpoint
 	- Hypophosphorylated Form: <abbr Title="Transcription Factor">E2F</abbr> carrier
 	- Hyperphosphorylated by D4/6 to release E2F for S Phase gene Transcriptional Activation
 
