@@ -12,3 +12,7 @@ Lecture Notes
 
 #### **First Six Hallmark Capabilities**
 **Sustain Proliferative Signaling**
+- Ways to sustain proliferative signaling:
+	- Autocrine stimulation: Cancer cell self-produce GF ligands
+	- Paracrine stimulation: Tumor-associated stroma supply GFs upon cancer cell signal
+	- 
