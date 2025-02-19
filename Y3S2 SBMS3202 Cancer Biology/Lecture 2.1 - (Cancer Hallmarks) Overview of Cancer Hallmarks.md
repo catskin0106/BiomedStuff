@@ -88,3 +88,10 @@ Lecture Notes
 
 #### **Newer 2 Emerging Hallmark Capabilities**
 **9. Unlocking Phenotypic Plasticity**
+- Enabling bidirectional conversion of differentiated cancers cells to form CSCs
+	- See [[Lecture 1.3 - (Cancer Cell Biology) Cancer Stem Cell Theory#**Cancer Stem Cell Theory**|Lecture 1.3 - Cancer Stem Cell Theory]]
+
+**10. Senescent Cells**
+- Senescent Cells Secrete SASPs that might contribute to other hallmarks
+	- See [[Lecture 1.2 - (Cancer Cell Biology) Cancer Cell Phenotypes#**Cell Senescence**|Lecture 1.2 - Cell Senescence]]
+
