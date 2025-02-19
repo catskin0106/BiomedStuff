@@ -33,4 +33,12 @@ Lecture Notes
 | TP53    | Intracellular Stress & Abnormality         | Repairable: Cell Senescence<br>Unrepairable: Apoptosis                                              |
 
 **Replicative Immortality**
-- Telomerase
+- Upregulated Telomerase Expression & Activation on Telomere
+	- Telomere: Multiple tandem hexanucleotide repeats
+		- As a cellular "Doomsday Clock"
+		- Triggers senescence / apoptosis once length is insufficient
+	- Telomerase: Specialized DNA polymerase
+		- Adds telomere repeat segments to telomere end → Delays "Doomsday"
+
+**Resisting Cell Death**
+- 
