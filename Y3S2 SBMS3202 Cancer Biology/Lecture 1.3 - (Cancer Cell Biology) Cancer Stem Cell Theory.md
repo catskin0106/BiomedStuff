@@ -24,5 +24,5 @@ Lecture Notes
 |                                      Signaling Pathways for Self-Renewal                                       |                           Similar                           |         <         |
 |                                            Capacity in Self-Renewal                                            |                          Extensive                          |    Indefinite     |
 |                                           Regulation of Self-Renewal                                           |                      Highly Regulated                       |   Dysregulated    |
-|                                               Karyotype / Genome                                               |                           Normal                            |     Abnormal      |
+|                                                   Karyotype                                                    |                           Normal                            |     Abnormal      |
 |                                                                                                                |                                                             |                   |
