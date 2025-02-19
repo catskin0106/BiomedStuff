@@ -70,7 +70,7 @@ Lecture Notes
 	- Cell Acquires Nitrogen from Nucleotide Synthesis
 		- Glutamine deamination into Glutamate
 
-- ↑ Lactate from Aerobic Glycolysis
+- ↑ Lactate from Aerobic Glycolysis (Warburg Effect)
 	- ↓ Dendritic & T Cell Activation → Immune-permissive Microenvironment
 	- Converts Macrophages to M2 State → Immunosuppression
 	- ↑ Angiogenesis
@@ -78,6 +78,7 @@ Lecture Notes
 	- ↑ Acidity → ECM Proteolysis → ↑ Tumor Invasiveness
 
 - ↑ Diversity of Biomolecule Production from Glycolysis / TCA Cycle Intermediates
+	- For Biosynthesis of Macromolecules needed by Rapidly Dividing Cells
 	- Normal Cells: Glucose → Mitochondrial Acetyl-CoA → Mainly ATP
 	- Cancer Cells: Glucose → Reduced Carbon → 
 		- Fatty Acid, Glycerol & Cholesterol

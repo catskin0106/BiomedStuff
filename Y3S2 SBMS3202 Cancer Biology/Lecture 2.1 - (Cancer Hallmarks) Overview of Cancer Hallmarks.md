@@ -2,7 +2,8 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Definition of Cancer Hallmarks
-- First Six Hallmark Capabilities
+- First 6 Hallmark Capabilities
+- Emerging 2 Hallmark Capabilities
 
 ---
 #### **Definition of Cancer Hallmarks**
@@ -10,8 +11,8 @@ Lecture Notes
 	- Genetic & epigenetic alterations that corrupt latent but activatable normal cell capabilities
 
 
-#### **First Six Hallmark Capabilities**
-**Sustain Proliferative Signaling**
+#### **First 6 Hallmark Capabilities**
+**1. Sustain Proliferative Signaling**
 - Ways to sustain proliferative signaling:
 	- Autocrine stimulation
 		- Cancer cell self-produce GF ligands
@@ -23,7 +24,7 @@ Lecture Notes
 	- Growth Factor Independence: 
 		- Activation of downstream components of cognate receptor → Enable activation without ligand & firing
 
-**Evading Growth Suppression**
+**2. Evading Growth Suppression**
 - Evade 2 prototypical tumor suppressor genes:
 	- <abbr Title="Retinoblastoma-Associated">RB</abbr> & TP53: Central control nodes for 2 complementary cellular regulatory circuits
 
@@ -32,7 +33,7 @@ Lecture Notes
 | RB      | Extracellular Integrated & Diverse Signals | Checkpoint in cell cycle ([[Lecture 1.1 - (Cancer Cell Biology) Mammalian Cell Cycle\|G1-S Phase]]) |
 | TP53    | Intracellular Stress & Abnormality         | Repairable: Cell Senescence<br>Unrepairable: Apoptosis                                              |
 
-**Replicative Immortality**
+**3. Replicative Immortality**
 - Upregulated Telomerase Expression & Activation on Telomere
 	- Telomere: Multiple tandem hexanucleotide repeats
 		- As a cellular "Doomsday Clock"
@@ -40,14 +41,14 @@ Lecture Notes
 	- Telomerase: Specialized DNA polymerase
 		- Adds telomere repeat segments to telomere end → Delays "Doomsday"
 
-**Resisting Cell Death**
+**4. Resisting Cell Death**
 - Circumventing apoptosis from stress due to ↑ Oncogene Signaling & DNA damage by:
 	- ↑ Anti-apoptotic regulator expression
 	- ↓ Pro-apoptotic factor expression
 	- ↓ TP53
 	- Short-circuiting Extrinsic Ligand-induced Death Pathway
 
-**Inducing Angiogenesis**
+**5. Inducing Angiogenesis**
 - Aberrant tumor neovasculature providing nutrient & O2 while evacuating waste & CO2
 	- Erratic Blood Flow, Microhemorrhage & Leakiness
 	- Excessive Branching
@@ -56,14 +57,21 @@ Lecture Notes
 	- Regression of blood vessels → Starve tumors of essential metabolites
 	- Adequate O2 level → Enable drug & immune system action
 
-**Activating Invasion & Metastasis**
+**6. Activating Invasion & Metastasis**
 - Alters shape in their attachment to other cells & ECM through <abbr Title="Epithelial-Mesenchymal Transition">EMT</abbr>
 	- ↓ E-Cadherin → Disrupt cell sheet & Potentiates invasion & metastasis
 	- ↑ N-Cadherin → Cell migration for metastasis
 - Events in EMT:
 
-| Event          | Description                                                |
-| -------------- | ---------------------------------------------------------- |
-| Transcription  | EMT Orchestrated by a set of TFs (e.g. Snail, Slug, Twist) |
-| Local Invasion |                                                            |
-| Intravasation  |                                                            |
+| Event          | Description                                                                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Transcription  | EMT Orchestrated by a set of TFs (e.g. Snail, Slug, Twist)                                                                                                   |
+| Local Invasion | -                                                                                                                                                            |
+| Intravasation  | Invasive Cells Enter Hematogenous / Lymphatic Circulation                                                                                                    |
+| Extravasation  | Invasive Cells Escape from Lumen                                                                                                                             |
+| Micrometasis   | Small cancer nodules at <abbr Title="Functional tissue of an organ, distinguished from Connective & Supportive tissues">Parenchyma</abbr> of Distant Tissues |
+| Colonization   | Growth into tumors, Might revert to non-invasive state through <abbr Title="Mesenchymal-Epithelial Transition">MET</abbr>                                    |
+
+#### **Emerging 2 Hallmark Capabilities**
+**7. Metabolic Reprogramming**
+- [[Lecture 1.2 - (Cancer Cell Biology) Cancer Cell Phenotypes#**Metabolic Reprogramming**|See Lecture 1.2 - Metabolic Reprogramming]]
