@@ -41,5 +41,11 @@ Lecture Notes
 		- Adds telomere repeat segments to telomere end → Delays "Doomsday"
 
 **Resisting Cell Death**
-- Circumventing apoptosis from stress due to ↑ Oncogene Signaling & DNA damage
-	- 
+- Circumventing apoptosis from stress due to ↑ Oncogene Signaling & DNA damage by:
+	- ↑ Anti-apoptotic regulator expression
+	- ↓ Pro-apoptotic factor expression
+	- ↓ TP53
+	- Short-circuiting Extrinsic Ligand-induced Death Pathway
+
+**Inducing Angiogenesis**
+- 
