@@ -2,6 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Normal & Cancer Stem Cells
+- Cancer Stem Cell Theory
 
 ---
 #### **Normal & Cancer Stem Cells**
@@ -25,4 +26,11 @@ Lecture Notes
 |                                            Capacity in Self-Renewal                                            |                          Extensive                          |    Indefinite     |
 |                                           Regulation of Self-Renewal                                           |                      Highly Regulated                       |   Dysregulated    |
 |                                                   Karyotype                                                    |                           Normal                            |     Abnormal      |
-|                                                                                                                |                                                             |                   |
+|                                               Hypoxia Resistance                                               |                             No                              |        Yes        |
+
+#### **Cancer Stem Cell Theory**
+**Models of CSC Hierarchy**
+- Classical (<abbr Title="Differentiated Cells can't be converted to CSC">Unidirectional Conversion</abbr>): Tumor Growth Ability limited to small subpopulation
+- Plasticity (<abbr Title="Some Differentiated Cells can be converted to CSC">Bidirectional Conversion</abbr>): Different Cellular States can Interconvert
+	- e.g. EMT-responsive differentiated cells can be converted back to CSCs
+- 
