@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Normal & Cancer Stem Cells
 - Cancer Stem Cell Theory
+- Relevance to Cancer Treatment
 
 ---
 #### **Normal & Cancer Stem Cells**
@@ -34,12 +35,20 @@ Lecture Notes
 - Plasticity (<abbr Title="Some Differentiated Cells can be converted to CSC">Bidirectional Conversion</abbr>): Different Cellular States can Interconvert
 	- e.g. EMT-responsive differentiated cells can form CSCs
 - Updated (<abbr Title="Immediate Microenvironment of Cell">Niche</abbr>-dependent): Niche <abbr Title="Non-epithelial Stromal Cells / Inflammatory Cells / Vasculature">key components</abbr> release niche signals to determine cell fate
-	- CSC fates:
+	- Fates of CSCs:
 		- Self-renewal & Proliferation Signal → Maintain undifferentiated state
 		- Leaving the niche → Differentiation
-	- Non-self renewing transient amplifying cell & Differentiated cell fates:
+	- Fates of Differentiated cells & Non-self renewing transient amplifying cells:
 		- Niche Signal → Differentiation
 		- Niche Signal → Form CSCs
 
 **Experimental Evidences**
-- Xenotransplantation Assay
+- Xenotransplantation of different cancer cell types into mouse
+	- Only a small subset of cells have tumor initiating properties (CSCs)
+- Isolation of CSCs through surface markers
+	- e.g. CD24, 44, 133
+
+
+#### **Relevance to Cancer Treatment**
+**Cancer Therapy Resistance in CSCs**
+
