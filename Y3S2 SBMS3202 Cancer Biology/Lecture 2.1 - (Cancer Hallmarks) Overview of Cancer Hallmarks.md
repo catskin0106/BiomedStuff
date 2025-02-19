@@ -52,6 +52,18 @@ Lecture Notes
 	- Erratic Blood Flow, Microhemorrhage & Leakiness
 	- Excessive Branching
 	- Distorted & Enlarged vessels
-- <abbr Title="Vascular Endothelial Growth Factor">VEGF</abbr> & <abbr Title="Angiopoietin 2">ANG2</abbr>: Drug targets for normalizing tumor vasculature & oxygen level
-	- Regression of blood vessels → Starve tumors of es
-	- Adequate O2 level → 
+- <abbr Title="Vascular Endothelial Growth Factor">VEGF</abbr> & <abbr Title="Angiopoietin 2">ANG2</abbr>: Key drug targets for normalizing tumor vasculature & oxygen level
+	- Regression of blood vessels → Starve tumors of essential metabolites
+	- Adequate O2 level → Enable drug & immune system action
+
+**Activating Invasion & Metastasis**
+- Alters shape in their attachment to other cells & ECM through <abbr Title="Epithelial-Mesenchymal Transition">EMT</abbr>
+	- ↓ E-Cadherin → Disrupt cell sheet & Potentiates invasion & metastasis
+	- ↑ N-Cadherin → Cell migration for metastasis
+- Events in EMT:
+
+| Event          | Description                                                |
+| -------------- | ---------------------------------------------------------- |
+| Transcription  | EMT Orchestrated by a set of TFs (e.g. Snail, Slug, Twist) |
+| Local Invasion |                                                            |
+| Intravasation  |                                                            |
