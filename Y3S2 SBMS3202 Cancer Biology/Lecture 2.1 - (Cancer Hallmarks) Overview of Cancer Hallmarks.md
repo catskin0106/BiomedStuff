@@ -48,4 +48,10 @@ Lecture Notes
 	- Short-circuiting Extrinsic Ligand-induced Death Pathway
 
 **Inducing Angiogenesis**
-- Aberrant tumor neovasculature providing 
+- Aberrant tumor neovasculature providing nutrient & O2 while evacuating waste & CO2
+	- Erratic Blood Flow, Microhemorrhage & Leakiness
+	- Excessive Branching
+	- Distorted & Enlarged vessels
+- <abbr Title="Vascular Endothelial Growth Factor">VEGF</abbr> & <abbr Title="Angiopoietin 2">ANG2</abbr>: Drug targets for normalizing tumor vasculature & oxygen level
+	- Regression of blood vessels → Starve tumors of es
+	- Adequate O2 level → 
