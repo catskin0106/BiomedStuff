@@ -48,4 +48,4 @@ Lecture Notes
 	- Short-circuiting Extrinsic Ligand-induced Death Pathway
 
 **Inducing Angiogenesis**
-- 
+- Aberrant tumor neovasculature providing 
