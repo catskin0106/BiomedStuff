@@ -32,9 +32,14 @@ Lecture Notes
 **Models of CSC Hierarchy**
 - Classical (<abbr Title="Differentiated Cells can't be converted to CSC">Unidirectional Conversion</abbr>): Tumor Growth Ability limited to small subpopulation
 - Plasticity (<abbr Title="Some Differentiated Cells can be converted to CSC">Bidirectional Conversion</abbr>): Different Cellular States can Interconvert
-	- e.g. EMT-responsive differentiated cells can be converted back to CSCs
+	- e.g. EMT-responsive differentiated cells can form CSCs
 - Updated (<abbr Title="Immediate Microenvironment of Cell">Niche</abbr>-dependent): Niche <abbr Title="Non-epithelial Stromal Cells / Inflammatory Cells / Vasculature">key components</abbr> release niche signals to determine cell fate
 	- CSC fates:
-		- Self-renewal & Proliferation → Maintain undifferentiated state
+		- Self-renewal & Proliferation Signal → Maintain undifferentiated state
 		- Leaving the niche → Differentiation
-	- 
+	- Non-self renewing transient amplifying cell & Differentiated cell fates:
+		- Niche Signal → Differentiation
+		- Niche Signal → Form CSCs
+
+**Experimental Evidences**
+- Xenotransplantation Assay
