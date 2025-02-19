@@ -17,4 +17,7 @@ Lecture Notes
 	- Paracrine stimulation: Tumor-associated stroma supply GFs upon cancer cell signal
 	- Dysregulated receptor signaling:
 		- Elevated surface protein levels
-		- Structural alterations → 
+		- Structural alterations → Enable firing without ligand
+	- Growth Factor Independence: 
+
+**Evading Growth Suppression**
