@@ -18,3 +18,16 @@ Lecture Notes
 - Vascular, Immune & Mesenchymal Cells
 
 **Vascular Cells**
+- Endothelial Cells: 
+	- Form the Tumor-Associated Vasculature
+- Pericytes: 
+	- With Finger-like Projections wrapping around Capillary Endothelial Tubings
+		- "Protection Layer" to prevent cancer cell intravasation into circulatory system
+		- Poor pericyte coverage: More prone to hematogenous dissemination
+	- Tumor Pericytes have distinct cell-surface markers
+		- Potential target for Vasculature-targeted therapy
+
+**Immune Cells**
+- Can both hinder / promote tumor cells
+- Immunosurveillance Cells (Hinder):
+	- 
