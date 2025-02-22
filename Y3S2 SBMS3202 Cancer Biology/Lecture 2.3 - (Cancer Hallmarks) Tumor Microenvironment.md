@@ -74,8 +74,14 @@ Lecture Notes
 - Immunosuppression from Acidosis & Hypoxia
 	- Mechanisms:
 
-| Signal Origin        | Description                                             |
-| -------------------- | ------------------------------------------------------- |
-| Incipient Neoplasm   | Form Preneoplastic Stroma from recruiting stromal cells |
-| Preneoplastic Stroma | Enhance Neoplasm Phenotypes                             |
-| Neoplasm             | Recruit more stromal cells to serve neoplasm            |
+| Affected Cells                                                 | Event                                        |
+| -------------------------------------------------------------- | -------------------------------------------- |
+| Treg Cells                                                     | Accumulation, Activation & Expansion         |
+| <abbr Title="Tumor Associated Macrophages">TAM</abbr>s & MDSCs | Being Recruited                              |
+| Dendritic Cells                                                | Suppressed Maturation → Impairs APC Function |
+| Immunosuppressive Endothelial Cells                            | Expansion                                    |
+
+**Cancer Metastasis**
+- Autocrine & Paracrine Activation of Cancer Cells to Chemokines
+	- Autocrine: By Cancer Cells themselves
+	- Paracrine: Stromal & Immune Cells
