@@ -2,6 +2,8 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Seed and Soil Theory
+- Cell Types in Tumor Microenvironment
+- Cancer Phenotypes from Tumor Microenvironment
 
 ---
 #### **Seed and Soil Theory**
@@ -37,4 +39,17 @@ Lecture Notes
 	- <abbr Title="Myeloid-Derived Suppressor Cells">MDSC</abbr>: Promotes metastasis & Evades Immunosurveillance
 
 **Supporting Mesenchymal Cells: Cancer-Associated Fibroblasts**
-- Enhances Tumor Phenotypes by releasing ECM components of Desmoplastic Stroma
+- Enhances Tumor Phenotypes by releasing ECM components of <abbr Title="Growth of Fibrous Connective Tissues associated with malignant tumors">Desmoplastic Stroma</abbr>
+- Origins:
+	- Proliferation from Pre-existing Stromal Cells
+	- In Situ Differentiation of Local Progenitor / Stem Cells
+	- Recruitment of Bone-Marrow derived Progenitor / Stem Cells
+- Types:
+	- Similar to Normal Connective Tissue Fibroblasts
+	- Myofibroblasts
+
+
+
+#### **Cancer Phenotypes from Tumor Microenvironment**
+**Reciprocal Heterotypic Signaling Interactions**
+- Interactions between Stroma, Neoplasm & Dynamic ECM
