@@ -1,10 +1,20 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Definition of Cancer Hallmarks
-- 6 First Hallmark Capabilities
-- 2 Emerging Hallmark Capabilities
-- 2 Newer Emerging Hallmark Capabilities
+- Seed and Soil Theory
 
 ---
-#### **Definition of Cancer Hallmarks**
+#### **Seed and Soil Theory**
+
+|    Structure     |   Analogy    |
+| :--------------: | :----------: |
+|   Weed (Seed)    | Tumor Cells  |
+|   Normal Plant   | Normal Cells |
+| Microenvironment |     Soil     |
+- Metastasis is due to preferential microenvironment (soil) being suitable for tumor cell (weed) growth
+
+
+#### **Cell Types in Tumor Microenvironment**
+- Vascular, Immune & Mesenchymal Cells
+
+**Vascular Cells**
