@@ -30,4 +30,8 @@ Lecture Notes
 **Immune Cells**
 - Can both hinder / promote tumor cells
 - Immunosurveillance Cells (Hinder):
-	- 
+	- CD8<sup>+</sup> Cytotoxic Lymphocytes
+	- NK Cells
+	- Partially Differentiated Myeloid Cells
+- Immunosuppressive Cells (Promote)
+	- <abbr Title="Myeloid-Derived Suppressor Cells">MDSC</abbr>: Promotes metasta
