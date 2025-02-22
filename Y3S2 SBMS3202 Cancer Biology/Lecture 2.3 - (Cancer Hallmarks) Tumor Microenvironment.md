@@ -52,4 +52,30 @@ Lecture Notes
 
 #### **Cancer Phenotypes from Tumor Microenvironment**
 **Reciprocal Heterotypic Signaling Interactions**
-- Interactions between Stroma, Neoplasm & Dynamic ECM
+- Alternating Interactions between Stroma, Neoplasm & Dynamic ECM
+
+| Step | Signal Origin        | Description                                             |
+| ---- | -------------------- | ------------------------------------------------------- |
+| 1    | Incipient Neoplasm   | Form Preneoplastic Stroma from recruiting stromal cells |
+| 2    | Preneoplastic Stroma | Enhance Neoplasm Phenotypes                             |
+| 3    | Neoplasm             | Recruit more stromal cells to serve neoplasm            |
+| 4    | Stroma               | Enable Neoplasm to invade & disseminate normal tissues  |
+
+**Tumor-Intrinsic Mechanisms**
+- Regulate Chemokine expression → Control immune infiltration
+	- High T Cell Infiltration: Hot (Inflamed) Phenotype
+	- Low T Cell Infiltration: Cold (Non-inflamed) Phenotype
+- Immune Infiltration affects:
+	- Tumor Progression
+	- Alter Spontaneous / Therapy-induced tumor-specific T cell immunity
+
+
+**Immunosuppression by Abnormal Tumor Vasculature**
+- Immunosuppression from Acidosis & Hypoxia
+	- Mechanisms:
+
+| Signal Origin        | Description                                             |
+| -------------------- | ------------------------------------------------------- |
+| Incipient Neoplasm   | Form Preneoplastic Stroma from recruiting stromal cells |
+| Preneoplastic Stroma | Enhance Neoplasm Phenotypes                             |
+| Neoplasm             | Recruit more stromal cells to serve neoplasm            |
