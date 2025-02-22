@@ -12,3 +12,5 @@ Lecture Notes
 
 #### **2 Enabling Characteristics**
 **1. Genomic Instability**
+- Multistep tumor progression
+	- Successive clonal expansions triggered by mutant genotype with selective advantage
