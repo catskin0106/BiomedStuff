@@ -30,8 +30,10 @@ Lecture Notes
 
 **Adaptive Immunity**
 
-|  Cell Type  |  <  | Means of Tumor Recognition | Response |
-| :---------: | :-: | :------------------------: | -------- |
-|   T Cells   |     |                            |          |
-|      ^      |     |                            |          |
-| <br>B Cells |     |                            |          |
+|        Cell Type         |        <        | Means of Tumor Recognition | Response |
+| :----------------------: | :-------------: | :------------------------: | -------- |
+| <br>Conventional T Cells | CD4<sup>+</sup> |                            |          |
+|            ^             | CD8<sup>+</sup> |                            |          |
+|  Unconventional T Cells  |       NKT       |                            |          |
+|            ^             |                 |                            |          |
+|       <br>B Cells        |                 |                            |          |
