@@ -45,7 +45,7 @@ Lecture Notes
 
 | Stage                        | Description                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <br>Antigen Tumor Release    | Tumor Release Antigen in the form of <abbr Title="9-22 A.A. Long Antigenic Fragments">epitopes</abbr><br>- <abbr Title="Tumor Specific Antigen (Not normally present in human)">TSA</abbr>: <abbr Title="Mutated Antigen">Neoantigen</abbr> / Viral Antigen<br>- <abbr Title="Tumor Associated Antigen (Normally present in human)">TAA</abbr>: Overexpressed / Cancer-Testis / Differentiation |
+| <br>Antigen Tumor Release    | Tumor Release Antigen in the form of <abbr Title="9-22 A.A. Long Antigenic Fragments">Epitopes</abbr><br>- <abbr Title="Tumor Specific Antigen (Not normally present in human)">TSA</abbr>: <abbr Title="Mutated Antigen">Neoantigen</abbr> / Viral Antigen<br>- <abbr Title="Tumor Associated Antigen (Normally present in human)">TAA</abbr>: Overexpressed / Cancer-Testis / Differentiation |
 | <br><br>Antigen Presentation | Antigen presented on APC surface as <abbr Title="Human Leukocyte Antigen, The MHC of Humans">HLA</abbr>-Epitope Complex for T Cell Activation<br>- MHCI: CD8<sup>+</sup> (<abbr Title="When APC is infected & can synthesize tumor antigen">Endogenous Pathway</abbr>)<br>- MHCII: CD4<sup>+</sup> (<abbr Title="APC endocytose & present tumor antigen">Exogenous Pathway</abbr>)              |
 | ^                            | Cross-Presentation: Switch from Exogenous to Endogenous Pathway<br>- Can activate CD8<sup>+</sup> without APC infection ([[Lecture 3 - Innate Immunity#**Bridging between Innate and Adaptive Immunity**\|SBMS3201 Lecture 3]])                                                                                                                                                                 |
 | <br>T Cell Activation        | By 3 Key Signals:<br>- HLA-Epitope-TCR Signal<br>- Co-stimulatory Signals (CD28-80 / CD28-86)<br>- Cytokine Signals: Determines T Cell Fate                                                                                                                                                                                                                                                     |
@@ -68,4 +68,17 @@ Lecture Notes
 - Altered Chemokine Expression: Prevent Chemotaxis
 
 **Tumor Immunosuppressive Microenvironment**
-- Suppression by Cytokines
+- Suppression by Immune Checkpoints
+	- Ligands of <abbr Title="Co-inhibitory B7-CD28">Immune Checkpoints</abbr> can induce T cell functional exhaustion
+		- <abbr Title="Programmed Death">PD</abbr>1 & PD1L
+		- <abbr Title="Cytotoxic T Lymphocyte Antigen 4">CTLA-4</abbr>
+- Suppression by Tumor Cell Crosstalk
+	- Death Signals can induce CD8<sup>+</sup> cell Apoptosis
+		- FAS / TRAIL Ligands
+	- Cytokines / Metabolites can inhibit CD8<sup>+</sup> cell antitumor functions
+		- <abbr Title="Transformation Growth Factor">TGF</abbr>β, IL-10
+		- Cholesterol
+	- Cytokines / Metabolites imbalance can inhibit DC Differentiation / Maturation
+		- <abbr Title="Cyclooxygenase 2">COX2</abbr>
+		- <abbr Title="Prostaglandin E2">PGE2</abbr>
+- Suppression by Immunosuppressive Cells

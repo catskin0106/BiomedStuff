@@ -37,6 +37,7 @@ Lecture Notes
 	- Partially Differentiated Myeloid Cells
 - Immunosuppressive Cells (Promote)
 	- <abbr Title="Myeloid-Derived Suppressor Cells">MDSC</abbr>: Promotes metastasis & Evades Immunosurveillance
+	- <abbr Title="Tumor Associated Macrophages">TAM</abbr>
 
 **Supporting Mesenchymal Cells: Cancer-Associated Fibroblasts**
 - Enhances Tumor Phenotypes by releasing ECM components of <abbr Title="Growth of Fibrous Connective Tissues associated with malignant tumors">Desmoplastic Stroma</abbr>
@@ -54,12 +55,12 @@ Lecture Notes
 **Reciprocal Heterotypic Signaling Interactions**
 - Alternating Interactions between Stroma, Neoplasm & Dynamic ECM
 
-| Step | Signal Origin        | Description                                             |
-| ---- | -------------------- | ------------------------------------------------------- |
-| 1    | Incipient Neoplasm   | Form Preneoplastic Stroma from recruiting stromal cells |
-| 2    | Preneoplastic Stroma | Enhance Neoplasm Phenotypes                             |
-| 3    | Neoplasm             | Recruit more stromal cells to serve neoplasm            |
-| 4    | Stroma               | Enable Neoplasm to invade & disseminate normal tissues  |
+| Step | Signal Origin          | Description                                             |
+| ---- | ---------------------- | ------------------------------------------------------- |
+| 1    | (Incipient) Neoplasm   | Form Preneoplastic Stroma from recruiting stromal cells |
+| 2    | (Preneoplastic) Stroma | Enhance Neoplasm Phenotypes                             |
+| 3    | Neoplasm               | Recruit more stromal cells to serve neoplasm            |
+| 4    | Stroma                 | Enable Neoplasm to invade & disseminate normal tissues  |
 
 **Tumor-Intrinsic Mechanisms**
 - Regulate Chemokine expression → Control immune infiltration
