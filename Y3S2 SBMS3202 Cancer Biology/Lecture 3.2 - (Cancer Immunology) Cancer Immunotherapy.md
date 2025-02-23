@@ -65,4 +65,12 @@ Lecture Notes
 	- ∵ Cancer Cell Heterogenicity
 	- ∵ Complex & Highly regulated Immune System
 	- ∵ Low Specificity towards Different patients with Different microenvironments
-- 
+- Fatal Immune-Mediated adverse effects & Resistance
+
+
+**Future Perspectives to Overcome Those Challenges**
+- Build & Optimize Combination Regimens that involve the use of multiple immunotherapeutic agents
+- <abbr Title="Comprised of 2~ Individual Biomarkers">Composite Biomarkers</abbr> to Optimize Treatment Personalization
+- Developing Pre-clinical models
+- Elucidating Dominant Immune Regulatory mechanisms
+- Functional Mechanisms of Cancer Immunotherapy
