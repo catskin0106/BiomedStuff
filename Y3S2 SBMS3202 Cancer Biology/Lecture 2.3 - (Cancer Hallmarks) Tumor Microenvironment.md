@@ -36,8 +36,7 @@ Lecture Notes
 	- NK Cells
 	- Partially Differentiated Myeloid Cells
 - Immunosuppressive Cells (Promote)
-	- <abbr Title="Myeloid-Derived Suppressor Cells">MDSC</abbr>: Promotes metastasis & Evades Immunosurveillance
-	- <abbr Title="Tumor Associated Macrophages">TAM</abbr>
+	- <abbr Title="Myeloid-Derived Suppressor Cells">MDSC</abbr> & <abbr Title="Tumor Associated Macrophages">TAM</abbr>: Promotes metastasis & Evades Immunosurveillance
 
 **Supporting Mesenchymal Cells: Cancer-Associated Fibroblasts**
 - Enhances Tumor Phenotypes by releasing ECM components of <abbr Title="Growth of Fibrous Connective Tissues associated with malignant tumors">Desmoplastic Stroma</abbr>

@@ -82,3 +82,16 @@ Lecture Notes
 		- <abbr Title="Cyclooxygenase 2">COX2</abbr>
 		- <abbr Title="Prostaglandin E2">PGE2</abbr>
 - Suppression by Immunosuppressive Cells
+	- Treg
+		- Heterogenous Population of CD4<sup>+</sup> Cells with CD4<sup>+</sup>/CD25<sup>+</sup>/Foxp3<sup>+</sup> phenotype
+	- MDSC & TAM
+		- Derived from Common Myeloid Progenitor
+		- Plays a role in Immunosuppression, Angiogenesis & Metastasis
+		- Mechanisms of Immunosuppression:
+	- Immunosuppressive Properties of Treg, MDSC & TAM
+
+| Properties                     | Treg                                | MDSC & TAM      |
+| ------------------------------ | ----------------------------------- | --------------- |
+| Inhibitory Cytokine Production | Yes                                 | <               |
+| Inducing Cell Death            | Cytolysis (Perforin & Granzyme A/B) | Apoptosis (Fas) |
+| Metabolic Disruption           | Affect Receptor & cAMP activities   |                 |
