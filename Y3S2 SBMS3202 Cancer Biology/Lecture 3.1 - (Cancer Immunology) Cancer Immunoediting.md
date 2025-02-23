@@ -83,15 +83,14 @@ Lecture Notes
 		- <abbr Title="Prostaglandin E2">PGE2</abbr>
 - Suppression by Immunosuppressive Cells
 	- Treg
-		- Heterogenous Population of CD4<sup>+</sup> Cells with CD4<sup>+</sup>/CD25<sup>+</sup>/Foxp3<sup>+</sup> phenotype
 	- MDSC & TAM
-		- Derived from Common Myeloid Progenitor
-		- Plays a role in Immunosuppression, Angiogenesis & Metastasis
-		- Mechanisms of Immunosuppression:
 	- Immunosuppressive Properties of Treg, MDSC & TAM
 
-| Properties                     | Treg                                | MDSC & TAM      |
-| ------------------------------ | ----------------------------------- | --------------- |
-| Inhibitory Cytokine Production | Yes                                 | <               |
-| Inducing Cell Death            | Cytolysis (Perforin & Granzyme A/B) | Apoptosis (Fas) |
-| Metabolic Disruption           | Affect Receptor & cAMP activities   |                 |
+| Properties                       | Treg                                                                                                                                                                                                          | MDSC & TAM                |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Origin                           | Heterogenous Population of CD4<sup>+</sup> Cells<br>- With CD4<sup>+</sup>/ CD25<sup>+</sup>/ <abbr Title="Protein that attaches to DNA & Regulate immunity gene activity">Foxp3</abbr><sup>+</sup> Phenotype | Common Myeloid Progenitor |
+| Inhibitory Cytokine Production   | Yes                                                                                                                                                                                                           | Yes                       |
+| Inhibitory Metabolite Production | No                                                                                                                                                                                                            | Yes                       |
+| Suppression of DC                | Yes                                                                                                                                                                                                           | No                        |
+| Inducing Cell Death              | Cytolysis (Perforin & Granzyme A/B)                                                                                                                                                                           | Apoptosis (Fas)           |
+| Metabolic Disruption             | Affect Receptor & cAMP activities                                                                                                                                                                             | Amino Acid Depletion      |
