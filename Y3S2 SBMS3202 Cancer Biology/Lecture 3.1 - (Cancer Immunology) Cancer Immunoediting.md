@@ -69,9 +69,10 @@ Lecture Notes
 
 **Tumor Immunosuppressive Microenvironment**
 - Suppression by Immune Checkpoints
-	- Ligands of <abbr Title="Co-inhibitory B7-CD28">Immune Checkpoints</abbr> can induce T cell functional exhaustion
-		- <abbr Title="Programmed Death">PD</abbr>1 & PD1L
-		- <abbr Title="Cytotoxic T Lymphocyte Antigen 4">CTLA-4</abbr>
+	- <abbr Title="B7-CD28 Superfamily">Immune Checkpoints</abbr>: Glycoproteins providing Key Second Signals for T Cell Co-stimulation / Co-inhibition
+	- Ligands of Co-inhibitory Immune Checkpoints can induce T cell functional exhaustion
+		- <abbr Title="Programmed Death">PD</abbr>-1/PD-L1: Slowly & Mainly in Peripheral (Tumor) Tissues
+		- <abbr Title="Cytotoxic T Lymphocyte Antigen 4">CTLA-4</abbr>: Mainly in Lymphoid Tissues
 - Suppression by Tumor Cell Crosstalk
 	- Death Signals can induce CD8<sup>+</sup> cell Apoptosis
 		- FAS / TRAIL Ligands
@@ -84,7 +85,7 @@ Lecture Notes
 - Suppression by Immunosuppressive Cells
 	- Treg
 	- MDSC & TAM
-	- Immunosuppressive Properties of Treg, MDSC & TAM
+	- Immunosuppressive Properties of Treg, MDSC & TAM:
 
 | Properties                       | Treg                                                                                                                                                                                                          | MDSC & TAM                |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |

@@ -45,3 +45,24 @@ Lecture Notes
 
 
 **Immune Checkpoint Blockade Therapy**
+- Inhibiting Co-inhibitory Immune Checkpoints to prevent T Cell Exhaustion
+	- Maintains immune response in desired physiological range to prevent autoimmunity
+- Factors to determine ICB Effectiveness:
+
+|           Factors           |            <            |
+| :-------------------------: | :---------------------: |
+| <br>Tumor Intrinsic Factors |    PD-L1 Expression     |
+|              ^              |       Neoantigen        |
+|  <br><br><br>Host Factors   | Tumor T Cell Abundance  |
+|              ^              | Tumor Immunosuppression |
+|              ^              |    Microbiota (Diet)    |
+|              ^              |    Hormones, Stress     |
+|              ^              |    Chronic Diseases     |
+
+
+#### **Challenges in Cancer Immunotherapy**
+- Hard to Achieve Durable Responses & Survival
+	- ∵ Cancer Cell Heterogenicity
+	- ∵ Complex & Highly regulated Immune System
+	- ∵ Low Specificity towards Different patients with Different microenvironments
+- 
