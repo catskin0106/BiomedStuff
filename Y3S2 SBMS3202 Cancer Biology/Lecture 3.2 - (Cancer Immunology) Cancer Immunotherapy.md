@@ -18,7 +18,30 @@ Lecture Notes
 
 **Cancer Vaccines**
 - Instructs host immune system to recognize cancer
+- Factors to consider in Cancer Vaccine Design:
 
-| F   |     |
-| --- | --- |
-|     |     |
+| Factors               | Description                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Purpose               | Preventative (e.g. HPV-driven Cervical Cancer)<br>Therapeutic (e.g. <abbr Title="Advanced Hormone-Resisted Prostate Cancer">Sipuleucel-T</abbr>) |
+| Targeted TAAs         |                                                                                                                                                  |
+| Platform / Adjuvent   | Tumor cells / DNA / Peptides                                                                                                                     |
+| DC Targeting Strategy | Ex vivo / In vivo Internalization of TAAs                                                                                                        |
+
+
+**Adoptive Cell Transfer Strategy / Cell-Based Immunotherapy**
+- Transfer of Natural / Engineered Immune Effector Cells
+	- TAA-Specific T Cell Transfer
+	- Recombinant TCR
+	- <abbr Title="Chimeric Antigen Receptor">CAR</abbr> T Cell Therapy: "Chimera" of spliced domains
+		- Antigen-binding Domain from Antibodies
+		- CD3ζ Signaling Domains TCR Complex (Transmembrane & Intracellular)
+		- Co-stimulatory Domains (Intracellular)
+- Limitations:
+	- High Cost
+	- TME-Dependent Effectiveness
+	- Rejection
+		- Cell Migration, Survival & Proliferation Ability
+		- Fatal Side Effects (<abbr Title="Cytokine Release Syndrome">CRS</abbr>, Neurological Toxicity)
+
+
+**Immune Checkpoint Blockade Therapy**
