@@ -31,12 +31,18 @@ Lecture Notes
 **Adaptive Immunity**
 - Antigen Specific Recognition, (In)direct Killing, Long-Term Memory Protection
 
-|         Cell Type          |                              <                               | Means of Tumor Recognition | Function                                                                                                           |
-| :------------------------: | :----------------------------------------------------------: | :------------------------: | ------------------------------------------------------------------------------------------------------------------ |
-|  <br>Conventional T Cells  |         CD4<sup>+</sup><br><font size=2>(Th1)</font>         |            APC             | CD8<sup>+</sup> Activation, Expansion & Memory<br>- Through Cytokines (IL-2) & Co-Stimulatory Signals (CD40-CD40L) |
-|             ^              |         CD4<sup>+</sup><br><font size=2>(All)</font>         |            APC             | Differentiate into effector subsets upon Activation<br>Ensure Optimal Responses by other Lymphocytes               |
-|             ^              |                       CD8<sup>+</sup>                        |         APC / Th1          | Direct Cytotoxicity → <br>Differentiate into Memory Cell / Functional Exhaustion                                   |
-| <br>Unconventional T Cells | <abbr Title="Invariant Natural Killer T Cells">(i)NKT</abbr> |      APC / Tumor CD1d      | Tumor Cytolysis (More Effective on Metastasis)<br>Regulation of other Lymphocytes                                  |
-|             ^              |                             γδT                              |            APC             | Broad Functional Plasticity (e.g. Direct Cytotoxicity)                                                             |
-|        <br>B Cells         |                           All<br>                            |            APC             |                                                                                                                    |
-|             ^              |                            Plasma                            |            APC             | Secrete IgG1 Antibodies → Facilitate ADCC & Phagocytosis                                                           |
+|            Cell Type             |                              <                               | Means of Tumor Recognition | Function                                                                                                           |
+| :------------------------------: | :----------------------------------------------------------: | :------------------------: | ------------------------------------------------------------------------------------------------------------------ |
+| <br><br><br>Conventional T Cells |         CD4<sup>+</sup><br><font size=2>(Th1)</font>         |            APC             | CD8<sup>+</sup> Activation, Expansion & Memory<br>- Through Cytokines (IL-2) & Co-Stimulatory Signals (CD40-CD40L) |
+|                ^                 |         CD4<sup>+</sup><br><font size=2>(All)</font>         |            APC             | Differentiate into effector subsets upon Activation<br>Ensure Optimal Responses by other Lymphocytes               |
+|                ^                 |                       CD8<sup>+</sup>                        |         APC / Th1          | Direct Cytotoxicity → <br>Differentiate into Memory Cell / Functional Exhaustion                                   |
+|    <br>Unconventional T Cells    | <abbr Title="Invariant Natural Killer T Cells">(i)NKT</abbr> |      APC / Tumor CD1d      | Tumor Cytolysis (More Effective on Metastasis)<br>Regulation of other Lymphocytes                                  |
+|                ^                 |                             γδT                              |            APC             | Broad Functional Plasticity (e.g. Direct Cytotoxicity)                                                             |
+|           <br>B Cells            |                           All<br>                            |            APC             | Tumor Antigen Presentation<br>Cytokine Release                                                                     |
+|                ^                 |                            Plasma                            |   APC / CD4<sup>+</sup>    | Secrete IgG1 Antibodies → Facilitate ADCC & Phagocytosis                                                           |
+
+**Cancer Immunity Cycle**
+
+| Stage           | Description                                   |
+| --------------- | --------------------------------------------- |
+| Antigen Release | Tumor release Antigen in the form of epitopes |
