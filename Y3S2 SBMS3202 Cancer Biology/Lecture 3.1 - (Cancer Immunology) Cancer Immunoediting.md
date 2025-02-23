@@ -51,9 +51,21 @@ Lecture Notes
 | <br>T Cell Activation        | By 3 Key Signals:<br>- HLA-Epitope-TCR Signal<br>- Co-stimulatory Signals (CD28-80 / CD28-86)<br>- Cytokine Signals: Determines T Cell Fate                                                                                                                                                                                                                                                     |
 | T Cell Migration             | CD8<sup>+</sup> Migrate to TME through Blood / Lymphatic Vessels                                                                                                                                                                                                                                                                                                                                |
 | T Cell Infiltration          | CD8<sup>+</sup> <abbr Title="Cell Migration in response to Chemical Stimuli">Chemotaxis</abbr> into TME through Chemokine Receptors                                                                                                                                                                                                                                                             |
-| T Cell Recognition           | CD8<sup>+</sup> recognize tumor cells via TCR-MHCI-Epitope Complex                                                                                                                                                                                                                                                                                                                              |
+| T Cell Recognition           | CD8<sup>+</sup> recognize tumor cells via TCR-MHCI-Epitope Complex<br>- Tumor MHCI assembled in ER via proteasome-degraded peptides transported by <abbr Title="Transporter Associated with Antigen Processing">TAP</abbr>                                                                                                                                                                      |
 | T Cell Tumor Killing         | CD8<sup>+</sup> Induce lysis & apoptosis on tumor cells                                                                                                                                                                                                                                                                                                                                         |
 | T Cell Fate                  | Differentiate into Memory / Exhausted T Cells                                                                                                                                                                                                                                                                                                                                                   |
 
 
 #### **Cancer Immune Escape**
+- Evolution of Cancer Cells / Microenvironment to Avoid Immunosurveillance
+	- Hinders various stages of the Cancer Immunity Cycle
+
+**Loss of Immunogenicity**
+- Evolution to lack / mutate immunogenic tumor antigens → Avoid recognition
+- Defects in MHCI-Epitope Pathway: Downregulation of MHCI Heavy Chain / Proteasome / TAP
+
+**Impaired T Cell Infiltration**
+- Altered Chemokine Expression: Prevent Chemotaxis
+
+**Tumor Immunosuppressive Microenvironment**
+- Suppression by Cytokines
