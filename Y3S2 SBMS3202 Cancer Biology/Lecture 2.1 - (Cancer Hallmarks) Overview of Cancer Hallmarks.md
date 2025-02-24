@@ -64,14 +64,14 @@ Lecture Notes
 	- ↑ N-Cadherin → Cell migration for metastasis
 - Events in EMT:
 
-| Event          | Description                                                                                                                                                  |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Transcription  | EMT Orchestrated by a set of TFs (e.g. Snail, Slug, Twist)                                                                                                   |
-| Local Invasion | -                                                                                                                                                            |
-| Intravasation  | Invasive Cells Enter Hematogenous / Lymphatic Circulation                                                                                                    |
-| Extravasation  | Invasive Cells Escape from Lumen                                                                                                                             |
-| Micrometasis   | Small cancer nodules at <abbr Title="Functional tissue of an organ, distinguished from Connective & Supportive tissues">Parenchyma</abbr> of Distant Tissues |
-| Colonization   | Growth into tumors, Might revert to non-invasive state through <abbr Title="Mesenchymal-Epithelial Transition">MET</abbr>                                    |
+| Event           | Description                                                                                                                                                  |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Transcription   | EMT Orchestrated by a set of TFs (e.g. Snail, Slug, Twist)                                                                                                   |
+| Local Invasion  | -                                                                                                                                                            |
+| Intravasation   | Invasive Cells Enter Hematogenous / Lymphatic Circulation                                                                                                    |
+| Extravasation   | Invasive Cells Escape from Lumen                                                                                                                             |
+| Micrometastasis | Small cancer nodules at <abbr Title="Functional tissue of an organ, distinguished from Connective & Supportive tissues">Parenchyma</abbr> of Distant Tissues |
+| Colonization    | Growth into tumors, Might revert to non-invasive state through <abbr Title="Mesenchymal-Epithelial Transition">MET</abbr>                                    |
 
 #### **2 Emerging Hallmark Capabilities**
 **7. Metabolic Reprogramming**
