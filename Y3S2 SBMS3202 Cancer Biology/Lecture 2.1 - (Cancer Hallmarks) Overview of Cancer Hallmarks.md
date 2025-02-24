@@ -75,9 +75,10 @@ Lecture Notes
 
 #### **2 Emerging Hallmark Capabilities**
 **7. Metabolic Reprogramming**
-- [[Lecture 1.2 - (Cancer Cell Biology) Cancer Cell Phenotypes#**Metabolic Reprogramming**|See Lecture 1.2 - Metabolic Reprogramming]]
+- See [[Lecture 1.2 - (Cancer Cell Biology) Cancer Cell Phenotypes#**Metabolic Reprogramming**|Lecture 1.2 - Metabolic Reprogramming]]
 
 **8. Evading Immune Destruction**
+- See [[Lecture 3.1 - (Cancer Immunology) Cancer Immunoediting|Lecture 3.1 - Cancer Immunoediting]]
 - Avoid Detection / Limit Killing by Immune System
 	- Immune Editing selects for weakly immunogenic cells → Increases tumor evasiveness
 	- Immunodeficiency in certain lymphocyte types (CD8<sup>+</sup>, CD4<sup>+</sup> Th1, NK) increases tumor incidence
