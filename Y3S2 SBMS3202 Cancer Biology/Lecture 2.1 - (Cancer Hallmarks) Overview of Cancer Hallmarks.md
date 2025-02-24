@@ -19,7 +19,7 @@ Lecture Notes
 		- Cancer cell self-produce GF ligands
 	- Paracrine stimulation
 		- Tumor-associated stroma supply GFs upon cancer cell signal
-	- Dysregulated receptor signaling:
+	- Dysregulation of receptors:
 		- Elevated surface protein levels
 		- Structural alterations → Enable firing without ligand
 	- Growth Factor Independence: 
