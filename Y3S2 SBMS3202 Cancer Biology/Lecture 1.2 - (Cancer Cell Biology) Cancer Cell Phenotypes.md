@@ -67,7 +67,7 @@ Lecture Notes
 
 - ↑ Nitrogen Demand from Glutamine
 	- For de novo synthesis of nucleotides & polyamines
-	- Cell Acquires Nitrogen from Nucleotide Synthesis
+	- Nitrogen Supply from Nucleotide Synthesis
 		- Glutamine deamination into Glutamate
 
 - ↑ Lactate from Aerobic Glycolysis (Warburg Effect)
