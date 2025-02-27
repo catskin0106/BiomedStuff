@@ -6,4 +6,9 @@ Lecture Notes
 - 
 
 ---
-#### **Sources of drugs**
+#### **Definition of Pharmacology**
+- Pharmacology
+	- Studies drugs & their effects on living organisms
+- Drug
+	- Alters physiological & chemical processes in body
+	- 
