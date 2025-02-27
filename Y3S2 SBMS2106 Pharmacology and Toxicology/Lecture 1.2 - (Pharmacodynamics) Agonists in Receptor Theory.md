@@ -1,8 +1,7 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Enzymes as Drug Targets
-- Carriers as Drug Targets
+- 
 
 ---
 #### **Enzymes as Drug Targets**

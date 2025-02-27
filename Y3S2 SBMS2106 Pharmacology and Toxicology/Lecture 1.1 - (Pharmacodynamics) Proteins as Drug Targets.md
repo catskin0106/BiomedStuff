@@ -6,6 +6,7 @@ Lecture Notes
 - G-Protein-Coupled Receptors
 - Kinase-Linked Receptors
 - Nuclear Receptors
+- Other Proteins as Drug Targets
 
 ---
 #### **Receptors as Drug Targets**
@@ -96,3 +97,16 @@ Lecture Notes
 |   2.5    |    Translocation    | Move to Nucleus                       | No Translocation                            |
 |    3     | Protein Recruitment | Recruit Co-activators & Co-repressors | Recruit Co-activators                       |
 |    4     |   Gene Regulation   |                                       |                                             |
+
+
+
+#### **Other Proteins as Drug Targets**
+**Enzymes as Drug Targets**
+- Reduces activation threshold / time of chemical reactions
+- Can be inhibited / activated by drugs
+	- e.g. <abbr Title="Cyclooxygenase 1 & 2">COX-1 & 2</abbr>: Inhibited by <abbr Title="Non-steroidal Anti-inflammatory Drugs">NSAIDs</abbr> (e.g. Aspirin) to reduce inflammation & pain
+
+**Transporters as Drug Targets**
+- Transmembrane polypeptide molecules facilitating Diffusion & Active Transport
+- Can be inhibited / activated by drugs
+	- e.g. <abbr Title="Serotonin Transporters">SERT</abbr>: Inhibited by <abbr Title="Selective Serotonin Reuptake Inhibitors">SSRI</abbr> to reduce presynaptic neuron reuptake of Serotonin
