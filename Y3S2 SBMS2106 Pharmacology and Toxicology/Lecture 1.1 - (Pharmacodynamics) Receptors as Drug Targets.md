@@ -36,12 +36,23 @@ Lecture Notes
 #### **G-Protein-Coupled Receptors**
 - Metabotropic Receptors
 - 7 Transmembrane α-helices domains
-- Different mechanisms based on G-Protein type
 
 **Activation of G-Protein-Coupled Receptors**
+- Different downstream signals based on G-Protein type:
 
-| **Step** |    **Action**     | G<sub>s</sub> (Stimulatory) | G<sub>i</sub> (Inhibitory) | G<sub>q</sub> |
-| :------: | :---------------: | --------------------------- | -------------------------- | ------------- |
-|    1     | Effect on Enzyme  |                             |                            |               |
-|    2     |    Ionic Flow     |                             |                            |               |
-|    3     | Cellular Response |                             |                            |               |
+| **Step** |        **Action**        | G<sub>s</sub> (Stimulatory) | G<sub>i</sub> (Inhibitory)  | G<sub>q</sub>              |
+| :------: | :----------------------: | --------------------------- | --------------------------- | -------------------------- |
+|    1     |      Ligand Binding      | /                           | /                           | /                          |
+|    2     |      Enzyme Effect       | ↑ Adenylyl Cyclase Activity | ↓ Adenylyl Cyclase Activity | ↑ Phospholipase C Activity |
+|    3     | 2nd Messenger Metabolism | ↑ ATP → cAMP                | ↓ ATP → cAMP                | ↑ IP3                      |
+|    4     |   Downstream Effectors   | ↑ Protein Kinase A Activity | ↓ Protein Kinase A Activity | ↑ Protein Kinase C         |
+|    5     |    Cellular Response     | ↑ Protein Phosphorylation   | ↓ Protein Phosphorylation   | ↑ Protein Phosphorylation  |
+**Examples of G-Protein-Coupled Receptors**
+- β-Adrenergic Receptors (G<sub>s</sub>): Epinephrine drug target
+
+
+#### **Kinase-Linked Receptors**
+- 2 Domains
+	- Extracellular Ligand-Binding Domain
+	- Intracellular Kinase Domain
+
