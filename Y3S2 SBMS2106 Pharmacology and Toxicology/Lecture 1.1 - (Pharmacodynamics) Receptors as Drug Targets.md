@@ -77,4 +77,21 @@ Lecture Notes
 	- Ligand-Binding Domain
 	- DNA-Binding Domain: Binds to regulated DNA sequences
 	- Transactivation Domain: Recruits Co-activators / Co-suppressors for regulation
-- 2 Classes
+- 2 Classes (I, II)
+
+| Differences     | Class I             | Class II     |
+| --------------- | ------------------- | ------------ |
+| Location        | Cytoplasm → Nucleus | Nucleus      |
+| Functional Unit | Homodimers          | Heterodimers |
+| Ligand          | Endocrine           | Lipid        |
+
+
+**Activation of Nuclear Receptors**
+
+| **Step** |       **Action**        | Class I | Class II |
+| :------: | :---------------------: | ------- | -------- |
+|    1     |     Ligand Binding      | -       |          |
+|    2     |                         |         |          |
+|  <br>3   |   Autophosphorylation   |         |          |
+|    ^     |     Phosphorylation     |         |          |
+|  <br>4   | <br>Signal Transduction |         |          |
