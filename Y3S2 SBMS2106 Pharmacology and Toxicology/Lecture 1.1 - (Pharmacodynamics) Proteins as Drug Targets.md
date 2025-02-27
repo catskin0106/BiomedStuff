@@ -1,14 +1,15 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Types of Receptors
+- Receptors as Drug Targets
 - Ligand Gated Ion Channels
 - G-Protein-Coupled Receptors
 - Kinase-Linked Receptors
 - Nuclear Receptors
 
 ---
-#### **Types of Receptors**
+#### **Receptors as Drug Targets**
+- Activated / Inhibited by drugs to achieve therapeutic effect through modulated cellular responses
 
 |        **Receptor**         |    **Effector**    | **Reaction Time** |
 | :-------------------------: | :----------------: | :---------------: |
@@ -88,9 +89,10 @@ Lecture Notes
 
 **Activation of Nuclear Receptors**
 
-| **Step** |       **Action**        | Class I                             | Class II                                    |
-| :------: | :---------------------: | ----------------------------------- | ------------------------------------------- |
-|    1     |     Ligand Binding      | -                                   | -                                           |
-|    2     |      Dissociation       | Dissociation of Receptors From HSPs | Dissociation of Co-repressors from Receptor |
-|    3     |   Protein Recruitment   | Move to                             |                                             |
-|  <br>4   | <br>Signal Transduction |                                     |                                             |
+| **Step** |     **Action**      | Class I                               | Class II                                    |
+| :------: | :-----------------: | ------------------------------------- | ------------------------------------------- |
+|    1     |   Ligand Binding    | -                                     | -                                           |
+|    2     |    Dissociation     | Dissociation of Receptors From HSPs   | Dissociation of Co-repressors from Receptor |
+|   2.5    |    Translocation    | Move to Nucleus                       | No Translocation                            |
+|    3     | Protein Recruitment | Recruit Co-activators & Co-repressors | Recruit Co-activators                       |
+|    4     |   Gene Regulation   |                                       |                                             |
