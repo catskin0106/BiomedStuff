@@ -88,10 +88,9 @@ Lecture Notes
 
 **Activation of Nuclear Receptors**
 
-| **Step** |       **Action**        | Class I | Class II |
-| :------: | :---------------------: | ------- | -------- |
-|    1     |     Ligand Binding      | -       |          |
-|    2     |                         |         |          |
-|  <br>3   |   Autophosphorylation   |         |          |
-|    ^     |     Phosphorylation     |         |          |
-|  <br>4   | <br>Signal Transduction |         |          |
+| **Step** |       **Action**        | Class I                             | Class II                                    |
+| :------: | :---------------------: | ----------------------------------- | ------------------------------------------- |
+|    1     |     Ligand Binding      | -                                   | -                                           |
+|    2     |      Dissociation       | Dissociation of Receptors From HSPs | Dissociation of Co-repressors from Receptor |
+|    3     |   Protein Recruitment   | Move to                             |                                             |
+|  <br>4   | <br>Signal Transduction |                                     |                                             |
