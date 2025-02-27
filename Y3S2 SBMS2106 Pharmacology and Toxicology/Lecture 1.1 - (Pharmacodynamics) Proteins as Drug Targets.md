@@ -43,13 +43,13 @@ Lecture Notes
 **Activation of G-Protein-Coupled Receptors**
 - Different downstream signals based on G-Protein type:
 
-| **Step** |        **Action**        | G<sub>s</sub> (Stimulatory) | G<sub>i</sub> (Inhibitory)  | G<sub>q</sub>              |
-| :------: | :----------------------: | --------------------------- | --------------------------- | -------------------------- |
-|    1     |      Ligand Binding      | /                           | /                           | /                          |
-|    2     |      Enzyme Effect       | ↑ Adenylyl Cyclase Activity | ↓ Adenylyl Cyclase Activity | ↑ Phospholipase C Activity |
-|    3     | 2nd Messenger Metabolism | ↑ ATP → cAMP                | ↓ ATP → cAMP                | ↑ IP3                      |
-|    4     |   Downstream Effectors   | ↑ Protein Kinase A Activity | ↓ Protein Kinase A Activity | ↑ Protein Kinase C         |
-|    5     |    Cellular Response     | ↑ Protein Phosphorylation   | ↓ Protein Phosphorylation   | ↑ Protein Phosphorylation  |
+| **Step** |        **Action**        | G<sub>s</sub> (Stimulatory) | G<sub>i</sub> (Inhibitory)  | G<sub>q</sub>                                     |
+| :------: | :----------------------: | --------------------------- | --------------------------- | ------------------------------------------------- |
+|    1     |      Ligand Binding      | /                           | /                           | /                                                 |
+|    2     |      Enzyme Effect       | ↑ Adenylyl Cyclase Activity | ↓ Adenylyl Cyclase Activity | ↑ Phospholipase C Activity                        |
+|    3     | 2nd Messenger Metabolism | ↑ ATP → cAMP                | ↓ ATP → cAMP                | ↑ <abbr Title="Inositol Trisphosphate">IP3</abbr> |
+|    4     |   Downstream Effectors   | ↑ Protein Kinase A Activity | ↓ Protein Kinase A Activity | ↑ Protein Kinase C                                |
+|    5     |    Cellular Response     | ↑ Protein Phosphorylation   | ↓ Protein Phosphorylation   | ↑ Protein Phosphorylation                         |
 **Example of G-Protein-Coupled Receptors**
 - β-Adrenergic Receptors (G<sub>s</sub>): Epinephrine drug target
 
@@ -62,13 +62,13 @@ Lecture Notes
 
 **Activation of Kinase-Linked Receptors**
 
-| **Step** |       **Action**        | **Description**                                                                                                                                                            |
-| :------: | :---------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    1     |     Ligand Binding      | To Extracellular Domain                                                                                                                                                    |
-|    2     |      Dimerization       | Brings Intracellular Kinase Domains into Proximity                                                                                                                         |
-|  <br>3   |   Autophosphorylation   | Kinase Domains phosphorylates tyrosine residues of receptor itself                                                                                                         |
-|    ^     |     Phosphorylation     | Kinase Domains also phosphorylates docked downstream proteins                                                                                                              |
-|  <br>4   | <br>Signal Transduction | Activation of Various Pathways for Cellular Response:<br>MAPK/ERK: Cell Proliferation & Differentiation<br>PI3K/Akt: Cell Survival & Metabolism<br>Stat: Cytokine Response |
+| **Step** |       **Action**        | **Description**                                                                                                                                                                |
+| :------: | :---------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|    1     |     Ligand Binding      | To Extracellular Domain                                                                                                                                                        |
+|    2     |      Dimerization       | Brings Intracellular Kinase Domains into Proximity                                                                                                                             |
+|  <br>3   |   Autophosphorylation   | Kinase Domains phosphorylates tyrosine residues of receptor itself                                                                                                             |
+|    ^     |     Phosphorylation     | Kinase Domains also phosphorylates docked downstream proteins                                                                                                                  |
+|  <br>4   | <br>Signal Transduction | Activation of Various Pathways for Cellular Response:<br>MAPK/ERK: Cell Proliferation & Differentiation<br>PI3K/Akt: Cell Survival & Metabolism<br>Stat: Responses to Cytokine |
 **Example of Kinase-Linked Receptors**
 - Insulin Receptor (PI3K-Akt): ↑ <abbr Title="Insulin Receptor Substrates">IRS</abbr> Phosphorylation → ↑ <abbr Title="Glucose Transporter Type 4">GLUT4</abbr> Translocation to Cell Membrane → ↑ Glucose Absorption
 

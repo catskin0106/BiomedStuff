@@ -1,12 +1,12 @@
 Lecture Notes
 
 **Lecture Coverage:**
+- Receptor Affinity, Occupancy & Efficacy
 - 
 
 ---
-#### **Enzymes as Drug Targets**
-- Can be inhibited / activated by drugs
-	- e.g. <abbr Title="Cyclooxygenase 1 & 2">COX-1 & 2</abbr>: Inhibited by <abbr Title="Non-steroidal Anti-inflammatory Drugs">NSAIDs</abbr> (e.g. Aspirin) to reduce inflammation & pain
+#### **Receptor Affinity, Occupancy & Efficacy**
+- 
 
 
 #### **Carriers as Drug Targets**
