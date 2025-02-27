@@ -23,12 +23,12 @@ Lecture Notes
 
 
 #### **Drug Sources**
-|        **Source**         |       <        |        **Examples**         |
-| :-----------------------: | :------------: | :-------------------------: |
-|          Plants           |       <        |     Reserpine, Atropine     |
-|        <br>Animals        | Blood Products |    Factor XIII, Heparin     |
-|             ^             |    Hormones    |   Thyroxine, Testosterone   |
-| Microorganism Antibiotics |       <        | Streptomycin, Cephalosporin |
-|       Biotechnology       |       <        |     Human Insulin etc.      |
+|        **Source**         |                      **Examples**                       |
+| :-----------------------: | :-----------------------------------------------------: |
+|          Plants           |                Alkaloids, Essential Oils                |
+|          Animals          |                    Hormones, Heparin                    |
+|         Minerals          | <abbr Title="Magnesium Sulfate">MgSO<sub>4</sub></abbr> |
+| Microorganism Antibiotics |               Streptomycin, Cephalosporin               |
+|       Biotechnology       |                   Human Insulin etc.                    |
 
 
