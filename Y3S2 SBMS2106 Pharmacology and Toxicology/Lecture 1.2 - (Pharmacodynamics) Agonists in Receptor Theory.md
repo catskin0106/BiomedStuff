@@ -6,7 +6,7 @@ Lecture Notes
 
 ---
 #### **Receptor Affinity, Occupancy & Efficacy**
-- 
+**Affinity (1**
 
 
 #### **Carriers as Drug Targets**
