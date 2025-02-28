@@ -40,7 +40,9 @@ $$\Large y = \frac{[A]}{[A] +Kd}$$
 - Total input to the transduction system from ligand-receptor binding:
 	- Affected by Efficacy (e) & Occupancy (y)
 $$\Large S = ey$$
-
+- Might be lowered in Desensitization by:
+	- Receptor Modification / Phosphorylation
+	- Receptor Internalization
 
 #### **Full & Partial Agonists**
 **Types of Functional Agonists**
@@ -54,7 +56,12 @@ $$\Large S = ey$$
 | :-------------------: | :--------------------------------------------------------------------------------- |
 |  Two Receptor System  | Partial agonist activate a different receptor with weaker effect than full agonist |
 | Functional Antagonism | Same Partial agonist can activate 2 types of receptors with opposing effects       |
-|       Efficacy        | Agonist has lower efficacy (possibly due to conformation)                          |
+|       Efficacy        | <abbr Title="Due to conformation">Agonist has lower efficacy</abbr>                |
+
+**Advantages & Disadvantages for Partial Agonist Drugs**
+- Advantages:
+	- Less Side Effects 
+	- ↓ 
 
 **Inverse Agonists**
 - Ligands that bind to same receptor but have opposing pharmacological responses to agonist
