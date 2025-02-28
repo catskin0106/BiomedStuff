@@ -59,3 +59,4 @@ $$\Large S = ey$$
 - Must have lower biological stimulus (S) than full agonists
 - Might have higher Affinity (1/Kd) than full agonists
 - Not for Efficacy (e)
+
