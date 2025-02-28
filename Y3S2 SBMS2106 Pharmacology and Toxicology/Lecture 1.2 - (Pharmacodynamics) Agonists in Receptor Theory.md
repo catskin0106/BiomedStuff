@@ -23,5 +23,5 @@ $$\Large \ce{[A][R] <=>[k1][k_{-1}] [AR]}$$
 	- pH & Ionization
 
 
-- - Equilibrium dissociation constant (Kd): Tendency of AR to dissociate
+- - Equilibrium dissociation constant (Kd): Concentration at which <abbr Title="50% of the receptors are occupied">Occupancy (y) = 0.5</abbr>
     -  Or Tendency of AR to dissociate: Kd ∝ 1 / Affinity
