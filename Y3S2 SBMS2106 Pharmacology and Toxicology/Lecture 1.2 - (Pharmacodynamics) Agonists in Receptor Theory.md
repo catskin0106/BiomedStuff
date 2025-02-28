@@ -25,3 +25,6 @@ $$\Large \ce{[A][R] <=>[k1][k_{-1}] [AR]}$$
 
 - - Equilibrium dissociation constant (Kd): Concentration at which <abbr Title="50% of the receptors are occupied">Occupancy (y) = 0.5</abbr>
     -  Or Tendency of AR to dissociate: Kd ∝ 1 / Affinity
+$$\Large Kd = \frac{k_{-1}}{k_{1}} \text{ or } \frac{[A][R]}{[AR]}$$
+
+**Occupancy (y)**
