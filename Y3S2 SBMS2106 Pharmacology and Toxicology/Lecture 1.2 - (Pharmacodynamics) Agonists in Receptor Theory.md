@@ -15,3 +15,13 @@ $$\Large \ce{[A][R] <=>[k1][k_{-1}] [AR]}$$
 | :----------: | :-------------------------------------------------: | :----------------------------------: |
 |      k1      | [A] Diffusion Rate<br>[A] [R] Collision Probability |               Similar                |
 |      k2      |                   [AR] Stability                    |                Varies                |
+
+- Factors affecting Collision Probability:
+	- 3D Conformation of Ligand & Receptor
+	- Molecular Size & Shape
+	- Lipid Solubility to Cross Plasma Membrane
+	- pH & Ionization
+
+
+- - Equilibrium dissociation constant (Kd): Tendency of AR to dissociate
+    -  Or Tendency of AR to dissociate: Kd ∝ 1 / Affinity
