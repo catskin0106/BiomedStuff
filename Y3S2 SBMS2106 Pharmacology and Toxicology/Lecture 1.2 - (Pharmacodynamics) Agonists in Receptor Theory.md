@@ -42,21 +42,18 @@ $$\Large S = ey$$
 
 
 #### **Full & Partial Agonists**
+**Types of Functional Agonists**
+- Full Agonists: Can achieve E<sub>max</sub> of 100% in <abbr Title="Concentration-Response Curve">CRC</abbr> 
+	- Possibly without occupying all receptors
+- Partial Agonists: With E<sub>max</sub> lower than 100%
 
+**Explanation for Partial Agonism**
 
-**Reasons for Partial Agonism**
+|    **Explanation**    | **Explanation**                                                              |
+| :-------------------: | :--------------------------------------------------------------------------- |
+|  Two Receptor System  | Partial agonist activate weaker receptor than full agonist                   |
+| Functional Antagonism | Same Partial agonist can activate 2 types of receptors with opposing effects |
+|       Efficacy        | Agonist has lower efficacy (possibly due to conformation)                    |
 
-| **Reason**            | **Explanation**                                            |
-| --------------------- | ---------------------------------------------------------- |
-| Two Receptor System   | Partial agonist activate weaker receptor than full agonist |
-| Functional Antagonism | Partial agonist activate 2 receptors with opposing effects |
-| Efficacy              | Agonist has lower efficacy (possibly due to conformation)  |
-
-  
-
-**Properties of Partial Agonists**
-
-- Must have lower biological stimulus (S) than full agonists
-- Might have higher Affinity (1/Kd) than full agonists
-- Not for Efficacy (e)
+**Inverse Agonists**
 
