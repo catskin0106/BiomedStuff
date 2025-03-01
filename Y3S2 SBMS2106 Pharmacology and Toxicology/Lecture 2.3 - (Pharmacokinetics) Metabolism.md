@@ -58,4 +58,14 @@ Lecture Notes
 		- Contraceptive Failure if Rifampicin & OCP Concomitant Administration
 
 **Pharmacogenetics**
-- Individual / Conb
+- Individual / Combinations of <abbr Title="Single Nucleotide Polymorphism">SNP</abbr>s in genes for drug metabolism proteins → Varied drug metabolism speed
+	- E.g. CYP2D6 Polymorphism: Affects Metoprolol & Debrisoquine Hydroxylation
+		- Leads to phenotypes of Poor, Extensive & Ultra Rapid Metabolizers
+	- E.g. <abbr Title="N-Acetyltransferase 2">NAT2</abbr> Polymorphism: Affects Procainamide & Hydralazine Acetylation
+		- Leads to phenotypes of Slow & Rapid Acetylators
+		- Lupus may be induced in Slow Acetylators
+
+**Other Host Factors**
+- Age & Diseases: Liver function varies
+- Sex, Species & Race
+- Nutrition & Diet
