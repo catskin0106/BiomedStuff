@@ -19,17 +19,17 @@ Lecture Notes
 **Host Factors**
 - Blood Perfusion
 - Diseases altering Body Conditions
-	- Body Water Distribution
+	- Body Water Distribution (Congestive Heart Failure)
 	- Membrane Permeability
-	- Displacement of Drug from Binding Sites
+	- Displacement of Drug from Binding Sites due to:
 		- Binding Proteins
-		- Metabolite Accumulation
+		- Metabolite Accumulation (Uremia)
 
-**Plasma Protein Binding**
+**Plasma Protein Binding (PPB)**
 
-|  **Significance**  | **Description**                                                                                                                                  |     |
-| :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
-|        ↓ V         | Highly PPB drugs are trapped in plasma with plasma proteins<br><br>- Free drug conc. ↑ under hypoalbuminemia                                     |     |
-|   Longer Acting    | PPB as Temporary Storage: Unavailable for action until more free drugs are eliminated → Prolonged effect                                         |     |
-| Extracted by Liver | Can be actively extracted by active transport / kidney tubules<br><br>→ Shortened effect                                                         |     |
-| Drug Displacement  | Different drugs may compete for same plasma protein<br><br>- Aspirin > Sulfonylureas (Hypoglycemia)<br>    <br>- Phenytoin > Warfarin (Toxicity) |     |
+|  **Significance**  | **Description**                                                                              | Example                                                                                                                                                                                   |
+| :----------------: | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|        ↓ V         | Highly PPB drugs are trapped with plasma proteins                                            | <abbr Title="Aspirin, Phenobarbitone, Warfarin">Acidic Drugs</abbr> bind to Albumin<br><abbr Title="Imipramine, Lidocaine, Prozosin">Alkaline Drugs</abbr> bind to α<sub>1</sub> Globulin |
+|   Longer Acting    | PPB as Temporary Storage trapping drugs <br>→ Prolonged effect                               |                                                                                                                                                                                           |
+| Extracted by Liver | Some drugs are actively extracted by active transport / kidney tubules<br>→ Shortened effect |                                                                                                                                                                                           |
+| Drug Displacement  | Different drugs may compete for same Plasma Protein                                          | Aspirin displaces Sulfonylureas → Hypoglycemia<br>Phenytoin displaces Warfarin → Toxicity                                                                                                 |
