@@ -1,9 +1,9 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Receptor Affinity, Occupancy & Efficacy
-- Full & Partial Agonists
-- Interaction between Agonists under Different Receptor Reserves
+- Competitive Antagonism: Reversible & Irreversible Antagonists
+- Non-Competitive Antagonism: Allosteric Antagonists
+- Functional Antagonism
 
 ---
-#### **Receptor Affinity, Occupancy & Efficacy**
+#### **Competitive Antagonism: Reversible & Irreversible Antagonists**
