@@ -8,4 +8,4 @@ Lecture Notes
 ---
 #### **Drug Excretion**
 - Drug elimination from body in unchanged form or as water-soluble metabolites
-	- Renal, Biliary, Faecal & Alveolar
+	- Renal, Biliary, Fecal & Alveolar
