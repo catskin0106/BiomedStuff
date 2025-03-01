@@ -46,4 +46,16 @@ Lecture Notes
 
 #### **Factors Affecting Drug Biotransformation**
 **Drug-Drug Interactions**
-- 
+- Enzyme Inhibition: Different Drugs share same isoenzyme as Substrate / Inhibitor
+	- ↓ Oral metabolism → ↑ Bioavailability
+	- ↓ Liver Biotransformation → ↓ Clearance → Toxicity
+	- E.g. Quinidine: 3A4 Substrate & 2D6 Inhibitor
+- Enzyme Induction:
+	- Drug interacts with DNA → ↑ UGT & CYP450 synthesis (4-14 days) → ↑ Metabolism & ↓ Drug Response
+	- E.g. Phenobarbitone induces Warfarin-metabolizing enzymes
+		- Required to ↑ Warfarin Dose if Phenobarbitone & Warfarin Concomitant Administration
+	- E.g. Rifampicin induces <abbr Title="Oral Contraceptive Pills">OCP</abbr>-metabolizing enzymes
+		- Contraceptive Failure if Rifampicin & OCP Concomitant Administration
+
+**Pharmacogenetics**
+- Individual / Conb
