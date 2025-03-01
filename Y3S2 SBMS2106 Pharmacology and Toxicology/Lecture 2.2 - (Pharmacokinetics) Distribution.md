@@ -20,8 +20,16 @@ Lecture Notes
 - Blood Perfusion
 - Diseases altering Body Conditions
 	- Body Water Distribution
-	- Membrane Proteins → Membrane Permeability
-- Physiological Barriers
-	- P-Glycoprotein: Expels Drug
-	- <abbr Title="Blood-Brain Barrier">BBB</abbr>:
-	- <abbr Title="Blood-Placental Barrier">BPB</abbr>:
+	- Membrane Permeability
+	- Displacement of Drug from Binding Sites
+		- Binding Proteins
+		- Metabolite Accumulation
+
+**Plasma Protein Binding**
+
+|  **Significance**  | **Description**                                                                                                                                  |     |
+| :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+|        ↓ V         | Highly PPB drugs are trapped in plasma with plasma proteins<br><br>- Free drug conc. ↑ under hypoalbuminemia                                     |     |
+|   Longer Acting    | PPB as Temporary Storage: Unavailable for action until more free drugs are eliminated → Prolonged effect                                         |     |
+| Extracted by Liver | Can be actively extracted by active transport / kidney tubules<br><br>→ Shortened effect                                                         |     |
+| Drug Displacement  | Different drugs may compete for same plasma protein<br><br>- Aspirin > Sulfonylureas (Hypoglycemia)<br>    <br>- Phenytoin > Warfarin (Toxicity) |     |
