@@ -63,7 +63,7 @@ $$\Large S = ey$$
 	- ↓ Side Effects  
 	- <abbr Title="Limit Biological Stimulus after certain dosage">Ceiling Effect</abbr>
 		- ↓ Abuse & Overdose Potential
-		- 
+		- Manage Withdrawal Symptoms
 
 **Inverse Agonists**
 - Ligands that bind to same receptor but have opposing pharmacological responses to agonist
