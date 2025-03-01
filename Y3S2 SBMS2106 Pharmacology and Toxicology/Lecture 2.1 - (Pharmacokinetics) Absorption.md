@@ -64,9 +64,9 @@ Lecture Notes
 **Route of Administration**
 - <abbr Title="Intravenous">IV</abbr> (100%) > <abbr Title="Intramuscular">IM</abbr> > <abbr Title="Subcutaneous">SC</abbr> > Oral
 
-| Route    | Factor              | Description                                          | Examples     |
-| -------- | ------------------- | ---------------------------------------------------- | ------------ |
-| IM / SC  | Perfusion Rate      | Capillary Vicinity & Vasodilation → ↑ Diffusion Rate | Progesterone |
-| <br>Oral | Metabolism          | Degraded in the Gastrointestinal Tract               | Insulin      |
-| ^        | Efflux Transporters | Drug Extruded out by P-Glycoprotein                  | Digoxin      |
-| Topical  |                     |                                                      |              |
+| Route    | Factor              | Description                                                  | Examples     |
+| -------- | ------------------- | ------------------------------------------------------------ | ------------ |
+| IM / SC  | Perfusion Rate      | Capillary Vicinity & Vasodilation → ↑ Diffusion Rate         | Progesterone |
+| <br>Oral | Metabolism          | Degraded in the Gastrointestinal Tract                       | Insulin      |
+| ^        | Efflux Transporters | Drug Extruded out by P-Glycoprotein                          | Digoxin      |
+| Topical  | Ease of Penetration | Cornea easily penetrated by un-ionized & lipid soluble Drugs | Timolol      |
