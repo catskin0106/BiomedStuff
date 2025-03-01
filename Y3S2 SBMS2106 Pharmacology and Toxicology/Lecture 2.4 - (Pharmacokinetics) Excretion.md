@@ -16,17 +16,17 @@ Lecture Notes
 
 **Factors Affecting Glomerular Filtration**
 
-| **Factor**           | **Description**                                                                           |
-| -------------------- | ----------------------------------------------------------------------------------------- |
-| Molecular Size       | MW > 20000 drugs can't be filtered<br><br>- Plasma protein bound: ↑MW → Can't be filtered |
-| Glomerular Perfusion | Maintain steeper conc. gradient                                                           |
+|      **Factor**      | **Description**                                                                            |
+| :------------------: | ------------------------------------------------------------------------------------------ |
+|    Molecular Size    | Drugs with MW > 20000 can't be filtered<br>- Plasma protein bound: ↑MW → Can't be filtered |
+| Glomerular Perfusion | Higher → Steeper Concentration Gradient                                                    |
 
 **Factors affecting Tubular Secretion (Proximal tubule)**
 
-| **Factor**                       | **Description**                                                                                                |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Active & Efflux<br><br>Transport | - Organic Anion/Cation Transport Proteins (OAT / OCT)<br>    <br>- P-gp & Multidrug Resistant Protein 2 (MRP2) |
-| PPB Dissociation                 | Active & Efflux transport → ↓ Drug<br><br>PPB Drug dissociates → Secreted to tubules                           |
+|    **Factor**    | **Description**                                                                             |
+| :--------------: | ------------------------------------------------------------------------------------------- |
+| Active Transport | <br>- By Organic Anion/Cation Transport Proteins (OAT / OCT)                                |
+| Efflux Transport | - P-gp & Multidrug Resistant Protein 2 (MRP2)<br>PPB Drug dissociates → Secreted to tubules |
 
 **Factors affecting Tubular Reabsorption**
 
