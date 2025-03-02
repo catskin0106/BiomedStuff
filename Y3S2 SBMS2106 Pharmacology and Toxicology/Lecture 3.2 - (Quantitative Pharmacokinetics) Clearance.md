@@ -2,29 +2,34 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Bathtub Model of Clearance
+- Hepatic Clearance
+- Biliary Clearance
 - Bioequivalence
 
 ---
 #### **Bathtub Model of Clearance**
+**Elimination & Clearance**
 -  Drug Elimination (mg/hr): The amount of drug metabolized or excreted per unit time
 	- Drug elimination ↑, as Cp & CL↑
 - Drug Clearance (mL/hr): The volume of blood cleared from drug per unit time
-	- Sum of clearance in all eliminating organs
-		- Like water elimination from bathtub ↑ as ↑ water height & ↑ plughole size
-		- CL ≈ The volume of bathtub cleared from water
+	- Systemic Clearance: Sum of clearance in all eliminating organs (Hepatic + Renal + Pulmonary + Metabolic)
+		- Hepatic clearance: Metabolism & Biliary Excretion
+		- Renal clearance: Excretion
+		- Pulmonary clearance
+		- Metabolic Clearance: Drug biotransformation via enzymes
 
-**Systemic Clearance**
-- Systemic Clearance = Hepatic + Renal + Pulmonary + Metabolic Clearance
-	- Hepatic clearance: Metabolism & Biliary Excretion
-	- Renal clearance: Excretion
-	- Metabolic Clearance: Drug biotransformation via enzymes
+**Bathtub Model**
+ - Like water elimination from bathtub ↑ as ↑ water height & ↑ plughole size
+	- CL ≈ The volume of bathtub cleared from water
 
 
-#### **Organ Clearance**
+#### **Hepatic Clearance**
 **Hepatic Extraction**
-- Hepatic Extraction Rate = Blood Flow (Cp<sub>in</sub> - Cp<sub>out</sub>)
-- Hepatic Extraction Ratio = Blood Flow (Cp<sub>in</sub> - Cp<sub>out</sub>) / Blood Flow Cp<sub>in</sub>
-- From a scale of 0-1, the amount of drug that gets extracted
+- Hepatic Extraction Rate:$$\Large Blood\;Flow(C_{A}\;-\;C_{V})$$
+- Hepatic Extraction Ratio:$$\Large\frac{Blood\;Flow(C_{A}\;-\;C_{V})}{Blood\;Flow(C_{A})}$$
+	- From a scale of 0-1, the amount of administrated drug that gets extracted from liver
+
+**Hepatic Clearance**
 - Hepatic Clearance = Blood Flow * Extraction Ratio
 - Factors affecting ER:
 - Molecular size (PPB Binding)
