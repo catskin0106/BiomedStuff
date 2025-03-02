@@ -58,3 +58,10 @@ $$\Large \frac{Bile\;Flow(C_{bile})}{C_{p}}$$
 	- Used with Dose to calculate CL in Clinical Trials
 	- Determine drug absorption rate / amount / proportion from Formulations / Dosage Forms
 	- Measures Relationship between Drug Cp & Clinical Efficacy / Toxicity
+
+**Bioequivalence**
+- Bioavailability comparison of 2+ products of same drug
+	- Ensure adequate therapeutic outcomes in market
+- Criteria:
+	- Same active ingredients & concentration / strength
+	- Same dosage form & administration route
