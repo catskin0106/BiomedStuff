@@ -23,10 +23,10 @@ Lecture Notes
 
 **Factors affecting Tubular Secretion (Proximal tubule)**
 
-|    **Factor**    | **Description**                                                                             |
-| :--------------: | ------------------------------------------------------------------------------------------- |
-| Active Transport | <br>- By Organic Anion/Cation Transport Proteins (OAT / OCT)                                |
-| Efflux Transport | - P-gp & Multidrug Resistant Protein 2 (MRP2)<br>PPB Drug dissociates → Secreted to tubules |
+|    **Factor**    | **Description**                                                                                |
+| :--------------: | ---------------------------------------------------------------------------------------------- |
+| Active Transport | - By Organic Anion/Cation Transport Proteins (OAT / OCT)                                       |
+| Efflux Transport | - By P-gp & Multidrug Resistant Protein 2 (MRP2)<br>PPB Drug dissociates → Secreted to tubules |
 
 **Factors affecting Tubular Reabsorption**
 
