@@ -63,4 +63,14 @@ Lecture Notes
 | Ionization Conditions | Drugs ionizes more when pH is more opposite than pKa<br>(i.e. base when pH is more acidic)                            |
 | Membrane Permeability | Ionized drug can't pass through membrane → Trapped<br>- Net movement of drug from more unionized side to ionized side |
 
-**Calculation
+**Ratio of Total Drug Concentrations between 2 Compartments**
+- Depends on <abbr Title="pH Values of the 2 Compartments">pH<sub>1</sub> & pH<sub>2</sub></abbr> & <abbr Title="Drug Dissociation Constant">Drug pKa</abbr>
+$$\Large R = \frac{1+10^{|pH_{1}-pKa|}}{1+10^{|pH_{2}-pKa|}}$$
+
+**Ion Trapping in Breast Milk**
+- Breast milk pH (6.5) < Plasma (7.4)
+	- → Basic drugs are more unionized in less opposite pH environment (i.e. Plasma)
+		- Net drug movement from Plasma to Milk
+	- → Basic drugs are more ionized in more opposite pH environment (i.e. milk)
+		- ∴ can't be reabsorbed by Plasma
+- E.g. Ethanol, Cocaine, Nicotine
