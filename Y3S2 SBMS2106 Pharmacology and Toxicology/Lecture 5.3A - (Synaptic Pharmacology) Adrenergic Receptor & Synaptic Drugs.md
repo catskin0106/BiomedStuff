@@ -43,17 +43,17 @@ Lecture Notes
 #### **Drug Actions at Postganglionic Sympathetic Synapses**
 **Signal Enhancing Drugs**
 
-|                 **Drug**                  | **Effect**                                                                                                                                                                                                                                                               |
-| :---------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Cocaine<br>Phenoxybenzamine<br>Imipramine | <abbr Title="NA Reuptake Inhibitors">NRI</abbr><br>- ↓ NA reuptake by <abbr Title="NA Transporters">NET</abbr> → ↑ Synaptic NA Retention                                                                                                                                 |
-|             <br><br>Tyramine              | Indirectly Acting Sympathomimetics (Active in presynaptic neuron)<br>Substrate for NET<br>- ↓ NA Transporter Reuptake → ↑ Synaptic NA Retention<br>- ↑ NA Exocytosis → ↑ Synaptic NA<br>- ↓ NA Degradation by <abbr Title="Monoamine Oxidase">MAO</abbr> → ↑ Synaptic NA |
+|                 **Drug**                  | **Effect**                                                                                                                                                                                                                                                                         |
+| :---------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cocaine<br>Phenoxybenzamine<br>Imipramine | <abbr Title="NA Reuptake Inhibitors">NRI</abbr><br>- ↓ NA reuptake by <abbr Title="NA Transporters">NET</abbr> → ↑ Synaptic NA Retention                                                                                                                                           |
+|             <br><br>Tyramine              | Indirectly Acting Sympathomimetics (Active in presynaptic neuron)<br>Substrate for NET<br>- ↓ NA Transporter Reuptake → ↑ Synaptic NA Retention<br>- ↑ NA Exocytosis → ↑ Synaptic NA<br>- ↓ Cytoplasm NA Degradation by <abbr Title="Monoamine Oxidase">MAO</abbr> → ↑ Synaptic NA |
 
 
 **Signal Inhibiting Drugs**
 
-|   **Drug**    | **Effect**                                                                                                                    |
-| :-----------: | ----------------------------------------------------------------------------------------------------------------------------- |
-|   Clonidine   | α2 Agonist<br>- ↓ NA exocytosis (-ve Feedback) → ↓ Synaptic NA                                                                |
-| α-Methyl-DOPA | False substrate in NA biosynthesis<br>- Form false substrate α-Methyl-NA (α2 Agonist for -ve Feedback) → ↓ Synaptic NA        |
-|   Reserpine   | Inhibits <abbr Title="Vesicular MA Transporter">VMAT</abbr> → Trap NA in vesicle<br>- ↑ NA Degradation by MAO → ↓ Synaptic NA |
-| Guanethidine  | Displaces NA in vesicle<br>- ↓ NA exocytosis → ↓ Synaptic NA                                                                  |
+|   **Drug**    | **Effect**                                                                                                                                                                |
+| :-----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   Clonidine   | α2 Agonist<br>- ↓ NA exocytosis (-ve Feedback) → ↓ Synaptic NA                                                                                                            |
+| α-Methyl-DOPA | False substrate in NA biosynthesis<br>- Form false substrate α-Methyl-NA (α2 Agonist for -ve Feedback) → ↓ Synaptic NA                                                    |
+|   Reserpine   | Inhibits <abbr Title="Vesicular MA Transporter (Controls NA into/from Vesicle)">VMAT</abbr> → Trap NA in Cytoplasm<br>- ↑ Cytoplasm NA Degradation by MAO → ↓ Synaptic NA |
+| Guanethidine  | Displaces NA in vesicle & Inhibit Exocytosis<br>- ↓ NA exocytosis → ↓ Synaptic NA                                                                                         |
