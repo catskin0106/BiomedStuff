@@ -12,3 +12,4 @@ Lecture Notes
 
 
 **Therapeutic Index**
+- TI = TD<50 / ED50
