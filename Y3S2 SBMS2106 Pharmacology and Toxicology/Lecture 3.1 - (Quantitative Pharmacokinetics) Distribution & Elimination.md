@@ -41,8 +41,8 @@ Lecture Notes
 - Model that considers body as a single compartment in which drug distributes homogeneously
 	- Mostly hydrophilic drugs (Antibiotics)
 - Different Drugs have different rate of elimination in relation to k:
-	- First Order: Same % of Drugs Eliminated
-	- Zero Order: Same volume of Drugs Eliminated
+	- First Order: [Same % of Drugs Eliminated](3206_FirstOrder.png)
+	- Zero Order: [Same volume of Drugs Eliminated](3206_ZeroOrder.png)
 
 | Kinetics    | Elimination Rate         | Changes in t<sub>1/2</sub> & CL                                    |
 | ----------- | ------------------------ | ------------------------------------------------------------------ |
