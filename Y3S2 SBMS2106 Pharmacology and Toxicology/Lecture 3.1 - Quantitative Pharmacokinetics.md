@@ -2,8 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Plasma Concentration Curve of Drugs
-- One Compartment Model
-- Two Compartment Model
+- Models to Quantify Drug Distribution & Elimination
 
 ---
 #### **Plasma Concentration Curve of Drugs**
@@ -17,3 +16,14 @@ Lecture Notes
 
 
 **Therapeutic Drug Monitoring (TDM)**
+- Collection of Blood samples at fixed time relative to drug administration intervals
+- Needed if:
+	- Drug has narrow TI → High Toxicity Risk
+		- E.g. Digoxin, Phenytoin & Cyclosporine
+	- Patient Non-compliance
+	- Lack of / Not Easily Quantified Therapeutic Responses
+	- Variability in Drug Dose-Concentration relationship
+
+
+#### **Models to Quantify Drug Distribution & Elimination**
+**Pharmacokinetic Variables**
