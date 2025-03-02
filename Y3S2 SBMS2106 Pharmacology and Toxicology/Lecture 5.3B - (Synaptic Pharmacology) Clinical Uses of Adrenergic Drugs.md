@@ -2,6 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Cardiovascular Diseases
+- Respiratory Conditions
 - Other Conditions
 
 ---
@@ -35,14 +36,52 @@ Lecture Notes
 **Treatment to ↑ HR**
 - Heart Failure
 
-| **Classification** | **Drug**   | **Effect**       |
-| ------------------ | ---------- | ---------------- |
-| β1 Agonist         | Dobutamine | ↑ Cardiac Output |
+| **Classification** |  **Drug**  | **Effect**       |
+| :----------------: | :--------: | ---------------- |
+|     β1 Agonist     | Dobutamine | ↑ Cardiac Output |
 
 - Hypotension & <abbr Title="Rapid Type I Hypersensitivity">Anaphylactic Shock</abbr>
-	- Anaphylactic Shock:
+	- Anaphylactic Shock: Bronchospasm & Hypotension caused by Inflammatory Mediators
 
-| **Classification** | **Drug**                 | **Effect**                                                    |
-| ------------------ | ------------------------ | ------------------------------------------------------------- |
-| α1 & β1 Agonist    | Intramuscular Adrenaline | ↑ Vasoconstriction & Cardiac Output<br><br>- Anti-hypotensive |
-| β2 Agonist         | ^                        | Bronchodilation →  ↓ Bronchospasm                             |
+| **Classification** |           **Drug**           | **Effect**                                    |
+| :----------------: | :--------------------------: | --------------------------------------------- |
+|  α1 & β1 Agonist   | <br>Intramuscular Adrenaline | ↑ Vasoconstriction & Cardiac Output<br>→ ↑ BP |
+|     β2 Agonist     |              ^               | Bronchodilation →  ↓ Bronchospasm             |
+
+
+#### **Respiratory Conditions**
+
+**Nasal Congestion**
+
+| **Classification** |   **Drug**    | **Effect**                            |
+| :----------------: | :-----------: | ------------------------------------- |
+|     α1 Agonist     | Phenylephrine | Vasoconstriction → Nasal decongestion |
+
+**Asthma**
+
+|  **Classification**  |  **Drug**  | **Effect**                       |
+| :------------------: | :--------: | -------------------------------- |
+| β2 Selective Agonist | Salbutamol | Bronchodilation → ↓ Bronchospasm |
+
+
+#### **Other Conditions**
+**Benign Prostatic Hyperplasia**
+- ↑ Urethral smooth muscle tone → Urethral blockage
+
+|   **Classification**    |  **Drug**  | **Effect**                    |
+| :---------------------: | :--------: | ----------------------------- |
+| α1 Selective Antagonist | Tamsulosin | ↓ Urethral smooth muscle tone |
+
+**Premature Labour**
+
+|  **Classification**  |   **Drug**   | **Effect**            |
+| :------------------: | :----------: | --------------------- |
+| β2 Selective Agonist | IV Ritodrine | ↓ Uterine Contraction |
+
+**Ophthalmological Examination**
+- Mydriasis (Pupil dilation) is useful
+
+| **Classification** |   **Drug**    | **Effect**                       |
+| :----------------: | :-----------: | -------------------------------- |
+|   M3 Antagonist    |  Tropicamide  | Circular iris muscle contraction |
+|     α1 Agonist     | Phenylephrine | Radial iris muscle contraction   |
