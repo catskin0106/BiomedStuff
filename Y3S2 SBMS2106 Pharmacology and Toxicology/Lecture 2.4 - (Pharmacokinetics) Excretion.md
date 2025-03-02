@@ -67,10 +67,11 @@ Lecture Notes
 - Depends on <abbr Title="pH Values of the 2 Compartments">pH<sub>1</sub> & pH<sub>2</sub></abbr> & <abbr Title="Drug Dissociation Constant">Drug pKa</abbr>
 $$\Large R = \frac{1+10^{|pH_{1}-pKa|}}{1+10^{|pH_{2}-pKa|}}$$
 
-**Ion Trapping in Breast Milk**
+
+**Ion Trapping of Basic Drugs in Breast Milk**
 - Breast milk pH (6.5) < Plasma (7.4)
 	- → Basic drugs are more unionized in less opposite pH environment (i.e. Plasma)
-		- Net drug movement from Plasma to Milk
+		- ∴ Net drug diffusion from Plasma to Milk
 	- → Basic drugs are more ionized in more opposite pH environment (i.e. milk)
-		- ∴ can't be reabsorbed by Plasma
+		- ∴ Can't be reabsorbed by Plasma
 - E.g. Ethanol, Cocaine, Nicotine
