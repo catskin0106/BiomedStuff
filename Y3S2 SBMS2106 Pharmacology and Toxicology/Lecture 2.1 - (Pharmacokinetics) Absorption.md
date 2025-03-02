@@ -62,7 +62,7 @@ Lecture Notes
 |             ^              |   Food Physically interacts with drug   | Tetracyclines & Milk Ca<sup>2+</sup><br>Fatty meal helps Griseofulvin Absorption |
 
 **Route of Administration**
-- <abbr Title="Intravenous">IV</abbr> (100%) > <abbr Title="Intramuscular">IM</abbr> > <abbr Title="Subcutaneous">SC</abbr> > Oral
+- <abbr Title="Intravenous">IV</abbr> (<abbr Title="Bioavailability">F</abbr> = 100%) > <abbr Title="Intramuscular">IM</abbr> > <abbr Title="Subcutaneous">SC</abbr> > Oral
 
 | Route    | Factor              | Description                                                  | Examples     |
 | -------- | ------------------- | ------------------------------------------------------------ | ------------ |

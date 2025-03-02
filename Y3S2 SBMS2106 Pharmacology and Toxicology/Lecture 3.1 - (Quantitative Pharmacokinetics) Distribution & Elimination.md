@@ -28,14 +28,14 @@ Lecture Notes
 #### **Models to Quantify Drug Distribution & Elimination**
 **Pharmacokinetics Variables**
 
-|                    Variable                    | Description                                  | Formula                                                                                                                                        |
-| :--------------------------------------------: | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-|                Cp<sup>(t)</sup>                | Drug Concentration at time t                 | /                                                                                                                                              |
-|                       V                        | Volume of Distribution                       | [[Lecture 2.2 - (Pharmacokinetics) Distribution#**Drug Distribution**\|There]]                                                                 |
-|            <abbr Title="">k</abbr>             | Abstract Rate of Elimination                 | Cp = Cp<sup>0</sup>e<sup>-kt</sup><br><abbr Title="Logarithm Form (Straight Line Equation)">log Cp = (-k / 2.303)t + log Cp<sup>0</sup></abbr> |
-| <abbr Title="Half-Life">t<sub>1/2</sub></abbr> | Time for Cp<sup>0</sup> to be halved         | First Order Kinetics: 0.693 / k                                                                                                                |
-|   <abbr Title="Clearance">CL</abbr> (mL/min)   | Blood Volume cleared from Drug per unit time | k<abbr Title="Volume of Distribution">V</abbr>                                                                                                 |
-|       <abbr Title="Area Under Curve">AUC       | Abstract Bioavailability Measure             | Dose / CL                                                                                                                                      |
+|                    Variable                    | Description                                                                                     | Formula                                                                                                                                        |
+| :--------------------------------------------: | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+|                Cp<sup>(t)</sup>                | Drug Concentration at time t                                                                    | /                                                                                                                                              |
+|                       V                        | Volume of Distribution                                                                          | [[Lecture 2.2 - (Pharmacokinetics) Distribution#**Drug Distribution**\|There]]                                                                 |
+|            <abbr Title="">k</abbr>             | Abstract Rate of Elimination                                                                    | Cp = Cp<sup>0</sup>e<sup>-kt</sup><br><abbr Title="Logarithm Form (Straight Line Equation)">log Cp = (-k / 2.303)t + log Cp<sup>0</sup></abbr> |
+| <abbr Title="Half-Life">t<sub>1/2</sub></abbr> | Time for Cp<sup>0</sup> to be halved                                                            | First Order Kinetics: 0.693 / k                                                                                                                |
+|   <abbr Title="Clearance">CL</abbr> (mL/min)   | Blood Volume cleared from Drug per unit time                                                    | k<abbr Title="Volume of Distribution">V</abbr>                                                                                                 |
+|       <abbr Title="Area Under Curve">AUC       | Measure of <abbr Title="Bioavailability">F</abbr>: Amount of Drug Reaching Systemic Circulation | Dose / CL                                                                                                                                      |
 
 **One Compartment Model**
 - Model that considers body as a single compartment in which drug distributes homogeneously
@@ -52,5 +52,5 @@ Lecture Notes
 
 **Two Compartment Model**
 - Drug distributes differently in various body compartments
-	- Central compartment: Rapid & uniform
-	- Tissue compartment: Slow equilibration
+	- Central compartment: Rapid & Uniform
+	- Tissue compartment: Slow Equilibration

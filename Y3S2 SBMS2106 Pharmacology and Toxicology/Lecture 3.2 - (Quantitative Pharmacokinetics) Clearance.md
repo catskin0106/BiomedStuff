@@ -4,7 +4,7 @@ Lecture Notes
 - Bathtub Model of Clearance
 - Hepatic Clearance
 - Biliary Clearance
-- Bioequivalence
+- Bioavailability & Bioequivalence
 
 ---
 #### **Bathtub Model of Clearance**
@@ -37,7 +37,10 @@ Lecture Notes
 	- Amount of PPB drugs unavailable for Hepatic Absorption (Molecular Weight of Drugs)
 	- Hepatic Perfusion
 	- Liver Metabolizing Capabilities
--  Alterations in drug dosage are needed to prevent toxicity depending on Patient Hepatic Clearance
+-  Alterations in drug dosage are needed to prevent toxicity if patient has:
+	- Altered Hepatic Blood Flow
+	- Altered PPB
+	- Altered Hepatic Enzymatic Ability
 
 **Biliary Clearance**
 $$\Large \frac{Bile\;Flow(C_{bile})}{C_{p}}$$
@@ -47,3 +50,11 @@ $$\Large \frac{Bile\;Flow(C_{bile})}{C_{p}}$$
 | :-----------: | :-----------------: | :----------------------------------------------: | :------------------: |
 |     High      |         Low         | Hepatic: E > 0.7<br>Bile: C<sub>bile</sub> > Cp  |      Blood Flow      |
 |      Low      |        High         | Hepatic: E < 0.7<br>Bile: C<sub>bile</sub> <= Cp |    Enzymatic Rate    |
+
+
+#### **Bioavailability & Bioequivalence**
+**Bioavailability**
+- Quantified by [[Lecture 3.1 - (Quantitative Pharmacokinetics) Distribution & Elimination#**Models to Quantify Drug Distribution & Elimination**|AUC]]
+	- Used with Dose to calculate CL in Clinical Trials
+	- Determine drug absorption rate / amount / proportion from Formulations / Dosage Forms
+	- Measures Relationship between Drug Cp & Clinical Efficacy / Toxicity
