@@ -26,4 +26,11 @@ Lecture Notes
 
 
 #### **Models to Quantify Drug Distribution & Elimination**
-**Pharmacokinetic Variables**
+**Variables in First Order Kinetics**
+
+| Variable                                       | Description                          | Formula   |
+| ---------------------------------------------- | ------------------------------------ | --------- |
+| Cp<sup>(t)</sup>                               | Drug Concentration at time t         |           |
+| <abbr Title="">k</abbr>                        |                                      | Cp0       |
+| <abbr Title="Half-Life">t<sub>1/2</sub></abbr> | Time for Cp<sup>0</sup> to be halved | 0.693 / k |
+|                                                |                                      |           |
