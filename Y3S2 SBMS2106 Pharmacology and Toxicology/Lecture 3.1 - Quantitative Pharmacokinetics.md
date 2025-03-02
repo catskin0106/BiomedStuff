@@ -41,11 +41,16 @@ Lecture Notes
 - Model that considers body as a single compartment in which drug distributes homogeneously
 	- Mostly hydrophilic drugs (Antibiotics)
 - Different Drugs have different rate of elimination in relation to k:
+	- First Order: Same % of Drugs Eliminated
+	- Zero Order: Same volume of Drugs Eliminated
 
-| Kinetics    | Elimination Rate |     |
-| ----------- | ---------------- | --- |
-| First Order |                  |     |
-| Zero Order  |                  |     |
+| Kinetics    | Elimination Rate         | Changes in t<sub>1/2</sub> & CL                                    |
+| ----------- | ------------------------ | ------------------------------------------------------------------ |
+| First Order | Constant                 | Constant                                                           |
+| Zero Order  | Inversely varies with Cp | t<sub>1/2</sub> Inversely Proportional<br>CL Directly Proportional |
 
 
 **Two Compartment Model**
+- Drug distributes differently in various body compartments
+	- Central compartment: Rapid & uniform
+	- Tissue compartment: Slow equilibration
