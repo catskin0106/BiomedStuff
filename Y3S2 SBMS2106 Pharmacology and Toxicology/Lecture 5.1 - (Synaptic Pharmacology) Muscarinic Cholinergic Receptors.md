@@ -3,15 +3,16 @@ Lecture Notes
 **Lecture Coverage:**
 - Autonomic Synapses
 - Drugs on Muscarinic Cholinergic Receptors
+- Drugs on 
 
 ---
 #### **Autonomic Synapses**
 **Receptors on Efferent Cells**
 
-|                  Cell Type that the Receptor belongs to                   |           <           |                    **Sympathetic**                     |                   **Parasympathetic**                   |
-| :-----------------------------------------------------------------------: | :-------------------: | :----------------------------------------------------: | :-----------------------------------------------------: |
-| <br>**Receptor**<br><font size="2">**(Neurotransmitter Released)**</font> | Postganglionic Neuron | Nicotinic Cholinergic Receptors (N)<br>(Acetylcholine) |                            <                            |
-|                                     ^                                     |     Effector Cell     |    Adrenergic Receptors (α / β)<br>(Noradrenaline)     | Muscarinic Cholinergic Receptors (M)<br>(Acetylcholine) |
+|                  Cell Type that the Receptor belongs to                   |           <           |                    **Sympathetic**                     |                   **Parasympathetic**                   |                        Somatic                         |
+| :-----------------------------------------------------------------------: | :-------------------: | :----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------: |
+| <br>**Receptor**<br><font size="2">**(Neurotransmitter Released)**</font> | Postganglionic Neuron | Nicotinic Cholinergic Receptors (N)<br>(Acetylcholine) |                            <                            |                      No Ganglion                       |
+|                                     ^                                     |     Effector Cell     |    Adrenergic Receptors (α / β)<br>(Noradrenaline)     | Muscarinic Cholinergic Receptors (M)<br>(Acetylcholine) | Nicotinic Cholinergic Receptors (N)<br>(Acetylcholine) |
 - Sympathetic Pathway also involves endocrine release of Adrenaline & Noradrenaline
 	- Released by Adrenal Medulla under stimulation of Preganglionic Neuron
 
@@ -28,7 +29,7 @@ Lecture Notes
 
 |                               **Cholinergic Receptors**                                | **Efferent Cells**                                                                                                                                  |
 | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| N<sub>Muscle, Ganglion, CNS</sub><br><font size="2">(Ligand Gated Ion Channels)</font> | <abbr Title="Neuromuscular Junction">NMJ</abbr> Somatic muscle cells<br>Sympathetic & Parasympathetic Postganglionic Neurons                        |
+| N<sub>Ganglion, Muscle, CNS</sub><br><font size="2">(Ligand Gated Ion Channels)</font> | <abbr Title="Neuromuscular Junction">NMJ</abbr> Somatic muscle cells<br>Sympathetic & Parasympathetic Postganglionic Neurons                        |
 |           <br>M<sub>1,2,3</sub><br><font size="2">(G-Protein Coupled)</font>           | Parasympathetic effector cells<br>- M<sub>1</sub>: Neural (CNS)<br>- M<sub>2</sub>: Cardiac (Atria)<br>- M<sub>3</sub>: Glandular (Exocrine Glands) |
 
 - 
