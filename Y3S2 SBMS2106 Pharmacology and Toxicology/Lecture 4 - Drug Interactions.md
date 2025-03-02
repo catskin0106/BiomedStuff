@@ -61,6 +61,17 @@ Lecture Notes
 - Happens during ADME
 
 **Pharmacokinetic Interactions during Absorption**
+- Precipitant Drugs modulating Absorption of Object Drugs
+	- Can be facilitative / disruptive
+
+| Drug                                                          | Mechanism                      | Effect on Object Drug Absorption                         |
+| ------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------- |
+| Metoclopramide                                                | ↑ GI Motility                  | ↑                                                        |
+| Antacids & Sucralfate                                         | ↓ Absorption                   | ↓ Tetracycline / Quinolones                              |
+| <abbr Title="Proton Pump Inhibitors">PPIs</abbr> (Omaprazole) | ↓ Stomach H<sup>+</sup> → ↑ pH | <abbr Title="∵ ↓ Ionization">↓ Weakly Basic Drugs</abbr> |
+
+
+**Pharmacokinetic Interactions during Distribution**
 - Competition for PPB → ↑ Free Competing Drugs in Plasma → OD
 	- Increases CL → ↑ in Free Drug may be a transient problem
 	- Clinically Critical if Drug has low V & Patient has low CL of Drug
@@ -68,4 +79,17 @@ Lecture Notes
 		- Low CL: Possibly due to Precipitant Drug preventing Metabolism / Excretion
 	- [[Lecture 2.2 - (Pharmacokinetics) Distribution#**Factors Affecting Distribution**|Examples of Highly PPB Drugs]]
 
-- 
+
+**Pharmacokinetic Interactions during Metabolism**
+- Phase I [[Lecture 2.3 - (Pharmacokinetics) Metabolism#**Factors Affecting Drug Biotransformation**|Enzyme Induction]] → Faster Drug Metabolism → Lowered Drug Effect
+- Inhibition of CYP450 → Slow Drug Metabolism → OD
+
+| Inhibitor  | Effect on H2R Antagonism | Effect on CYP Inhibition |
+| :--------: | :----------------------: | :----------------------: |
+| Cimetidine |           idk            |            <             |
+| Ranitidine |           idk            |           Weak           |
+| Famotidine |          Strong          |         Minimal          |
+
+**Pharmacokinetic Interactions during Excretion**
+- Competition for same transport mechanism in proximal tubules
+
