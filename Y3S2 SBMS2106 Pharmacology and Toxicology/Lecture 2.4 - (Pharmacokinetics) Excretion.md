@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Drug Excretion
 - Renal Excretion
+- Biliary Excretion
 - pH Partition Theory
 
 ---
@@ -40,7 +41,26 @@ Lecture Notes
 #### **Biliary Excretion**
 - 2 Routes: Excretion / Enterohepatic Circulation
 
-| Step | Excretion                                                       | Enterohepatic Circulation |
-| ---- | --------------------------------------------------------------- | ------------------------- |
-| 1    | Liver active transports Organic Acid / Bases & Lipophilic Drugs | <                         |
-| 2    | If Drug MW > 300 → Eliminated in Bile                           |                           |
+| Step |                                   Excretion                                    |    Enterohepatic Circulation    |            <             |
+| :--: | :----------------------------------------------------------------------------: | :-----------------------------: | :----------------------: |
+|  1   |        Liver active transports Organic Acid / Bases & Lipophilic Drugs         |                <                |            <             |
+|  2   |                    If Drug MW > 300 → Eliminated from Bile                     |                <                |            <             |
+|  3   |                            Glucuronide Conjugation                             |                <                |            <             |
+|  4   |                          Enters Systemic Circulation                           |    Enters Gut Lumen in Bile     |            <             |
+|  5   | <abbr Title="Glomerular Filtration & Tubular Secretion">Renal Excretion</abbr> | Deconjugated by β glucuronidase |            <             |
+|  6   |                               Excreted as Urine                                |       Excreted as Faeces        | Reabsorbed back to Liver |
+
+
+
+#### **pH Partition Theory**
+**pH Partition Principles**
+- Drugs, as weak electrolytes, can only pass through biological membrane as unionized forms
+	- → Ion Trapping: Higher drug concentration on side where drug is more ionized
+- pH Partition principles:
+
+| **Principle**         | **Description**                                                                                                       |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Ionization Conditions | Drugs ionizes more when pH is more opposite than pKa<br>(i.e. base when pH is more acidic)                            |
+| Membrane Permeability | Ionized drug can't pass through membrane → Trapped<br>- Net movement of drug from more unionized side to ionized side |
+
+**Calculation
