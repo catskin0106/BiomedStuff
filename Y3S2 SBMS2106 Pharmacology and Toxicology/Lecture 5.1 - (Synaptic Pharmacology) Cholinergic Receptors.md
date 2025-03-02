@@ -81,6 +81,8 @@ Lecture Notes
 
 
 #### **NMJ Nicotinic Receptor Drugs**
+- Inhibits Nicotinic Receptor
+
 **Non-depolarizing Blocking Agents**
 - Competitive inhibitors of postsynaptic nicotinic receptors
 - Can be reversed by Sugammadex or Anti-<abbr Title="Cholinesterase">ChE</abbr>
@@ -91,11 +93,9 @@ Lecture Notes
 |     Aminosteroids      | Pancuronium, Vecuronium  |
 | Tetrahydroisoquinoline | Atracurium, Mivacuronium |
 
-  
-
 **Depolarizing Blocking Agents (Suxamethonium)**
 - Agonists of postsynaptic nicotinic receptors
-	- Causes muscle twitches
+	- Causes <abbr Title="Muscle Twitches">Fasciculations</abbr>
 	- But long-lasting enough cause Depolarization block
 - Reversed by plasma ChE
 
