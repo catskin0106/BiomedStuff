@@ -54,10 +54,48 @@ Lecture Notes
 - Atropine-like agents
 	- Alkaloids (pA2 ≈ 9.0)
 
-| **Drug**                        | **Effect**                                                                 | **Application**                                                                                    |
-| ------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Pirenzepine                     | M1 receptor antagonist                                                     | ↓ Gastric secretion → <br>Heal Gastric Ulcer                                                       |
-| Tiotropium                      | M3 receptor antagonist                                                     | ↓ Reflex bronchoconstriction → <br>Improve Airway Function                                         |
-| Tropicamide<br>(Short Duration) | M3 receptor antagonist                                                     | Dilates pupil & paralyze accommodation →<br>Easy viewing of Retina in Eye Examinations / Surgeries |
-| Hyoscine                        | ↓ Reduce secretion<br>↓ Reflex bronchoconstriction<br>Prevents bradycardia | Anaesthetic Premedication (Preparations)<br>Treat Motion Sickness                                  |
-|                                 |                                                                            |                                                                                                    |
+|            **Drug**             |       **Effect**       | **Application**                                                                                    |                   Note                   |
+| :-----------------------------: | :--------------------: | -------------------------------------------------------------------------------------------------- | :--------------------------------------: |
+|           Pirenzepine           | M1 receptor antagonist | ↓ Gastric secretion → <br>Heal Gastric Ulcer                                                       |                                          |
+| Tropicamide<br>(Short Duration) | M3 receptor antagonist | Dilates pupil & paralyze accommodation →<br>Easy viewing of Retina in Eye Examinations / Surgeries |              Short Duration              |
+|           Tiotropium            | M3 receptor antagonist | ↓ Reflex Bronchoconstriction → <br>Improve Airway Function                                         |                                          |
+|          <br>Hyoscine           |        <br>idk         | ↓ Reflex Bronchoconstriction & Secretion →<br>Clear Airway for Anaesthetic Premedication           | <br>Side Effects: Dry Mouth & Drowsiness |
+|                ^                |           ^            | Treat Motion Sickness                                                                              |                    ^                     |
+
+
+#### **Ganglion Nicotinic Receptor Drugs**
+**Nicotinic Agonists**
+- Low Clinical Relevance with Unwanted Side Effects
+	- ∵ Autonomic Ganglia is involved in various processes
+
+| **Drug** | **Effect**               | **Application?** |
+| -------- | ------------------------ | ---------------- |
+| Nicotine | Pleasure feelings in CNS | Addiction        |
+
+**Nicotinic Antagonists**
+
+|   **Drug**    |         **Effect**         | **Application**                                     |       Note        |
+| :-----------: | :------------------------: | --------------------------------------------------- | :---------------: |
+|  Trimetaphan  | Competitive inhibitor of N | Short-term hypotension                              | In Surgeries only |
+| Hexamethonium |    Na+ channel blocker     | ↓ Sympathetic tone to BV & heart → Antihypertensive |     Obsolete      |
+
+
+#### **NMJ Nicotinic Receptor Drugs**
+**Non-depolarizing Blocking Agents**
+- Competitive inhibitors of postsynaptic nicotinic receptors
+- Can be reversed by Sugammadex or Anti-<abbr Title="Cholinesterase">ChE</abbr>
+
+|       **Types**        |         **Drug**         |
+| :--------------------: | :----------------------: |
+|           /            |       Tubocurarine       |
+|     Aminosteroids      | Pancuronium, Vecuronium  |
+| Tetrahydroisoquinoline | Atracurium, Mivacuronium |
+
+  
+
+**Depolarizing Blocking Agents (Suxamethonium)**
+- Agonists of postsynaptic nicotinic receptors
+	- Causes muscle twitches
+	- But long-lasting enough cause Depolarization block
+- Reversed by plasma ChE
+
