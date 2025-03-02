@@ -42,9 +42,10 @@ Lecture Notes
 	- Mostly hydrophilic drugs (Antibiotics)
 - Different Drugs have different rate of elimination in relation to k:
 
-|     |     |
-| --- | --- |
-|     |     |
+| Kinetics    | Elimination Rate |     |
+| ----------- | ---------------- | --- |
+| First Order |                  |     |
+| Zero Order  |                  |     |
 
 
 **Two Compartment Model**
