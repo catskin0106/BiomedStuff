@@ -43,16 +43,29 @@ Lecture Notes
 
 **Examples of Competitive Antagonism between Drugs**
 
-|       Conflicting Drugs (Disease)       |                                  <                                   |             Effect              |
-| :-------------------------------------: | :------------------------------------------------------------------: | :-----------------------------: |
-| β1 Antagonists (Coronary Heart Disease) |                     β2 Agonists (COPD / Asthma)                      | ↓ Bronchodilation Effectiveness |
-|             Opioids (Pain)              | <abbr Title="Opioid Receptor Antagonist">Naloxone</abbr> (Opioid OD) |          ↓ Painkilling          |
+|        Competing Drugs (Disease)        |                                                 <                                                  |             Effect              |
+| :-------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------------------------: |
+| β1 Antagonists (Coronary Heart Disease) |                                    β2 Agonists (COPD / Asthma)                                     | ↓ Bronchodilation Effectiveness |
+|             Opioids (Pain)              | <abbr Title="Opioid Receptor Antagonist">Naloxone</abbr> (Opioid <abbr Title="Overdose">OD</abbr>) |          ↓ Painkilling          |
 
 **Examples of Functional Synergism between Drugs**
 
-|                    Conflicting Drugs (Function)                     |                                                             <                                                             |        Effect         |
-| :-----------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------: |
-|                       Aspirin (GI Ulceration)                       |                                                 Warfarin (Anticoagulant)                                                  | GI Excessive Bleeding |
-| <abbr Title="Loop Diuretics">Furosemide</abbr> (K<sup>+</sup> Loss) | <abbr Title="Antiarrhythmics">Digoxin</abbr> (Competitive Na<sup>+</sup>/K<sup>+</sup> ATPase Inhibitor of K<sup>+</sup>) |   ↑ Digoxin Effect    |
-|                       Ethanol (GABAR Agonist)                       |                                                                                                                           |                       |
+|                    Synergizing Drugs (Function)                     |                                                             <                                                             |                                         Effect                                          |
+| :-----------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+|                       Aspirin (GI Ulceration)                       |                                                 Warfarin (Anticoagulant)                                                  |                                  GI Excessive Bleeding                                  |
+| <abbr Title="Loop Diuretics">Furosemide</abbr> (K<sup>+</sup> Loss) | <abbr Title="Antiarrhythmics">Digoxin</abbr> (Competitive Na<sup>+</sup>/K<sup>+</sup> ATPase Inhibitor of K<sup>+</sup>) |                                    ↑ Digoxin Effect                                     |
+|                       Ethanol (GABAR Agonist)                       |                                             Promethazine (Sedative Hypnotics)                                             | Additive Sedation / <abbr Title="Poor Muscular Coordination">Ataxia</abbr> / Depression |
 
+
+#### **Pharmacokinetic Interactions**
+- Happens during ADME
+
+**Pharmacokinetic Interactions during Absorption**
+- Competition for PPB → ↑ Free Competing Drugs in Plasma → OD
+	- Increases CL → ↑ in Free Drug may be a transient problem
+	- Clinically Critical if Drug has low V & Patient has low CL of Drug
+		- Low V = Drug stays longer in Plasma
+		- Low CL: Possibly due to Precipitant Drug preventing Metabolism / Excretion
+	- [[Lecture 2.2 - (Pharmacokinetics) Distribution#**Factors Affecting Distribution**|Examples of Highly PPB Drugs]]
+
+- 
