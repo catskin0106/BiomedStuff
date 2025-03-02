@@ -97,5 +97,5 @@ Lecture Notes
 - Agonists of postsynaptic nicotinic receptors
 	- Causes <abbr Title="Muscle Twitches">Fasciculations</abbr>
 	- But long-lasting enough cause Depolarization block
-- Reversed by plasma ChE
+- Reversed by Plasma ChE
 
