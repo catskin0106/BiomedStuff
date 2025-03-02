@@ -64,10 +64,10 @@ Lecture Notes
 - Precipitant Drugs modulating Absorption of Object Drugs
 	- Can be facilitative / disruptive
 
-| Drug                                                          | Mechanism                      | Effect on Object Drug Absorption                         |
-| ------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------- |
-| Metoclopramide                                                | ↑ GI Motility                  | ↑                                                        |
-| Antacids & Sucralfate                                         | ↓ Absorption                   | ↓ Tetracycline / Quinolones                              |
+|                             Drug                              |           Mechanism            | Effect on Object Drug Absorption                         |
+| :-----------------------------------------------------------: | :----------------------------: | -------------------------------------------------------- |
+|                        Metoclopramide                         |         ↑ GI Motility          | ↑                                                        |
+|                     Antacids & Sucralfate                     |          ↓ Absorption          | ↓ Tetracycline / Quinolones                              |
 | <abbr Title="Proton Pump Inhibitors">PPIs</abbr> (Omaprazole) | ↓ Stomach H<sup>+</sup> → ↑ pH | <abbr Title="∵ ↓ Ionization">↓ Weakly Basic Drugs</abbr> |
 
 
@@ -91,5 +91,9 @@ Lecture Notes
 | Famotidine |          Strong          |         Minimal          |
 
 **Pharmacokinetic Interactions during Excretion**
-- Competition for same transport mechanism in proximal tubules
+- Competition for same transport mechanism in proximal tubules → Slow Excretion → OD
 
+| Object Drug  | Precipitant Drug |     Effect      |
+| :----------: | :--------------: | :-------------: |
+|   Digoxin    |    Quinidine     |   Digoxin OD    |
+| Methotrexate |    Salicylate    | Methotrexate OD |
