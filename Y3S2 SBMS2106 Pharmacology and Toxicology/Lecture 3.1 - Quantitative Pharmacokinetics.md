@@ -28,9 +28,12 @@ Lecture Notes
 #### **Models to Quantify Drug Distribution & Elimination**
 **Variables in First Order Kinetics**
 
-| Variable                                       | Description                          | Formula   |
-| ---------------------------------------------- | ------------------------------------ | --------- |
-| Cp<sup>(t)</sup>                               | Drug Concentration at time t         |           |
-| <abbr Title="">k</abbr>                        |                                      | Cp0       |
-| <abbr Title="Half-Life">t<sub>1/2</sub></abbr> | Time for Cp<sup>0</sup> to be halved | 0.693 / k |
-|                                                |                                      |           |
+| Variable                                       | Description                                                                                | Formula                                                                                                                                        |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cp<sup>(t)</sup>                               | Drug Concentration at time t                                                               |                                                                                                                                                |
+| <abbr Title="">k</abbr>                        | Abstract Rate                                                                              | Cp = Cp<sup>0</sup>e<sup>-kt</sup><br><abbr Title="Logarithm Form (Straight Line Equation)">log Cp = (-k / 2.303)t + log Cp<sup>0</sup></abbr> |
+| <abbr Title="Half-Life">t<sub>1/2</sub></abbr> | Time for Cp<sup>0</sup> to be halved<br>- Full Drug Elimination: About 4-5 t<sub>1/2</sub> | 0.693 / k                                                                                                                                      |
+| <abbr Title="Clearance">CL</abbr> (mL/min)     | Blood Volume cleared from Drug per unit time                                               | k<abbr Title="Volume of Distribution">V</abbr>                                                                                                 |
+| <abbr Title="Area Under Curve">AUC             | Abstract Bioavailability Measure                                                           | Dose / CL                                                                                                                                      |
+
+****
