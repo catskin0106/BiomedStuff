@@ -24,15 +24,26 @@ Lecture Notes
 
 
 #### **Hepatic Clearance**
+- Hepatic Metabolism + Biliary Excretion
+
 **Hepatic Extraction**
 - Hepatic Extraction Rate:$$\Large Blood\;Flow(C_{A}\;-\;C_{V})$$
-- Hepatic Extraction Ratio:$$\Large\frac{Blood\;Flow(C_{A}\;-\;C_{V})}{Blood\;Flow(C_{A})}$$
+- Hepatic Extraction Ratio (E):$$\Large E=\frac{Blood\;Flow(C_{A}\;-\;C_{V})}{Blood\;Flow(C_{A})}$$
 	- From a scale of 0-1, the amount of administrated drug that gets extracted from liver
 
 **Hepatic Clearance**
-- Hepatic Clearance = Blood Flow * Extraction Ratio
-- Factors affecting ER:
-- Molecular size (PPB Binding)
-- Hepatic Perfusion
-- Liver Capabilities
-- ∴ Alterations in drug dosage are needed to prevent toxicity
+- Hepatic Clearance:$$\Large Blood\;Flow (E)$$
+- Factors affecting Hepatic Clearance:
+	- Amount of PPB drugs unavailable for Hepatic Absorption (Molecular Weight of Drugs)
+	- Hepatic Perfusion
+	- Liver Metabolizing Capabilities
+-  Alterations in drug dosage are needed to prevent toxicity depending on Patient Hepatic Clearance
+
+**Biliary Clearance**
+$$\Large \frac{Bile\;Flow(C_{bile})}{C_{p}}$$
+**Clearance and Bioavailability**
+
+| **Clearance** | **Bioavailability** |                  **Definition**                  | Rate Limiting Factor |
+| :-----------: | :-----------------: | :----------------------------------------------: | :------------------: |
+|     High      |         Low         | Hepatic: E > 0.7<br>Bile: C<sub>bile</sub> > Cp  |      Blood Flow      |
+|      Low      |        High         | Hepatic: E < 0.7<br>Bile: C<sub>bile</sub> <= Cp |    Enzymatic Rate    |
