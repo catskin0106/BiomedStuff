@@ -2,8 +2,9 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Autonomic Synapses
-- Drugs on Muscarinic Cholinergic Receptors
-- Drugs on 
+- Muscarinic Cholinergic Receptor Drugs
+- Ganglion Nicotinic Receptor Drugs
+- NMJ Nicotinic Receptor Drugs
 
 ---
 #### **Autonomic Synapses**
@@ -29,7 +30,34 @@ Lecture Notes
 
 |                               **Cholinergic Receptors**                                | **Efferent Cells**                                                                                                                                  |
 | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| N<sub>Ganglion, Muscle, CNS</sub><br><font size="2">(Ligand Gated Ion Channels)</font> | <abbr Title="Neuromuscular Junction">NMJ</abbr> Somatic muscle cells<br>Sympathetic & Parasympathetic Postganglionic Neurons                        |
+| N<sub>Ganglion, Muscle, CNS</sub><br><font size="2">(Ligand Gated Ion Channels)</font> | Sympathetic & Parasympathetic Postganglionic Neurons<br><abbr Title="Neuromuscular Junction">NMJ</abbr> Somatic muscle cells                        |
 |           <br>M<sub>1,2,3</sub><br><font size="2">(G-Protein Coupled)</font>           | Parasympathetic effector cells<br>- M<sub>1</sub>: Neural (CNS)<br>- M<sub>2</sub>: Cardiac (Atria)<br>- M<sub>3</sub>: Glandular (Exocrine Glands) |
 
-- 
+
+#### **Muscarinic Cholinergic Receptor Drugs**
+**Muscarinic Receptor Agonists**
+- Acetylcholine-like compounds
+- Different function groups modify agonist function:
+	- Acetyl group on left (CH<sub>3</sub>): Default
+	- Carbamyl group on left (NH<sub>2</sub>): Long lasting effect
+	- Methyl side chain on middle (CH<sub>3</sub>): ↑ Specificity on M (↓ on N)
+
+|  **Functional Group**  | No Side Chain | CH<sub>3</sub> side chain |
+| :--------------------: | :-----------: | :-----------------------: |
+| CH<sub>3</sub> on left | Acetylcholine |       Methacholine        |
+| NH<sub>2</sub> on left |   Carbachol   |        Bethanechol        |
+
+- Clinical use: Pilocarpine in <abbr Title="Eye Pressure too high">Glaucoma</abbr> treatment
+	- ↑ Ciliary & Circular muscle contraction → ↑ Aqueous Humour Removal
+
+**Muscarinic Receptor Antagonists**
+- Atropine-like agents
+	- Alkaloids (pA2 ≈ 9.0)
+
+| **Drug**                        | **Effect**                                                                 | **Application**                                                                                    |
+| ------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Pirenzepine                     | M1 receptor antagonist                                                     | ↓ Gastric secretion → <br>Heal Gastric Ulcer                                                       |
+| Tiotropium                      | M3 receptor antagonist                                                     | ↓ Reflex bronchoconstriction → <br>Improve Airway Function                                         |
+| Tropicamide<br>(Short Duration) | M3 receptor antagonist                                                     | Dilates pupil & paralyze accommodation →<br>Easy viewing of Retina in Eye Examinations / Surgeries |
+| Hyoscine                        | ↓ Reduce secretion<br>↓ Reflex bronchoconstriction<br>Prevents bradycardia | Anaesthetic Premedication (Preparations)<br>Treat Motion Sickness                                  |
+|                                 |                                                                            |                                                                                                    |
