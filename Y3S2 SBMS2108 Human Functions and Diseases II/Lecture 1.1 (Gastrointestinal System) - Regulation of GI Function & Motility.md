@@ -10,17 +10,17 @@ Lecture Notes
 **GI Tract**
 - Mouth → Esophagus → Stomach → Duodenum → Ileum → Cecum → <abbr Title="Ascending → Transverse → Descending">Colon</abbr> → Jejunum → Anus
 
-| **Structure**      | <                         | **Function** |
-| :----------------- | :------------------------ | ------------ |
-| Mucosa             | Epithelium                |              |
-| ^                  | Lamina Propria            |              |
-| ^                  | Muscularis Mucosa         |              |
-| Submucosa          | Blood & Lymphatic Vessels |              |
-| ^                  | Submucosal Plexis         |              |
-| Muscularis Externa | Circular Muscle           |              |
-| ^                  | Myenteric Plexis          |              |
-| ^                  | Longitudinal Muscle       |              |
-| Serosa             | <                         |              |
+| **Structure**      | <                         | **Function**                                    |
+| :----------------- | :------------------------ | ----------------------------------------------- |
+| Mucosa             | Epithelium                |                                                 |
+| ^                  | Lamina Propria            |                                                 |
+| ^                  | Muscularis Mucosa         |                                                 |
+| Submucosa          | Blood & Lymphatic Vessels |                                                 |
+| ^                  | Submucosal Plexus         | <abbr Title="Enteric Nervous System">ENS</abbr> |
+| Muscularis Externa | Circular Muscle           |                                                 |
+| ^                  | Myenteric Plexus          | <abbr Title="Enteric Nervous System">ENS</abbr> |
+| ^                  | Longitudinal Muscle       |                                                 |
+| Serosa             | <                         |                                                 |
 
 **GI Accessory Organs**
 - Salivary Glands
@@ -57,24 +57,25 @@ Lecture Notes
 #### **Regulation of Gastrointestinal System Function**
 **Stimuli & Receptors**
 
-| Receptor       | Stimuli |
-| -------------- | ------- |
-| Mechanoceptors |         |
-|                |         |
-
-- Mechanoreceptors: Distension
-- Chemoreceptors: pH & Digestion Products
-- Osmoreceptors: Solute Concentration of Chyme
+| Receptor         | Stimuli                       |
+| ---------------- | ----------------------------- |
+| Mechanoreceptors | Distension                    |
+| Chemoreceptors   | pH & Digestion Products       |
+| Osmoreceptors    | Solute Concentration of Chyme |
 
 **Effectors & Responses**
-- GI Tract Muscle Layer: Motility
-- Glands: Secretion
+
+| Effector         | Response  |
+| ---------------- | --------- |
+| GI Muscle Layers | Motility  |
+| Glands           | Secretion |
+
 
 **Regulation of GI Function**
 - Neurohormonal Regulation
 
-| Pathway    | Origin                | Function                                                        |
-| ---------- | --------------------- | --------------------------------------------------------------- |
-| Neurocrine | GI Tract Neurons      |                                                                 |
-| Endocrine  | Enteroendocrine Cells | Deliver hormone to target cell through bloodstream<br>e.g.      |
-| Paracrine  |                       | Deliver agents to nearby cells through simple diffusion<br>e.g. |
+| Pathway    | Origin                    | Destination                      | Examples                                                                                    |
+| ---------- | ------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------- |
+| Neurocrine | GI Tract Neurons          | Synapses                         | Acetylcholine                                                                               |
+| Endocrine  | <br>Enteroendocrine Cells | Target Cells through Bloodstream | <abbr Title="to G Cells">Gastrin</abbr>                                                     |
+| Paracrine  | ^                         | Nearby Target Cells Directly     | <abbr Title="to GD Cells">Somatostatin</abbr> & <abbr Title="to ECF Cells">Histamine</abbr> |
