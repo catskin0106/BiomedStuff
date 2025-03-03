@@ -33,25 +33,25 @@ Lecture Notes
 
 **Secretion**
 - Secretion of material facilitating digestion into lumen / ECF
-	- Enzymes (Enterocytes)
-	- Mucus (Goblet Cells)
+	- Enzymes from Enterocytes
+	- Mucus from Goblet Cells
 
 **Digestion**
 - Breakdown of food into absorbable units
 	- Mechanical Digestion
 		- Mastication
 		- Churning
-	- Chemical Digestion
-		- Requires Enzymes
+	- Chemical (Enzymatic) Digestion
 
 **Absorption**
+- Movement of Material from GI Lumen to <abbr Title="Extracellular Fluid">ECF</abbr>
 
 **Motility**
-- Segmental Contractions → Mixing of Food
-	- Non-propulsive Annular Contractions → ↑ Digestion & Absorption
-- Peristalsis → Propulsion of Chyme
+- Segmental Contractions: Mixing of Food for Digestion & Absorption
+	- Non-propulsive <abbr Title="Ring-shaped">Annular</abbr> Contractions
+- Peristalsis: Propulsion of Chyme along GI Tract
 	- Successive & Coordinated Sequential Annular Contractions → Propagate food along GI tract
-- Coordinated Sphincter Activity → Luminal Content Segmentation
+- Coordinated Sphincter Activity: Luminal Content Segmentation
 
 
 #### **Regulation of Gastrointestinal System Function**
