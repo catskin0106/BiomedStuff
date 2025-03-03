@@ -2,7 +2,8 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Esophageal Motility
-- 
+- Gastric Motility
+- Gastric Secretion
 
 ---
 #### **Esophageal Motility**
@@ -26,6 +27,29 @@ Lecture Notes
 	- Failure in regulation will lead to <abbr Title="Gastric Emptying too Slow">Gastroparesis</abbr> / <abbr Title="Gastric Emptying too Fast">Dumping Syndrome</abbr>
 - Slowed when Fatty / Acidic Chyme enters Duodenum:
 
-| Step | Fatty Chyme | Acidic Chyme |
-| ---- | ----------- | ------------ |
-| 1    |             |              |
+| Step |                        Fatty Chyme                         |                             Acidic Chyme                              |
+| :--: | :--------------------------------------------------------: | :-------------------------------------------------------------------: |
+|  1   |            Receptor activated by lipid content             |                     Receptor activated by low pH                      |
+|  2   | ↑ Enterogastrone Secretion to Plasma & Detected by Stomach |                                   <                                   |
+|  3   |        ↓ Gastric Emptying & ↓ Delivery to Duodenum         |                                   <                                   |
+|  4   |          More time for Fat Digestion & Absorption          | More time for <abbr Title="By Pancreatic HCO₃⁻">Neutralization</abbr> |
+
+
+#### **Gastric Secretion**
+**Gastric Wall Structure**
+- Same as [[Lecture 1.1 (Gastrointestinal System) - Regulation of GI Function & Motility#**Gastrointestinal System Structure**|that of GI Tract]], Except:
+	- Mucosa has Gastric Glands & Pits
+	- Muscularis Externa also performs Churning
+  
+
+**Cells of Gastric Gland**
+
+|      **Structure**       |                             <                              | **Secretion**                                                                                                                                                                                                                                                                                                   | Function                 |
+| :----------------------: | :--------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+|       Mucus Cells        |                             <                              | Mucus                                                                                                                                                                                                                                                                                                           | Protect from HCl         |
+|       Chief Cells        |                             <                              | <abbr Title="Immature pepsin">Pepsinogen</abbr><br>- Converted if pH < 3 / Pepsin is present                                                                                                                                                                                                                    | Digest Protein as Pepsin |
+|      Parietal Cells      |                             <                              | Intrinsic Factor: Helps Vitamin B12 absorption                                                                                                                                                                                                                                                                  |                          |
+|                          |                                                            | HCl: Secreted by H<sup>+</sup>/K<sup>+</sup>-ATPase in 3 phases<br>- <abbr Title="Before Bolus Arrival at Stomach">Cephalic phase</abbr> (30%)<br>- <abbr Title="After Bolus Arrival at Stomach">Gastric phase</abbr> (60%)<br>- <abbr Title="After Bolus Departure from Stomach">Intestinal phase</abbr> (10%) |                          |
+| Enteroendocrine<br>Cells | <abbr Title="Enterochromaffin-Like Cells">ECL Cells</abbr> | Histamine (Paracrine): Stimulate HCl secretion                                                                                                                                                                                                                                                                  |                          |
+|            ^             |                          G Cells                           | Gastrin (Endocrine): Stimulate HCl secretion                                                                                                                                                                                                                                                                    |                          |
+|            ^             |                          D Cells                           | Somatostatin (Paracrine): Inhibit HCl secretion<br><br>- Direct Pathway: Inhibit Parietal Cells<br>    <br>- Indirect Pathway: Inhibit G & ECL Cells                                                                                                                                                            |                          |

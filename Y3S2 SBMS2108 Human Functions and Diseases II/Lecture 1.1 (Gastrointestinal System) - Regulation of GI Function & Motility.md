@@ -74,8 +74,8 @@ Lecture Notes
 **Regulation of GI Function**
 - Neurohormonal Regulation
 
-| Pathway    | Origin                    | Destination                      | Examples                                                                                    |
-| ---------- | ------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------- |
-| Neurocrine | GI Tract Neurons          | Synapses                         | Acetylcholine                                                                               |
-| Endocrine  | <br>Enteroendocrine Cells | Target Cells through Bloodstream | <abbr Title="to G Cells">Gastrin</abbr>                                                     |
-| Paracrine  | ^                         | Nearby Target Cells Directly     | <abbr Title="to GD Cells">Somatostatin</abbr> & <abbr Title="to ECF Cells">Histamine</abbr> |
+| Pathway    | Origin                     | Destination                      | Examples                                                                                    |
+| ---------- | -------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------- |
+| Neurocrine | GI Tract Neurons from CN X | Synapses                         | Acetylcholine                                                                               |
+| Endocrine  | <br>Enteroendocrine Cells  | Target Cells through Bloodstream | <abbr Title="to G Cells">Gastrin</abbr>                                                     |
+| Paracrine  | ^                          | Nearby Target Cells Directly     | <abbr Title="to GD Cells">Somatostatin</abbr> & <abbr Title="to ECF Cells">Histamine</abbr> |
