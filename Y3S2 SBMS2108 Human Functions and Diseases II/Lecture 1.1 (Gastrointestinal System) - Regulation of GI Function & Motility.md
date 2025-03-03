@@ -10,17 +10,17 @@ Lecture Notes
 **GI Tract**
 - Mouth → Esophagus → Stomach → Duodenum → Ileum → Cecum → <abbr Title="Ascending → Transverse → Descending">Colon</abbr> → Jejunum → Anus
 
-|   **Structure**    | <                         | **Function** |
-| :----------------: | :------------------------ | ------------ |
-|       Mucosa       | Epithelium                |              |
-|         ^          | Lamina Propria            |              |
-|         ^          | Muscularis Mucosa         |              |
-|     Submucosa      | Blood & Lymphatic Vessels |              |
-|         ^          | Submucosal Plexis         |              |
+| **Structure**      | <                         | **Function** |
+| :----------------- | :------------------------ | ------------ |
+| Mucosa             | Epithelium                |              |
+| ^                  | Lamina Propria            |              |
+| ^                  | Muscularis Mucosa         |              |
+| Submucosa          | Blood & Lymphatic Vessels |              |
+| ^                  | Submucosal Plexis         |              |
 | Muscularis Externa | Circular Muscle           |              |
-|         ^          | Myenteric Plexis          |              |
-|         ^          | Longitudinal Muscle       |              |
-|       Serosa       | <                         |              |
+| ^                  | Myenteric Plexis          |              |
+| ^                  | Longitudinal Muscle       |              |
+| Serosa             | <                         |              |
 
 **GI Accessory Organs**
 - Salivary Glands
@@ -56,6 +56,12 @@ Lecture Notes
 
 #### **Regulation of Gastrointestinal System Function**
 **Stimuli & Receptors**
+
+| Receptor       | Stimuli |
+| -------------- | ------- |
+| Mechanoceptors |         |
+|                |         |
+
 - Mechanoreceptors: Distension
 - Chemoreceptors: pH & Digestion Products
 - Osmoreceptors: Solute Concentration of Chyme
