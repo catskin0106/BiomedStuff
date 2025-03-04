@@ -9,7 +9,18 @@ Lecture Notes
 #### **Digestion & Absorption of Carbohydrates**
 **Digestion of Carbohydrates**
 - Polysaccharides → Disaccharides → <abbr Title="Glucose, Galactose, Fructose">Monosaccharides</abbr> (Absorbable form)
-	- ([[2108_CarboDigestion.png|Diagram]])
+
+```mermaid  
+graph TD;
+	Polysaccharides --> |Amylase|Maltose;
+	Polysaccharides --> |Amylase|Sucrose; 
+	Polysaccharides --> |Amylase|Lactose;
+	Maltose --> |Maltase|A["2 Glucose"];
+	Sucrose --> |Sucrase|B["1 Glucose
+	1 Fructose"];
+	Lactose --> |Lactase|C["1 Glucose
+	1 Galactase"];
+```
 
 **Absorption of Carbohydrates**
 - Movement from Lumen → Enterocyte → Capillaries
