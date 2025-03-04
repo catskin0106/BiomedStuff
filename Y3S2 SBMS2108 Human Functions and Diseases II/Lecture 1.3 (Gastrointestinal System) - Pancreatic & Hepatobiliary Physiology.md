@@ -7,9 +7,14 @@ Lecture Notes
 
 ---
 #### **Pancreatic Functions**
-- 
+- Exocrine Organ for Digestive Proenzyme Secretion
 
-**Digestive Functions**
+**Pancreatic Secretion**
+
+|     |     |
+| --- | --- |
+|     |     |
+
 
 
 #### **Hepatic Functions**
