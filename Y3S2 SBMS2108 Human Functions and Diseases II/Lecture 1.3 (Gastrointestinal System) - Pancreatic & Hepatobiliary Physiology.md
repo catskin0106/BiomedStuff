@@ -69,3 +69,15 @@ Lecture Notes
 
 
 #### **Biliary System**
+**Composition & Function of Bile**
+
+|      Component       |        <         | Function                                                                                                                                                                                 |
+| :------------------: | :--------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Water & Electrolytes |        <         |                                                                                                                                                                                          |
+|    <br>Bile Salt     | <br>Cholesterol  | Lipid Emulsification for Pancreatic Lipase Digestion<br><abbr Title="Fat Droplets surrounded by Bile Salts">Micelle</abbr> Formation to Facilitate Absorption<br>Cholesterol Elimination |
+|     Bile Pigment     | Mainly Bilirubin | Bilirubin Elimination                                                                                                                                                                    |
+|    Phospholipids     | Mainly Lecithin  |                                                                                                                                                                                          |
+
+**Origin of Bile Components**
+- Bile Salt
+	- Cholesterol
