@@ -2,7 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Digestion & Absorption of Carbohydrates
-- Absorption of Proteins
+- Digestion & Absorption of Proteins
 - Absorption of Lipids
 
 ---
@@ -12,5 +12,16 @@ Lecture Notes
 	- ([[2108_CarboDigestion.png|Diagram]])
 
 **Absorption of Carbohydrates**
-- Through Enterocyte Transporter Proteins
+- Movement from Lumen → Enterocyte → Capillaries
+	- Through Enterocyte Transporter Proteins
+	- Fructose has different Pathway from Glucose & Galactose
 
+|         Movement         |                        Glucose & Galactose Transporter                         |                           Fructose Transporter                            |
+| :----------------------: | :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|    Lumen → Enterocyte    | <abbr Title="Sodium GLucose co-Transporter 1">SGLT-1</abbr> (Active Transport) | <abbr Title="GLUcose Transporter 5">GLUT-5</abbr> (Facilitated Diffusion) |
+| Enterocyte → Capillaries |   <abbr Title="GLUcose Transporter 2">GLUT-2</abbr> (Facilitated Diffusion)    |                                     <                                     |
+
+
+#### **Digestion & Absorption of Proteins**
+**Digestion of Proteins**
+- 
