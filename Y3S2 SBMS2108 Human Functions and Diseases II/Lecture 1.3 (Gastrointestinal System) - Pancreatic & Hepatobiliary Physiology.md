@@ -80,4 +80,21 @@ Lecture Notes
 
 **Origin of Bile Components**
 - Bile Salt
-	- Cholesterol
+	- Cholesterol → Bile Acid + Conjugation with Glycine / Taurine
+- Bilirubin
+	- from Heme of old RBC Haemoglobins
+		- Old RBCs are broken down by <abbr Title="Part of Immune System that clears abnormal & old cells">Reticuloendothelial System</abbr>
+		- Transported to liver from blood through PPB (Albumin)
+
+**Excretion of Bile Components**
+- Bile Salt
+
+|            Stage            | Description                                                                            | <   |
+| :-------------------------: | -------------------------------------------------------------------------------------- | --- |
+| Bile Secretion & Production | By Hepatocytes                                                                         | <   |
+|   Bile Temporary Storage    | Liver → Biliary Tract → Gall Bladder                                                   | <   |
+|        CCK Secretion        | Stimulated by Fatty Acid & Amino Acid                                                  | <   |
+|      <br>Bile Release       | CCK triggers:<br>- Gall Bladder Contraction<br>- Hepatopancreatic Sphincter Relaxation | <   |
+|        Fate of Bile         | Re-circulation back to Liver                                                           |     |
+
+
