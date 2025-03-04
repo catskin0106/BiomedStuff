@@ -60,4 +60,4 @@ graph TD;
 
 #### **Digestion & Absorption of Lipids**
 **Digestion of Lipids**
-- Lipid Droplet Mechanical Breakdown → Emulsification → 
+- Lipid Droplet Mechanical Breakdown → Emulsification → Lipid in Micelle (Absorbable Form)
