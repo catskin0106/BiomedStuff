@@ -35,4 +35,23 @@ graph TD;
 
 #### **Digestion & Absorption of Proteins**
 **Digestion of Proteins**
-- 
+- Proteins → Oligopeptides (Poorly Absorbed) → <abbr Title="Free Amino Acid">FAA</abbr> / Di-&Tri-peptides (Absorbable Form)
+	- Types of FAAs: Acidic, Basic, Neutral, Imino
+
+```mermaid  
+graph TD;
+	Protein-->|Stomach Pepsin
+	Pancreatic Protease|A["Oligopeptides (4-6 A.A.)"];
+	Protein-->|Stomach Pepsin
+	Pancreatic Protease|B["FAA / Di-&Tri-peptides"];
+	A-->|Brush Border Peptidases|B
+```
+
+**Absorption of Proteins**
+- Movement from Lumen → Enterocyte → Capillaries
+	- FAA has different Pathway from Di-&Tri-peptides
+
+|         Movement         |                FAA                | Di-&Tri-Peptides |
+| :----------------------: | :-------------------------------: | :--------------: |
+|    Lumen → Enterocyte    | Sodium-Amino Acid Co-Transporters |                  |
+| Enterocyte → Capillaries |                                   |                  |
