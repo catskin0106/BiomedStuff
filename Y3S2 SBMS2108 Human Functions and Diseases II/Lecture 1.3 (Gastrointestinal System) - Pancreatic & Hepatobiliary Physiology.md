@@ -32,12 +32,40 @@ Lecture Notes
 
 |      Regulation Target      |            Regulatory Hormone            | Hormone Secreting Cell |
 | :-------------------------: | :--------------------------------------: | :--------------------: |
-| HCO<sub>3</sub><sup>-</sup> |             Plasma Secretin              |        S Cells         |
-|           Enzymes           | <abbr Title="Cholecystokinin">CCK</abbr> |        I Cells         |
+| HCO<sub>3</sub><sup>-</sup> |             Plasma Secretin              |     Ileum S Cells      |
+|           Enzymes           | <abbr Title="Cholecystokinin">CCK</abbr> |     Ileum I Cells      |
 
 
 
 #### **Hepatic Functions**
-- Digestive, Endocrine, Excretory & Hematologic
+- Hematologic, Endocrine Excretory & Digestive Functions
+
+**Hepatological Functions**
+- Temporary Blood Storage
+- Synthesis of
+	- Blood Clotting Factors
+	- Plasma Proteins
+
+**Endocrine Functions**
+- Hormone Metabolism:
+	- Glucocorticoids & Mineralocorticoids
+	- Sex Hormones
+- Regulation of Nutrient Metabolism
+	- Carbohydrates, Fat & Proteins
+
+**Excretory Functions**
+- Detoxification & Waste Removal
+	- [[Lecture 2.3 - (Pharmacokinetics) Metabolism#**Phase of Liver Drug Biotransformation**|Drug Functionalization & Conjugation]]
+	- Bile Excretion
+		- Plasma Bilirubin Removal as Bile Pigment
+		- Cholesterol Removal as Bile Salt
+	- Ammonia Removal as Urea
 
 **Digestive Functions**
+- Secrete Bile Salt for Fat Digestion
+- Process & Store Nutrients:
+	- Carbohydrates, Fat & Proteins
+	- Vitamin & Minerals
+
+
+#### **Biliary System**
