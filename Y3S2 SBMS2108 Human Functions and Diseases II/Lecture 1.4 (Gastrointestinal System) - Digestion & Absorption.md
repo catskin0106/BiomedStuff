@@ -8,4 +8,9 @@ Lecture Notes
 ---
 #### **Digestion & Absorption of Carbohydrates**
 **Digestion of Carbohydrates**
-- Polysach
+- Polysaccharides → Disaccharides → <abbr Title="Glucose, Galactose, Fructose">Monosaccharides</abbr> (Absorbable form)
+	- ([[2108_CarboDigestion.png|Diagram]])
+
+**Absorption of Carbohydrates**
+- Through Enterocyte Transporter Proteins
+
