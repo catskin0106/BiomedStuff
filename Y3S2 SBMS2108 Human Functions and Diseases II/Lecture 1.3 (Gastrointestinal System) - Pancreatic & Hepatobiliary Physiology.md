@@ -1,9 +1,10 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Esophageal Motility
-- Gastric Motility
-- Gastric Secretion
+- Hepatic Functions
 
 ---
-#### **Esophageal Motility**
+#### **Hepatic Functions**
+- Digestive, Endocrine, Excretory & Hematologic
+
+**Digestive Functions**
