@@ -3,7 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Digestion & Absorption of Carbohydrates
 - Digestion & Absorption of Proteins
-- Absorption of Lipids
+- Digestion & Absorption of Lipids
 
 ---
 #### **Digestion & Absorption of Carbohydrates**
@@ -36,7 +36,6 @@ graph TD;
 #### **Digestion & Absorption of Proteins**
 **Digestion of Proteins**
 - Proteins → Oligopeptides (Poorly Absorbed) → <abbr Title="Free Amino Acid">FAA</abbr> / Di-&Tri-peptides (Absorbable Form)
-	- Types of FAAs: Acidic, Basic, Neutral, Imino
 
 ```mermaid  
 graph TD;
@@ -50,8 +49,15 @@ graph TD;
 **Absorption of Proteins**
 - Movement from Lumen → Enterocyte → Capillaries
 	- FAA has different Pathway from Di-&Tri-peptides
+	- Different Mechanisms for Different A.A. Types (Acidic, Basic, Neutral, Imino)
 
-|         Movement         |                FAA                | Di-&Tri-Peptides |
-| :----------------------: | :-------------------------------: | :--------------: |
-|    Lumen → Enterocyte    | Sodium-Amino Acid Co-Transporters |                  |
-| Enterocyte → Capillaries |                                   |                  |
+|         Movement         |                                                                 FAA                                                                 |                         Di-&Tri-Peptides                          |
+| :----------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: |
+|    Lumen → Enterocyte    | <abbr Title="One for each A.A. Type (Acidic, Basic, Neutral, Imino)">Sodium-Amino Acid Co-Transporters</abbr><br>(Active Transport) | Separate Hydrogen-Dependent Co-Transporters<br>(Active Transport) |
+|        Enterocyte        |                                                                  /                                                                  |            Hydrolysis to FAA by Cytoplasmic Peptidases            |
+| Enterocyte → Capillaries |                                            Different Mechanisms for Each Amino Acid Type                                            |                                 <                                 |
+
+
+#### **Digestion & Absorption of Lipids**
+**Digestion of Lipids**
+- Lipid Droplet Mechanical Breakdown → Emulsification → 
