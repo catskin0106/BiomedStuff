@@ -59,16 +59,16 @@ Lecture Notes
 	- Through H<sup>+</sup>/K<sup>+</sup>-ATPase activated by 2 Downstream Pathways:
 		- 2<sup>nd</sup> Messengers Involved: cAMP & Ca<sup>2+</sup>
 
-| Pathway    | <         | Secretion     | Receptor on Parietal Cell |
-| ---------- | --------- | ------------- | ------------------------- |
-| Neurocrine | CN X      | Acetylcholine | M<sub>3</sub> Receptor    |
-| Endocrine  | G Cells   | Gastrin       | CCK<sub>2</sub> Receptor  |
-| Paracrine  | ECL Cells | Histamine     | H<sub>2</sub> Receptor    |
+|  Pathway   |     <     |   Secretion   | Receptor on Parietal Cell |
+| :--------: | :-------: | :-----------: | :-----------------------: |
+| Neurocrine |   CN X    | Acetylcholine |  M<sub>3</sub> Receptor   |
+| Endocrine  |  G Cells  |    Gastrin    | CCK<sub>2</sub> Receptor  |
+| Paracrine  | ECL Cells |   Histamine   |  H<sub>2</sub> Receptor   |
 
 - Inhibition of Gastric Acid Secretion
 	- Somatostatin by D Cells
 
-| Pathway  | Target Cell    | Receptor on Target Cell   | Mechanism                           |
-| -------- | -------------- | ------------------------- | ----------------------------------- |
-| Direct   | Parietal Cells | SSTR<sub>2</sub> Receptor | Inhibit cAMP-dependent Pathway      |
-| Indirect | ECL & G Cells  |                           | Inhibit Gastrin / Histamine Release |
+| Pathway  |  Target Cell   |  Receptor on Target Cell  |              Mechanism              |
+| :------: | :------------: | :-----------------------: | :---------------------------------: |
+|  Direct  | Parietal Cells | SSTR<sub>2</sub> Receptor |   Inhibit cAMP-dependent Pathway    |
+| Indirect | ECL & G Cells  |            idk            | Inhibit Gastrin / Histamine Release |
