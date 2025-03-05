@@ -27,7 +27,13 @@ Lecture Notes
 |      Urease       | Urea → Ammonia + CO<sub>2</sub> | Ammonia Allow H. Pylori survival & mucus erosion |
 |     Cytotoxin     | /                               | <br>Mucosa Damage & Ulcerogenesis                |
 | Mucolytic enzymes | ^                               | ^                                                |
+- Diagnosis:
 
+| Test               | <    | Positive Case Indication |
+| ------------------ | ---- | ------------------------ |
+| Stool Antigen Test | 14C- |                          |
+| Urea Breath Test   |      |                          |
+| Rapid Urease Test  |      |                          |
 
 **Gastritis**
 - Acute & Chronic
@@ -64,9 +70,19 @@ Lecture Notes
 **Inflammatory Bowel Diseases (IBD)**
 - Crohn Disease & Ulcerative Colitis
 
-|      Property       | Crohn Disease | Ulcerative Colitis |
-| :-----------------: | ------------- | ------------------ |
-|       Factors       | Maldigestion  |                    |
-|      Pathology      |               |                    |
-|    <br>Symptoms     |               |                    |
-| Disease Progression |               |                    |
+|      Property       | Crohn Disease                                                                                                                          | Ulcerative Colitis                                                           |
+| :-----------------: | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+|     <br>Factors     | Familial<br>Indigestion → <abbr Title="Hypoproteinemia, Avitaminosis & Steatorrhea">Malnutrition</abbr><br>Glucocorticoid in Treatment | Familial                                                                     |
+|      Pathology      | Skip Lesions in Ileum                                                                                                                  | Inflammation from Rectum to Colon                                            |
+|      Symptoms       | ↓ Motility & Absorption                                                                                                                | Marked Diarrhea with Blood & Pain                                            |
+| Disease Progression | Inflammation & Fibrosis → <br><abbr Title="Adhesions between Ileum loops">Fistula</abbr> Formation                                     | Muscularis Externa Inflammation → Muscle Paralysis → <br>Megacolon Formation |
+
+**Irritable Bowel Syndrome (IBS)**
+- Celiac Disease 
+	- Gluten-Sensitive Enteropathy
+
+| Property  | Description                                                                      |
+| :-------: | -------------------------------------------------------------------------------- |
+|  Factors  | Allergy to Gliadin in Gluten                                                     |
+| Pathology | Villi Atrophy → ↓ Absorptive Surface for Food<br>Crypt Hyperplasia → ↑ Secretion |
+| Diagnosis | Serology test for <abbr Title="Tissue Transglutaminase">TTG</abbr> → Biopsy      |
