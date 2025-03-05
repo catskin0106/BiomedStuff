@@ -13,8 +13,8 @@ Lecture Notes
 |      Property       | Description                                                    |
 | :-----------------: | -------------------------------------------------------------- |
 |    Pathogenesis     | Incompetent LES → Acid Reflux                                  |
-| Disease Progression | Esophageal Mucosa Inflammation & Erosion → Fibrosis & Stenosis |
 |      Symptoms       | Heartburn                                                      |
+| Disease Progression | Esophageal Mucosa Inflammation & Erosion → Fibrosis & Stenosis |
 
 
 #### **Gastric Diseases**
@@ -36,15 +36,37 @@ Lecture Notes
 | :-----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 |   <br><br>Factors   | - Microorganism Infection (H. Pylori)<br>- Radiation / Chemotherapy<br>- Irritative / Allergic Substance Ingestion<br>   - Food & Alcohol<br>   - Corrosive / Toxic (Aspirin & NSAIDs) | - Microorganism Infection (H. Pylori)<br>- Others idk                                 |
 |      Pathology      | Gastric Ulcer & Bleeding                                                                                                                                                               | Gastric Mucosa Atrophy (↓ Secretory Gland & <abbr Title="Intrinsic Factor">IF</abbr>) |
-| Disease Progression | <abbr Title="Can Heal without Intervention">Self-Limiting</abbr>                                                                                                                       | ↑ Peptic Ulcer & Carcinoma Risk                                                       |
 |    <br>Symptoms     | Discomfort (Epigastric Pain & Cramps)<br>Anorexia, Nausea & Vomiting<br><abbr Title="Blood in Vomit">Hematemesis</abbr>                                                                | Mild Discomfort<br>Anorexia                                                           |
+| Disease Progression | <abbr Title="Can Heal without Intervention">Self-Limiting</abbr>                                                                                                                       | ↑ Peptic Ulcer & Carcinoma Risk                                                       |
 
 **Peptic Ulcer Disease**
 
-|      Property       |       <        | Description                                                                                                                                                        |
-| :-----------------: | :------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   <br><br>Factors   |   Exogenous    | H. Pylori<br>Smoking, Alcohol, NSAIDs → Vasoconstriction                                                                                                           |
-|          ^          | <br>Endogenous | ↓ Protection: HCO<sub>3</sub><sup>-</sup>, <abbr Title="Prostaglandins">PG</abbr><br>↑ Gastric Acidity: HCl & Gastrin<br>Gastric Mucosa Atrophy: Chronic Gastritis |
-|    Pathogenesis     |       <        | Mucosal Barrier Damage →<br>Ulcers in Gastric Antrum & Proximal Duodenum                                                                                           |
-| Disease Progression |       <        |                                                                                                                                                                    |
+|      Property       |       <        | Description                                                                                                                                                            |
+| :-----------------: | :------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   <br><br>Factors   |   Exogenous    | H. Pylori<br>Smoking, Alcohol → Vasoconstriction<br>NSAIDs (COX Inhibitor) → <abbr Title="Prostaglandins (↑ Mucus & HCO₃⁻ Secretion & Mucosal Blood Flow)">↓ PG</abbr> |
+|          ^          | <br>Endogenous | ↓ Protection from HCO<sub>3</sub><sup>-</sup>, PG<br>↑ Gastric Acidity from HCl & Gastrin<br>Chronic Gastritis → Gastric Mucosa Atrophy                                |
+|    Pathogenesis     |       <        | Mucosal Barrier Damage →<br>Ulcers in Gastric Antrum & Proximal Duodenum                                                                                               |
+|      Symptoms       |       <        | Blood Vessel Erosion → Hemorrhage <br>Perforation → Chyme in Peritoneal Cavity → Peritonitis                                                                           |
+| Disease Progression |       <        | Scar Tissue Formation → Obstruction                                                                                                                                    |
 
+
+
+#### **Intestinal Diseases**
+**Diverticulosis & Diverticulitis**
+
+|        Property         | Description                                   |
+| :---------------------: | --------------------------------------------- |
+|         Factors         | Possibly Roughage-Low / Refine food-High Diet |
+|        Pathology        | Outpouching (esp. Sigmoid Colon)              |
+|   Disease Progression   | Progress with Age → Diverticulitis            |
+| Diverticulitis Symptoms | Severe Abdominal Pain, Fever & Nausea         |
+
+**Inflammatory Bowel Diseases (IBD)**
+- Crohn Disease & Ulcerative Colitis
+
+|      Property       | Crohn Disease | Ulcerative Colitis |
+| :-----------------: | ------------- | ------------------ |
+|       Factors       | Maldigestion  |                    |
+|      Pathology      |               |                    |
+|    <br>Symptoms     |               |                    |
+| Disease Progression |               |                    |
