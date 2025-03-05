@@ -69,11 +69,21 @@ graph TD;
 | 1        | Diffusion              | Lipid Diffuse into <abbr Title="Brush Border Membrane">BBM</abbr> from Micelles                                                                                |
 | <br>2    | <br>Re-esterification  | Monoglyceride + <abbr Title="Long Chain Fatty Acid">LCFA</abbr> → Triglyceride<br>Cholesterol + LCFA → Cholesterol Ester<br>Lysolecithin + LCFA → Phospholipid |
 | 3        | Chylomicron Formation  | Lipids are packaged with apoprotein                                                                                                                            |
-| 4        | Chylomicron Exocytosis | Chylomicron cross the <abbr Title="Basolateral Membrane">BLM</abbr>                                                                                            |
+| 4        | Chylomicron Exocytosis | Chylomicron cross the <abbr Title="Basolateral Membrane">BLM</abbr> into Lacteal                                                                               |
 
 
 #### **Digestion & Absorption of Water & Electrolytes**
 - 2L Dietary fluid & 7L Secreted Fluid
-	- ~80%: Small Intestine enterocytes (Solute absorption before water)
-	- ~1.5L: Large Intestine
+	- ~80%: From Small Intestine enterocytes (Solute absorption before water)
+	- ~1.5L: From Large Intestine
 
+
+#### **Absorption of Vitamins**
+Fat Soluble Vitamins (ADEK)
+- Solubilized in micelles & travel to lacteal in chylomicrons
+
+Water Soluble Vitamins (BC except B<sub>12</sub>)
+- Small Intestine: Na<sup>+</sup>-Dependent Cotransporter
+
+Vitamins B<sub>12</sub>
+- Distal Ileum Only: Requires Intrinsic Factor
