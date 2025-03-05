@@ -25,7 +25,7 @@ Lecture Notes
 |    Metabolite     | Involved Reaction               | Description                                      |
 | :---------------: | ------------------------------- | ------------------------------------------------ |
 |      Urease       | Urea → Ammonia + CO<sub>2</sub> | Ammonia Allow H. Pylori survival & mucus erosion |
-|     Cytotoxin     | /                               | <br>Mucosa Damage & Ulcerogenesis                |
+|     Cytotoxin     | <br>/                           | <br>Mucosa Damage & Ulcerogenesis                |
 | Mucolytic enzymes | ^                               | ^                                                |
 - Diagnosis:
 
@@ -45,20 +45,30 @@ Lecture Notes
 |    <br>Symptoms     | Discomfort (Epigastric Pain & Cramps)<br>Anorexia, Nausea & Vomiting<br><abbr Title="Blood in Vomit">Hematemesis</abbr>                                                                | Mild Discomfort<br>Anorexia                                                           |
 | Disease Progression | <abbr Title="Can Heal without Intervention">Self-Limiting</abbr>                                                                                                                       | ↑ Peptic Ulcer & Carcinoma Risk                                                       |
 
+**Zollinger-Ellison Syndrome (ZES)**
+
+|      Property       | Description                                                                                                    |
+| :-----------------: | -------------------------------------------------------------------------------------------------------------- |
+|    Pathogenesis     | Pancreatic / Gastric <abbr Title="Gastrin-Producing Neuroendocrine Tumor">Gastrinoma</abbr> → Hypergastrinemia |
+|      Pathology      | Gastrin has no HCl Negative Feedback → HCl Hypersecretion                                                      |
+|      Symptoms       | low pH → Lipase Inactivation → Lipid Malabsorption                                                             |
+| Disease Progression | PUD                                                                                                            |
+|      Diagnosis      | Secretin Stimulation Test<br>(Positive: Abnormally high Serum Gastrin level)                                   |
+|      Treatment      | Suppress HCl Production<br>Remove Tumor                                                                        |
+
+
 **Peptic Ulcer Disease**
 
 |      Property       |             <             | Description                                                                                                                                                            |
 | :-----------------: | :-----------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   <br><br>Factors   |         Exogenous         | H. Pylori<br>Smoking, Alcohol → Vasoconstriction<br>NSAIDs (COX Inhibitor) → <abbr Title="Prostaglandins (↑ Mucus & HCO₃⁻ Secretion & Mucosal Blood Flow)">↓ PG</abbr> |
-|          ^          |      <br>Endogenous       | ↓ Protection from HCO<sub>3</sub><sup>-</sup>, PG<br>↑ Gastric Acidity from HCl & Gastrin<br>Chronic Gastritis → Gastric Mucosa Atrophy                                |
+|   <br><br>Factors   |       <br>Exogenous       | H. Pylori<br>Smoking, Alcohol → Vasoconstriction<br>NSAIDs (COX Inhibitor) → <abbr Title="Prostaglandins (↑ Mucus & HCO₃⁻ Secretion & Mucosal Blood Flow)">↓ PG</abbr> |
+|          ^          |        Endogenous         | Chronic Gastritis → Gastric Mucosa Atrophy<br>Zollinger-Ellison Syndrome → ↑ Gastrin → ↑ HCl                                                                           |
 |    Pathogenesis     |             <             | Mucosal Barrier Damage →<br>Ulcers in Gastric Antrum & Proximal Duodenum                                                                                               |
 |      Symptoms       |             <             | Blood Vessel Erosion → Hemorrhage <br>Perforation → Chyme in Peritoneal Cavity → Peritonitis                                                                           |
 | Disease Progression |             <             | Scar Tissue Formation → Obstruction                                                                                                                                    |
 |  <br><br>Treatment  |      Triple Therapy       | <abbr Title="H⁺/K⁺-ATPase / Proton Pump Inhibitor">PPI</abbr> → ↓ HCl Secretion<br>2 Antibiotics against H. Pylori                                                     |
 |          ^          |  H<sub>2</sub> Blockers   | e.g. Cimetidine                                                                                                                                                        |
 |          ^          | M<sub>3</sub> Antagonists | e.g. Pirenzepine                                                                                                                                                       |
-
-**Zollinger-Ellison Synz**
 
 
 #### **Intestinal Diseases**
@@ -90,3 +100,13 @@ Lecture Notes
 |  Factors  | Allergy to Gliadin in Gluten                                                     |
 | Pathology | Villi Atrophy → ↓ Absorptive Surface for Food<br>Crypt Hyperplasia → ↑ Secretion |
 | Diagnosis | Serology test for <abbr Title="Tissue Transglutaminase">TTG</abbr> → Biopsy      |
+
+**Diarrhea**
+- Osmotic, Secretory & Malabsorption
+
+| Property | Osmotic | Secretory | Malabsorption |
+| :------: | ------- | --------- | ------------- |
+|          |         |           |               |
+|          |         |           |               |
+|          |         |           |               |
+|          |         |           |               |
