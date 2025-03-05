@@ -29,11 +29,11 @@ Lecture Notes
 | Mucolytic enzymes | ^                               | ^                                                |
 - Diagnosis:
 
-| Test               | <    | Positive Case Indication |
-| ------------------ | ---- | ------------------------ |
-| Stool Antigen Test | 14C- |                          |
-| Urea Breath Test   |      |                          |
-| Rapid Urease Test  |      |                          |
+| Test               | <                                                                                | Positive Case Indication                                       |
+| ------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Stool Antigen Test | 14C-labelled Urea in Breath →<br>Urease of H. Pylori produces 14C-CO<sub>2</sub> | Quantifiable Radioactive CO<sub>2</sub>                        |
+| Urea Breath Test   | H. Pylori Antigen in Stool                                                       | 2 Lines in <abbr Title="Immunochromatography Assay">ICA</abbr> |
+| Rapid Urease Test  | pH due to Ammonia production from Urease                                         | Yellow → Red Test                                              |
 
 **Gastritis**
 - Acute & Chronic
@@ -47,14 +47,18 @@ Lecture Notes
 
 **Peptic Ulcer Disease**
 
-|      Property       |       <        | Description                                                                                                                                                            |
-| :-----------------: | :------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   <br><br>Factors   |   Exogenous    | H. Pylori<br>Smoking, Alcohol → Vasoconstriction<br>NSAIDs (COX Inhibitor) → <abbr Title="Prostaglandins (↑ Mucus & HCO₃⁻ Secretion & Mucosal Blood Flow)">↓ PG</abbr> |
-|          ^          | <br>Endogenous | ↓ Protection from HCO<sub>3</sub><sup>-</sup>, PG<br>↑ Gastric Acidity from HCl & Gastrin<br>Chronic Gastritis → Gastric Mucosa Atrophy                                |
-|    Pathogenesis     |       <        | Mucosal Barrier Damage →<br>Ulcers in Gastric Antrum & Proximal Duodenum                                                                                               |
-|      Symptoms       |       <        | Blood Vessel Erosion → Hemorrhage <br>Perforation → Chyme in Peritoneal Cavity → Peritonitis                                                                           |
-| Disease Progression |       <        | Scar Tissue Formation → Obstruction                                                                                                                                    |
+|      Property       |             <             | Description                                                                                                                                                            |
+| :-----------------: | :-----------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   <br><br>Factors   |         Exogenous         | H. Pylori<br>Smoking, Alcohol → Vasoconstriction<br>NSAIDs (COX Inhibitor) → <abbr Title="Prostaglandins (↑ Mucus & HCO₃⁻ Secretion & Mucosal Blood Flow)">↓ PG</abbr> |
+|          ^          |      <br>Endogenous       | ↓ Protection from HCO<sub>3</sub><sup>-</sup>, PG<br>↑ Gastric Acidity from HCl & Gastrin<br>Chronic Gastritis → Gastric Mucosa Atrophy                                |
+|    Pathogenesis     |             <             | Mucosal Barrier Damage →<br>Ulcers in Gastric Antrum & Proximal Duodenum                                                                                               |
+|      Symptoms       |             <             | Blood Vessel Erosion → Hemorrhage <br>Perforation → Chyme in Peritoneal Cavity → Peritonitis                                                                           |
+| Disease Progression |             <             | Scar Tissue Formation → Obstruction                                                                                                                                    |
+|  <br><br>Treatment  |      Triple Therapy       | <abbr Title="H⁺/K⁺-ATPase / Proton Pump Inhibitor">PPI</abbr> → ↓ HCl Secretion<br>2 Antibiotics against H. Pylori                                                     |
+|          ^          |  H<sub>2</sub> Blockers   | e.g. Cimetidine                                                                                                                                                        |
+|          ^          | M<sub>3</sub> Antagonists | e.g. Pirenzepine                                                                                                                                                       |
 
+**Zollinger-Ellison Synz**
 
 
 #### **Intestinal Diseases**
