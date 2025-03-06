@@ -29,4 +29,4 @@ Lecture Notes
 
 **Jaundice / Icterus (Symptom)**
 - Yellow skin / tissue
-- ↑ Bilirubin in Serum, 
+- 3 Types of Jaundice: Hemolytic, Hepatocellular & Obstructive
