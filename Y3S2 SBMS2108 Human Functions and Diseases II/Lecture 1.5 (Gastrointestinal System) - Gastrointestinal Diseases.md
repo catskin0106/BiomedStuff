@@ -18,7 +18,7 @@ Lecture Notes
 
 
 #### **Gastric Diseases**
-**H. Pylori Infections**
+**H. Pylori Infections (Pathogen)**
 - Produces metabolites that can lead to Gastritis & Peptic Ulcer Disease
 	- Infections are very common & sometimes asymptomatic
 
@@ -27,7 +27,7 @@ Lecture Notes
 |      Urease       | Urea → Ammonia + CO<sub>2</sub> | Ammonia Allow H. Pylori survival & mucus erosion |
 |     Cytotoxin     | <br>/                           | <br>Mucosa Damage & Ulcerogenesis                |
 | Mucolytic enzymes | ^                               | ^                                                |
-- Diagnosis:
+- Diagnosis of H. Pylori Infections:
 
 | Test               | <                                                                                | Positive Case Indication                                       |
 | ------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -84,12 +84,13 @@ Lecture Notes
 **Inflammatory Bowel Diseases (IBD)**
 - Crohn Disease & Ulcerative Colitis
 
-|      Property       | Crohn Disease                                                                                                                          | Ulcerative Colitis                                                           |
-| :-----------------: | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-|     <br>Factors     | Familial<br>Indigestion → <abbr Title="Hypoproteinemia, Avitaminosis & Steatorrhea">Malnutrition</abbr><br>Glucocorticoid in Treatment | Familial                                                                     |
-|      Pathology      | Skip Lesions in Ileum                                                                                                                  | Inflammation from Rectum to Colon                                            |
-|      Symptoms       | ↓ Motility & Absorption                                                                                                                | Marked Diarrhea with Blood & Pain                                            |
-| Disease Progression | Inflammation & Fibrosis → <br><abbr Title="Adhesions between Ileum loops">Fistula</abbr> Formation                                     | Muscularis Externa Inflammation → Muscle Paralysis → <br>Megacolon Formation |
+|        Property         | Crohn Disease                                                                                                                          | Ulcerative Colitis                                                                                 |
+| :---------------------: | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+|       <br>Factors       | Familial<br>Indigestion → <abbr Title="Hypoproteinemia, Avitaminosis & Steatorrhea">Malnutrition</abbr><br>Glucocorticoid in Treatment | Familial                                                                                           |
+|        Pathology        | Skip Lesions in Ileum                                                                                                                  | Inflammation from Rectum to Colon                                                                  |
+|        Symptoms         | ↓ Motility & Absorption                                                                                                                | Marked Diarrhea with Blood & Pain                                                                  |
+| <br>Disease Progression | Inflammation & Fibrosis → <br><abbr Title="Adhesions between Ileum loops">Fistula</abbr> Formation &<br>Gut Permeability               | Muscularis Externa Inflammation → Muscle Paralysis → <br>Megacolon Formation &<br>Gut Permeability |
+|          Test           | Gut Permeability Test <br>(Positive Case: High Fecal Calprotectin Concentration)                                                       | <                                                                                                  |
 
 **Irritable Bowel Syndrome (IBS)**
 - Celiac Disease 
@@ -101,10 +102,16 @@ Lecture Notes
 | Pathology | Villi Atrophy → ↓ Absorptive Surface for Food<br>Crypt Hyperplasia → ↑ Secretion |
 | Diagnosis | Serology test for <abbr Title="Tissue Transglutaminase">TTG</abbr> → Biopsy      |
 
-**Diarrhea**
+**Diarrhea (Symptom)**
 - Osmotic, Secretory & Malabsorption
-	- Osmotic: Poorly absorbed solutes → ↓ Water Absorption  → Excessive Water Egestion
+	- Osmotic
+		- Poorly absorbed solutes → ↓ Water Absorption  → Excessive Water Egestion
 		- E.g. Lactose Intolerance (Lactase Deficiency)
-	- Secretory: Bacterial Toxins → Excessive Water Secretion
-	- Malabsorption: Organ Dysfunction → ↓ Digestion Capacity & Absorptive Surface → ↓ Water Absorption 
-		- 
+	- Secretory
+		- Bacterial Toxins → Excessive Water Secretion
+	- Malabsorption
+		- Organ Dysfunction → ↓ Digestion Capacity & Absorptive Surface → ↓ Water Absorption 
+		- Diagnosed with Hydrogen Breath Test
+			- Carbohydrate Malabsorption: Tested with Fructose & Lactose
+			- <abbr Title="Small Intestine Bacterial Overgrowth">SIBO</abbr>: Tested with Lactulose
+				- Positive Case: High H<sub>2</sub> & Methane (Can only be synthesized by bacteria)
