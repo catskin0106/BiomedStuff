@@ -1,9 +1,9 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Gastroesophageal Diseases
-- Gastric Diseases
-- Intestinal Diseases
+- Hepatobiliary Diseases
+- Liver Functional Test
+- 
 
 ---
-#### **Gastroesophageal Diseases**
+#### **Hepatobiliary Diseases**
