@@ -105,7 +105,7 @@ Lecture Notes
 - Osmotic, Secretory & Malabsorption
 	- Osmotic: Poorly absorbed solutes inhibiting Water & Electrolyte Absorption → Excessive Water 
 	- Secretory: Bacterial Toxins → Excessive Water Secretion
-	- Malabsorption: 
+	- Malabsorption: ↓
 
 |   Property   | Osmotic | Secretory | Malabsorption |
 | :----------: | ------- | --------- | ------------- |
