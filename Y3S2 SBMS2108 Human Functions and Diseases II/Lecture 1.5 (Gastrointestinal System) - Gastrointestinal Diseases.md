@@ -103,13 +103,8 @@ Lecture Notes
 
 **Diarrhea**
 - Osmotic, Secretory & Malabsorption
-	- Osmotic: Poorly absorbed solutes inhibiting Water & Electrolyte Absorption → Excessive Water 
+	- Osmotic: Poorly absorbed solutes → ↓ Water Absorption  → Excessive Water Egestion
+		- E.g. Lactose Intolerance (Lactase Deficiency)
 	- Secretory: Bacterial Toxins → Excessive Water Secretion
-	- Malabsorption: ↓ Digestion Capacity & Absorptive Surface
-
-|   Property   | Osmotic | Secretory | Malabsorption |
-| :----------: | ------- | --------- | ------------- |
-| Pathogenesis |         |           |               |
-|              |         |           |               |
-|              |         |           |               |
-|              |         |           |               |
+	- Malabsorption: Organ Dysfunction → ↓ Digestion Capacity & Absorptive Surface → ↓ Water Absorption 
+		- 
