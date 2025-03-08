@@ -17,11 +17,11 @@ Lecture Notes
 
 #### **Phase of Liver Drug Biotransformation**
 
-|                     **Phase**                     |     **Phase**     | **Description**                                                                                                                    | **Reactions**                                                       |
-| :-----------------------------------------------: | :---------------: | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-|                         I                         | Functionalization | Add a functional group handle to drugs<br>→ More susceptible to phase II                                                           | Redox (e.g. Monooxygenation by CYP450)<br>Hydrolysis                |
-|                      <br>II                       |  <br>Conjugation  | Conjugation with endogenous substrate → Facilitate Excretion:<br>∵ ↑ Polarity<br>∵ ↑ Molecular weight (favors bile excretion)      | Glucuronide conjugation (by UGT)<br>- Becomes Drug-Glucuronide (DG) |
-| Enterohepatic<br>Circulation<br>(Some Drugs only) |         <         | Some bile DG travel to gut lumen →<br>Deconjugated into free drug by bacteria → Reabsorbed back to liver<br>→ Prolongs drug action | Deconjugation (by β glucuronidase)                                  |
+|                     **Phase**                     |     **Phase**     | **Description**                                                                                                                    | **Reactions**                                                                                                         |
+| :-----------------------------------------------: | :---------------: | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+|                         I                         | Functionalization | Add a functional group handle to drugs<br>→ More susceptible to phase II                                                           | Redox (e.g. Monooxygenation by CYP450)<br>Hydrolysis                                                                  |
+|                      <br>II                       |  <br>Conjugation  | Conjugation with endogenous substrate → Facilitate Excretion:<br>∵ ↑ Polarity<br>∵ ↑ Molecular weight (favors bile excretion)      | Glucuronide conjugation (by <abbr Title="UDP-Glucuronosyl Transferase">UGT</abbr>)<br>- Becomes Drug-Glucuronide (DG) |
+| Enterohepatic<br>Circulation<br>(Some Drugs only) |         <         | Some bile DG travel to gut lumen →<br>Deconjugated into free drug by bacteria → Reabsorbed back to liver<br>→ Prolongs drug action | Deconjugation (by β glucuronidase)                                                                                    |
 
 
 #### **Sites of Biotransformation**
