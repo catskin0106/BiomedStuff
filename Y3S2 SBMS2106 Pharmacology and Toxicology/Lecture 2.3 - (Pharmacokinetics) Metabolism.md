@@ -28,13 +28,13 @@ Lecture Notes
 **Enzymes**
 - Microsomal & Non-microsomal:
 
-| Properties             | <        | Microsomal Enzymes                                                                         | Non-Microsomal Enzymes      |
-| ---------------------- | -------- | ------------------------------------------------------------------------------------------ | --------------------------- |
-| Location               | <        | Liver & Other Tissue Smooth ER                                                             |                             |
+|       Properties       |    <     | Microsomal Enzymes                                                                         | Non-Microsomal Enzymes      |
+| :--------------------: | :------: | ------------------------------------------------------------------------------------------ | --------------------------- |
+|        Location        |    <     | Liver & Other Tissue Smooth ER                                                             |                             |
 | <br>Reactions Involved | Phase I  | Oxidation (<abbr Title="Cytochrome P 450 Isoenzyme Superfamily">CYP450</abbr>), Hydrolysis | Redox, Hydrolysis           |
-| ^                      | Phase II | Glucuronide Conjugation (<abbr Title="UDP-Glucuronosyl Transferase">UGT</abbr>)            | Non-Glucuronide Conjugation |
-| Induced by Drugs       | <        | Yes                                                                                        | No                          |
-| Genetic Polymorphism   | <        | Yes                                                                                        | Yes                         |
+|           ^            | Phase II | Glucuronide Conjugation (<abbr Title="UDP-Glucuronosyl Transferase">UGT</abbr>)            | Non-Glucuronide Conjugation |
+|    Induced by Drugs    |    <     | Yes                                                                                        | No                          |
+|  Genetic Polymorphism  |    <     | Yes                                                                                        | Yes                         |
 
 **Hoffmann Elimination**
 - Inactivation of drug in body fluid:
