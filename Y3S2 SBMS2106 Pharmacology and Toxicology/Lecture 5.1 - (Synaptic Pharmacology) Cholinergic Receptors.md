@@ -28,10 +28,10 @@ Lecture Notes
 - Cholinergic Drugs: Act on Synapses with Cholinergic Receptors:
 	- Site of Action: Postganglionic N/M Receptors
 
-|                               **Cholinergic Receptors**                                | **Efferent Cells**                                                                                                                                  |
-| :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| N<sub>Ganglion, Muscle, CNS</sub><br><font size="2">(Ligand Gated Ion Channels)</font> | Sympathetic & Parasympathetic Postganglionic Neurons<br><abbr Title="Neuromuscular Junction">NMJ</abbr> Somatic muscle cells                        |
-|           <br>M<sub>1,2,3</sub><br><font size="2">(G-Protein Coupled)</font>           | Parasympathetic effector cells<br>- M<sub>1</sub>: Neural (CNS)<br>- M<sub>2</sub>: Cardiac (Atria)<br>- M<sub>3</sub>: Glandular (Exocrine Glands) |
+|                               **Cholinergic Receptors**                                | **Efferent Cells**                                                                                                                                                                                          |
+| :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| N<sub>Ganglion, Muscle, CNS</sub><br><font size="2">(Ligand Gated Ion Channels)</font> | Sympathetic & Parasympathetic Postganglionic Neurons<br><abbr Title="Neuromuscular Junction">NMJ</abbr> Somatic muscle cells                                                                                |
+|           <br>M<sub>1,2,3</sub><br><font size="2">(G-Protein Coupled)</font>           | Parasympathetic effector cells<br>- M<sub>1</sub>: Neural (CNS & Autonomic Ganglia), Gastric<br>- M<sub>2</sub>: Cardiac (Atria)<br>- M<sub>3</sub>: Glandular (Exocrine Glands), Muscular (GI, BV & Pupil) |
 
 
 #### **Muscarinic Cholinergic Receptor Drugs**
@@ -54,13 +54,13 @@ Lecture Notes
 - Atropine-like agents
 	- Alkaloids (pA2 ≈ 9.0)
 
-|   **Drug**   |       **Effect**       | **Application**                                                                                    |                   Note                   |
-| :----------: | :--------------------: | -------------------------------------------------------------------------------------------------- | :--------------------------------------: |
-| Pirenzepine  | M1 receptor antagonist | ↓ Gastric secretion → <br>Heal Gastric Ulcer                                                       |                                          |
-| Tropicamide  | M3 receptor antagonist | Dilates pupil & paralyze accommodation →<br>Easy viewing of Retina in Eye Examinations / Surgeries |              Short Duration              |
-|  Tiotropium  | M3 receptor antagonist | ↓ Reflex Bronchoconstriction → <br>Improve Airway Function                                         |                                          |
-| <br>Hyoscine |        <br>idk         | ↓ Reflex Bronchoconstriction & Secretion →<br>Clear Airway for Anaesthetic Premedication           | <br>Side Effects: Dry Mouth & Drowsiness |
-|      ^       |           ^            | Treat Motion Sickness                                                                              |                    ^                     |
+|   **Drug**   |          **Effect**          | **Application**                                                                                    |                   Note                   |
+| :----------: | :--------------------------: | -------------------------------------------------------------------------------------------------- | :--------------------------------------: |
+| Pirenzepine  |    M1 receptor antagonist    | ↓ Gastric secretion → <br>Heal Gastric Ulcer                                                       |                                          |
+| Tropicamide  |    M3 receptor antagonist    | Dilates pupil & paralyze accommodation →<br>Easy viewing of Retina in Eye Examinations / Surgeries |              Short Duration              |
+|  Tiotropium  |    M3 receptor antagonist    | ↓ Reflex Bronchoconstriction → <br>Improve Airway Function                                         |                                          |
+| <br>Hyoscine | <br>Non-selective antagonist | ↓ Reflex Bronchoconstriction & Secretion →<br>Clear Airway for Anaesthetic Premedication           | <br>Side Effects: Dry Mouth & Drowsiness |
+|      ^       |              ^               | Treat Motion Sickness                                                                              |                    ^                     |
 
 
 #### **Ganglion Nicotinic Receptor Drugs**
@@ -73,15 +73,16 @@ Lecture Notes
 | Nicotine | Pleasure feelings in CNS | Addiction        |
 
 **Nicotinic Antagonists**
+- Main Effect: Lower BP
 
-|   **Drug**    |         **Effect**         | **Application**                                     |       Note        |
-| :-----------: | :------------------------: | --------------------------------------------------- | :---------------: |
-|  Trimetaphan  | Competitive inhibitor of N | Short-term hypotension                              | In Surgeries only |
-| Hexamethonium |    Na+ channel blocker     | ↓ Sympathetic tone to BV & heart → Antihypertensive |     Obsolete      |
+|   **Drug**    |           **Effect**           | **Application**                                     |       Note        |
+| :-----------: | :----------------------------: | --------------------------------------------------- | :---------------: |
+|  Trimetaphan  |   Competitive inhibitor of N   | Short-term hypotension                              | In Surgeries only |
+| Hexamethonium | Na<sup>+</sup> channel blocker | ↓ Sympathetic tone to BV & heart → Antihypertensive |     Obsolete      |
 
 
 #### **NMJ Nicotinic Receptor Drugs**
-- Inhibits Nicotinic Receptor
+- Inhibits NMJ Nicotinic Receptor
 
 **Non-depolarizing Blocking Agents**
 - Competitive inhibitors of postsynaptic nicotinic receptors
