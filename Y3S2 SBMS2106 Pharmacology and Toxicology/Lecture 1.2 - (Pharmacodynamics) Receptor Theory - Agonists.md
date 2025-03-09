@@ -46,7 +46,7 @@ $$\Large S = ey$$
 
 #### **Full & Partial Agonists**
 **Types of Functional Agonists**
-- Full Agonists: Can achieve E<sub>max</sub> of 100% in <abbr Title="Concentration-Response Curve">CRC</abbr> 
+- Full Agonists: Can achieve <abbr Title="Maximum Biological Response">E<sub>max</sub></abbr> of 100% in <abbr Title="Concentration-Response Curve">CRC</abbr> 
 	- Possibly without occupying all receptors
 - Partial Agonists: With E<sub>max</sub> lower than 100%
 
