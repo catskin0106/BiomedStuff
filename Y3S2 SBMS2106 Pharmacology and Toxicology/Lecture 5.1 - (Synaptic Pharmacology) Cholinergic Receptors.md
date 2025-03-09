@@ -20,10 +20,10 @@ Lecture Notes
 **Possible Site of Action of Drugs on Synapses**
 - Various Drugs:
 
-| **Site of Action**  | **Mechanism**                                     |
-| :-----------------: | ------------------------------------------------- |
-| Presynaptic Neuron  | Inhibit neurotransmitter release from Ca2+ influx |
-| Postsynaptic Neuron | Alter catabolism of transmitter                   |
+| **Site of Action**  | **Mechanism**                                                |
+| :-----------------: | ------------------------------------------------------------ |
+| Presynaptic Neuron  | Inhibit neurotransmitter release from Ca<sup>2+</sup> influx |
+| Postsynaptic Neuron | Alter catabolism of transmitter                              |
 
 - Cholinergic Drugs: Act on Synapses with Cholinergic Receptors:
 	- Site of Action: Postganglionic N/M Receptors
@@ -54,13 +54,13 @@ Lecture Notes
 - Atropine-like agents
 	- Alkaloids (pA2 ≈ 9.0)
 
-|            **Drug**             |       **Effect**       | **Application**                                                                                    |                   Note                   |
-| :-----------------------------: | :--------------------: | -------------------------------------------------------------------------------------------------- | :--------------------------------------: |
-|           Pirenzepine           | M1 receptor antagonist | ↓ Gastric secretion → <br>Heal Gastric Ulcer                                                       |                                          |
-| Tropicamide<br>(Short Duration) | M3 receptor antagonist | Dilates pupil & paralyze accommodation →<br>Easy viewing of Retina in Eye Examinations / Surgeries |              Short Duration              |
-|           Tiotropium            | M3 receptor antagonist | ↓ Reflex Bronchoconstriction → <br>Improve Airway Function                                         |                                          |
-|          <br>Hyoscine           |        <br>idk         | ↓ Reflex Bronchoconstriction & Secretion →<br>Clear Airway for Anaesthetic Premedication           | <br>Side Effects: Dry Mouth & Drowsiness |
-|                ^                |           ^            | Treat Motion Sickness                                                                              |                    ^                     |
+|   **Drug**   |       **Effect**       | **Application**                                                                                    |                   Note                   |
+| :----------: | :--------------------: | -------------------------------------------------------------------------------------------------- | :--------------------------------------: |
+| Pirenzepine  | M1 receptor antagonist | ↓ Gastric secretion → <br>Heal Gastric Ulcer                                                       |                                          |
+| Tropicamide  | M3 receptor antagonist | Dilates pupil & paralyze accommodation →<br>Easy viewing of Retina in Eye Examinations / Surgeries |              Short Duration              |
+|  Tiotropium  | M3 receptor antagonist | ↓ Reflex Bronchoconstriction → <br>Improve Airway Function                                         |                                          |
+| <br>Hyoscine |        <br>idk         | ↓ Reflex Bronchoconstriction & Secretion →<br>Clear Airway for Anaesthetic Premedication           | <br>Side Effects: Dry Mouth & Drowsiness |
+|      ^       |           ^            | Treat Motion Sickness                                                                              |                    ^                     |
 
 
 #### **Ganglion Nicotinic Receptor Drugs**
