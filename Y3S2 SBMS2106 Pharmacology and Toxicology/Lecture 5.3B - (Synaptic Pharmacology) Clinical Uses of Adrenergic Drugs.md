@@ -74,9 +74,9 @@ Lecture Notes
 
 **Premature Labour**
 
-|  **Classification**  |   **Drug**   | **Effect**            |
-| :------------------: | :----------: | --------------------- |
-| β2 Selective Agonist | IV Ritodrine | ↓ Uterine Contraction |
+|  **Classification**  |    **Drug**    | **Effect**            |
+| :------------------: | :------------: | --------------------- |
+| β2 Selective Agonist | I.V. Ritodrine | ↓ Uterine Contraction |
 
 **Ophthalmological Examination**
 - Mydriasis (Pupil dilation) is useful
