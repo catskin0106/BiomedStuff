@@ -30,14 +30,14 @@ Lecture Notes
 
 #### **Agonists & Antagonists of Adrenoceptors**
 
-| **Adrenoceptors** |        **Agonist**        |                                                   **Antagonist**                                                   |
-| :---------------: | :-----------------------: | :----------------------------------------------------------------------------------------------------------------: |
-|      <br>α1       |     <br>Phenylephrine     | Phentolamine (Competitive)<br>Phenoxybenzamine (Irreversible)<br>Terazosin (Long-lasting)<br>Tamsulosin (α1A only) |
-|        α2         |         Clonidine         |                                                     Yohimbine                                                      |
-|      <br>β1       |      <br>Dobutamine       |                                            Celiprolol (Weak β2 agonist)                                            |
-|         ^         |             ^             |                Propranolol (Main)<br>Metoprolol, Atenolol (β1 >> β2)<br>Carvedilol (Blocks α1 too)                 |
-|        β2         | Salbutamol<br>Terbutaline |                                                         ^                                                          |
-|        β3         |         BRL 37344         |                                                        idk                                                         |
+| **Adrenoceptors** |        **Agonist**        |                                                      **Antagonist**                                                      |
+| :---------------: | :-----------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+|      <br>α1       |     <br>Phenylephrine     |    Phentolamine (Competitive)<br>Phenoxybenzamine (Irreversible)<br>Terazosin (Long-lasting)<br>Tamsulosin (α1A only)    |
+|        α2         |         Clonidine         |                                                        Yohimbine                                                         |
+|      <br>β1       |      <br>Dobutamine       |                                               Celiprolol (Weak β2 agonist)                                               |
+|         ^         |             ^             | Propranolol (Main)<br>Metoprolol, Atenolol (<abbr Title="Cardioselective">β1 >> β2</abbr>)<br>Carvedilol (Blocks α1 too) |
+|        β2         | Salbutamol<br>Terbutaline |                                                            ^                                                             |
+|        β3         |         BRL 37344         |                                                           idk                                                            |
 
 
 #### **Drug Actions at Postganglionic Sympathetic Synapses**
