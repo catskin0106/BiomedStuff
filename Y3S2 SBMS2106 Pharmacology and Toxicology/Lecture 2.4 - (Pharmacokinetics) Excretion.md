@@ -44,7 +44,7 @@ Lecture Notes
 | Step |                                   Excretion                                    |    Enterohepatic Circulation    |            <             |
 | :--: | :----------------------------------------------------------------------------: | :-----------------------------: | :----------------------: |
 |  1   |        Liver active transports Organic Acid / Bases & Lipophilic Drugs         |                <                |            <             |
-|  2   |                    If Drug MW > 300 → Eliminated from Bile                     |                <                |            <             |
+|  2   |                   If Drug MW > 300 → Eliminated through Bile                   |                <                |            <             |
 |  3   |                            Glucuronide Conjugation                             |                <                |            <             |
 |  4   |                          Enters Systemic Circulation                           |    Enters Gut Lumen in Bile     |            <             |
 |  5   | <abbr Title="Glomerular Filtration & Tubular Secretion">Renal Excretion</abbr> | Deconjugated by β glucuronidase |            <             |
