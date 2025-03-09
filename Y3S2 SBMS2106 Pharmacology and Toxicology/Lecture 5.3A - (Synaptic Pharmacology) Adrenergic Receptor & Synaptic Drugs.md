@@ -51,9 +51,9 @@ Lecture Notes
 
 **Signal Inhibiting Drugs**
 
-|   **Drug**    | **Effect**                                                                                                                                                                |
-| :-----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   Clonidine   | α2 Agonist<br>- ↓ NA exocytosis (-ve Feedback) → ↓ Synaptic NA                                                                                                            |
-| α-Methyl-DOPA | False substrate in NA biosynthesis<br>- Form false substrate α-Methyl-NA (α2 Agonist for -ve Feedback) → ↓ Synaptic NA                                                    |
-|   Reserpine   | Inhibits <abbr Title="Vesicular MA Transporter (Controls NA into/from Vesicle)">VMAT</abbr> → Trap NA in Cytoplasm<br>- ↑ Cytoplasm NA Degradation by MAO → ↓ Synaptic NA |
-| Guanethidine  | Displaces NA in vesicle & Inhibit Exocytosis<br>- ↓ NA exocytosis → ↓ Synaptic NA                                                                                         |
+|   **Drug**    | **Effect**                                                                                                                                                                       |
+| :-----------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   Clonidine   | α2 Agonist<br>- ↓ NA exocytosis (-ve Feedback) → ↓ Synaptic NA                                                                                                                   |
+| α-Methyl-DOPA | False substrate in NA biosynthesis<br>- Form false substrate α-Methyl-NA (α2 Agonist for -ve Feedback) → ↓ Synaptic NA                                                           |
+|   Reserpine   | Inhibits <abbr Title="Vesicular Monoamine Transporter (Controls NA into/from Vesicle)">VMAT</abbr> → Trap NA in Cytoplasm<br>- ↑ Cytoplasm NA Degradation by MAO → ↓ Synaptic NA |
+| Guanethidine  | Displaces NA in vesicle & Inhibit Exocytosis<br>- ↓ NA exocytosis → ↓ Synaptic NA                                                                                                |
