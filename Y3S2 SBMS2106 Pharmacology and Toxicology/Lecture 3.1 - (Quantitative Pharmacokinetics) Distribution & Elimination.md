@@ -44,10 +44,10 @@ Lecture Notes
 	- First Order: [Same % of Drugs Eliminated](3206_FirstOrder.png)
 	- Zero Order: [Same volume of Drugs Eliminated](3206_ZeroOrder.png)
 
-| Kinetics    | Elimination Rate         | Changes in t<sub>1/2</sub> & CL                                    |
-| ----------- | ------------------------ | ------------------------------------------------------------------ |
-| First Order | Constant                 | Constant                                                           |
-| Zero Order  | Inversely varies with Cp | t<sub>1/2</sub> Inversely Proportional<br>CL Directly Proportional |
+| Kinetics    | Elimination Rate         | Changes in t<sub>1/2</sub> & CL                                                     |
+| ----------- | ------------------------ | ----------------------------------------------------------------------------------- |
+| First Order | Constant                 | Constant                                                                            |
+| Zero Order  | Inversely varies with Cp | t<sub>1/2</sub> Increases with Increasing dose<br>CL Decreases with Increasing dose |
 
 
 **Two Compartment Model**
