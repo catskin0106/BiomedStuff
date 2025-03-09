@@ -30,11 +30,11 @@ Lecture Notes
 
 #### **Transmembrane Drug Transport Methods**
 
-| Method                                                          | Description                                                                                |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Passive Diffusion / Filtration                                  | Transmembrane / Paracellular<br>- Prevalent in Capillaries outside BBB                     |
-| Facilitated Diffusion                                           | Via <abbr Title="Solute Carrier">SLC</abbr> Transporters                                   |
-| Active Transport                                                | Selective Accumulation of Drug on one side of the membrane                                 |
+|                             Method                              | Description                                                                                |
+| :-------------------------------------------------------------: | ------------------------------------------------------------------------------------------ |
+|                 Passive Diffusion / Filtration                  | Transmembrane / Paracellular<br>- Prevalent in Capillaries outside BBB                     |
+|                      Facilitated Diffusion                      | Via <abbr Title="Solute Carrier">SLC</abbr> Transporters                                   |
+|                        Active Transport                         | Selective Accumulation of Drug on one side of the membrane                                 |
 | Efflux Transporters (<abbr Title="P-Glycoproteins">P-gp</abbr>) | Pumps out Drug to Facilitate Biliary / Renal Excretion<br>- Detrimental to Drug Absorption |
 
 
