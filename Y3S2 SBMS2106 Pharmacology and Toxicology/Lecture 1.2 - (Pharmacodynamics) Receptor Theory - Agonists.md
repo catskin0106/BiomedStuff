@@ -75,9 +75,9 @@ $$\Large S = ey$$
 
 | **Receptor Reserve** | **Agonists Present** | **Biological Stimulus / Response**                                                                               |
 | :------------------: | -------------------- | ---------------------------------------------------------------------------------------------------------------- |
-|   Most unoccupied    | Full only            | None / Low                                                                                                       |
+| <br>Most unoccupied  | Full only            | None / Low                                                                                                       |
 |          ^           | Partial only         | Lower than Full Only                                                                                             |
 |          ^           | Full + Partial       | <abbr Title="Additive Effect by Full & Partial Agonists">Medium</abbr>                                           |
-|    Most occupied     | Full only            | High                                                                                                             |
+|  <br>Most occupied   | Full only            | High                                                                                                             |
 |          ^           | Partial only         | <abbr Title="↓ efficacy for each activated receptor">Lower than Full Only</abbr>                                 |
 |          ^           | Full + Partial       | <abbr Title="Partial Agonists occupy receptors that Full Agonists could've occupied">Lower than Full Only</abbr> |
