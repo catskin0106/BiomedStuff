@@ -8,8 +8,9 @@ Lecture Notes
 #### **Kidney Function & Structure**
 **Functions of the Kidney**
 
-|       Function        |  <  | Examples                                          |
-| :-------------------: | :-: | ------------------------------------------------- |
-| Excrete Waste Product |     | Urea, Uric Acid & Creatinine                      |
-|     Body Balance      |     | Water / Electrolyte, Acid / Base & Blood Pressure |
-|       Secretion       |     | Renin                                             |
+| Function  |          <          | Examples                                          |
+| :-------: | :-----------------: | ------------------------------------------------- |
+| Excretion |  Metabolic Product  | Urea, Uric Acid & Creatinine                      |
+|     ^     | Excessive Substance | Water                                             |
+|  Balance  |                     | Water / Electrolyte, Acid / Base & Blood Pressure |
+| Secretion |                     | Renin                                             |
