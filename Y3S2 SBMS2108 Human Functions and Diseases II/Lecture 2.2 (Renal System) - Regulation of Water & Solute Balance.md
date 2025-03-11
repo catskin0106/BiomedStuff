@@ -2,7 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Distribution of Water & Solutes
-- Regulation of Body Osmolality
+- Water Reabsorption in Loop of Henle
 
 ---
 #### **Distribution of Water & Solutes**
@@ -39,11 +39,11 @@ graph TD;
 
 
 #### **Regulation of Body Osmolality**
-**Countercurrent Multiplier System**
-- Control of Nephron Osmolality by Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter from Ascending Limb to Interstitial Compartment
-	- Ascending Limb: always 200 mOsmol < Interstitial Compartment at same depth (Hypotonic)
-	- Descending Limb: Net water flow from Descending Limb to Interstitial Compartment
+**Countercurrent Multiplier System ([Video](https://www.youtube.com/watch?v=uYu-zvCXiV4))**
+- Control of Medullary Interstitium Osmolality so that it increases along from cortex to the deep medulla for water reabsorption
+	- Descending Limb (Aquaporin I): Net water flow from Descending Limb to Medullary Interstitium
 		- Osmolality keeps increasing until 1200 mOsmol at turning point (Hypertonic)
-	- Result: Water exiting Loop of Henle is less hypertonic
-		- → Preserve Osmotic Gradient
+	- Ascending Limb (Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter): Net solute flow from Ascending Limb to Medullary Interstitium
+		- Until always 200 mOsmol lower than Medullary Interstitium at same depth (Hypotonic)
 
+**Vasa Recta as Countercurrent Exchanger**

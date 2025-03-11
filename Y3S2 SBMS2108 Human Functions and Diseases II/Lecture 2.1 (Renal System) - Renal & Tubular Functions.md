@@ -20,7 +20,7 @@ Lecture Notes
 **Structure of the Kidney**
 - Loop of Henle
 	- Descending Limb: Only permeable to water (Aquaporin-I)
-	- Ascending Limb: Only permeable to ions (Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter)
+	- Ascending Limb: Only permeable to solutes (Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter)
 - Juxtaglomerular Apparatus
 
 | Cell           | Location           | Function       |
