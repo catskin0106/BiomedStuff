@@ -40,5 +40,5 @@ graph TD;
 
 #### **Regulation of Body Osmolality**
 **Countercurrent Multiplier System**
-- 
-
+- Control of nephron osmolality by Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter from Ascending Limb to Interstitial Compartment
+	- Ascending Limb
