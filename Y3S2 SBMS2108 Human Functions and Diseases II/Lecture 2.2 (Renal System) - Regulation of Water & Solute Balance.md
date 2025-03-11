@@ -38,7 +38,7 @@ graph TD;
 	- Osmolarity: Particle Concentration in 1 L water (mOsmol/L H<sub>2</sub>O)
 
 
-#### **Regulation of Body Osmolality**
+#### **Water Reabsorption in Loop of Henle**
 **Countercurrent Multiplier System ([Video](https://www.youtube.com/watch?v=uYu-zvCXiV4))**
 - Control of Medullary Interstitium Osmolality so that it increases along from cortex to the deep medulla for water reabsorption
 	- Descending Limb (Aquaporin I): Net water flow from Descending Limb to Medullary Interstitium
@@ -47,3 +47,10 @@ graph TD;
 		- Until always 200 mOsmol lower than Medullary Interstitium at same depth (Hypotonic)
 
 **Vasa Recta as Countercurrent Exchanger**
+- Capillaries lining along Loop of Henle
+- Interstitium Osmolality increases along with Descending Vessel
+	- → Vessel water efflux & NaCl influx to Interstitium
+- Interstitium Osmolality decreases along with Ascending Vessel
+	- → Vessel NaCl efflux & water influx to Interstitium after equilibrium
+- Purpose: Prevents rapid removal of NaCl from Interstitium
+	- → Maintain Osmotic Gradient in the Interstitium
