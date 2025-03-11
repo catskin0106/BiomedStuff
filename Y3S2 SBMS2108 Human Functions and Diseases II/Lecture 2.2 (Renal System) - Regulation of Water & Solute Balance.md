@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Distribution of Water & Solutes
 - Water Reabsorption in Loop of Henle
+- Regulation of Water Balance
 
 ---
 #### **Distribution of Water & Solutes**
@@ -54,3 +55,21 @@ graph TD;
 	- → Vessel NaCl efflux & water influx to Interstitium after equilibrium
 - Purpose: Prevents rapid removal of NaCl from Interstitium
 	- → Maintain Osmotic Gradient in the Interstitium
+
+**Urea Recycling**
+- Urea are absorbed from <abbr Title="Inner Medullary Collecting Duct">IMCD</abbr> through the Interstitium to <abbr Title="Thin Descending Limb of Loop of Henle">tDLH</abbr> then transported through the loop of Henle to IMCD again
+	- → Contributes to high medulla osmolality
+
+
+#### **Regulation of Water Balance**
+**Water Reabsorption by ADH**
+
+| Stage             | Description                                                                                                           |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Production        | In Hypothalamus (Paraventricular / Supraoptic Nuclei)                                                                 |
+| Stimulation       | By ↑ Plasma Osmolality (Osmoreceptors)<br>By ↓ Blood Volume / Pressure (Baroreceptors in Aortic Arch & Carotid Sinus) |
+| Storage & Release | In Posterior Pituitary                                                                                                |
+| Action            | Inducing AQP2 Insertion in Apical Membrane of Collecting Duct Principal Cells                                         |
+| Effect            | ↑ Water reabsorption → Concentrated Urine                                                                             |
+
+****
