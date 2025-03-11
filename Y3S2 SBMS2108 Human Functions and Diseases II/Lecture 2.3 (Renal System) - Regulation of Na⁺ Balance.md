@@ -16,7 +16,7 @@ Lecture Notes
 | <br>Thick Ascending Limb                  | Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter | Driving Force: <abbr Title="Basolateral Membrane">BLM</abbr> Na<sup>+</sup>-K<sup>+</sup> ATPase <br>(causes Na<sup>+</sup> Efflux from cell to Interstitium) |
 | ^                                         | Paracellular Diffusion                                     |                                                                                                                                                               |
 | Early Distal Tubule                       | Na<sup>+</sup>-Cl<sup>-</sup> transporters                 | Na<sup>+</sup> & Cl<sup>-</sup> in                                                                                                                            |
-| Collecting Duct                           | <abbr Title="Epithelial Na⁺ Channels">ENaCs</abbr>         | Creates -40mV lumen → Drives Na<sup>+</sup> influx                                                                                                            |
+| Collecting Duct                           | <abbr Title="Epithelial Na⁺ Channels">ENaCs</abbr>         | Creates -40mV lumen → Drives Na<sup>+</sup> influx<br>Requires Energy from ATPase to be Synthesized                                                           |
 
 
 #### **Regulation of Na<sup>+</sup> Reabsorption**
@@ -24,3 +24,20 @@ Lecture Notes
 - ↑ GFR
 
 **Renin-Angiotensin-Aldosterone System**
+
+| Component      | Function                                                                                                                                                                    |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Renin          | Cleaves Angiotensinogen into Angiotensin                                                                                                                                    |
+| Angiotensin I  | Converted to Angiotensin II by Converting Enzy                                                                                                                              |
+| Angiotensin II | ↑ BP, ADH Secretion & <font color=yellow>Na</font>Cl Reabsorption<br>↑ Aldosterone Release from Adrenal G                                                                   |
+| Aldosterone    | ↑ Collecting Duct E<font color=yellow>Na</font>C amount & open probability<br>↑ Collecting Duct <font color=yellow>Na</font><sup>+</sup>-K<sup>+</sup> ATPase Activity Pase |
+
+**Neural Factor**
+- ↓ Reabsorption:
+	- Glomerular vasoconstriction → ↓ GFR
+- ↑ Reabsorption:
+	- ↑ Renin Release → ↑ Angiotensin II & Aldosterone Release
+
+**Atrial Natriuretic Peptide**
+- ↓ Na<sup>+</sup> Absorption (↑ Excretion) when ↑ ECF
+- Released by Atrial Myocytes
