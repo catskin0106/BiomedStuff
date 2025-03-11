@@ -30,12 +30,27 @@ Lecture Notes
 
 #### **Renal Clearance**
 - C<sub>x</sub>: Virtual volume of Plasma completely cleared of substance X by the kidneys per unit time
-	- Measured by <abbr Title="Glomerular Filtration Rate">GFR</abbr> & <abbr Title="Renal Plasma Flow">RPF</abbr>
+	- Measured by <abbr Title="Glomerular Filtration Rate">GFR</abbr> & <abbr Title="Renal Plasma Flow">RPF (≈ 625mL/min )</abbr>
+
+| C<sub>x</sub> / RPF | Meaning                               | Examples |
+| ------------------- | ------------------------------------- | -------- |
+| 0%                  | Substance that doesn't exist in urine | Glucose  |
+| 100%                |                                       |          |
 
 **Glomerular Filtration Rate**
 - Fluid Filtered from Glomeruli to Bowman's Capsule
 - Measurement of GFR:
 	- Affected by <abbr Title="Plasma Concentration of x">P<sub>x</sub></abbr> , <abbr Title="Urine Concentration of x">U<sub>x</sub></abbr> & <abbr Title="Urine Volume">V</abbr>
 $$\Large GFR\;= \frac{U_{x}\;*\;V}{P_{x}}$$
+- Creatinine & Insulin is often used to calculate eGFR
 
-**a**
+**Filtration Fraction (FF)**
+- C<sub>x</sub> / RPF (625)
+
+| FF   | Meaning                                | Examples                                         |
+| ---- | -------------------------------------- | ------------------------------------------------ |
+| 0%   | Substance that doesn't exist in urine  | Glucose                                          |
+| 100% | Totally filtered in kidney single-pass | <abbr Title="Para-aminohippuric Acid">PAH</abbr> |
+
+**Autoregulation of GFR**
+- Myogenic Mechanism
