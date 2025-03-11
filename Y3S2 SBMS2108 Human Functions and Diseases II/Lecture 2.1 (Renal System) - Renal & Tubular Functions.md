@@ -23,11 +23,11 @@ Lecture Notes
 	- Ascending Limb: Only permeable to solutes (Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter)
 - Juxtaglomerular Apparatus
 
-| Cell           | Location           | Function       |
-| :------------- | ------------------ | -------------- |
-| Macula Densa   | Distal Tubule      | Senses NaCl    |
-| Granular Cell  | Afferent Arteriole | Produces Renin |
-| Mesangial Cell | Extraglomerular    |                |
+| Cell           | Location           | Function                                                                           |
+| :------------- | ------------------ | ---------------------------------------------------------------------------------- |
+| Macula Densa   | Distal Tubule      | Senses Na                                                                          |
+| Granular Cell  | Afferent Arteriole | Produces Renin under:<br>↓ NaCl / ↓ Afferent Arteriole BP / Sympathetic Activation |
+| Mesangial Cell | Extraglomerular    |                                                                                    |
 
 
 #### **Renal Clearance**

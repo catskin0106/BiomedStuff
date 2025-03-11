@@ -19,4 +19,8 @@ Lecture Notes
 | Collecting Duct                           | <abbr Title="Epithelial Na⁺ Channels">ENaCs</abbr>         | Creates -40mV lumen → Drives Na<sup>+</sup> influx                                                                                                            |
 
 
-#### ****
+#### **Regulation of Na<sup>+</sup> Reabsorption**
+**Glomerulotubular Balance**
+- ↑ GFR
+
+**Renin-Angiotensin-Aldosterone System**
