@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Kidney Function & Structure
 - Renal Clearance
+- Autoregulation of GFR
 
 ---
 #### **Kidney Function & Structure**
@@ -52,5 +53,8 @@ $$\Large GFR\;= \frac{U_{x}\;*\;V}{P_{x}}$$
 | 0%   | Substance that doesn't exist in urine  | Glucose                                          |
 | 100% | Totally filtered in kidney single-pass | <abbr Title="Para-aminohippuric Acid">PAH</abbr> |
 
-**Autoregulation of GFR**
-- Myogenic Mechanism
+
+#### **Autoregulation of GFR**
+**Myogenic Mechanism**
+- Regulates RBF & therefore GFR in response to changing Blood Pressure
+	- Through Renal Afferent Muscle Stretching
