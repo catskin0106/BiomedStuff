@@ -66,6 +66,9 @@ $$\Large GFR\;= \frac{U_{x}\;*\;V}{P_{x}}$$
 
 **Other Factors**
 
-| Factor   | Description       | GFR Change |
-| -------- | ----------------- | ---------- |
-| RAA Axis | Ang II constricts |            |
+| Factor                     | Description                               | GFR Change |
+| -------------------------- | ----------------------------------------- | ---------- |
+| Ang II in RAA Axis         | afferent & efferent constriction          | ↓          |
+| ADH                        | systemic vasoconstriction                 | ↓          |
+| Atrial Natriuretic Peptide | afferent dilation & efferent constriction | ↑          |
+| Prostaglandins             | afferent dilation                         | ↑          |
