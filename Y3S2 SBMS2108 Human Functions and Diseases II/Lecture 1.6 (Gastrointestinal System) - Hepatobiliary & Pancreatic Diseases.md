@@ -30,3 +30,6 @@ Lecture Notes
 **Jaundice / Icterus (Symptom)**
 - Yellow skin / tissue
 - 3 Types of Jaundice: Hemolytic, Hepatocellular & Obstructive
+
+
+#### **Liver Functional Test**
