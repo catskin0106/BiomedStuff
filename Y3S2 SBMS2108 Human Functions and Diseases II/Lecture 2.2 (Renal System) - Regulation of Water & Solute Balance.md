@@ -42,4 +42,8 @@ graph TD;
 **Countercurrent Multiplier System**
 - Control of Nephron Osmolality by Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter from Ascending Limb to Interstitial Compartment
 	- Ascending Limb: always 200 mOsmol < Interstitial Compartment at same depth (Hypotonic)
-	- Descending Limb: 
+	- Descending Limb: Net water flow from Descending Limb to Interstitial Compartment
+		- Osmolality keeps increasing until 1200 mOsmol at turning point (Hypertonic)
+	- Result: Water exiting Loop of Henle is less hypertonic
+		- → Preserve Osmotic Gradient
+
