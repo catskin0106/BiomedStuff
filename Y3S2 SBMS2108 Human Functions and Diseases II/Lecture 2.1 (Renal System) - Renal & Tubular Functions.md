@@ -20,8 +20,13 @@ Lecture Notes
 - Loop of Henle
 - Juxtaglomerular Apparatus
 
-| Cell           | Location | Function |
-| :------------- | -------- | -------- |
-| Macula Densa   |          |          |
-| Granular Cell  |          |          |
-| Mesangial Cell |          |          |
+| Cell           | Location           | Function       |
+| :------------- | ------------------ | -------------- |
+| Macula Densa   | Distal Tubule      | Senses NaCl    |
+| Granular Cell  | Afferent Arteriole | Produces Renin |
+| Mesangial Cell | Extraglomerular    |                |
+|                |                    |                |
+
+#### **Renal Clearance**
+**Glomerular Filtration Rate**
+- 
