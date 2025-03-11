@@ -30,7 +30,7 @@ Lecture Notes
 
 #### **Renal Clearance**
 - C<sub>x</sub>: Virtual volume of Plasma completely cleared of substances by the kidneys per unit time
-	- Measured
+	- Measured 
 
 **Glomerular Filtration Rate**
 - Fluid Filtered from Glomeruli to Bowman's Capsule
