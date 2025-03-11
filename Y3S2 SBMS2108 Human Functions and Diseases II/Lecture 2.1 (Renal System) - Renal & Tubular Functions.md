@@ -27,16 +27,11 @@ Lecture Notes
 | Macula Densa   | Distal Tubule      | Senses NaCl    |
 | Granular Cell  | Afferent Arteriole | Produces Renin |
 | Mesangial Cell | Extraglomerular    |                |
-|                |                    |                |
+
 
 #### **Renal Clearance**
 - C<sub>x</sub>: Virtual volume of Plasma completely cleared of substance X by the kidneys per unit time
 	- Measured by <abbr Title="Glomerular Filtration Rate">GFR</abbr> & <abbr Title="Renal Plasma Flow">RPF (≈ 625mL/min )</abbr>
-
-| C<sub>x</sub> / RPF | Meaning                               | Examples |
-| ------------------- | ------------------------------------- | -------- |
-| 0%                  | Substance that doesn't exist in urine | Glucose  |
-| 100%                |                                       |          |
 
 **Glomerular Filtration Rate**
 - Fluid Filtered from Glomeruli to Bowman's Capsule
@@ -54,7 +49,23 @@ $$\Large GFR\;= \frac{U_{x}\;*\;V}{P_{x}}$$
 | 100% | Totally filtered in kidney single-pass | <abbr Title="Para-aminohippuric Acid">PAH</abbr> |
 
 
-#### **Autoregulation of GFR**
+#### **Regulation of GFR**
 **Myogenic Mechanism**
-- Regulates RBF & therefore GFR in response to changing Blood Pressure
-	- Through Renal Afferent Muscle Stretching
+- Regulates RPF & GFR in response to changing Blood Pressure
+	- Through Blood Flow Resistance from Renal Afferent Muscle Stretching
+
+**Tubuloglomerular Feedback (TGF)**
+- Regulates RPF & GFR in response to changing NaCl (∝ GFR)
+	- Through Blood Flow Resistance from Renal Afferent Muscle Stretching
+	- Detected by Macula Densa
+		- ↑ NaCl → ↑ ATP & Adenosine release
+
+**Sympathetic Regulation**
+- Overrides other autoregulation mechanisms
+- Lowers RPF & GFR in Dehydration / Strong Emotional Stimuli
+
+**Other Factors**
+
+| Factor   | Description       | GFR Change |
+| -------- | ----------------- | ---------- |
+| RAA Axis | Ang II constricts |            |
