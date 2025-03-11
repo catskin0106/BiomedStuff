@@ -29,9 +29,9 @@ Lecture Notes
 |                |                    |                |
 
 #### **Renal Clearance**
-- C<sub>x</sub>: Virtual volume of Plasma completely cleared of substances by the kidneys per unit time
-	- Measures <abbr Title="">GFR</abbr> & RPF
+- C<sub>x</sub>: Virtual volume of Plasma completely cleared of substance X by the kidneys per unit time
+	- Measured by <abbr Title="Glomerular Filtration Rate">GFR</abbr> & <abbr Title="Renal Plasma Flow">RPF</abbr>
 
 **Glomerular Filtration Rate**
 - Fluid Filtered from Glomeruli to Bowman's Capsule
-
+- Measurement of GFR:
