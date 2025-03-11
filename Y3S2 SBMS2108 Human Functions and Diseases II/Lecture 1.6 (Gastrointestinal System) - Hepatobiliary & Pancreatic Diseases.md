@@ -51,4 +51,11 @@ Lecture Notes
 
 
 #### **Pancreatic Diseases**
-****
+**Acute Pancreatitis**
+- Tissue Autodigestion → Edema, Hemorrhage & Tissue Necrosis
+- Complications:
+	- Peritonitis from Enzyme Leakage
+	- Kidney & Brain Shock from ↓ Blood Pressure
+- Causes:
+	- Gallstones
+	- Alcohol Abuse
