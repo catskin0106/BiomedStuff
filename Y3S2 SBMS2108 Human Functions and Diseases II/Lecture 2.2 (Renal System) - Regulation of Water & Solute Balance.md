@@ -2,6 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Distribution of Water & Solutes
+- Regulation of Body Osmolality
 
 ---
 #### **Distribution of Water & Solutes**
@@ -38,5 +39,6 @@ graph TD;
 
 
 #### **Regulation of Body Osmolality**
-**Nephron Water Reabsorption**
+**Countercurrent Multiplier System**
+- 
 
