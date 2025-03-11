@@ -35,3 +35,7 @@ Lecture Notes
 **Glomerular Filtration Rate**
 - Fluid Filtered from Glomeruli to Bowman's Capsule
 - Measurement of GFR:
+	- Affected by <abbr Title="Plasma Concentration of x">P<sub>x</sub></abbr> , <abbr Title="Urine Concentration of x">U<sub>x</sub></abbr> & <abbr Title="Urine Volume">V</abbr>
+$$\Large GFR\;= \frac{U_{x}\;*\;V}{P_{x}}$$
+
+**a**
