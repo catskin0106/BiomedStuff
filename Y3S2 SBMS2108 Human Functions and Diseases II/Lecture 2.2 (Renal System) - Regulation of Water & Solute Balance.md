@@ -70,6 +70,13 @@ graph TD;
 | Stimulation       | By ↑ Plasma Osmolality (Osmoreceptors)<br>By ↓ Blood Volume / Pressure (Baroreceptors in Aortic Arch & Carotid Sinus) |
 | Storage & Release | In Posterior Pituitary                                                                                                |
 | Action            | Inducing AQP2 Insertion in Apical Membrane of Collecting Duct Principal Cells                                         |
-| Effect            | ↑ Water reabsorption → Concentrated Urine                                                                             |
+| Effect            | ↑ Water reabsorption → Concentrated Urine → Water Balance                                                             |
 
-****
+**Thirst Control by Angiotensin II**
+
+| Stage              | Description                                                                                                           |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| Stimulation        | By ↑ Plasma Osmolality (Osmoreceptors)<br>By ↓ Blood Volume / Pressure (Baroreceptors in Aortic Arch & Carotid Sinus) |
+| Central Processing | By CNS Thrist Centre                                                                                                  |
+| Action             | Thirst Stimulated by Angiotensin II                                                                                   |
+| Effect             | ↑ Water Intake → Water Balance                                                                                        |
