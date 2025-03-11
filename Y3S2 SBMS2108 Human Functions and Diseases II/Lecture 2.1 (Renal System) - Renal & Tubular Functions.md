@@ -18,6 +18,7 @@ Lecture Notes
 
 **Structure of the Kidney**
 - Loop of Henle
+	- Create medulla osmotic gradient
 - Juxtaglomerular Apparatus
 
 | Cell           | Location           | Function       |
@@ -28,5 +29,8 @@ Lecture Notes
 |                |                    |                |
 
 #### **Renal Clearance**
+- C<sub>x</sub>: Virtual volume of Plasma completely cleared of substances by the kidneys per unit time
+	- Measured
+
 **Glomerular Filtration Rate**
-- 
+- Fluid Filtered from Glomeruli to Bowman's Capsule
