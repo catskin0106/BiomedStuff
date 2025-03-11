@@ -33,3 +33,12 @@ Lecture Notes
 
 
 #### **Liver Functional Test**
+
+| Biomarker                                                                                                                                                      | Assessed Property        | Associated Conditions |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | --------------------- |
+| <abbr Title="Aspartate Aminotransferase">AST</abbr> / Hepatic <abbr Title="Alanine Aminotransferase">ALT</abbr> in Plasma<br>(Released by Injured Hepatocytes) | Hepatocellular Integrity |                       |
+| <abbr Title="Alkaline Phosphatase">ALP</abbr>                                                                                                                  |                          |                       |
+| <abbr Title="Gamma-Glutamyl Transpeptidase">GGT</abbr>                                                                                                         |                          |                       |
+| Albumin                                                                                                                                                        |                          |                       |
+| <abbr Title="Prothrombin Time">PT</abbr>                                                                                                                       |                          |                       |
+| Serum Bilirubin                                                                                                                                                |                          |                       |
