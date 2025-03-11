@@ -38,3 +38,5 @@ graph TD;
 
 
 #### **Regulation of Body Osmolality**
+**Nephron Water Reabsorption**
+
