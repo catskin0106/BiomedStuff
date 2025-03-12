@@ -37,3 +37,5 @@ $$\Large pH = 6.1\;+\;log\frac{[HCO_{3}^{-}]}{PCO_{2}}$$
 
 
 #### **Respiratory Handling of PCO<sub>2</sub>**
+- Ventilation
+	- Stimulated by low plasma pH & HCO<sub>3</sub><sup>-</sup>
