@@ -93,7 +93,7 @@ Lecture Notes
 | :-------------------------: | -------------------------------------------------------------------------------------- | --------------------- |
 | Bile Secretion & Production | By Hepatocytes                                                                         | <                     |
 |   Bile Temporary Storage    | Liver → Biliary Tract → Gall Bladder                                                   | <                     |
-|        CCK Secretion        | Stimulated by Fatty Acid & Amino Acid                                                  | <                     |
+|     Ileum CCK Secretion     | Stimulated by Fatty Acid & Amino Acid                                                  | <                     |
 |      <br>Bile Release       | CCK triggers:<br>- Gall Bladder Contraction<br>- Hepatopancreatic Sphincter Relaxation | <                     |
 | Recirculation / Elimination | Re-circulation back to Liver                                                           | Elimination in Faeces |
 
