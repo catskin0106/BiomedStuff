@@ -10,7 +10,7 @@ Lecture Notes
 #### **Angiotensin-Converting Enzyme Inhibitors**
 - Drug Suffix: -pril
 	- Fosinopril & Captopril
-- ↓ Ang-II Level → ↓ Dilate Afferent & Efferent Glomerular Arterio↓ Blood Pressure (Intraglomerular Pressure)
+- ↓ Ang-II Level → ↓ Dilate Afferent & Efferent Glomerular Arteriole → ↓ Blood Pressure (Intraglomerular Pressure)
 	- Treats Hypertension, Cardiac Failure
 	- Worsens Bilateral Renal Artery <abbr Title="Narrowing">Stenosis</abbr>
 		- Calcium Channel Blockers should be used instead
@@ -23,4 +23,4 @@ Lecture Notes
 - ↓ Blood Pressure
 
 
-#### ****
+#### **SGLT2 Inhibitors**
