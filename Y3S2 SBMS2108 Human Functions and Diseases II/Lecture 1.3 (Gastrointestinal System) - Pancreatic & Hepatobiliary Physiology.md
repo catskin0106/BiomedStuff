@@ -38,7 +38,7 @@ Lecture Notes
 
 
 #### **Hepatic Functions**
-- Hematologic, Endocrine Excretory & Digestive Functions
+- Hematologic, Endocrine, Excretory & Digestive Functions
 
 **Hepatological Functions**
 - Temporary Blood Storage
