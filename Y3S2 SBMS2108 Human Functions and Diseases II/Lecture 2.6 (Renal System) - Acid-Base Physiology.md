@@ -3,7 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Acid-Base Balance
 - Renal Handling of HCO<sub>3</sub><sup>-</sup>
-- Respiratory Handling of CO<sub>2</sub>
+- Respiratory Handling of PCO<sub>2</sub>
 
 ---
 #### **Acid-Base Balance**
@@ -27,4 +27,13 @@ $$\Large pH = 6.1\;+\;log\frac{[HCO_{3}^{-}]}{PCO_{2}}$$
 #### **Renal Handling of HCO<sub>3</sub><sup>-</sup>**
 - By:
 	- Bicarbonate Reabsorption
-	- New Bicarbonate Generation & H<sup>+</sup> R
+	- New Bicarbonate Generation & H<sup>+</sup> Excretion
+
+**New Bicarbonate Generation & H<sup>+</sup> Excretion**
+- Carbonic Anhydrase II in Intercalated Cells:  H<sub>2</sub>CO<sub>3</sub> → HCO<sub>3</sub><sup>-</sup> + H<sup>+</sup>
+- H<sup>+</sup> Excreted through Combining with other molecules:
+	- Phosphate: HPO<sub>4</sub><sup>-</sup> + H<sup>+</sup> → H<sub>2</sub>PO<sub>4</sub><sup>-</sup>
+	- Ammonia: NH<sub>3</sub><sup>+</sup> + H<sup>+</sup> → NH<sub>4</sub><sup>+</sup>
+
+
+#### **Respiratory Handling of PCO<sub>2</sub>**
