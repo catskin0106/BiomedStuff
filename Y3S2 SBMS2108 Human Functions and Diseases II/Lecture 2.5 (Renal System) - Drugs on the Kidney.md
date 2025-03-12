@@ -31,4 +31,19 @@ Lecture Notes
 
 
 #### **Diuretics**
-- Enhances 
+- Enhances solute & water excretion
+	- Through Inhibiting Na<sup>+</sup> & Water Reabsorption 
+
+**Water Reabsorption Inhibitors
+
+| Type              | Drug Suffix | Inhibition Mechanism                                                  |
+| ----------------- | ----------- | --------------------------------------------------------------------- |
+| ADH Antagonists   | -Vaptan     | ↓ Collecting AQP2 → ↓ Water reabsorption but not solute reabsorption  |
+| Osmotic Diuretics |             | Non Reabsorbable Solutes → ↑ Tubule Osmolality → ↓ Water reabsorption |
+
+**Na<sup>+</sup> Reabsorption Inhibitors**
+
+| Type                          | Drug Suffix | Transporters Inhibited |
+| ----------------------------- | ----------- | ---------------------- |
+| Carbonic Anhydrase Inhibitors |             |                        |
+
