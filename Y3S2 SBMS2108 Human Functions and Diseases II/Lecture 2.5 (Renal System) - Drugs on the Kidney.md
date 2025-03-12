@@ -43,7 +43,11 @@ Lecture Notes
 
 **Na<sup>+</sup> Reabsorption Inhibitors**
 
-| Type                          | Drug Suffix | Transporters Inhibited |
-| ----------------------------- | ----------- | ---------------------- |
-| Carbonic Anhydrase Inhibitors |             |                        |
+|                          Type                           |             <              | Drug Suffix / Example | Inhibition Mechanism                                                                                                                                 |
+| :-----------------------------------------------------: | :------------------------: | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <abbr Title="Carbonic Anhydrase">CA</abbr> Inhibitors  |             <              | Acetazolamide         | Inhibit CA ( ↓ H<sub>2</sub>CO<sub>3</sub> ⇌ HCO<sub>3</sub><sup>-</sup> + CO<sub>2</sub> ) → <br>↓ Na<sup>+</sup>-H<sup>+</sup> Antiporter Activity |
+|                     Loop Diuretics                      |             <              | -Semide               | Inhibit Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter                                                                                   |
+|         Distal Tubular (Thiazide)<br>Diuretics          |             <              | Hydrochlorothiazide   | Inhibit Na<sup>+</sup>-Cl<sup>-</sup> cotransporter                                                                                                  |
+| <br>K<sup>+</sup> Sparing <br>Collecting Duct Diuretics | Aldosterone<br>Antagonist  | Spironolactone        | ↓ Collecting Duct ENaC & ATPase Activity<br>K<sup>+</sup> is retained → Hyperkalemia                                                                 |
+|                            ^                            | Amiloride &<br>Triamterene | <                     | Inhibit Na<sup>+</sup> ENaC<br>K<sup>+</sup> is retained → Hyperkalemia                                                                              |
 

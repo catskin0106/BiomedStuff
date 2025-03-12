@@ -25,12 +25,12 @@ Lecture Notes
 
 **Renin-Angiotensin-Aldosterone System**
 
-| Component      | Function                                                                                                                                                                    |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Renin          | Cleaves Angiotensinogen into Angiotensin                                                                                                                                    |
-| Angiotensin I  | Converted to Angiotensin II by Converting Enzy                                                                                                                              |
-| Angiotensin II | ↑ BP, ADH Secretion & <font color=yellow>Na</font>Cl Reabsorption<br>↑ Aldosterone Release from Adrenal G                                                                   |
-| Aldosterone    | ↑ Collecting Duct E<font color=yellow>Na</font>C amount & open probability<br>↑ Collecting Duct <font color=yellow>Na</font><sup>+</sup>-K<sup>+</sup> ATPase Activity Pase |
+| Component      | Function                                                                                                                                                               |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Renin          | Cleaves Angiotensinogen into Angiotensin                                                                                                                               |
+| Angiotensin I  | Converted to Angiotensin II by Converting Enzy                                                                                                                         |
+| Angiotensin II | ↑ BP, ADH Secretion & <font color=yellow>Na</font>Cl Reabsorption<br>↑ Aldosterone Release from Adrenal G                                                              |
+| Aldosterone    | ↑ Collecting Duct E<font color=yellow>Na</font>C amount & open probability<br>↑ Collecting Duct <font color=yellow>Na</font><sup>+</sup>-K<sup>+</sup> ATPase Activity |
 
 **Neural Factor**
 - ↓ Reabsorption:
