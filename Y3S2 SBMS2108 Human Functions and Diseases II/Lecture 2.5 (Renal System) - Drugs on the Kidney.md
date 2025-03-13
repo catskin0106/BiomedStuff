@@ -36,10 +36,10 @@ Lecture Notes
 
 **Water Reabsorption Inhibitors**
 
-| Type              | Drug Suffix | Inhibition Mechanism                                                  |
-| ----------------- | ----------- | --------------------------------------------------------------------- |
-| ADH Antagonists   | -Vaptan     | ↓ Collecting AQP2 → ↓ Water reabsorption but not solute reabsorption  |
-| Osmotic Diuretics |             | Non Reabsorbable Solutes → ↑ Tubule Osmolality → ↓ Water reabsorption |
+| Type              | Drug Suffix | Inhibition Mechanism                                                      |
+| ----------------- | ----------- | ------------------------------------------------------------------------- |
+| ADH Antagonists   | -Vaptan     | ↓ Collecting Duct AQP2 → ↓ Water reabsorption but not solute reabsorption |
+| Osmotic Diuretics |             | Non Reabsorbable Solutes → ↑ Tubule Osmolality → ↓ Water reabsorption     |
 
 **Na<sup>+</sup> Reabsorption Inhibitors**
 
