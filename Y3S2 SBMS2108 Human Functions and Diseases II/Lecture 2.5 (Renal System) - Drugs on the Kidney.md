@@ -34,7 +34,7 @@ Lecture Notes
 - Enhances solute & water excretion
 	- Through Inhibiting Na<sup>+</sup> & Water Reabsorption 
 
-**Water Reabsorption Inhibitors
+**Water Reabsorption Inhibitors**
 
 | Type              | Drug Suffix | Inhibition Mechanism                                                  |
 | ----------------- | ----------- | --------------------------------------------------------------------- |

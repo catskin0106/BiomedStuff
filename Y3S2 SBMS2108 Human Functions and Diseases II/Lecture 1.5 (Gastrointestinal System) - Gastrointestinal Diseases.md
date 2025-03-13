@@ -31,8 +31,8 @@ Lecture Notes
 
 | Test               | <                                                                                | Positive Case Indication                                       |
 | ------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Stool Antigen Test | 14C-labelled Urea in Breath →<br>Urease of H. Pylori produces 14C-CO<sub>2</sub> | Quantifiable Radioactive CO<sub>2</sub>                        |
-| Urea Breath Test   | H. Pylori Antigen in Stool                                                       | 2 Lines in <abbr Title="Immunochromatography Assay">ICA</abbr> |
+| Urea Breath Test   | 14C-labelled Urea in Breath →<br>Urease of H. Pylori produces 14C-CO<sub>2</sub> | Quantifiable Radioactive CO<sub>2</sub>                        |
+| Stool Antigen Test | H. Pylori Antigen in Stool                                                       | 2 Lines in <abbr Title="Immunochromatography Assay">ICA</abbr> |
 | Rapid Urease Test  | pH due to Ammonia production from Urease                                         | Yellow → Red Test                                              |
 
 **Gastritis**
