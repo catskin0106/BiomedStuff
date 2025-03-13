@@ -29,7 +29,7 @@ Lecture Notes
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Renin          | Cleaves Angiotensinogen into Angiotensin                                                                                                                               |
 | Angiotensin I  | Converted to Angiotensin II by Converting Enzy                                                                                                                         |
-| Angiotensin II | ↑ BP, ADH Secretion & <font color=yellow>Na</font>Cl Reabsorption<br>↑ Aldosterone Release from Adrenal G                                                              |
+| Angiotensin II | ↑ BP, ADH Secretion & <font color=yellow>Na</font>Cl Reabsorption<br>↑ Aldosterone Release from Adrenal Gland                                                          |
 | Aldosterone    | ↑ Collecting Duct E<font color=yellow>Na</font>C amount & open probability<br>↑ Collecting Duct <font color=yellow>Na</font><sup>+</sup>-K<sup>+</sup> ATPase Activity |
 
 **Neural Factor**
