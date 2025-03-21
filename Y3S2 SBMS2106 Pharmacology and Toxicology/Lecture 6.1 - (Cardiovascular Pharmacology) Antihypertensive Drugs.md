@@ -78,3 +78,13 @@
 	- Elimination: Kidney
 
 **Potassium Channel Opener**
+- Suffix: -dil (e.g. Minoxidil, Pinacidil, Nicorandil)
+	- Exception: Diazoxide
+
+| Step  | Event                                                                                   | Effect                                     |
+| ----- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1     | K<sub>ATP</sub> Opening                                                                 | ↓ K<sup>+</sup> Efflux → Hyperpolarization |
+| 2     | <abbr Title="Opens only in Depolarization">Voltage-Gated</abbr> Calcium Channel Closure | ↓ Ca<sup>2+</sup> Influx                   |
+| <br>3 | ↓ Smooth Muscle Contractility                                                           | Vasodilation                               |
+| ^     | ↓ Cardiac Muscle Contractility                                                          | ↓ CO & O<sub>2</sub> Demand                |
+
