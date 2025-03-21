@@ -21,7 +21,7 @@
 
 
 #### **RAA System Drugs**
-- Lowers Angiotensin II Activity
+- Aim: ↓ Lowers Angiotensin II Activity
 	- ACE Inhibitors
 	- Angiotensin II Type 1 Receptor Antagonists
 
@@ -49,9 +49,10 @@
 | 2    | ↓ AT1R Effect   | Vasodilation <br>↓ Aldosterone & Sympathetic Activity                          |
 | 3    | ↓ Aldosterone   | ↓ Na<sup>+</sup> & Water Reabsorption                                          |
 - Site of Action & Elimination
-	-  Action: Heart, Blood Vessels & Kidney
+	- Action: Heart, Blood Vessels & Kidney
 	- Elimination: Liver (Biliary) & Kidney
 
 
 #### **Ion Channel Drugs**
-**
+- Aim: ↓ Lowers Ca<sup>2+</sup> Influx → ↓ Cardiac & Smooth Muscle Contractility
+	- Ca<sup>2+</sup> changes Tropomyosin conformation → Myosin detch f & 
