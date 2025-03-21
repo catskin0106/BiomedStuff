@@ -54,8 +54,27 @@
 
 #### **Adrenoceptor Drugs**
 - Aim: Lower Sympathetic Tone
-- Types of Adrenoceptor & Cardiovascular Functions
+	- α1 & β Blockers ([[Lecture 5.3A - (Synaptic Pharmacology) Adrenergic Receptor & Synaptic Drugs#**Classification of Adrenoceptors**|Details]])
+	- α2 Agonists
 
+**α1 Blockers**
+- Suffix: -zosin (e.g. Prazosin, Terazosin & Doxazosin)
+- Mechanisms:
+
+| Step | Event              | Effect                                          |
+| ---- | ------------------ | ----------------------------------------------- |
+| 1    | α1 Blockage        | ↓ α1 Activation by Noradrenaline                |
+| 2    | ↓ Vasoconstriction | Vasodilation & ↓ Peripheral Vascular Resistance |
+
+**α2 Agonists**
+- Suffix: -idine (e.g. Clonidine, Rilmenidine)
+	- Exception: Methyldopa
+- Mechanisms:
+
+| Step | Event              | Effect                                          |
+| ---- | ------------------ | ----------------------------------------------- |
+| 1    | α1 Blockage        | ↓ α1 Activation by Noradrenaline                |
+| 2    | ↓ Vasoconstriction | Vasodilation & ↓ Peripheral Vascular Resistance |
 
 
 #### **Ion Channel Drugs**
@@ -72,6 +91,7 @@
 
 **Calcium Channel Blockers (CCB)**
 - Suffix: -dipine (e.g. Nifedipine, Lercanidipine, Felodipine)
+- Mechanisms:
 
 | Step  | Event                                         | Effect                      |
 | ----- | --------------------------------------------- | --------------------------- |
@@ -87,6 +107,7 @@
 	- Exception: Diazoxide
 - Used when other medication with no effect
 	- Given with Diuretics & β Blockers
+- Mechanisms:
 
 | Step  | Event                                                                                   | Effect                                       |
 | ----- | --------------------------------------------------------------------------------------- | -------------------------------------------- |
