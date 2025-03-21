@@ -68,8 +68,13 @@
 **Calcium Channel Blockers (CCB)**
 - Suffix: -dipine (e.g. Nifedipine, Lercanidipine, Felodipine)
 
-| Step | Event           | Description                                                                    |
-| ---- | --------------- | ------------------------------------------------------------------------------ |
-| 1    | AT1R Inhibition | Selective Blockage of <abbr Title="Angiotensin II Type 1 Receptor">AT1R</abbr> |
-| 2    | ↓ AT1R Effect   | Vasodilation <br>↓ Aldosterone & Sympathetic Activity                          |
-| 3    | ↓ Aldosterone   | ↓ Na<sup>+</sup> & Water Reabsorption                                          |
+| Step  | Event                                         | Effect                      |
+| ----- | --------------------------------------------- | --------------------------- |
+| 1     | Voltage-Gated L Type Calcium Channel Blockage | ↓ Ca<sup>2+</sup> Influx    |
+| <br>2 | ↓ Smooth Muscle Contractility                 | Vasodilation                |
+| ^     | ↓ Cardiac Muscle Contractility                | ↓ CO & O<sub>2</sub> Demand |
+- Site of Action & Elimination:
+	- Action: Heart & Arteries
+	- Elimination: Kidney
+
+**Potassium Channel Opener**
