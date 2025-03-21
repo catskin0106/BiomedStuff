@@ -52,6 +52,11 @@
 	- Action: Heart, Blood Vessels & Kidney
 	- Elimination: Liver (Biliary) & Kidney
 
+#### **Adrenoceptor Drugs**
+- Aim: Lower Sympathetic Tone
+- Types of Adrenoceptor & Cardiovascular Functions
+
+
 
 #### **Ion Channel Drugs**
 - Aim: ↓ Lowers Ca<sup>2+</sup> Influx → ↓ Cardiac & Smooth Muscle Contractility
@@ -80,11 +85,12 @@
 **Potassium Channel Opener**
 - Suffix: -dil (e.g. Minoxidil, Pinacidil, Nicorandil)
 	- Exception: Diazoxide
+- Used when other medication with no effect
+	- Given with Diuretics & β Blockers
 
-| Step  | Event                                                                                   | Effect                                     |
-| ----- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
-| 1     | K<sub>ATP</sub> Opening                                                                 | ↓ K<sup>+</sup> Efflux → Hyperpolarization |
-| 2     | <abbr Title="Opens only in Depolarization">Voltage-Gated</abbr> Calcium Channel Closure | ↓ Ca<sup>2+</sup> Influx                   |
-| <br>3 | ↓ Smooth Muscle Contractility                                                           | Vasodilation                               |
-| ^     | ↓ Cardiac Muscle Contractility                                                          | ↓ CO & O<sub>2</sub> Demand                |
-
+| Step  | Event                                                                                   | Effect                                       |
+| ----- | --------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1     | K<sub>ATP</sub> Opening                                                                 | ↑ K<sup>+</sup> Efflux → ↑ Hyperpolarization |
+| 2     | <abbr Title="Opens only in Depolarization">Voltage-Gated</abbr> Calcium Channel Closure | ↓ Ca<sup>2+</sup> Influx                     |
+| <br>3 | ↓ Smooth Muscle Contractility                                                           | Vasodilation                                 |
+| ^     | ↓ Cardiac Muscle Contractility                                                          | ↓ CO & O<sub>2</sub> Demand                  |
