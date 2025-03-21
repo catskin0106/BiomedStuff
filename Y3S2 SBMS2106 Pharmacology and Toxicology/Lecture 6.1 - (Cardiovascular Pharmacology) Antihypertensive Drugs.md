@@ -55,4 +55,21 @@
 
 #### **Ion Channel Drugs**
 - Aim: ↓ Lowers Ca<sup>2+</sup> Influx → ↓ Cardiac & Smooth Muscle Contractility
-	- Ca<sup>2+</sup> changes Tropomyosin conformation → Myosin detch f & 
+	- <abbr Title="Calcium Channel Blockers">CCB</abbr>
+	- Potassium Channel Openers
+- Ca<sup>2+</sup> Role in Muscle Contraction:
+
+| Step | Event                                                            |
+| ---- | ---------------------------------------------------------------- |
+| 1    | Changes Tropomyosin conformation                                 |
+| 2    | Myosin detach from Tropomyosin & binds to Actin temporarily (出軌) |
+| 3    | Muscle Contraction                                               |
+
+**Calcium Channel Blockers (CCB)**
+- Suffix: -dipine (e.g. Nifedipine, Lercanidipine, Felodipine)
+
+| Step | Event           | Description                                                                    |
+| ---- | --------------- | ------------------------------------------------------------------------------ |
+| 1    | AT1R Inhibition | Selective Blockage of <abbr Title="Angiotensin II Type 1 Receptor">AT1R</abbr> |
+| 2    | ↓ AT1R Effect   | Vasodilation <br>↓ Aldosterone & Sympathetic Activity                          |
+| 3    | ↓ Aldosterone   | ↓ Na<sup>+</sup> & Water Reabsorption                                          |
