@@ -22,3 +22,12 @@
 
 #### **RAA System Drugs**
 **Angiotensin Converting Enzyme (ACE) Inhibitors**
+- Suffix: -pril (e.g. Benazepril, Captopril, Cilazapril)
+- Mechanism:
+
+| Step  | Event          | Description                      |
+| ----- | -------------- | -------------------------------- |
+| 1     | ACE Inhibition | ↓ Angiotensin I to II Conversion |
+| <br>2 | Vasodilation   |                                  |
+| ^     | ↓ Aldosterone  |                                  |
+| ^     | ↑ Bradykinin   |                                  |
