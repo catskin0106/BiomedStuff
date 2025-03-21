@@ -71,10 +71,14 @@
 	- Exception: Methyldopa
 - Mechanisms:
 
-| Step | Event              | Effect                                          |
-| ---- | ------------------ | ----------------------------------------------- |
-| 1    | α1 Blockage        | ↓ α1 Activation by Noradrenaline                |
-| 2    | ↓ Vasoconstriction | Vasodilation & ↓ Peripheral Vascular Resistance |
+| Step | Event              | Effect                                               |
+| ---- | ------------------ | ---------------------------------------------------- |
+| 1    | α2 Activation      | ↓ Noradrenaline Exocytosis from Preganglionic Neuron |
+| 2    | ↓ Sympathetic Tone | ↓ HR                                                 |
+
+**β Blockers**
+- Suffix: -olol
+	- Starts with A-N: More Cardioselective (e.g. Atenolol, B)
 
 
 #### **Ion Channel Drugs**
