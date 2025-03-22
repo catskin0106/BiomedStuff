@@ -60,5 +60,24 @@ Lecture Notes
 
 
 #### **Class III: K⁺ Channel Blockers**
-- Slows K<sup>+</sup> Efflux → Prolongs AP Duration & ERP
-	- 
+- ↓ K<sup>+</sup> Efflux 
+	- → Prolongs AP Duration & ERP
+- Drug Examples:
+	- Sotalol
+	- Amiodarone: Moderate Na<sup>+</sup> Channel Blocker (Partially Class I)
+	- Dronedarone: For Symptomatic Non-permanent <abbr Title="Atrial Fibrillation">AF</abbr>
+		- ↑ Risk in Severe Heart Failure Patients
+
+
+#### **Ca²⁺ Channel Blockers**
+- Blocks L-Type Ca<sup>2+</sup> Calcium Channels → ↓ Ca<sup>2+</sup> Efflux
+	- ↓ SA & AV Depolarization Rate → ↓ HR
+	- ↓ Myocardial Contractility
+- Drug Examples
+	- Verapamil
+	- Diltiazem
+
+
+#### **Other Antiarrhythmic Drugs**
+**Drugs for Tachyarrhythmias**
+- 
