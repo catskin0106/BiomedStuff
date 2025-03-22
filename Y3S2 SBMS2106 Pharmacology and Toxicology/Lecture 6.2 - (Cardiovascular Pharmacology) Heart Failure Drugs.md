@@ -26,7 +26,7 @@ Lecture Notes
 
 | Step | Event                                               | Effect                          |
 | ---- | --------------------------------------------------- | ------------------------------- |
-| 1    | Na<sup>+</sup>/K<sup>+</sup>-ATPase Blockage        | ↑ Intracellular Na<sup>+</sup>  |
+| 1    | Na<sup>+</sup>/K<sup>+</sup>-ATPase Inhibition      | ↑ Intracellular Na<sup>+</sup>  |
 | 2    | ↑ Na<sup>+</sup>/Ca<sup>2+</sup> Exchanger Activity | ↑ Intracellular Ca<sup>2+</sup> |
 | 3    | ↑ Ca<sup>2+</sup> → Positive Inotropic Effect       | ↑ Cardiac Output                |
 - Parasympathetic Activator
@@ -42,7 +42,7 @@ Lecture Notes
 
 | Step | Event                                             | Effect           |
 | ---- | ------------------------------------------------- | ---------------- |
-| 1    | Phosphodiesterase-3 Blockage                      | ↓ cAMP → AMP     |
+| 1    | Phosphodiesterase-3 Inhibition                    | ↓ cAMP → AMP     |
 | 2    | ↑ Cardiac Muscle cAMP → Positive Inotropic Effect | ↑ Cardiac Output |
 | ^    | ↑ Smooth Muscle cAMP → Vasodilation               | ↓ Heart Workload |
 
@@ -52,5 +52,23 @@ Lecture Notes
 
 
 #### **Long-Term Heart Failure Drugs**
-**RAA Drugs**
+**Antihypertensive Drugs**
+- Aim: ↓ Heart Workload → Easier O<sub>2</sub> Distribution
+- Examples:
+	- β Blockers
+	- RAA Drugs
+	- Aldosterone Inhibitor (Spironolactone)
 
+**Aldosterone Inhibitor / Neprilysin Inhibitor (ARNIs)**
+- Aim: ↓ Heart Workload → Easier O<sub>2</sub> Distribution
+- Mechanism:
+
+| Step | Event                                               | Effect                                                     |
+| ---- | --------------------------------------------------- | ---------------------------------------------------------- |
+| 1    | Neprilysin Inhibition                               | ↓ <abbr Title="Natriuretic Peptides">NP</abbr> Degradation |
+| 2    | <abbr Title="↑ Sodium Excretion">Natriuresis</abbr> | ↑ Cardiac Output                                           |
+| ^    | Vasodilation                                        | ↓ Heart Workload                                           |
+
+**SGLT2 Inhibitor**
+- Aim: ↑ Ketone as Energy Supply for Heart → ↓ O<sub>2</sub> Demand
+- Mechanism:
