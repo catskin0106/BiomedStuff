@@ -77,8 +77,21 @@
 | 2    | ↓ Sympathetic Tone | ↓ HR                                                 |
 
 **β Blockers**
+- Main Effect: Blocks β1 Receptors
 - Suffix: -olol
-	- Starts with A-N: More Cardioselective (e.g. Atenolol, B)
+
+|          Rule          | Meaning                             | Examples                            | Additional Effects                                                            |
+| :--------------------: | ----------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
+|  <br>Starts with A-N   | <br>More Cardioselective β Blockers | Atenolol<br>Bisoprolol<br>Nebivolol |                                                                               |
+|    Starts with M-Z     | Non-Selective β Blockers            | Metoprolol<br>Propranolol           | Causes <abbr Title="Dangerous for Asthma Patients">Bronchoconstriction</abbr> |
+| Doesn't end with -olol | α & β Blockers                      | Carvedilol                          | α1 Antagonism: Causes Vasodilation                                            |
+- Mechanisms:
+
+| Step | Event                        | Effect         |
+| ---- | ---------------------------- | -------------- |
+| 1    | β1 Blockage                  |                |
+| 2    | ↓ Renin Release              | ↓ RAA Activity |
+| ^    | ↓ Heart Rate & Contractility | ↓ CO           |
 
 
 #### **Ion Channel Drugs**
@@ -119,3 +132,8 @@
 | 2     | <abbr Title="Opens only in Depolarization">Voltage-Gated</abbr> Calcium Channel Closure | ↓ Ca<sup>2+</sup> Influx                     |
 | <br>3 | ↓ Smooth Muscle Contractility                                                           | Vasodilation                                 |
 | ^     | ↓ Cardiac Muscle Contractility                                                          | ↓ CO & O<sub>2</sub> Demand                  |
+
+
+#### **Other Drugs**
+**Diuretics**
+- Aims: ↑ Urine Volume → ↓ Water Retention
