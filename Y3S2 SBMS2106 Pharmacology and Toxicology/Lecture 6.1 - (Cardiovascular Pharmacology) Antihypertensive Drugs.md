@@ -141,12 +141,12 @@ Lecture Notes
 #### **Diuretics**
 - Categorized by Sites of Action
 
-|                Type                 |                               <                               |           Name           | Site of Action                      |
-| :---------------------------------: | :-----------------------------------------------------------: | :----------------------: | ----------------------------------- |
-|           Loop Diuretics            |                               <                               |        Furosemide        | Ascending Loop of Henle             |
-|         Thiazide Diuretics          |                               <                               |   Hydrochlorothiazide    | Distal Tubule                       |
-| <br>K<sup>+</sup>-Sparing Diuretics | <abbr Title="Epithelial Sodium Channel">ENaC</abbr> Inhibitor | Triamterene<br>Amiloride | <br>Distal Tubule & Collecting Duct |
-|                  ^                  |                    Aldosterone Antagonist                     |      Spironolactone      | ^                                   |
+|                Type                 |                                  <                                  |           Name           | Site of Action                      |
+| :---------------------------------: | :-----------------------------------------------------------------: | :----------------------: | ----------------------------------- |
+|           Loop Diuretics            | Na<sup>+</sup>/K<sup>+</sup>/2Cl<sup>-</sup> Co-transporter Blocker |        Furosemide        | Ascending Loop of Henle             |
+|         Thiazide Diuretics          |           Na<sup>+</sup>/Cl<sup>-</sup> Symporter Blocker           |   Hydrochlorothiazide    | Distal Tubule                       |
+| <br>K<sup>+</sup>-Sparing Diuretics |    <abbr Title="Epithelial Sodium Channel">ENaC</abbr> Inhibitor    | Triamterene<br>Amiloride | <br>Distal Tubule & Collecting Duct |
+|                  ^                  |                       Aldosterone Antagonist                        |      Spironolactone      | ^                                   |
 - Aim: ↑ Urine Volume → ↓ Water Retention & Blood Volume
 	- Mechanisms:
 
