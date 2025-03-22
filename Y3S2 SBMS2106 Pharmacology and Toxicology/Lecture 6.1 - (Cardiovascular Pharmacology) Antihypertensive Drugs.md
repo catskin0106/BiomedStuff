@@ -2,7 +2,8 @@
 - RAA System Drugs
 - Adrenoceptor Drugs
 - Ion Channel Drugs
-- Other Drugs
+- Diuretics
+- Vasodilators
 
 ---
 #### **Mechanisms of Hypertension**
@@ -134,6 +135,15 @@
 | ^     | ↓ Cardiac Muscle Contractility                                                          | ↓ CO & O<sub>2</sub> Demand                  |
 
 
-#### **Other Drugs**
-**Diuretics**
-- Aims: ↑ Urine Volume → ↓ Water Retention
+#### **Diuretics**
+- Aim: ↑ Urine Volume → ↓ Water Retention
+	- Categorized by Sites of Action
+
+|              Type               |  <  |          Name           | Site of Action                  |
+| :-----------------------------: | :-: | :---------------------: | ------------------------------- |
+|         Loop Diuretics          |  <  |       Furosemide        | Ascending Loop of Henle         |
+|       Thiazide Diuretics        |  <  |   Hydrochlorothiazide   | Distal Tubule                   |
+| K<sup>+</sup>-Sparing Diuretics |     | Triamterene & Amiloride | Distal Tubule & Collecting Duct |
+|                ^                |     |     Spironolactone      |                                 |
+
+**Loop Diuretics**
