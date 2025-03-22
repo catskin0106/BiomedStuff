@@ -28,7 +28,7 @@ Lecture Notes
 | ---- | --------------------------------------------------- | ------------------------------- |
 | 1    | Na<sup>+</sup>/K<sup>+</sup>-ATPase Blockage        | ↑ Intracellular Na<sup>+</sup>  |
 | 2    | ↑ Na<sup>+</sup>/Ca<sup>2+</sup> Exchanger Activity | ↑ Intracellular Ca<sup>2+</sup> |
-| 3    | Positive Inotropic Effect                           | ↑ Cardiac Output                |
+| 3    | ↑ Ca<sup>2+</sup> → Positive Inotropic Effect       | ↑ Cardiac Output                |
 - Parasympathetic Activator
 	- ↑ Acetylcholine from Vagal Fibres → Arrhythmias Relief
 
@@ -40,8 +40,17 @@ Lecture Notes
 **Milrinone**
 - Phosphodiesterase-3 Inhibitor
 
-| Step | Event                        | Effect                          |
-| ---- | ---------------------------- | ------------------------------- |
-| 1    | Phosphodiesterase-3 Blockage | ↓ cAMP → AMP                    |
-| 2    | ↑ cAMP                       | ↑ Intracellular Ca<sup>2+</sup> |
-| 3    | Positive Inotropic Effect    | ↑ Cardiac Output                |
+| Step | Event                                             | Effect           |
+| ---- | ------------------------------------------------- | ---------------- |
+| 1    | Phosphodiesterase-3 Blockage                      | ↓ cAMP → AMP     |
+| 2    | ↑ Cardiac Muscle cAMP → Positive Inotropic Effect | ↑ Cardiac Output |
+| ^    | ↑ Smooth Muscle cAMP → Vasodilation               | ↓ Heart Workload |
+
+**Diuretics**
+- [[Lecture 6.1 - (Cardiovascular Pharmacology) Antihypertensive Drugs#**Diuretics**|Diuretics]]
+	- ↓ Water Retention → ↓ Swelling
+
+
+#### **Long-Term Heart Failure Drugs**
+**RAA Drugs**
+
