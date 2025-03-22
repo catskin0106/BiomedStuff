@@ -13,7 +13,6 @@ Lecture Notes
 - Deviation from the normal sinus rhythm of SA node
 	- Tachycardia & Bradycardia
 
-**Symptoms of 
 
 **Action Potential of Cardiac Muscles**
 - Caused by change in membrane conductance to ions ([[Pasted image 20250322114547.png|Diagram]])
@@ -28,5 +27,10 @@ Lecture Notes
 |   2   |    Plateau     | K<sup>+</sup> Efflux (Rectifier Channels) V.S. Ca<sup>2+</sup> Influx | IV: Ca<sup>2+</sup> Channel Blockers     |
 |   3   | Repolarization | K<sup>+</sup> Efflux (Rectifier Channels)                             | III & Ia: K<sup>+</sup> Channel Blockers |
 
+**Symptoms of Heart Arrhythmias**
+- Abnormal <abbr Title="Effective Refractory Period">ERP</abbr>
+	- Characterized by Abnormal QT Interval
+- Abnormal Atrial to Ventricular Conduction Time
+	- Characterized by Abnormal PR Interval
 
 #### **Class I: Na⁺ Channel Blockers**
