@@ -10,13 +10,20 @@ Lecture Notes
 #### **Thrombosis**
 - Abnormal Activation of Coagulation Cascade → Blood Clot Formation
 	- ∵ Oxidized LDL Accumulation on vessel wall → Endothelial Injury
+- Clots mainly consist of Fibrin & Platelets
+	- Platelet Coagulation happens through Platelet Adhesion
+		- Regulated by Prostanoids
+	- Fibrin Coagulation happens through Coagulation Cascade
 
-**Coagulation Cascade**
+**Platelet Coagulation**
+
+
+**Fibrin Coagulation through Coagulation Cascade**
 - 3 Pathways: Extrinsic, Intrinsic & Common
 - Involves <abbr Title="Xa">activated</abbr> factors activating <abbr Title="X → Xa">another factor</abbr> until clot formation:
 	- Some Factors require additional molecules / condition to be activated:
 
-|                                      Color & Factors                                       | Required Condition                                                    |
+|                                      Color & Factors                                       | Additional Condition                                                  |
 | :----------------------------------------------------------------------------------------: | --------------------------------------------------------------------- |
 |                                   II, IX, X & Blood Clot                                   | Ca<sup>2+</sup>                                                       |
 |                           <font color="red">V, VIII, XIII</font>                           | IIa (Thrombin)                                                        |
