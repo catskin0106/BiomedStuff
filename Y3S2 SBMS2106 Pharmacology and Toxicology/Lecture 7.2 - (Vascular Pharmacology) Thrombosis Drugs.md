@@ -16,6 +16,14 @@ Lecture Notes
 	- Fibrin Coagulation happens through Coagulation Cascade
 
 **Platelet Coagulation**
+- Stages in Platelet Coagulation
+
+| Step | Stage               | Description                                                                                                                                                                            |
+| ---- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Platelet Activation | Platelet P2Y<sub>12</sub> Receptors activated by <abbr Title="Released by Damaged Cells">ADP</abbr><br>→ ↓ <abbr Title="Platelet Activation Inhibitor">cAMP</abbr> & ↑ Ca<sup>2+</sup> |
+| 2    | Fibrinogen Binding  | By GPIIb-IIIa<br>→ Platelet Aggregation                                                                                                                                                |
+- Prostanoids in Platelet Regulation
+	- 
 
 
 **Fibrin Coagulation through Coagulation Cascade**
