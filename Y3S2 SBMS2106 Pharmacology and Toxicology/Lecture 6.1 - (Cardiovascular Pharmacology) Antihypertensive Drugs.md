@@ -1,3 +1,6 @@
+Lecture Notes
+
+**Lecture Coverage:**
 - Mechanisms of Hypertension
 - RAA System Drugs
 - Adrenoceptor Drugs
