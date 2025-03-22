@@ -167,7 +167,23 @@
 
 **Potassium Sparing Diuretics**
 - ENaC Inhibitors (Triamterene & Amiloride) / Aldosterone Antagonist (Spironolactone)
-	- Does not ↓ K<sup>+</sup> Reabsorption
+	- No Effect on K<sup>+</sup> Reabsorption
 
 
 #### **Vasodilators**
+- Used when other medications have no effect
+	- Given with Diuretics & β Blockers
+- Aim: ↑ Nitric Oxide → ↑ cGMP → Vasodilation:
+
+| Step | Event                    | Effect                           |
+| ---- | ------------------------ | -------------------------------- |
+| 1    | ↑ Nitric Oxide from Drug | ↑ GTP → cGMP by Guanylyl Cyclase |
+| 2    | ↑ cGMP                   | Vasodilation                     |
+
+**Types of Vasodilators**
+- Nitroprusside
+	- Both Arterial & Venous Vasodilation
+	- Directly Converts into Nitric Oxide in the body
+- Hydralazine
+	- Arterial Vasodilation
+	- Side Effect: Long term usage leads to ↑ Renin release
