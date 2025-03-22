@@ -13,6 +13,8 @@ Lecture Notes
 - Deviation from the normal sinus rhythm of SA node
 	- Tachycardia & Bradycardia
 
+**Symptoms of 
+
 **Action Potential of Cardiac Muscles**
 - Caused by change in membrane conductance to ions ([[Pasted image 20250322114547.png|Diagram]])
 - Can be calibrated by drugs to treat Arrhythmias
