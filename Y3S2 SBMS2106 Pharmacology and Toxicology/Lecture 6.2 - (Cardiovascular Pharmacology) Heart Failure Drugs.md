@@ -70,5 +70,21 @@ Lecture Notes
 | ^    | Vasodilation                                        | ↓ Heart Workload                                           |
 
 **SGLT2 Inhibitor**
-- Aim: ↑ Ketone as Energy Supply for Heart → ↓ O<sub>2</sub> Demand
 - Mechanism:
+
+| Step | Event                                    | Effect                 |
+| ---- | ---------------------------------------- | ---------------------- |
+| 1    | SGLT2 Inhibition                         | ↑ Ketone Circulation   |
+| 2    | ↑ Ketone Utilization by Heart for Energy | ↓ O<sub>2</sub> Demand |
+| 3    | ↑ Efficiency of Energy Use               | ↓ Heart Workload       |
+
+**Sinus Node Inhibitor**
+- e.g. Ivabradine (SA HCN Channel Inhibitor)
+- Mechanism:
+
+| Step      | Event                                 | Effect                        |
+| --------- | ------------------------------------- | ----------------------------- |
+| 1         | HCN Channel Inhbition                 | ↓ SA Node Firing Rate         |
+| <br><br>2 | ↑ Ventricle Filling Time              | ↑ SV                          |
+| ^         | ↓ HR                                  | ↓ O<sub>2</sub> Demand        |
+| ^         | Parasympathetic & Sympathetic Balance | Enhanced Autonomic Regulation |
