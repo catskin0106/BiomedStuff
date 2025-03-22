@@ -80,4 +80,13 @@ Lecture Notes
 
 #### **Other Antiarrhythmic Drugs**
 **Drugs for Tachyarrhythmias**
-- 
+- Adenosine (A1 Adenosine Receptor Agonist)
+	- 10-30s Half-life → Transient Effect Ideal for Acute Tachyarrhythmias
+	- Mechanism:
+
+| Step | Event                                             | Effect            |
+| :--: | ------------------------------------------------- | ----------------- |
+|  1   | ↑ K<sup>+</sup> Efflux<br>↓ Na<sup>+</sup> Influx | Hyperpolarization |
+
+**Drugs for Bradyarrhythmias**
+- Atropine (Muscarinic Acetylcholine Receptor Antag)
