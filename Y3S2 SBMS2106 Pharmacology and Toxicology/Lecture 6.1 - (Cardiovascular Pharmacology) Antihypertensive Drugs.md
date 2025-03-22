@@ -136,30 +136,38 @@
 
 
 #### **Diuretics**
-- Aim: ↑ Urine Volume → ↓ Water Retention
-	- Categorized by Sites of Action
+- Categorized by Sites of Action
 
-|                Type                 |           <            |           Name           | Site of Action                      |
-| :---------------------------------: | :--------------------: | :----------------------: | ----------------------------------- |
-|           Loop Diuretics            |           <            |        Furosemide        | Ascending Loop of Henle             |
-|         Thiazide Diuretics          |           <            |   Hydrochlorothiazide    | Distal Tubule                       |
-| <br>K<sup>+</sup>-Sparing Diuretics |     ENaC Inhibitor     | Triamterene<br>Amiloride | <br>Distal Tubule & Collecting Duct |
-|                  ^                  | Aldosterone Antagonist |      Spironolactone      | ^                                   |
+|                Type                 |                               <                               |           Name           | Site of Action                      |
+| :---------------------------------: | :-----------------------------------------------------------: | :----------------------: | ----------------------------------- |
+|           Loop Diuretics            |                               <                               |        Furosemide        | Ascending Loop of Henle             |
+|         Thiazide Diuretics          |                               <                               |   Hydrochlorothiazide    | Distal Tubule                       |
+| <br>K<sup>+</sup>-Sparing Diuretics | <abbr Title="Epithelial Sodium Channel">ENaC</abbr> Inhibitor | Triamterene<br>Amiloride | <br>Distal Tubule & Collecting Duct |
+|                  ^                  |                    Aldosterone Antagonist                     |      Spironolactone      | ^                                   |
+- Aim: ↑ Urine Volume → ↓ Water Retention & Blood Volume
+	- Mechanisms:
+
+| Step | Event                              | Effect                                     |
+| ---- | ---------------------------------- | ------------------------------------------ |
+| 1    | Ion Transporter Blockage           | ↓ Ion (Mainly Na<sup>+</sup>) Reabsorption |
+| 2    | Interstitium Osmolality < Filtrate | ↓ Water Reabsorption                       |
+| 3    | ↑ Urine Volume                     | ↓ Water Retention & Blood Volume           |
+
+
 **Loop Diuretics (Furosemide)**
 - Na<sup>+</sup>/K<sup>+</sup>/2Cl<sup>-</sup> Co-transporter Blocker
-- Mechanism:
-
-| Step | Event                                                                | Effect                                                                                         |
-| ---- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 1    | Na<sup>+</sup>/K<sup>+</sup>/2Cl<sup>-</sup> Co-transporter Blockage | ↓ Na<sup>+</sup>, Cl<sup>-</sup> & K<sup>+</sup> Reabsorption (↑ Excretion & Mild Hypokalemia) |
-| 3    | ↓ Water Reabsorption                                                 | ↑ Water & Ion Excretion → ↓ Blood Volume                                                       |
+	- Also ↓ K<sup>+</sup> Reabsorption → Hypokalemia
+	- Also ↓ Cl<sup>-</sup>, Mg<sup>2+</sup> Reabsorption
+	- ↑ Ca<sup>2+</sup> Reabsorption
 
 **Thiazide Diuretics (Hydrochlorothiazide)**
 - Na<sup>+</sup>/Cl<sup>-</sup> Symporter Blocker
-- Mechanism:
+	- Also ↓ K<sup>+</sup> Reabsorption → Hypokalemia
+	- Also ↓ Cl<sup>-</sup>, Mg<sup>2+</sup> & Ca<sup>2+</sup> Reabsorption
 
-| Step | Event                                            | Effect                                                           |
-| ---- | ------------------------------------------------ | ---------------------------------------------------------------- |
-| 1    | Na<sup>+</sup>/Cl<sup>-</sup> Symporter Blockage | ↓ Na<sup>+</sup>& Cl<sup>-</sup> Reabsorption (↑ Excretion)      |
-| 2    | Electrochemical Balance                          | ↑ K<sup>+</sup> & Mg<sup>2+</sup> Excretion (→ Mild Hypokalemia) |
-| 3    | ↓ Water Reabsorption                             | ↑ Water & Ion Excretion → ↓ Blood Volume                         |
+**Potassium Sparing Diuretics**
+- ENaC Inhibitors (Triamterene & Amiloride) / Aldosterone Antagonist (Spironolactone)
+	- Does not ↓ K<sup>+</sup> Reabsorption
+
+
+#### **Vasodilators**
