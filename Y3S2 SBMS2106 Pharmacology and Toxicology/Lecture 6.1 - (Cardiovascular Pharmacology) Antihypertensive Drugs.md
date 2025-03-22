@@ -84,11 +84,11 @@ Lecture Notes
 - Main Effect: Blocks β1 Receptors
 - Suffix: -olol
 
-|          Rule          | Meaning                             | Examples                            | Additional Effects                                                            |
-| :--------------------: | ----------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
-|  <br>Starts with A-N   | <br>More Cardioselective β Blockers | Atenolol<br>Bisoprolol<br>Nebivolol |                                                                               |
-|    Starts with M-Z     | Non-Selective β Blockers            | Metoprolol<br>Propranolol           | Causes <abbr Title="Dangerous for Asthma Patients">Bronchoconstriction</abbr> |
-| Doesn't end with -olol | α & β Blockers                      | Carvedilol                          | α1 Antagonism: Causes Vasodilation                                            |
+|          Rule          | Meaning                             | Examples                             | Additional Effects                                                            |
+| :--------------------: | ----------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------- |
+|  <br>Starts with A-M   | <br>More Cardioselective β Blockers | Atenolol<br>Bisoprolol<br>Metoprolol |                                                                               |
+|    Starts with N-Z     | Non-Selective β Blockers            | Nebivolol<br>Propranolol             | Causes <abbr Title="Dangerous for Asthma Patients">Bronchoconstriction</abbr> |
+| Doesn't end with -olol | α & β Blockers                      | Carvedilol                           | α1 Antagonism: Causes Vasodilation                                            |
 - Mechanisms:
 
 | Step | Event                        | Effect         |

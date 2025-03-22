@@ -39,10 +39,14 @@ Lecture Notes
 - Slows Na<sup>+</sup> Influx → Slows Cardiac Muscle AP Initiation & Propagation
 - Categorized into 3 Subclasses by Effect on AP Duration & ERP
 
-| Class  | Note                                                                                              | AP Duration & ERP | Drug Examples                 |
-| :----: | :------------------------------------------------------------------------------------------------ | :---------------: | ----------------------------- |
-|   1A   | Moderate K<sup>+</sup> Channel Blockers<br>- Partially Class III Drugs                            |         ↑         | Quinidine<br>Procainamide     |
-|   1B   | Use-Dependent Blockers<br>- Drug Effectiveness ∝ HR                                               |         ↓         | Mixeletine<br>Lidocaine       |
-| <br>1C | High Affinity Na<sup>+</sup>  Channel Blockers                                                    |       <br>-       | <br>Propafenone<br>Flecainide |
-|   ^    | ↓ <abbr Title="Within Ventricular">His-Purkinje</abbr> Conduction Velocity<br>- QRS Wave Widening |         ^         | ^                             |
+| Class  | Note                                                                                                       | AP Duration & ERP |               Drug Examples               |
+| :----: | :--------------------------------------------------------------------------------------------------------- | :---------------: | :---------------------------------------: |
+| <br>1A | Moderate Na<sup>+</sup> & K<sup>+</sup> Channel Blockers<br>- Partially Class III Drugs                    |       <br>↑       | Quinidine<br>Disopyramide<br>Procainamide |
+| <br>1B | Weak Na<sup>+</sup>  Channel Blockers<br>                                                                  |       <br>↓       |        <br>Mixeletine<br>Lidocaine        |
+|   ^    | Use-Dependent Blockers<br>- Drug Effectiveness ∝ HR                                                        |         ^         |                     ^                     |
+| <br>1C | Strong Na<sup>+</sup>  Channel Blockers                                                                    |       <br>-       |       <br>Propafenone<br>Flecainide       |
+|   ^    | ↓ <abbr Title="Within Ventricular Myocytes">His-Purkinje</abbr> Conduction Velocity<br>- QRS Wave Widening |         ^         |                     ^                     |
 
+
+#### **Class II: β Blockers**
+- ↓ Sympathetic Stimulation
