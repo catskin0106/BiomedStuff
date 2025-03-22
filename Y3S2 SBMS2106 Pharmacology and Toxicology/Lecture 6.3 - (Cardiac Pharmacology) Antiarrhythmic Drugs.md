@@ -84,9 +84,15 @@ Lecture Notes
 	- 10-30s Half-life → Transient Effect Ideal for Acute Tachyarrhythmias
 	- Mechanism:
 
-| Step | Event                                             | Effect            |
-| :--: | ------------------------------------------------- | ----------------- |
-|  1   | ↑ K<sup>+</sup> Efflux<br>↓ Na<sup>+</sup> Influx | Hyperpolarization |
+| Step | Event                                             | Effect                                |
+| :--: | ------------------------------------------------- | ------------------------------------- |
+|  1   | ↑ K<sup>+</sup> Efflux<br>↓ Na<sup>+</sup> Influx | Hyperpolarization<br>→ No Contraction |
 
 **Drugs for Bradyarrhythmias**
-- Atropine (Muscarinic Acetylcholine Receptor Antag)
+- Atropine (Muscarinic Cholinoceptor Antagonist)
+	- ↓ Parasympathetic Vagal Tone → ↑ Heart Rate
+- Adrenaline (α & β Adrenoceptor Agonist)
+	- α1 Activation: Vasoconstriction
+	- β1 Activation: 
+		- ↑ Depolarization Rate → ↑ Heart Rate
+		- ↑ Intracellular Ca<sup>2+</sup> → ↑ Heart Contractility

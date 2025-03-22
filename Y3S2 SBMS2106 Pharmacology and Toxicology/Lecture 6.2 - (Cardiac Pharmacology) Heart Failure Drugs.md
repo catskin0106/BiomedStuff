@@ -33,7 +33,7 @@ Lecture Notes
 	- ↑ Acetylcholine from Vagal Fibres → Arrhythmias Relief
 
 **Nitrates (Nitric Oxide)**
-- [[Lecture 6.1 - (Cardiovascular Pharmacology) Antihypertensive Drugs#**Vasodilators**|Vasodilators]]
+- [[Lecture 6.1 - (Cardiac Pharmacology) Antihypertensive Drugs#**Vasodilators**|Vasodilators]]
 	- ↓ Heart Workload & O<sub>2</sub> Demand
 - Used in Congestive Heart Failure
 
@@ -47,7 +47,7 @@ Lecture Notes
 | ^    | ↑ Smooth Muscle cAMP → Vasodilation               | ↓ Heart Workload |
 
 **Diuretics**
-- [[Lecture 6.1 - (Cardiovascular Pharmacology) Antihypertensive Drugs#**Diuretics**|Diuretics]]
+- [[Lecture 6.1 - (Cardiac Pharmacology) Antihypertensive Drugs#**Diuretics**|Diuretics]]
 	- ↓ Water Retention → ↓ Swelling
 
 
