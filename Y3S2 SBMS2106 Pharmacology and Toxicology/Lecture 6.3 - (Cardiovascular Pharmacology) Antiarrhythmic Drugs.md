@@ -17,7 +17,7 @@ Lecture Notes
 **Action Potential of Cardiac Muscles**
 - Caused by change in membrane conductance to ions ([[Pasted image 20250322114547.png|Diagram]])
 - Can be calibrated by drugs to treat Arrhythmias
-	- Drug Class classified by AP Phase Affected
+	- Drug Class classified by AP Phase Affected ([[Pasted image 20250322184631.png|Diagram]])
 
 | Phase |       <        | Ion Conductance                                                       | Corresponding Drug Class                 |
 | :---: | :------------: | --------------------------------------------------------------------- | ---------------------------------------- |
@@ -49,10 +49,16 @@ Lecture Notes
 
 
 #### **Class II: β Blockers**
-- ↓ Sympathetic Stimulation → ↓ HR & Indirectly ↓ Ion Conductance
+- ↓ Sympathetic Stimulation → Indirectly ↓ Ion Conductance
 
-| Affected Phases                      |                                                                                                               |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| Phase 0                              | Indirectly ↓ Na<sup>+</sup> Influx                                                                            |
-| <br>Phase 2 (Ca<sup>2+</sup> Influx) | ↓ Adenylyl Cyclase (ATP → cAMP) <br>→ ↓ L-Type Ca<sup>2+</sup> Channel Activity<br>→ ↓ Ca<sup>2+</sup> Influx |
-| Phase 4                              | ↓ Na<sup>+</sup> & Ca<sup>2+</sup> Influx<br>→                                                                |
+| Affected Phases                      | Description                                                                                                   | Effect                                                                                                                                  |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Phase 0 (Na<sup>+</sup> Influx)      | Indirectly ↓ Na<sup>+</sup> Influx                                                                            | ↓ Conduction Velocity                                                                                                                   |
+| <br>Phase 2 (Ca<sup>2+</sup> Influx) | ↓ Adenylyl Cyclase (ATP → cAMP) <br>→ ↓ L-Type Ca<sup>2+</sup> Channel Activity<br>→ ↓ Ca<sup>2+</sup> Influx | <br>↓ Premature Contraction                                                                                                             |
+| Phase 4 (RMP)                        | ↓ Na<sup>+</sup> & Ca<sup>2+</sup> Influx<br>→ Stabilize RMP                                                  | ↓ Slope during Phase 4 Depolarization<br>→ ↓ <abbr Title="Self-Initiated Myocardial Contraction">Automaticity</abbr> (Ectopic Activity) |
+| Parasympathetic Stimulation          | ↓ Catecholamine Effect on Heart                                                                               | ↓ Heart Rate & Contractility                                                                                                            |
+
+
+#### **Class III: K⁺ Channel Blockers**
+- Slows K<sup>+</sup> Efflux → Prolongs AP Duration & ERP
+	- 
