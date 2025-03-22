@@ -30,10 +30,18 @@ Lecture Notes
 
 **Dyslipidemia**
 - Risk Factors for Cardiovascular Diseases
-	- Causes: Genetic / Lifestyle (Obesity, Adiosopathy)
+	- Causes: Genetic / Lifestyle (Obesity, Adiposopathy)
 - Most Common Form: ↑ Plasma LDL-Cholesterol level
 	- Diagnosed by ApoB level
 	- Alleviated by ↑ HDL
 
 
 #### **Statin**
+- HMG-CoA Reductase Inhibitor
+
+| Step | Event                        | Effect           |
+| ---- | ---------------------------- | ---------------- |
+| 1    | HMG-CoA Reductase Inhibition | ↓ Chol Synthesis |
+| 2    | ↓ VLDL Synthesis             | ↓ Blood LDL & TG |
+
+#### ****
