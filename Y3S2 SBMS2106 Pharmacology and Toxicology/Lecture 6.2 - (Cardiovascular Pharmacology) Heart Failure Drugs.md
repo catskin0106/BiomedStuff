@@ -7,4 +7,11 @@ Lecture Notes
 
 ---
 #### **Heart Failure**
-**Mechanism of Heart Failure**
+**Definition of Heart Failure**
+- Inability of Heart to pump blood effectively for body needs
+
+**Symptoms of Heart Failure**
+- ↓ Cardiac Muscle Contractility
+- ↑ / ↓ Heart Rate (Arrhythmias)
+- Vasoconstriction
+- 
