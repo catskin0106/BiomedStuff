@@ -12,7 +12,7 @@ Lecture Notes
 |            Pathway            |       Location        | Event                                                                                                             |
 | :---------------------------: | :-------------------: | ----------------------------------------------------------------------------------------------------------------- |
 |         <br>Exogenous         |       Intestine       | Chylomicron absorb Dietary Fat (<abbr Title="Cholesteryl Ester">CE</abbr> & <abbr Title="Triglyceride">TG</abbr>) |
-|               ^               |         Lymph         | Chylomicron loses TG → Chylomicron Remnant to Liver                                                               |
+|               ^               |         Lymph         | Chylomicron loses TG by <abbr Title="Lipoprotein Lipase">LPL</abbr> → Chylomicron Remnant to Liver                |
 |    <br><br><br>Endogenous     |         Liver         | VLDL Synthesis from CE & TG                                                                                       |
 |               ^               | <br>Peripheral Tissue | VLDL loses FFA → IDL                                                                                              |
 |               ^               |           ^           | IDL loses FFA → LDL                                                                                               |
@@ -30,7 +30,7 @@ Lecture Notes
 
 **Dyslipidemia**
 - Risk Factors for Cardiovascular Diseases
-	- Causes: Genetic / Lifestyle (Obesity, Adiposopathy)
+	- Causes: Genetic / Lifestyle (Obesity / Adiposopathy)
 - Most Common Form: ↑ Plasma LDL-Cholesterol level
 	- Diagnosed by ApoB level
 	- Alleviated by ↑ HDL
@@ -38,10 +38,32 @@ Lecture Notes
 
 #### **Statin**
 - HMG-CoA Reductase Inhibitor
+	- E.g. Atorvastatin
 
 | Step | Event                        | Effect           |
 | ---- | ---------------------------- | ---------------- |
 | 1    | HMG-CoA Reductase Inhibition | ↓ Chol Synthesis |
 | 2    | ↓ VLDL Synthesis             | ↓ Blood LDL & TG |
 
-#### ****
+#### **Non-Statin Drugs**
+**Fibrates (Fenofibrate)**
+- Antilipemic Agent
+	- ↑ Apo A-I Synthesis → ↑ HDL → ↑ Cholesterol Removal
+	- ↑ TG Loss from Plasma LDL → ↓ TG Delivery to Liver → ↓ VLDL Synthesis
+
+**Niacin (Nicotinic Acid / Vitamin B3)**
+- ↓ Adipose Tissue FFA Release → ↓ TG Delivery to Liver → ↓ VLDL Synthesis
+- Side Effects:
+	- ↓ Insulin Sensitivity → Worsen Diabetes Mellitus
+	- Facial Flushing & Dizziness
+	- GI Discomfort, Diarrhea & Bloating
+
+**Bile Acid Sequestrant (Cholestyramine)**
+- Strongly +ve Charged Resin
+	- Binds to -ve Bile Acid
+- Blocks Bile Acid reabsorption in Intestines
+
+**Cholesterol Absorption Inhibitor (Ezetimibe)**
+- Intestinal NPC1L1 Inhibitor
+	- ↓ Cholesterol Absorption & Reabsorption
+- Used Alone / with Statin
