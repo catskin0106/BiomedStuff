@@ -49,4 +49,10 @@ Lecture Notes
 
 
 #### **Class II: β Blockers**
-- ↓ Sympathetic Stimulation
+- ↓ Sympathetic Stimulation → ↓ HR & Indirectly ↓ Ion Conductance
+
+| Affected Phases                      |                                                                                                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| Phase 0                              | Indirectly ↓ Na<sup>+</sup> Influx                                                                            |
+| <br>Phase 2 (Ca<sup>2+</sup> Influx) | ↓ Adenylyl Cyclase (ATP → cAMP) <br>→ ↓ L-Type Ca<sup>2+</sup> Channel Activity<br>→ ↓ Ca<sup>2+</sup> Influx |
+| Phase 4                              | ↓ Na<sup>+</sup> & Ca<sup>2+</sup> Influx<br>→                                                                |
