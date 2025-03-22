@@ -39,8 +39,10 @@ Lecture Notes
 - Slows Na<sup>+</sup> Influx → Slows Cardiac Muscle AP Initiation & Propagation
 - Categorized into 3 Subclasses by Effect on AP Duration & ERP
 
-| Class | AP Duration |     |
-| :---: | ----------- | --- |
-|  1A   | Lengthen    |     |
-|  1B   |             |     |
-|  1C   |             |     |
+| Class  | Note                                                                                              | AP Duration & ERP | Drug Examples                 |
+| :----: | :------------------------------------------------------------------------------------------------ | :---------------: | ----------------------------- |
+|   1A   | Moderate K<sup>+</sup> Channel Blockers<br>- Partially Class III Drugs                            |         ↑         | Quinidine<br>Procainamide     |
+|   1B   | Use-Dependent Blockers<br>- Drug Effectiveness ∝ HR                                               |         ↓         | Mixeletine<br>Lidocaine       |
+| <br>1C | High Affinity Na<sup>+</sup>  Channel Blockers                                                    |       <br>-       | <br>Propafenone<br>Flecainide |
+|   ^    | ↓ <abbr Title="Within Ventricular">His-Purkinje</abbr> Conduction Velocity<br>- QRS Wave Widening |         ^         | ^                             |
+
