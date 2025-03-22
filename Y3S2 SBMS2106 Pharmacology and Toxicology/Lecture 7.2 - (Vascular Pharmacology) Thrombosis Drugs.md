@@ -15,18 +15,29 @@ Lecture Notes
 - 3 Pathways: Extrinsic, Intrinsic & Common
 - Involves activated factors activating another factor until clot formation:
 ```mermaid
-flowchart TD
-    subgraph Extrinsic Pathway
+flowchart LR
+    subgraph box1 [Extrinsic Pathway]
 		direction LR
 		XII-->XI
-		XI-->X
+		XI-->IX
+		VIII
     end
-    subgraph two
-    b1-->b2
+    subgraph box2 [Intrinsic Pathway]
+	    direction RL
+	    VII
+	    III
     end
-    subgraph three
-    c1-->c2
+    subgraph box3 [Common Pathway]
+	    X-->II
+	    V-->II
+	    II-->I
+	    I
+	    XIII
     end
-    Extrinsic Pathway --> three
-    two --> three
+	    I-->final[Stable Fibrin Clot]
+	    XIII->final
+    III-->X
+    VII-->X
+    VIII-->X
+    IX-->X
 ```
