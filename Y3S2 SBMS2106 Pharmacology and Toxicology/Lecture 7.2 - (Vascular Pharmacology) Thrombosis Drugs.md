@@ -16,14 +16,22 @@ Lecture Notes
 	- Fibrin Coagulation happens through Coagulation Cascade
 
 **Platelet Coagulation**
-- Stages in Platelet Coagulation
+- Stages in Platelet Coagulation:
 
-| Step | Stage               | Description                                                                                                                                                                            |
-| ---- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Platelet Activation | Platelet P2Y<sub>12</sub> Receptors activated by <abbr Title="Released by Damaged Cells">ADP</abbr><br>→ ↓ <abbr Title="Platelet Activation Inhibitor">cAMP</abbr> & ↑ Ca<sup>2+</sup> |
-| 2    | Fibrinogen Binding  | By GPIIb-IIIa<br>→ Platelet Aggregation                                                                                                                                                |
+| Step | Stage               | Description                                                                                                                                                                                                        |
+| :--: | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  1   | Platelet Activation | <font color="yellow">Platelet P2Y<sub>12</sub></font> Receptors activated by <abbr Title="Released by Damaged Cells">ADP</abbr><br>→ ↓ <abbr Title="Platelet Activation Inhibitor">cAMP</abbr> & ↑ Ca<sup>2+</sup> |
+|  2   | Fibrinogen Binding  | By <font color="yellow">GPIIb-IIIa</font><br>→ Platelet Aggregation                                                                                                                                                |
 - Prostanoids in Platelet Regulation
-	- 
+	- Regulated by 2 Enzymes:
+		- <font color="yellow"><abbr Title="Cyclooxygenase">COX</abbr>-1/2</font>: Prostanoid Synthesis
+		- <abbr Title="Phospholipase A2">PLA<sub>2</sub></abbr>: Liberate Arachidonic Acid from Phospholipid as Prostanoid Synthesis Material
+	- 2 Main Types of Prostanoids:
+
+|                      Prostanoid                       |           Function            | Site of Production |
+| :---------------------------------------------------: | :---------------------------: | :----------------: |
+|  <abbr Title="Thromboxane A2">TXA<sub>2</sub></abbr>  |    Promotes Clot Formation    |      Platelet      |
+| <abbr Title="Prostaglandin I2">PGI<sub>2</sub></abbr> | Inhibits Platelet Aggregation |    Endothelium     |
 
 
 **Fibrin Coagulation through Coagulation Cascade**
@@ -70,3 +78,7 @@ classDef Start fill:#bfb
 ```
 
 #### **Antiplatelets**
+**Antiplatelets Inhibiting Platelet Coagulation**
+- Ticagrelor
+	- P2Y12 Receptor Antagonist
+	- Selective & Reversible
