@@ -35,10 +35,10 @@ Lecture Notes
 #### **Slow Acting Anti-Rheumatic Drugs (SAARDs)**
 **Advantages & Disadvantages of SAARDs**
 - Advantages:
+	- May retard disease progress
 	- Beneficial in Progressive RA 
 		- ∵ Poor response to NSAIDs
 	- ↓ Pain & Swelling
-	- May retard disease progress
 - Disadvantages:
 	- Does not completely halt RA
 	- Slow-Acting: ~6 Weeks before Improvement is shown
@@ -48,5 +48,14 @@ Lecture Notes
 		- Peptic, Liver & Kidney Injury
 
 **Methotrexates (MTX)**
+- Oral / Injection
+- Inhibitor of several nucleotide synthesis enzymes
+	- Suppress Mitosis & Inflammation
+	- Different actions in different cells:
+
+|  Location  |          Role           |           Significance            |
+| :--------: | :---------------------: | :-------------------------------: |
+| <br>T Cell |     DHFR Inhibitor      | ↓ BH<sub>2</sub> → BH<sub>4</sub> |
+|     ^      | ↑ lincRNA-21 Expression |                 <                 |
 
 
