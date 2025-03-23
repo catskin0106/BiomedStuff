@@ -95,6 +95,7 @@ classDef Start fill:#bfb
 - Aspirin (COX Inhibitor)
 	- ↓ TXA<sub>2</sub> Formation → ↓ Platelet Activation
 	- Irreversible
+		- ∵ Acetylation on Serine 529 in Channel
 	- Side Effect:
 		- GI Bleeding
 		- Hemorrhagic Stroke

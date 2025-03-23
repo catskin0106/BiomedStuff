@@ -55,5 +55,12 @@ Lecture Notes
 
 
 #### **Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)**
-- Aspirin Drugs with Analgesic, Anti-inflammatory & Antipyretic Effects
+- COX-1/2 Inhibitors
+	- COX-1 Inhibition: ↓ TXA<sub>2</sub> Production → Antiplatelet Effects
+		- Responsible for Side Effects: GI Irritation & Bleeding
+	- COX-2 Inhibition: Analgesic, Anti-inflammatory & Antipyretic Effects
+- Aspirin-like Drugs
 
+| Properties    | Traditional NSAIDs | Aspirin | COX-2 Specific NSAIDs |
+| ------------- | ------------------ | ------- | --------------------- |
+| Reversibility | Yes                | No      |                       |
