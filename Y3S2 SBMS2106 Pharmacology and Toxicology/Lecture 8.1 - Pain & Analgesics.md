@@ -3,7 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Nociception & Pain
 - Analgesics
-- NSAIDs
+- Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 ---
 #### **Nociception & Pain**
@@ -35,6 +35,7 @@ Lecture Notes
 **General Anaesthetics**
 - Excitatory NMDA Inhibitors & Inhibitory GABA<sub>A</sub> Agonists
 	- → Loss of Consciousness, Nociception & Reflexes
+- Potency ∝ Lipid Solubility
 - Examples:
 	- Halothane (Inhaled)
 	- Thiopentone (Injected)
@@ -51,3 +52,8 @@ Lecture Notes
 	- Heroin (Morphine derivative from Plants)
 	- Endorphin
 	- Methadone (Synthetic)
+
+
+#### **Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)**
+- Aspirin Drugs with Analgesic, Anti-inflammatory & Antipyretic Effects
+
