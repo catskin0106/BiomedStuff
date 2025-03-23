@@ -79,6 +79,18 @@ classDef Start fill:#bfb
 
 #### **Antiplatelets**
 **Antiplatelets Inhibiting Platelet Coagulation**
-- Ticagrelor
-	- P2Y12 Receptor Antagonist
+- Ticagrelor (P2Y<sub>12</sub> Receptor Antagonist)
 	- Selective & Reversible
+	- ↓ Stroke & Heart Attack Risk in:
+		- Coronary Heart Disease Patients
+		- Patients already having mild stroke
+	- Side Effect: Serious Bleeding
+
+- Eptifibatide (GPIIb-IIIa Inhibitor)
+	- <abbr Title="Arginine-Glycine-Aspartate">RGD</abbr> Sequence blocks Fibrinogen from binding to GPIIb-IIIa
+	- Reversible
+	- Used together with Aspirin / Heparin
+
+**Antiplatelets Inhibiting Prostanoid Formation**
+- Aspirin (COX Inhibitor)
+	- 
