@@ -86,5 +86,9 @@ Lecture Notes
 	- ↓ <abbr Title="Vasodilator PGs">PGE<sub>2</sub>, PGI<sub>2</sub></abbr> → ↓ Balance of Renal Blood Dynamics → Reversible Renal Insufficiency
 		- Long Term Usage may lead to Irreversible Analgesic-Associated Nephropathy
 	- Skin, Liver & Bone Marrow Disturbances
+- Aspirin Only:
+	- Salicylism: Tinnitus, Vertigo & Nausea
+	- Reye's Syndrome in Children: Fatal Liver Disorder + Encephalopathy
+	- ↓ Urate Excretion: Contraindicated in Gout
 
 **Examples of NSAIDs**
