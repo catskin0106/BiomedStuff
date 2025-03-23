@@ -21,7 +21,7 @@ Lecture Notes
 | Step | Stage               | Description                                                                                                                                                                                                        |
 | :--: | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  1   | Platelet Activation | <font color="yellow">Platelet P2Y<sub>12</sub></font> Receptors activated by <abbr Title="Released by Damaged Cells">ADP</abbr><br>→ ↓ <abbr Title="Platelet Activation Inhibitor">cAMP</abbr> & ↑ Ca<sup>2+</sup> |
-|  2   | Fibrinogen Binding  | By <font color="yellow">GPIIb-IIIa</font><br>→ Platelet Aggregation                                                                                                                                                |
+|  2   | Fibrinogen Binding  | By <font color="yellow"><abbr Title="Glycoprotein">GP</abbr>IIb-IIIa</font><br>→ Platelet Aggregation                                                                                                              |
 - Prostanoids in Platelet Regulation
 	- Regulated by 2 Enzymes:
 		- <font color="yellow"><abbr Title="Cyclooxygenase">COX</abbr>-1/2</font>: Prostanoid Synthesis
@@ -66,7 +66,7 @@ classDef Start fill:#bfb
 	    X["<abbr Title="Needs either 3+7 or 8+9">X</abbr>"]:::Ca-->II
 	    V:::Thrombin-->II:::Ca
 	    II-->I
-	    I
+	    I["<abbr Title="Fibrinogen → Fibrin">I</abbr>"]
 	    XIII:::Thrombin
     end
     I-->final["Stable Fibrin Clot"]:::Ca
@@ -102,3 +102,7 @@ classDef Start fill:#bfb
 
 
 #### **Anticoagulants**
+**Antithrombin III Activators (Heparin)**
+- Contains 2 Segments
+	- Pentasaccharide Sequence: Changes Antithrombin III conformation to bind strongly to Factor Xa
+	- Heparin: Longer chain 
