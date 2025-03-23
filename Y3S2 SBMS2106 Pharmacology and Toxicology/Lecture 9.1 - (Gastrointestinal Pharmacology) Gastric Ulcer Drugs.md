@@ -13,28 +13,24 @@ Lecture Notes
 	- H. Pylori Infection
 	- Anti-inflammatory Drugs (COX-1 inhibitors)
 
-**Process of Acid Secretion**
+**Stimulation of Acid Secretion**
 
-| Step  |           Stage            | Description                                | Receptors Involved |
-| :---: | :------------------------: | ------------------------------------------ | ------------------ |
-| <br>1 |      <br>Neural Input      | Parasympathetic Nerve<br>- Local Receptors |                    |
-|   2   | Secretory Cell Stimulation |                                            |                    |
 ```mermaid
 flowchart LR
 	subgraph 1["Neural Input"]
 	direction LR
-	a["Efferent Vagal Pathway"] -- ACh --> c["<font size="2">(N & M<sub>1</sub> Receptors)</font><br>Submucosal Plexus"]
-	b["Local Sensory Receptors"] -- ACh --> c
+	a["Efferent<br>Vagal Pathway"] -- ACh --> c["<font size="2">(N & M<sub>1</sub> Receptors)</font><br>Submucosal Plexus"]
+	b["Local<br>Sensory Receptors"] -- ACh --> c
 	end
 	c -- ACh --> d
 	c -- ACh --> e
 	subgraph 2["Secretory Cell Stimulation"]
-	d["Antral Cells"] -- Plasma Gastrin --> e["EC-Like Cells"]
+	d["<font size="2">(M<sub>3</sub> Receptors)</font><br>Antral Cells"] -- Plasma Gastrin --> e["<font size="2">(M Receptors)</font><br>EC-Like Cells"]
 	end
 	c -- ACh --> f
 	d -- Plasma Gastrin --> f
-	e -- Histamine --> f
+	e -- Paracrine Histamine --> f
 	subgraph 3["Parietal Cell Stimulation"]
-	f["Parietal Cells"]
+	f["<font size="2">(M<sub>3</sub> & H<sub>2</sub> Receptors)</font><br>Parietal Cells"]
 	end
 ```
