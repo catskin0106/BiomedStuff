@@ -92,3 +92,9 @@ Lecture Notes
 	- ↓ Urate Excretion: Contraindicated in Gout
 
 **Examples of NSAIDs**
+
+| Name    | Notes                  | Commonly Used Scenario |
+| ------- | ---------------------- | ---------------------- |
+| Aspirin | Platelet COX Inhbition |                        |
+|         |                        |                        |
+
