@@ -104,5 +104,22 @@ classDef Start fill:#bfb
 #### **Anticoagulants**
 **Antithrombin III Activators (Heparin)**
 - Contains 2 Segments
-	- Pentasaccharide Sequence: Changes Antithrombin III conformation to bind strongly to Factor Xa
-	- Heparin: Longer chain 
+	- Pentasaccharide Sequence: Changes Antithrombin III conformation for it to bind strongly to Factor Xa
+	- Heparin: Longer chain binds more strongly to Thrombin → ↓ Xa-Selectivity
+		- Unfractionated Heparin (~40S): Strong Xa & Thrombin Inhibition
+		- <abbr Title="Low Molecular Weight Heparin">LMWH</abbr> (13S): Strong Xa Inhibition only
+			- e.g. Enoxaparin
+
+**Direct Thrombin Inhibitors (Dabigatran)**
+- Binds to Thrombin Active Site
+	- Reversible
+	- Can Inhibit even when Thrombin is Fibrin-bound → Fibrinolysis
+
+**Clotting Factor Synthesis Inhibitor (Warfarin)**
+- Vitamin K Epoxide Reductase Inhibitor
+	- ↓ Reduced Vitamin K → Carboxylation of <abbr Title="II, IX, X">Clotting Factors for Ca<sup>2+</sup> Binding</abbr> → Halt Coagulation Cascade
+- Orally Active
+- Delayed Onset
+	- ∵ Time needed to deplete existing reduced Vitamin K
+- Side Effects: Toxicity & <abbr Title="Defecto">Teratogenicity</abbr>
+	- 
