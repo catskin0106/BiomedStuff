@@ -134,3 +134,14 @@ classDef Start fill:#bfb
 |  2   | Fibrin Degradation by Plasmin |                                                                                                                         |       <abbr Title="α2-Antiplasmin">α2-AP</abbr>       |
 
 **Thrombolytic Drugs**
+- Streptokinase
+	- Plasminogen Activator
+		- Both Fibrin-bound & Circulating Plasminogen
+	- Side Effect: 
+		- Circulating Clot Dissolution → Bleeding
+		- Bacterial Origin → Antigenic
+- Tenecteplase
+	- Plasminogen Activator
+		- ↑ Specificity on Fibrin-bound
+	- Side Effect:
+		- Less Circulating Clot Dissolution → Mild Bleeding
