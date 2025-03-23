@@ -1,7 +1,7 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Nociception & Pain
+- Nociception, Pain & Fever
 - Analgesics
 - Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
@@ -22,6 +22,9 @@ Lecture Notes
 - Pain: Unpleasant sensory / emotional experience 
 	- Associated with actual / potential tissue damage
 - Nociception can be Pleasant instead of Painful
+
+**Generation of Fever**
+
 
 
 #### **Analgesics**
@@ -61,6 +64,14 @@ Lecture Notes
 	- COX-2 Inhibition: Analgesic, Anti-inflammatory & Antipyretic Effects
 - Aspirin-like Drugs
 
-| Properties    | Traditional NSAIDs | Aspirin | COX-2 Specific NSAIDs |
-| ------------- | ------------------ | ------- | --------------------- |
-| Reversibility | Yes                | No      |                       |
+|  Properties   | Traditional NSAIDs |    Aspirin     |                       COX-2 Specific NSAIDs                       |
+| :-----------: | :----------------: | :------------: | :---------------------------------------------------------------: |
+| Reversibility |        Yes         |       No       |                              Mostly                               |
+|  Specificity  |   Both COX-1 & 2   | Both COX-1 & 2 | COX-2 Only<br><font size="2">(Too bulky for COX-1 Channel)</font> |
+
+**Effects of NSAIDs**
+- Inhibit PG Synthesis
+	- ↓ PG → ↓ PMN Sensitivity to Noxious Stimuli → Analgesic Effect
+	- ↓ <abbr Title="Vasodilator PGs">PGE<sub>2</sub>, PGI<sub>2</sub></abbr> → ↓ Vasodilation & <abbr Title="Swelling in Tissue">Edema</abbr> → Anti-inflammatory Effect
+		- → ↓ Cerebral Vasculature Dilation → Headache → Analgesic Effect
+	- ↓ E-Type PGs →
