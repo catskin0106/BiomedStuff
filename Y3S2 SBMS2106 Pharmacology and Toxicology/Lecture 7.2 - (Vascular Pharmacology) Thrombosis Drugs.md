@@ -26,12 +26,13 @@ Lecture Notes
 	- Regulated by 2 Enzymes:
 		- <font color="yellow"><abbr Title="Cyclooxygenase">COX</abbr>-1/2</font>: Prostanoid Synthesis
 		- <abbr Title="Phospholipase A2">PLA<sub>2</sub></abbr>: Liberate Arachidonic Acid from Phospholipid as Prostanoid Synthesis Material
-	- 2 Main Types of Prostanoids:
+	- 3 Main Types of Prostanoids:
 
-|                      Prostanoid                       |           Function            | Site of Production |
-| :---------------------------------------------------: | :---------------------------: | :----------------: |
-|  <abbr Title="Thromboxane A2">TXA<sub>2</sub></abbr>  | Promotes Platelet Activation  |      Platelet      |
-| <abbr Title="Prostaglandin I2">PGI<sub>2</sub></abbr> | Inhibits Platelet Aggregation |    Endothelium     |
+|                      Prostanoid                       |                                       Function                                       | Site of Production |
+| :---------------------------------------------------: | :----------------------------------------------------------------------------------: | :----------------: |
+|  <abbr Title="Thromboxane A2">TXA<sub>2</sub></abbr>  |                             Promotes Platelet Activation                             |      Platelet      |
+| <abbr Title="Prostaglandin I2">PGI<sub>2</sub></abbr> |                    Inhibits Platelet Aggregation<br>Vasodilation                     |    Endothelium     |
+|                    PGE<sub>2</sub>                    | <abbr Title="Protect GI Mucosa">Inhibit Gastric HCl Secretion</abbr><br>Vasodilation |    Endothelium     |
 
 
 **Fibrin Coagulation through Coagulation Cascade**

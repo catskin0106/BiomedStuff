@@ -25,6 +25,10 @@ Lecture Notes
 
 **Generation of Fever**
 
+| Step | Event                                                                    | Effect                 |
+| ---- | ------------------------------------------------------------------------ | ---------------------- |
+| 1    | ↑ Pyrogen (IL-1) by Macrophages                                          | ↑ E-Type PG Production |
+| 2    | ↓ Warm-temperature Neuron Activity<br>↑ Cold-temperature Neuron Activity | ↑ Body Temperature     |
 
 
 #### **Analgesics**
@@ -74,4 +78,13 @@ Lecture Notes
 	- ↓ PG → ↓ PMN Sensitivity to Noxious Stimuli → Analgesic Effect
 	- ↓ <abbr Title="Vasodilator PGs">PGE<sub>2</sub>, PGI<sub>2</sub></abbr> → ↓ Vasodilation & <abbr Title="Swelling in Tissue">Edema</abbr> → Anti-inflammatory Effect
 		- → ↓ Cerebral Vasculature Dilation → Headache → Analgesic Effect
-	- ↓ E-Type PGs →
+	- ↓ E-Type PGs → Reset Thermostat → Antipyretic Effect
+
+**Side-Effects of NSAIDs**
+- ↓ COX-1 Inhibition
+	- ↓ PGE<sub>2</sub> → ↑ HCl Secretion → Gastric Damage & <abbr Title="Nausea & Vomiting">Dyspepsia (Heartburn)</abbr>
+	- ↓ <abbr Title="Vasodilator PGs">PGE<sub>2</sub>, PGI<sub>2</sub></abbr> → ↓ Balance of Renal Blood Dynamics → Reversible Renal Insufficiency
+		- Long Term Usage may lead to Irreversible Analgesic-Associated Nephropathy
+	- Skin, Liver & Bone Marrow Disturbances
+
+**Examples of NSAIDs**
