@@ -103,7 +103,7 @@ classDef Start fill:#bfb
 
 #### **Anticoagulants**
 **Antithrombin III Activators (Heparin)**
-- Contains 2 Segments
+- Contains 2 Segments ([Video](https://www.youtube.com/watch?v=_2B40juput0))
 	- Pentasaccharide Sequence: Changes Antithrombin III conformation for it to bind strongly to Factor Xa
 	- Heparin: Longer chain binds more strongly to Thrombin → ↓ Xa-Selectivity
 		- Unfractionated Heparin (~40S): Strong Xa & Thrombin Inhibition
@@ -121,5 +121,14 @@ classDef Start fill:#bfb
 - Orally Active
 - Delayed Onset
 	- ∵ Time needed to deplete existing reduced Vitamin K
-- Side Effects: Toxicity & <abbr Title="Defecto">Teratogenicity</abbr>
-	- 
+- Side Effects: Toxicity & <abbr Title="Defective Fetus">Teratogenicity</abbr>
+	- Antidote: More Vitamin K
+
+
+#### **Thrombolytics**
+**Fibrinolytic System**
+
+| Step | Stage                         | Description |
+| :--: | ----------------------------- | ----------- |
+|  1   | Plasminogen → Plasmin         |             |
+|  2   | Fibrin Degradation by Plasmin |             |
