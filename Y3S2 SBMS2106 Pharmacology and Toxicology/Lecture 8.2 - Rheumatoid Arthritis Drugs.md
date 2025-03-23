@@ -64,7 +64,7 @@ Lecture Notes
 - ↓ Production of Pro-inflammatory Cytokines
 	- Different actions on different leukocytes:
 
-|    Location    |                        Role                         |  Significance  |
+|   Cell Type    |                        Role                         |  Significance  |
 | :------------: | :-------------------------------------------------: | :------------: |
 | <br>T & B Cell |                    ↓ Activation                     |       <        |
 |       ^        |      T<sub>reg</sub>/Th17 Cell Ratio Balancing      |       <        |
@@ -75,4 +75,26 @@ Lecture Notes
 - Prodrug that splits into 2 Parts:
 	- Sulphapyridine
 		- Anti-bacterial
-		- 
+		- ↓ NK-Cell Immunoresponses
+	- 5-Amino-Salicylic Acid
+		- Salicylate (COX Inhibitor)
+
+**Leflunomide**
+- Converted to A771726
+
+| Cell Type |                                Role                                | Significance                                                                                               |
+| :-------: | :----------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------- |
+|  T  Cell  | <abbr Title="Dihydroorotate Dehydrogenase">DHODH</abbr> Inhibition | ↓ <abbr Title="C, U, T in DNA">Pyrimidine</abbr> Production<br>→ ↓ DNA Production for T Cell Proliferation |
+
+
+#### **Glucocorticoids**
+**Mechanism of Glucocorticoid Action**
+- 
+
+| Step  | Event                                                                                                           |
+| :---: | --------------------------------------------------------------------------------------------------------------- |
+|   1   | Bind to Receptor & Form Steroid-Receptor Complex                                                                |
+|   2   | Complex Dimerizes → Travel to DNA                                                                               |
+| <br>3 | ↓ COX-2 Gene Transcription → ↓ PGE<sub>2</sub> & PGI<sub>2</sub> → ↓ Vasodilation                               |
+|   ^   | ↓ Leukocyte Gene Transcription → ↓ Clonal Expansion of B & T Cells                                              |
+|   ^   | ↑ <abbr Title="PLA₂ Inhibitor">Annexin-A1</abbr> Release → ↑ PLA<sub>2</sub> Inhibition → ↓ Pro-Inflammatory PG |

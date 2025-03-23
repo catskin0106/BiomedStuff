@@ -26,10 +26,10 @@ Lecture Notes
 **Generation of Fever**
 
 | Step | Event                              | Effect                             |
-| ---- | ---------------------------------- | ---------------------------------- |
-| 1    | ↑ Pyrogen (IL-1) by Macrophages    | ↑ E-Type PG Production             |
-| 2    | ↓ Warm-temperature Neuron Activity | ↑ Cold-temperature Neuron Activity |
-| 3    | ↑ Body Temperature                 |                                    |
+| :--: | ---------------------------------- | ---------------------------------- |
+|  1   | ↑ Pyrogen (IL-1) by Macrophages    | ↑ E-Type PG Production             |
+|  2   | ↓ Warm-temperature Neuron Activity | ↑ Cold-temperature Neuron Activity |
+|  3   | ↑ Body Temperature                 |                                    |
 
 
 #### **Analgesics**
