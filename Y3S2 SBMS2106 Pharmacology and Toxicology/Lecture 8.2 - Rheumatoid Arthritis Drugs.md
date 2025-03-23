@@ -89,7 +89,7 @@ Lecture Notes
 
 #### **Glucocorticoids**
 **Mechanism of Glucocorticoid Action**
-- 
+- ↓ Chronic Inflammation & Autoimmune Reactions
 
 | Step  | Event                                                                                                           |
 | :---: | --------------------------------------------------------------------------------------------------------------- |
@@ -98,3 +98,36 @@ Lecture Notes
 | <br>3 | ↓ COX-2 Gene Transcription → ↓ PGE<sub>2</sub> & PGI<sub>2</sub> → ↓ Vasodilation                               |
 |   ^   | ↓ Leukocyte Gene Transcription → ↓ Clonal Expansion of B & T Cells                                              |
 |   ^   | ↑ <abbr Title="PLA₂ Inhibitor">Annexin-A1</abbr> Release → ↑ PLA<sub>2</sub> Inhibition → ↓ Pro-Inflammatory PG |
+
+**Examples of Glucocorticoids**
+- Cortisol
+- Prednisolone
+	- Used in RA when other treatment fails
+	- Oral / Injection
+
+**Side Effects of Glucocorticoids**
+- Suppression of Protective Inflammatory Responses
+	- ↑ Opportunistic Infection
+- Osteoporosis
+- <abbr Title="Drug-Induced">Iatrogenic</abbr> Cushing's Syndrome
+
+
+#### **New Antirheumatic Drugs**
+**Anti-cytokine Drugs**
+- Targets: 
+	- IL-1,2 
+	- TNF-α
+
+| **Drugs**                                                                    | **Description**                                          |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Basilixi<font color="cyan">mab</font> & Daclizu<font color="cyan">mab</font> | IL-2 Receptor α-chain <font color="cyan">Antibody</font> |
+| Inflixi<font color="cyan">mab</font> & Adalimu<font color="cyan">mab</font>  | TNF-α <font color="cyan">Antibody</font>                 |
+| Anakinra                                                                     | IL-1 Receptor Antagonist                                 |
+| Etanercept                                                                   | Soluble TNF-α Receptor Antagonist                        |
+
+**Lymphocyte Blockers**
+
+| **Drugs**                             | **Description**                                                                     |
+| ------------------------------------- | ----------------------------------------------------------------------------------- |
+| Rituxima<font color="red">b</font>    | ↑ <font color="red">B</font> Cell Senescence & Apoptosis                            |
+| Abatacep<font color="yellow">t</abbr> | ↓ <font color="yellow">T</font> cell Co-stimulation<br>∵ Binds to B7 protein on APC |
