@@ -89,7 +89,7 @@ Lecture Notes
 |  1   | ↑ K<sup>+</sup> Efflux<br>↓ Na<sup>+</sup> Influx | Hyperpolarization<br>→ No Contraction |
 
 **Drugs for Bradyarrhythmias**
-- Atropine (Muscarinic Cholinoceptor Antagonist)
+- Atropine (Muscarinic Receptor Antagonist)
 	- ↓ Parasympathetic Vagal Tone → ↑ Heart Rate
 - Adrenaline (α & β Adrenoceptor Agonist)
 	- α1 Activation: Vasoconstriction

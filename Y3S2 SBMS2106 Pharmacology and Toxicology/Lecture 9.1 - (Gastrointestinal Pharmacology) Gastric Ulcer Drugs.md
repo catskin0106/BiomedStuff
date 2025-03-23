@@ -15,23 +15,31 @@ Lecture Notes
 	- H. Pylori Infection
 	- NSAIDs (COX-1 inhibitors)
 
+**H. Pylori Infection**
+
+| Step | Stage                     | Description                        |
+| ---- | ------------------------- | ---------------------------------- |
+| 1    | Local Inflammation        | H. Pylori attaches to Mucous Cells |
+| 2    | Neutrophil Infiltration   | ↑ Gastrin & ↓ Somatostatin         |
+| 3    | ↑ H<sup>+</sup> Secretion |                                    |
+
 **Stimulation of Acid Secretion**
 
 ```mermaid
 flowchart LR
-	subgraph 1["Neural Input"]
+	subgraph 1["<b>Neural Input"]
 	a["Efferent<br>Vagal<br>Pathway"] -- ACh --> c["<font size="2">(N & M<sub>1</sub> Receptors)</font><br>Submucosal<br>Plexus"]
 	b["Local<br>Sensory<br>Receptors"] -- ACh --> c
 	end
 	c -- ACh --> d
 	c -- ACh --> e
-	subgraph 2["Secretory Cell Stimulation"]
+	subgraph 2["<b>Secretory Cell Stimulation"]
 	d["<font size="2">(M<sub>3</sub> Receptors)</font><br>Antral<br>Cells"] -- Plasma Gastrin --> e["<font size="2">(M Receptors)</font><br>EC-Like<br>Cells"]
 	end
 	c -- ACh --> f
 	d -- Plasma Gastrin --> f
 	e -- Histamine --> f
-	subgraph 3["Parietal Cell Stimulation"]
+	subgraph 3["<b>Parietal Cell Stimulation"]
 	f["<font size="2">(M<sub>3</sub> & H<sub>2</sub> Receptors)</font><br>Parietal<br>Cells"]
 	f -- cAMP --> g["H<sup>+</sup> Secretion"]
 	end
@@ -59,7 +67,7 @@ flowchart LR
 	- Heals Ulcers due to Food / Gastrin
 	- Treats Gastro-oesophageal Reflux
 
-**Proton Pump Inhibitors**
+**Proton Pump Inhibitors (PPI)**
 - Suffix: -zole (e.g. Omeprazole)
 - Irreversible Inhibition on H<sup>+</sup>/K<sup>+</sup>-ATPase as Sulphenamide
 	- Absorbed in Duodenum
@@ -67,3 +75,20 @@ flowchart LR
 
 
 #### **Mucosa Protecting Drugs**
+- Aim: ↑ Mucus & Bicarbonate Secretion
+
+|         Drug         | Function                             |
+| :------------------: | ------------------------------------ |
+|      Sucralfate      | ↑ PG → ↑ Mucous Cell Secretion       |
+|     Misoprostol      | PG Agonist → ↑ Mucous Cell Secretion |
+| Carbenoxolone Sodium | ↑ Mucus Secretion & Viscosity        |
+
+
+#### **Triple Therapy**
+- Regimen to treat H. Pylori Infection
+
+|      Drug       | Function                      |
+| :-------------: | ----------------------------- |
+|   Amoxycillin   | PPI                           |
+|  Clarithomycin  | Antibiotic                    |
+| Bismuth Chelate | ↑ Mucus Secretion & Viscosity |
