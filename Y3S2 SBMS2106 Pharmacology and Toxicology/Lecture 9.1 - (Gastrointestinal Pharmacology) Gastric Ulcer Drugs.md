@@ -65,7 +65,7 @@ flowchart LR
 - Suffix: -tidine (e.g. Cimetidine, Ranitidine, Famotidine)
 - Competitive Inhibition of Histamine Release from EC-Like Cells
 	- Heals Ulcers due to Food / Gastrin
-	- Treats Gastro-oesophageal Reflux
+	- Treats <abbr Title="Gastro-Esophageal Reflux Disorder">GERD</abbr>
 
 **Proton Pump Inhibitors (PPI)**
 - Suffix: -zole (e.g. Omeprazole)
@@ -87,8 +87,8 @@ flowchart LR
 #### **Triple Therapy**
 - Regimen to treat H. Pylori Infection
 
-|      Drug       | Function                      |
-| :-------------: | ----------------------------- |
-|   Amoxycillin   | PPI                           |
-|  Clarithomycin  | Antibiotic                    |
-| Bismuth Chelate | ↑ Mucus Secretion & Viscosity |
+|      Drug       | Function                             |
+| :-------------: | ------------------------------------ |
+|  Metronidazole  | PPI                                  |
+| Bismuth Chelate | Sucralfate-Like Drug & Antibacterial |
+| Clarithromycin  | Antibiotic                           |
