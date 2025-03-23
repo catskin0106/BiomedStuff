@@ -6,17 +6,17 @@ Lecture Notes
 - Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 ---
-#### **Nociception & Pain**
+#### **Nociception, Pain & Fever**
 **Nociception Pathways**
 - Fast & Slow Pain Pathways
 
-| Step |                                                                         Fast Pain Pathway                                                                         |    Slow Pain Pathway    |
-| :--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: |
-|  1   | <abbr Title="Polymodal Nociceptive Neurones">PMN</abbr>s sense Noxious Stimuli<br><font size="2">(Can be sensitized by <abbr Title="Prostaglandin">PG</abbr>)</r> |            <            |
-|  2   |                                                                       Myelinated Aδ Fibres                                                                        | Non-Myelinated C Fibres |
-|  3   |                             Spinal Cord Dorsal Horn<br><font size="2">(Inhibited by Endorphin from Descending Inhibitory Pathway)</r>                             |            <            |
-|  4   |                                                                     Ascending Spinal Pathway                                                                      |            <            |
-|  5   |                                                                         Thalamus & Cortex                                                                         |            <            |
+| Step |                                                                     Fast Pain Pathway                                                                      |    Slow Pain Pathway    |
+| :--: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: |
+|  1   | <abbr Title="Polymodal Nociceptive Neurones">PMN</abbr>s sense Noxious Stimuli<br><font size="2">(Sensitized by <abbr Title="Prostaglandin">PG</abbr>)</r> |            <            |
+|  2   |                                                                    Myelinated Aδ Fibres                                                                    | Non-Myelinated C Fibres |
+|  3   |                         Spinal Cord Dorsal Horn<br><font size="2">(Inhibited by Endorphin from Descending Inhibitory Pathway)</r>                          |            <            |
+|  4   |                                                                  Ascending Spinal Pathway                                                                  |            <            |
+|  5   |                                                                     Thalamus & Cortex                                                                      |            <            |
 
 **Nociception & Pain**
 - Pain: Unpleasant sensory / emotional experience 
@@ -25,10 +25,11 @@ Lecture Notes
 
 **Generation of Fever**
 
-| Step | Event                                                                    | Effect                 |
-| ---- | ------------------------------------------------------------------------ | ---------------------- |
-| 1    | ↑ Pyrogen (IL-1) by Macrophages                                          | ↑ E-Type PG Production |
-| 2    | ↓ Warm-temperature Neuron Activity<br>↑ Cold-temperature Neuron Activity | ↑ Body Temperature     |
+| Step | Event                              | Effect                             |
+| ---- | ---------------------------------- | ---------------------------------- |
+| 1    | ↑ Pyrogen (IL-1) by Macrophages    | ↑ E-Type PG Production             |
+| 2    | ↓ Warm-temperature Neuron Activity | ↑ Cold-temperature Neuron Activity |
+| 3    | ↑ Body Temperature                 |                                    |
 
 
 #### **Analgesics**
@@ -83,14 +84,14 @@ Lecture Notes
 **Examples of NSAIDs**
 - Traditional NSAIDs
 
-| Name             | Notes                                                                                                                | Commonly Used Scenario                         |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| Aspirin          | [[Lecture 7.2 - (Vascular Pharmacology) Thrombosis Drugs#**Thrombosis**\|Platelet COX Inhibition > Endothelium COX]] | <br>Rheumatism                                 |
-| Methylsalicylate | Topical Application Only                                                                                             | ^                                              |
-| Ibuprofen        | Low GI Irritancy<br>Short Half-Life (2h)                                                                             | Short-Term Analgesia                           |
-| Phenylbutazone   | Strong GI Irritancy<br>Strong Anti-inflammatory Action                                                               | Short-Term Treatment of Ankylosing Spondylitis |
-| Piroxicam        | Long Half-Life (45h)                                                                                                 | Chronic Pain (Once-a-day)                      |
-| Paracetamol      | <abbr Title="Weakened by Peroxide in Inflamed Tissue">Weak Anti-inflammatory Action</abbr>                           | Over-the-Counter                               |
+| Name             | Notes                                                                                                                                                                                                                          | Commonly Used Scenario                         |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| Aspirin          | [[Lecture 7.2 - (Vascular Pharmacology) Thrombosis Drugs#**Thrombosis**\|Platelet COX Inhibition > Endothelium COX]]                                                                                                           | <br>Rheumatism                                 |
+| Methylsalicylate | Topical Application Only                                                                                                                                                                                                       | ^                                              |
+| Ibuprofen        | Low GI Irritancy<br>Short Half-Life (2h)                                                                                                                                                                                       | Short-Term Analgesia                           |
+| Phenylbutazone   | Strong GI Irritancy<br>Strong Anti-inflammatory Action                                                                                                                                                                         | Short-Term Treatment of Ankylosing Spondylitis |
+| Piroxicam        | Long Half-Life (45h)<br>- ∵ Enterohepatic Circulation                                                                                                                                                                          | Chronic Pain (Once-a-day)                      |
+| Paracetamol      | <abbr Title="Weakened by Peroxide in Inflamed Tissue">Weak Anti-inflammatory Action</abbr><br>Converted to <abbr Title="Local Anaesthetic-Like Molecule">AM404</abbr> + <abbr Title="TRPA1 Pain Receptor Blocker">NAPQI</abbr> | Over-the-Counter                               |
 - COX-2 Selective Inhibitors
 	- Suffix: -coxib
 
@@ -111,3 +112,6 @@ Lecture Notes
 	- Salicylism: Tinnitus, Vertigo & Nausea
 	- Reye's Syndrome in Children: Fatal Liver Disorder + Encephalopathy
 	- ↓ Urate Excretion: Contraindicated in Gout
+- Paracetamol Only:
+	- NAPQI kills liver cells if not inactivated by Glutathione Conjugation
+		- Conjugating Enzymes Saturated in long-term Paracetamol usage → Liver Damage
