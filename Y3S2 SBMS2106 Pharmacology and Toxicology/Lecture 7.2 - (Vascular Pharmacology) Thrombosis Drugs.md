@@ -128,7 +128,9 @@ classDef Start fill:#bfb
 #### **Thrombolytics**
 **Fibrinolytic System**
 
-| Step | Stage                         | Description |
-| :--: | ----------------------------- | ----------- |
-|  1   | Plasminogen → Plasmin         |             |
-|  2   | Fibrin Degradation by Plasmin |             |
+| Step |             Stage             |                                                       Activators                                                        |                      Inhibitors                       |
+| :--: | :---------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
+|  1   |     Plasminogen → Plasmin     | <abbr title="Tissue-Plasminogen Activator">t-PA</abbr> & <abbr title="Urokinase-Type Plasminogen Activator">u-PA</abbr> | <abbr Title="Plasminogen Activator Inhibitor-1">PAI-1 |
+|  2   | Fibrin Degradation by Plasmin |                                                                                                                         |       <abbr Title="α2-Antiplasmin">α2-AP</abbr>       |
+
+****
