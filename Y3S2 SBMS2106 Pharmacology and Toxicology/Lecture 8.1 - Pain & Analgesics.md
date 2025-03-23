@@ -80,6 +80,27 @@ Lecture Notes
 		- → ↓ Cerebral Vasculature Dilation → Headache → Analgesic Effect
 	- ↓ E-Type PGs → Reset Thermostat → Antipyretic Effect
 
+**Examples of NSAIDs**
+- Traditional NSAIDs
+
+| Name             | Notes                                                                                                                | Commonly Used Scenario                         |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Aspirin          | [[Lecture 7.2 - (Vascular Pharmacology) Thrombosis Drugs#**Thrombosis**\|Platelet COX Inhibition > Endothelium COX]] | <br>Rheumatism                                 |
+| Methylsalicylate | Topical Application Only                                                                                             | ^                                              |
+| Ibuprofen        | Low GI Irritancy<br>Short Half-Life (2h)                                                                             | Short-Term Analgesia                           |
+| Phenylbutazone   | Strong GI Irritancy<br>Strong Anti-inflammatory Action                                                               | Short-Term Treatment of Ankylosing Spondylitis |
+| Piroxicam        | Long Half-Life (45h)                                                                                                 | Chronic Pain (Once-a-day)                      |
+| Paracetamol      | <abbr Title="Weakened by Peroxide in Inflamed Tissue">Weak Anti-inflammatory Action</abbr>                           | Over-the-Counter                               |
+- COX-2 Selective Inhibitors
+	- Suffix: -coxib
+
+| Name       | Commonly Used Scenario                    |
+| ---------- | ----------------------------------------- |
+| Celecoxib  | <br>Osteoarthritis & Rheumatoid Arthritis |
+| Etoricoxib | ^                                         |
+| Parecoxib  | Short-Term Post-Operative Pain            |
+
+
 **Side-Effects of NSAIDs**
 - ↓ COX-1 Inhibition
 	- ↓ PGE<sub>2</sub> → ↑ HCl Secretion → Gastric Damage & <abbr Title="Nausea & Vomiting">Dyspepsia (Heartburn)</abbr>
@@ -90,11 +111,3 @@ Lecture Notes
 	- Salicylism: Tinnitus, Vertigo & Nausea
 	- Reye's Syndrome in Children: Fatal Liver Disorder + Encephalopathy
 	- ↓ Urate Excretion: Contraindicated in Gout
-
-**Examples of NSAIDs**
-
-| Name    | Notes                  | Commonly Used Scenario |
-| ------- | ---------------------- | ---------------------- |
-| Aspirin | Platelet COX Inhbition |                        |
-|         |                        |                        |
-

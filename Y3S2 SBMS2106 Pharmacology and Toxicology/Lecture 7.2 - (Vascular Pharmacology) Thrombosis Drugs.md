@@ -28,11 +28,11 @@ Lecture Notes
 		- <abbr Title="Phospholipase A2">PLA<sub>2</sub></abbr>: Liberate Arachidonic Acid from Phospholipid as Prostanoid Synthesis Material
 	- 3 Main Types of Prostanoids:
 
-|                      Prostanoid                       |                                       Function                                       | Site of Production |
-| :---------------------------------------------------: | :----------------------------------------------------------------------------------: | :----------------: |
-|  <abbr Title="Thromboxane A2">TXA<sub>2</sub></abbr>  |                             Promotes Platelet Activation                             |      Platelet      |
-| <abbr Title="Prostaglandin I2">PGI<sub>2</sub></abbr> |                    Inhibits Platelet Aggregation<br>Vasodilation                     |    Endothelium     |
-|                    PGE<sub>2</sub>                    | <abbr Title="Protect GI Mucosa">Inhibit Gastric HCl Secretion</abbr><br>Vasodilation |    Endothelium     |
+|                      Prostanoid                       |                                       Function                                       |   Site of Production    |
+| :---------------------------------------------------: | :----------------------------------------------------------------------------------: | :---------------------: |
+|  <abbr Title="Thromboxane A2">TXA<sub>2</sub></abbr>  |                             Promotes Platelet Activation                             |      Platelet COX       |
+| <abbr Title="Prostaglandin I2">PGI<sub>2</sub></abbr> |                    Inhibits Platelet Aggregation<br>Vasodilation                     | <br><br>Endothelium COX |
+|                    PGE<sub>2</sub>                    | <abbr Title="Protect GI Mucosa">Inhibit Gastric HCl Secretion</abbr><br>Vasodilation |            ^            |
 
 
 **Fibrin Coagulation through Coagulation Cascade**
