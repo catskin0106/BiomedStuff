@@ -30,7 +30,7 @@ Lecture Notes
 
 |                      Prostanoid                       |           Function            | Site of Production |
 | :---------------------------------------------------: | :---------------------------: | :----------------: |
-|  <abbr Title="Thromboxane A2">TXA<sub>2</sub></abbr>  |    Promotes Clot Formation    |      Platelet      |
+|  <abbr Title="Thromboxane A2">TXA<sub>2</sub></abbr>  | Promotes Platelet Activation  |      Platelet      |
 | <abbr Title="Prostaglandin I2">PGI<sub>2</sub></abbr> | Inhibits Platelet Aggregation |    Endothelium     |
 
 
@@ -93,4 +93,12 @@ classDef Start fill:#bfb
 
 **Antiplatelets Inhibiting Prostanoid Formation**
 - Aspirin (COX Inhibitor)
-	- 
+	- ↓ TXA<sub>2</sub> Formation → ↓ Platelet Activation
+	- Irreversible
+	- Side Effect: ↓ PGI<sub>2</sub> Formation
+		- GI Bleeding
+		- Hemorrhagic Stroke
+
+
+
+#### **Anticoagulants**
