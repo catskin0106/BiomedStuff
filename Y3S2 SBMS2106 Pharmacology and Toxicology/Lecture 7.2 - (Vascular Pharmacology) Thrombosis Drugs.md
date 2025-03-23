@@ -95,7 +95,7 @@ classDef Start fill:#bfb
 - Aspirin (COX Inhibitor)
 	- ↓ TXA<sub>2</sub> Formation → ↓ Platelet Activation
 	- Irreversible
-	- Side Effect: ↓ PGI<sub>2</sub> Formation
+	- Side Effect:
 		- GI Bleeding
 		- Hemorrhagic Stroke
 

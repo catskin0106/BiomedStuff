@@ -1,7 +1,9 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Nocicep
+- Nociception & Pain
+- Analgesics
+- NSAIDs
 
 ---
-#### **Ischemic Heart Disease**
+#### **Nociception & Pain**

@@ -3,7 +3,6 @@ Lecture Notes
 **Lecture Coverage:**
 - Definition of Pharmacology
 - Drug Sources
-- 
 
 ---
 #### **Definition of Pharmacology**
