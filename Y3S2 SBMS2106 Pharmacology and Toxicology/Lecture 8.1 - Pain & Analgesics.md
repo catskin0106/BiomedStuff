@@ -32,5 +32,22 @@ Lecture Notes
 	- Cocaine
 	- <abbr Title="Tetradotoxin">TTX</abbr>: Highly Potent & Toxic
 
-**Narcotic Anaesthetics**
-- Opioids:Mimic Endorphin
+**General Anaesthetics**
+- Excitatory NMDA Inhibitors & Inhibitory GABA<sub>A</sub> Agonists
+	- → Loss of Consciousness, Nociception & Reflexes
+- Examples:
+	- Halothane (Inhaled)
+	- Thiopentone (Injected)
+
+**Narcotic Anaesthetics (Opioids)**
+- Mimic Endorphin released by Descending Inhibitory Pathway
+	- Inhibit Pain Pathway Neurotransmitter Release in Spinal Cord Dorsal Horn & Thalamus
+- Narcotic Properties:
+	- Analgesia
+	- Euphoria, Stupor & Addiction
+	- Constipation & Vomiting
+	- Miosis & Respiratory Depression
+- Examples:
+	- Heroin (Morphine derivative from Plants)
+	- Endorphin
+	- Methadone (Synthetic)
