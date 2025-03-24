@@ -63,9 +63,24 @@ flowchart LR
 
 **Laxatives**
 
-| Type              | Name                  | Note                                                                       | Onset |
-| ----------------- | --------------------- | -------------------------------------------------------------------------- | ----- |
-| Bulk Laxative     | Methylcellulose       | Causes <abbr Title="Farting">Flatulence</abbr><br>60-100x Water Absorption | 1-3d  |
-| Osmotic Laxative  | Lactulose<br>Mannitol | Poorly absorbed salts & sugar<br>Good Water Absorption                     | 1-3h  |
-| Irritant Laxative | Bisacodyl             | Stimulates Myenteric Plexus<br>- ↑ Cholingeric NcAMP → ↑ Motility          | 6-8h  |
-|                   |                       |                                                                            |       |
+|          Type          | Name                     | Note                                                                       | Onset    |
+| :--------------------: | ------------------------ | -------------------------------------------------------------------------- | -------- |
+|     Bulk Laxative      | Methylcellulose          | Causes <abbr Title="Farting">Flatulence</abbr><br>60-100x Water Absorption | 1-3d     |
+|    Osmotic Laxative    | Lactulose<br>Mannitol    | Poorly absorbed salts & sugar<br>Good Water Absorption                     | 1-3h     |
+|   Irritant Laxative    | Bisacodyl<br>Sennatoside | Stimulates Myenteric Plexus<br>- ↑ Cholinergic Neuron cAMP → ↑ Motility    | 6-8h     |
+| <br>Lubricant Laxative | Docusate                 | Draws water into Fecal Mass                                                | <br>1-3d |
+|           ^            | Liquid Paraffin          | ↓ Vitamin Absorption                                                       | ^        |
+
+
+#### **Diarrhea Drugs**
+**Diarrhea**
+- ↑ Peristalsis & Secretion → ↓ Absorption & ↑ Water loss
+	- Can be caused by Drugs, Virus & Bacteria
+- Non-Drug Treatment Aim: Replace Loss Fluid
+- Drug Aim: Replace Loss Fluid & ↓ Peristalsis
+	- Only use when symptoms are not severe / chronic
+	- Leads to Fatal GI Obstruction / Coma when:
+		- Severe symptoms (Fever / Incapacitation)
+		- Children / Pregnant Women
+
+**Anti-Diarrheal Agents**
