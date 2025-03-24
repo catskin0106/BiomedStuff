@@ -9,24 +9,41 @@ Lecture Notes
 ---
 #### **Peristaltic Reflex**
 - Contraction & Relaxation of Circular & Longitudinal Muscles
-	- Contraction of orally-proximal muscles
-	- Relaxation of anally-proximal muscles
+	- Contraction of Orally-proximal muscles
+	- Relaxation of Anally-proximal muscles
 
-**Stimulation of Contraction**
+**Stimulation of Motility**
 - Initiated by Lumen Pressure from Bolus
 ```mermaid
 flowchart LR
-	A["EC-Like<br>Cells"]--<abbr Title="Serotonin">5-HT</abbr>-->B["Cholinergic<br>Neurone<br><font size="2">(cAMP ↑)</font>"]--ACh-->C["<font size="2">(M<sub>3</sub> Receptors: Contraction)</font><br>Smooth Muscles"]
+	A["EC-Like<br>Cells"]--<abbr Title="Serotonin">5-HT</abbr>-->B["<font size="2">(5-HT<sub>4</sub> Receptors: cAMP ↑)</font><br>Cholinergic<br>Neurone"]--ACh-->C["<font size="2">(M<sub>3</sub> Receptors: Contraction)</font><br>Smooth Muscles"]
 ```
 
-**Inhibition of Contraction**
+**Inhibition of Motility**
 ```mermaid
 flowchart LR
-	A["Adrenergic<br>Neurone"]--NA-->B["Cholinergic<br>Neurone<br><font size="2">(cAMP ↓)</font>"]x--ACh--xC["<font size="2">(D<sub>2</sub> Receptors: Relaxation)</font><br>Smooth Muscles"]
+	A["Adrenergic<br>Neurone"]--NA-->B["<font size="2">(α<sub>2</sub> & D<sub>2</sub> Receptors: cAMP ↓)</font><br>Cholinergic<br>Neurone"]x--ACh--xC["<font size="2">(D<sub>2</sub> Receptors: Relaxation)</font><br>Smooth Muscles"]
 	D["Dopaminergic Neurons"]--DA-->B
 	D--DA-->C
 ```
 
 
 #### **GERD Drugs**
-**Gastro-Esophageal Reflux DiGERD**
+**Gastro-Esophageal Reflux Disorder (GERD)**
+- Damage & Inflammation → Peristalsis Disorder & Relaxed Sphincter
+	- Treatment Aim: ↑ Peristalsis & ↓ Peptic Ulcer
+
+**Peptic Ulcer Drugs**
+- [[Lecture 9.1 - (Gastrointestinal Pharmacology) Gastric Ulcer Drugs#**Antacids**|Antacids]]
+- [[Lecture 9.1 - (Gastrointestinal Pharmacology) Gastric Ulcer Drugs#**Mucosa Protecting Drugs**|Mucosa Protecting Drugs]]
+
+**Motility Stimulating Drugs**
+- 5-HT<sub>4</sub> Receptor Agonists → ↑ Motility
+	- Suffix: -pride (Cisapride, Mosapride, Prucalopride)
+- [[Lecture 5.1 - (Synaptic Pharmacology) Cholinergic Receptors|M₃ Receptor Agonists]] → ↑ Motility
+	- Bethanechol
+- D<sub>2</sub> Receptor Antagonists → ↓ Inhibition on Motility
+	- Domperidone: Low CNS Penetration
+	- Metoclopramide: Also a 5-HT<sub>4</sub> Receptor Agonist
+
+**Peptide Drugs**
