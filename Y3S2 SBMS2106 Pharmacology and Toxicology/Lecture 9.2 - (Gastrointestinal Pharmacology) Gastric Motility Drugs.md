@@ -17,6 +17,7 @@ Lecture Notes
 ```mermaid
 flowchart LR
 	A["EC-Like<br>Cells"]--<abbr Title="Serotonin">5-HT</abbr>-->B["<font size="2">(5-HT<sub>4</sub> Receptors: cAMP ↑)</font><br>Cholinergic<br>Neurone"]--ACh-->C["<font size="2">(M<sub>3</sub> Receptors: Contraction)</font><br>Smooth Muscles"]
+	D["Prokinetic Peptides<br><font size="2">(Motilin & Ghrelin)</font>"]-->C
 ```
 
 **Inhibition of Motility**
@@ -31,7 +32,7 @@ flowchart LR
 #### **GERD Drugs**
 **Gastro-Esophageal Reflux Disorder (GERD)**
 - Damage & Inflammation → Peristalsis Disorder & Relaxed Sphincter
-	- Treatment Aim: ↑ Peristalsis & ↓ Peptic Ulcer
+-  Drug Aim: ↑ Oesophageal Peristalsis & ↓ Peptic Ulcer
 
 **Peptic Ulcer Drugs**
 - [[Lecture 9.1 - (Gastrointestinal Pharmacology) Gastric Ulcer Drugs#**Antacids**|Antacids]]
@@ -39,11 +40,32 @@ flowchart LR
 
 **Motility Stimulating Drugs**
 - 5-HT<sub>4</sub> Receptor Agonists → ↑ Motility
-	- Suffix: -pride (Cisapride, Mosapride, Prucalopride)
+	- Suffix: -pride (e.g. Cisapride, Mosapride, Prucalopride)
 - [[Lecture 5.1 - (Synaptic Pharmacology) Cholinergic Receptors|M₃ Receptor Agonists]] → ↑ Motility
 	- Bethanechol
 - D<sub>2</sub> Receptor Antagonists → ↓ Inhibition on Motility
 	- Domperidone: Low CNS Penetration
 	- Metoclopramide: Also a 5-HT<sub>4</sub> Receptor Agonist
 
-**Peptide Drugs**
+**Prokinetic Peptide Agonists**
+- Motilin Agonists
+	- Erythromycin: Also an Antibiotic
+	- GSK962040
+- Ghrelin Agonists
+	- Suffix: -morelin (e.g. Ipamorelin, Anamorelin)
+
+
+#### **Constipation Drugs**
+**Constipation**
+- ↓ Peristalsis & Lubrication → ↓ Bowel Movement
+	- Can be caused by Drugs
+- Drug Aim: ↑ Bolus size (Water Absorption) → ↑ Peristalsis Stimulation → Laxation
+
+**Laxatives**
+
+| Type              | Name                  | Note                                                                       | Onset |
+| ----------------- | --------------------- | -------------------------------------------------------------------------- | ----- |
+| Bulk Laxative     | Methylcellulose       | Causes <abbr Title="Farting">Flatulence</abbr><br>60-100x Water Absorption | 1-3d  |
+| Osmotic Laxative  | Lactulose<br>Mannitol | Poorly absorbed salts & sugar<br>Good Water Absorption                     | 1-3h  |
+| Irritant Laxative | Bisacodyl             | Stimulates Myenteric Plexus<br>- ↑ Cholingeric NcAMP → ↑ Motility          | 6-8h  |
+|                   |                       |                                                                            |       |
