@@ -23,7 +23,8 @@ flowchart LR
 **Inhibition of Motility**
 ```mermaid
 flowchart LR
-	A["Adrenergic<br>Neurone"]--NA-->B["<font size="2">(α<sub>2</sub> & D<sub>2</sub> Receptors: cAMP ↓)</font><br>Cholinergic<br>Neurone"]x--ACh--xC["<font size="2">(D<sub>2</sub> Receptors: Relaxation)</font><br>Smooth Muscles"]
+	E["Opioids"]-->B
+	A["Adrenergic<br>Neurone"]--NA-->B["<font size="2">(μ/δ , α<sub>2</sub> , D<sub>2</sub> Receptors: cAMP ↓)</font><br>Cholinergic<br>Neurone"]x--ACh--xC["<font size="2">(D<sub>2</sub> Receptors: Relaxation)</font><br>Smooth Muscles"]
 	D["Dopaminergic Neurons"]--DA-->B
 	D--DA-->C
 ```
@@ -77,10 +78,21 @@ flowchart LR
 - ↑ Peristalsis & Secretion → ↓ Absorption & ↑ Water loss
 	- Can be caused by Drugs, Virus & Bacteria
 - Non-Drug Treatment Aim: Replace Loss Fluid
-- Drug Aim: Replace Loss Fluid & ↓ Peristalsis
-	- Only use when symptoms are not severe / chronic
-	- Leads to Fatal GI Obstruction / Coma when:
+- Drug Aim: Eliminate Toxin & ↓ Peristalsis
+	- Only use when Symptoms are Chronic / not Severe
+	- May lead to Fatal GI Obstruction & Coma when:
 		- Severe symptoms (Fever / Incapacitation)
 		- Children / Pregnant Women
 
-**Anti-Diarrheal Agents**
+**Toxin-Eliminating Agents**
+- Kaolin, Dioctahedral Smectite & Charcoal
+	- Toxin-absorbing Surface
+
+- Bismuth Salicylate & Subsalicylate
+	- Antibacterial
+	- Also COX Inhibitors
+
+**Peristalsis Inhibiting Agents**
+- Opioid Receptor Agonists
+	- Codeine
+	- Loperamide & Diphenoxylate: ↓ CNS Penetration → ↓ Side Effects
