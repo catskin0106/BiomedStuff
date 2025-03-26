@@ -27,7 +27,15 @@ Lecture Notes
 		- Disrupts DNA Repair
 	- Ethanol → (Liver CYP2E1) → <abbr Title="Reactive Oxygen Species">ROS</abbr>
 		- ↑ Oxidative Stress → DNA, Protein & Lipid Damage
+	- ↑ Estrogen in women
+		- Carcinogenic Proliferation of Breast Epithelium
+	- ↓ Colorectal Folate Metabolism → ↓ Methionine 
+		- Abnormal DNA Methylation
 - Synergistic Effect with other Carcinogens
 	- ↑ Tobacco Absorption
 	- Weaken Mucosa & Gut Microbiome
 		- ↑ HPV & Inflammation Risk
+
+
+#### **Obesity**
+- 
