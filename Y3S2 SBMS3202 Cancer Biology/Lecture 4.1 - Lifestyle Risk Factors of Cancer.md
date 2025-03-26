@@ -19,8 +19,15 @@ Lecture Notes
 
 
 #### **Alcohol**
-- Alimentary Canal Cancers
+- Alimentary Canal, Liver & Breast Cancers
 
 **Carcinogenicity of Alcohol**
 - Metabolism of Carcinogenic Compounds
-	- Alcohol → (ADH) → Acetaldehyde
+	- Alcohol → (<abbr Title="Alcohol Dehydrogenase">ADH</abbr>) → Acetaldehyde
+		- Disrupts DNA Repair
+	- Ethanol → (Liver CYP2E1) → <abbr Title="Reactive Oxygen Species">ROS</abbr>
+		- ↑ Oxidative Stress → DNA, Protein & Lipid Damage
+- Synergistic Effect with other Carcinogens
+	- ↑ Tobacco Absorption
+	- Weaken Mucosa & Gut Microbiome
+		- ↑ HPV & Inflammation Risk
