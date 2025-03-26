@@ -28,3 +28,5 @@ Lecture Notes
 	- Microbiome Eradication
 - Chronic Gastritis → Atrophy → Intestinal Metaplasia & Dysplasia → Cancer
 
+**Carcinogenicity of S. Anginosus**
+- S. Anginosus Adhesin TMPC binding to Gastric Epithelium ANXA2 Receptor
