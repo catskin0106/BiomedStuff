@@ -22,4 +22,5 @@ Lecture Notes
 - Alimentary Canal Cancers
 
 **Carcinogenicity of Alcohol**
-- Leads to
+- Metabolism of Carcinogenic Compounds
+	- Alcohol → (ADH) → Acetaldehyde
