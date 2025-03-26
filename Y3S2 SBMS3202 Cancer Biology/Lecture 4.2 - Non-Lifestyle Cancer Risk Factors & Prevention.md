@@ -19,6 +19,7 @@ Lecture Notes
 
 #### **Pathogens**
 - Can be caused by H. Pylori & Hepatitis (B, C) Virus
+- Opportunistic Infection by Streptococcus Anginosus
 
 **Carcinogenicity of H. Pylori**
 - Linked Hallmarks:
@@ -26,3 +27,4 @@ Lecture Notes
 	- Oncogene Activation & Tumor Suppressor Loss
 	- Microbiome Eradication
 - Chronic Gastritis → Atrophy → Intestinal Metaplasia & Dysplasia → Cancer
+
