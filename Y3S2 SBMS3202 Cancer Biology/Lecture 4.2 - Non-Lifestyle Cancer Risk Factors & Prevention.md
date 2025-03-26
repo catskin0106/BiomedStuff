@@ -21,5 +21,8 @@ Lecture Notes
 - Can be caused by H. Pylori & Hepatitis (B, C) Virus
 
 **Carcinogenicity of H. Pylori**
-
-
+- Linked Hallmarks:
+	- Chronic Inflammation
+	- Oncogene Activation & Tumor Suppressor Loss
+	- Microbiome Eradication
+- Chronic Gastritis → Atrophy → Intestinal Metaplasia & Dysplasia → Cancer
