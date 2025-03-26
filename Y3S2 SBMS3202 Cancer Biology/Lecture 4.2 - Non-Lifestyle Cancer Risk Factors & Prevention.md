@@ -7,4 +7,10 @@ Lecture Notes
 
 ---
 #### **Age**
-- Lung & Kidney Cancers
+**Carcinogenicity of Age**
+- DNA Damage Accumulation
+	- → Genomic & Epigenetic Alteration
+
+
+#### **Genetics**
+- Hereditary: 
