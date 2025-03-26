@@ -6,5 +6,5 @@ Lecture Notes
 - Pathogens
 
 ---
-#### **Smoking**
+#### **Age**
 - Lung & Kidney Cancers
