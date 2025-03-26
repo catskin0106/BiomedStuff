@@ -5,7 +5,8 @@ Lecture Notes
 - Alcohol
 - Obesity
 - Diet
-- Sedentary Lifestyle
+- Inactivity
+- Other Lifestyle Factors
 
 ---
 #### **Smoking**
@@ -18,7 +19,7 @@ Lecture Notes
 	- → Angiogenesis
 	- → Invasion & Metastasis
 
-**Prevention of Tobacco**
+**Cancer Prevention on Tobacco**
 - MPOWER Measures:
 	- Monitor tobacco use & prevention policies
 	- Protect people from smoke
@@ -45,9 +46,9 @@ Lecture Notes
 	- ↑ Tobacco Absorption
 	- Weaken Mucosa & Gut Microbiome
 		- ↑ HPV & GI Inflammation Risk
-- Chronic Inflammation
+- Chronic Inflammation → Immunoescape
 
-**Carcinogenicity of Alcohol**
+**Cancer Prevention on Alcohol**
 - Same as Tobacco MPOWER but on alcohol
 
 #### **Obesity**
@@ -60,18 +61,42 @@ Lecture Notes
 		- Carcinogenic Proliferation of Breast & Uterine Epithelium
 	- ↑ Insulin Resistance → ↑ <abbr Title="Insulin-like Growth Factor 1">IGF-1</abbr>
 		- ↑ Proliferation & ↓ Apoptosis
+		- ↓ <abbr Title="Sex Hormone-Binding Globulin">SHBG</abbr> → ↑ Free Estrogen & Testosterone
 - Synergistic Effect with other Carcinogens
 	- Weaken Gut Microbiome
-- Chronic Inflammation
+- Chronic Inflammation → Immunoescape
 	- <abbr Title="Non-Alcoholic Fatty Liver Disease">NAFLD</abbr> → Liver Cirrhosis → <abbr Title="Hepatocellular Carcinoma">HCC</abbr>
 	- Chronic Inflammation in <abbr Title="Gastro-esophageal Reflux Disease">GERD</abbr> → Barrett's Esophagus
 
+**Cancer Prevention on Obesity**
+- See Diet
 
 #### **Diet**
 - Alimentary Canal Cancers
 
 **Carcinogenicity of Diet**
+- Leads to Obesity
 - Red / Processed Meat
 	- ↑ ROS & Gut Inflammation
 - Plant / Fiber-rich & Mediterranean Diet Pattern
 	- Antioxidant Effect
+
+**Cancer Prevention on Diet**
+- Limit Portion Sizes
+- Balanced Diet
+	- ↓ Red / Processed Meat
+	- ↑ Plant / Fiber-rich Diet
+- Avoid Sugary & Alcoholic Drinks
+
+
+#### **Inactivity**
+**Carcinogenicity of Inactivity**
+- Leads to Obesity
+- Immunity Suppression → Immunoescape
+	- ↓ NK cell, CTL & Macrophage Activity
+
+
+#### **Other Lifestyle Factors**
+**UV Radiation**
+- DNA Damage → Mutation
+- ↑ cisUCA & transUCA → Immunity Suppression
