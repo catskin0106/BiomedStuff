@@ -98,5 +98,11 @@ Lecture Notes
 
 #### **Other Lifestyle Factors**
 **UV Radiation**
-- DNA Damage → Mutation
-- ↑ cisUCA & transUCA → Immunity Suppression
+- Skin Cancers
+	- Melanoma
+	- Basal & Squamous Cell Carcinoma
+- Causes:
+	- DNA Damage → Mutation
+	- ↑ cisUCA & transUCA → Immunity Suppression
+
+**Night Shift Work**
