@@ -3,7 +3,8 @@ Lecture Notes
 **Lecture Coverage:**
 - Smoking
 - Alcohol
-- Diet & Obesity
+- Obesity
+- Diet
 - Sedentary Lifestyle
 
 ---
@@ -17,6 +18,15 @@ Lecture Notes
 	- → Angiogenesis
 	- → Invasion & Metastasis
 
+**Prevention of Tobacco**
+- MPOWER Measures:
+	- Monitor tobacco use & prevention policies
+	- Protect people from smoke
+	- Offer help to quit smoking
+	- Warn about smoking dangers
+	- Enforce tobacco advertisement bans
+	- Raise tobacco taxes
+
 
 #### **Alcohol**
 - Alimentary Canal, Liver & Breast Cancers
@@ -25,7 +35,7 @@ Lecture Notes
 - Metabolism of Carcinogenic Compounds
 	- Alcohol → (<abbr Title="Alcohol Dehydrogenase">ADH</abbr>) → Acetaldehyde
 		- Disrupts DNA Repair
-	- Ethanol → (Liver CYP2E1) → <abbr Title="Reactive Oxygen Species">ROS</abbr> (Oxidative Stress)
+	- Ethanol → (Liver CYP2E1) → <abbr Title="Reactive Oxygen Species">ROS</abbr> (↑ Oxidative Stress)
 		- DNA, Protein & Lipid Damage
 	- ↑ Estrogen in women
 		- Carcinogenic Proliferation of Breast Epithelium
@@ -37,19 +47,31 @@ Lecture Notes
 		- ↑ HPV & GI Inflammation Risk
 - Chronic Inflammation
 
+**Carcinogenicity of Alcohol**
+- Same as Tobacco MPOWER but on alcohol
 
 #### **Obesity**
 - Many Cancers
 
 **Carcinogenicity of Obesity**
 - Metabolism of Carcinogenic Compounds
-	- Hyperplastic & Hypertrophic Ad↑ Oxidative Stress
+	- <abbr Title="Visceral Adipose Tissue">VAT</abbr> Hyperplastic & Hypertrophic Adipocytes → ↑ ROS
 	- ↑ Estrogen in women
 		- Carcinogenic Proliferation of Breast & Uterine Epithelium
 	- ↑ Insulin Resistance → ↑ <abbr Title="Insulin-like Growth Factor 1">IGF-1</abbr>
-		- ↓ Apoptosis
+		- ↑ Proliferation & ↓ Apoptosis
 - Synergistic Effect with other Carcinogens
 	- Weaken Gut Microbiome
 - Chronic Inflammation
 	- <abbr Title="Non-Alcoholic Fatty Liver Disease">NAFLD</abbr> → Liver Cirrhosis → <abbr Title="Hepatocellular Carcinoma">HCC</abbr>
 	- Chronic Inflammation in <abbr Title="Gastro-esophageal Reflux Disease">GERD</abbr> → Barrett's Esophagus
+
+
+#### **Diet**
+- Alimentary Canal Cancers
+
+**Carcinogenicity of Diet**
+- Red / Processed Meat
+	- ↑ ROS & Gut Inflammation
+- Plant / Fiber-rich & Mediterranean Diet Pattern
+	- Antioxidant Effect
