@@ -77,4 +77,10 @@ Lecture Notes
 	- Imaging-Based Screening
 	- Laboratory Tests for Biomarkers
 	- Genetic & Molecular Screening
-- 
+
+**Breast Cancer Screening**
+- Mammogram: Low-Dose X-Ray of Breast in Compression
+- BRCA1/BRCA2: Genetic Screening for Breast / Ovarian Cancer Risk
+
+**Cervical Cancer Screening**
+- PAP Test
