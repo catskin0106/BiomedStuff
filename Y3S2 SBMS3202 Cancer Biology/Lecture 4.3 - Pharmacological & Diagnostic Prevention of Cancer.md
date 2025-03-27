@@ -63,5 +63,15 @@ Lecture Notes
 **Preventive Vaccines**
 - HPV: Prevents Oral Infections, Cervical Precancers
 	- More Effective at Young Age
-- HBV: Contains <abbr Title="Hepatitis B Surface Antigen">HBsAg</abbr> to stimulate long term immunoresponses
-- 
+- HBV: Contains <abbr Title="Hepatitis B Surface Antigen">HBsAg</abbr> to stimulate long term immunoresponse
+- <abbr Title="Epstein-Barr Virus">EBV</abbr>: Prevents Nasopharyngeal, Gastric Cancer & Lymphoma
+- H. Pylori: Prevents Gastric Cancer
+
+**Therapeutic Vaccines**
+- Neoantigen vaccines targeting early malignancies
+
+
+#### **Cancer Screening**
+- Checking for Cancer in Asymptomatic People
+- Types of Cancer Screening Tests:
+	- Imaging-Based Screening
