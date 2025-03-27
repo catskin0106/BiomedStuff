@@ -75,3 +75,6 @@ Lecture Notes
 - Checking for Cancer in Asymptomatic People
 - Types of Cancer Screening Tests:
 	- Imaging-Based Screening
+	- Laboratory Tests for Biomarkers
+	- Genetic & Molecular Screening
+- 
