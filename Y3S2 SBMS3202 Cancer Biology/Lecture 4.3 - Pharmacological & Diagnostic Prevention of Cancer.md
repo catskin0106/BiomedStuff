@@ -60,3 +60,8 @@ Lecture Notes
 
 
 #### **Vaccination Prevention**
+**Preventive Vaccines**
+- HPV: Prevents Oral Infections, Cervical Precancers
+	- More Effective at Young Age
+- HBV: Contains <abbr Title="Hepatitis B Surface Antigen">HBsAg</abbr> to stimulate long term immunoresponses
+- 
