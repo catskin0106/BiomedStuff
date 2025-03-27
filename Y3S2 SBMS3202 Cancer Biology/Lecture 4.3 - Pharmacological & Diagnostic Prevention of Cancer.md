@@ -29,3 +29,8 @@ Lecture Notes
 
 
 #### **Chemoprevention**
+- ↓ Carcinogen Impact → Treat Precancers / Mitigate Precancer Risk
+
+**Aspirin**
+- NSAID → ↓ [[Lecture 8.1 - Pain & Analgesics|PG Synthesis by COX]] → ↓ Inflammation from Multiple signaling pathways
+	- Affects Cancer cells, Immune cells, Stromal cells
