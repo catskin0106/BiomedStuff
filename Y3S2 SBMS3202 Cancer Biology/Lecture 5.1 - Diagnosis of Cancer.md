@@ -54,10 +54,10 @@ Lecture Notes
 
 #### **Imaging Tests**
 
-|                      Biomolecule                      | Description               | Advantages | Disadvantages |
-| :---------------------------------------------------: | ------------------------- | ---------- | ------------- |
-|                      Ultrasound                       | High frequency soundwaves |            |               |
-|                         X-Ray                         |                           |            |               |
-|    <abbr Title="Computerized Tomography">CT</abbr>    |                           |            |               |
-|  <abbr Title="Magnetic Resonance Imaging">MRI</abbr>  |                           |            |               |
-| <abbr Title="Positron Emission Tomography">PET</abbr> |                           |            |               |
+|                      Biomolecule                      | Description                                                                                       | Advantages | Disadvantages |
+| :---------------------------------------------------: | ------------------------------------------------------------------------------------------------- | ---------- | ------------- |
+|                      Ultrasound                       | High frequency soundwaves to produce body tissue & fluid image                                    |            |               |
+|                         X-Ray                         | Detect X-Ray <abbr Title="Bone > Fat > Air">Absorption</abbr> / Scattering by Internal Structures |            |               |
+|    <abbr Title="Computerized Tomography">CT</abbr>    | Consecutive X-Rays at different angle → Body Cross Sectional Image                                |            |               |
+|  <abbr Title="Magnetic Resonance Imaging">MRI</abbr>  | Proton Alignment with Magnet → Radiowave                                                          |            |               |
+| <abbr Title="Positron Emission Tomography">PET</abbr> |                                                                                                   |            |               |
