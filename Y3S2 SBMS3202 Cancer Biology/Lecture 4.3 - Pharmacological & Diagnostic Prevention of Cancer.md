@@ -83,4 +83,6 @@ Lecture Notes
 - BRCA1/BRCA2: Genetic Screening for Breast / Ovarian Cancer Risk
 
 **Cervical Cancer Screening**
-- PAP Test
+- Pap test: Cervix cell collection for identifying abnormal cell changes
+
+****
