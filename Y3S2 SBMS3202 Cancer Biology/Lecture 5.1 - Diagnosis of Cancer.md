@@ -2,6 +2,10 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Cancer Diagnosis
+- Laboratory Tests
+- Imaging Tests
+- Biopsy Tests
+- Molecular Diagnostics
 
 ---
 #### **Cancer Diagnosis**
@@ -16,4 +20,20 @@ Lecture Notes
 	- Cost
 
 **Procedures of Cancer Diagnosis**
-- Physical Exam / Consulta
+- Physical Exam & Consultation → Laboratory Tests → Imaging Tests → Biopsy
+
+
+#### **Laboratory Tests**
+- Detection of Biomarkers
+	- Biomolecules produced by / due to tumor
+		- Tumor-Specific Markers: Only present in Individual Tumor Types
+		- Tumor-Associated Markers: Elevated in Tumor Presence
+	- Can be quantitative / qualitatively measured to detect tumor presence
+		- In Cell / Tissue / Body Fluid
+
+**Biomolecules as Tumor Biomarkers**
+
+| Biomolecule        | Description                                                                                                                             | Advantages | Disadvantages |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------- |
+| Oncofetal Antigens | Expressed in Fetal / Cancer Tissues<br>- <abbr Title="Carcinoembryonic Antigen">CEA</abbr> & <abbr Title="Alpha-fetoprotein">AFP</abbr> |            |               |
+| Carbohydrates      | Cancer Antigens used to Monitor T                                                                                                       |            |               |
