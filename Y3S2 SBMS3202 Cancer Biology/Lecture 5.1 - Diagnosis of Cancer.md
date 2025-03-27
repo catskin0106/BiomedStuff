@@ -33,7 +33,19 @@ Lecture Notes
 
 **Biomolecules as Tumor Biomarkers**
 
-| Biomolecule        | Description                                                                                                                             | Advantages | Disadvantages |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------- |
-| Oncofetal Antigens | Expressed in Fetal / Cancer Tissues<br>- <abbr Title="Carcinoembryonic Antigen">CEA</abbr> & <abbr Title="Alpha-fetoprotein">AFP</abbr> |            |               |
-| Carbohydrates      | Cancer Antigens used to Monitor T                                                                                                       |            |               |
+|    Biomolecule     | Description                                                                                                                             | Disadvantages               |
+| :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| Oncofetal Antigens | Expressed in Fetal / Cancer Tissues<br>- <abbr Title="Carcinoembryonic Antigen">CEA</abbr> & <abbr Title="Alpha-fetoprotein">AFP</abbr> |                             |
+|   Carbohydrates    | Cancer Antigens <br>Usage: Monitor Cancer / Therapy                                                                                     | ↓ Sensitivity & Specificity |
+|      Proteins      | ↑ in Cancer due to ↑ Metabolism<br>Usage: Monitor Cancer                                                                                | ↓ Specificity               |
+|      Hormones      | Biomarkers for Endocrine Cancer                                                                                                         |                             |
+
+**Other Biomarkers in Stool Test**
+- Haemoglobin (Blood Presence)
+	- <abbr Title="Fecal Occult Blood Test">FOBT</abbr>: Guaiac-Based
+	- <abbr Title="Fecal Immunochemical Test">FIT</abbr>: Antibody-Antigen Reaction
+- DNA Testing for:
+	- Methylated BMP3 & NDRG4
+	- Mutant KRAS
+- Microbiome
+	- 
