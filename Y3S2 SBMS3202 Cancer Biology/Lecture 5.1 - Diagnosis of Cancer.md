@@ -53,3 +53,11 @@ Lecture Notes
 
 
 #### **Imaging Tests**
+
+|                      Biomolecule                      | Description               | Advantages | Disadvantages |
+| :---------------------------------------------------: | ------------------------- | ---------- | ------------- |
+|                      Ultrasound                       | High frequency soundwaves |            |               |
+|                         X-Ray                         |                           |            |               |
+|    <abbr Title="Computerized Tomography">CT</abbr>    |                           |            |               |
+|  <abbr Title="Magnetic Resonance Imaging">MRI</abbr>  |                           |            |               |
+| <abbr Title="Positron Emission Tomography">PET</abbr> |                           |            |               |
