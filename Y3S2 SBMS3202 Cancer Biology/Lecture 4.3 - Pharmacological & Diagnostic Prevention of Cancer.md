@@ -34,3 +34,10 @@ Lecture Notes
 **Aspirin**
 - NSAID → ↓ [[Lecture 8.1 - Pain & Analgesics|PG Synthesis by COX]] → ↓ Inflammation from Multiple signaling pathways
 	- Affects Cancer cells, Immune cells, Stromal cells
+- Adverse Effects:
+	- GI Ulcers → Perforation & Hemorrhage
+		- Prevented with [[Lecture 9.1 - (Gastrointestinal Pharmacology) Gastric Ulcer Drugs|PPIs]]
+	- Platelet COX-1 Inhibition → ↑ Hemorrhagic Stroke / Bleeding
+		- Prevented with low dosage
+	- ↑ Leukotriene → AERD → Aspirin-Sensitive Asthma & Nasal Polyps
+		- Avoid prescribing to 
