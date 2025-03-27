@@ -48,4 +48,15 @@ Lecture Notes
 
 **Metformin**
 - ↓ <abbr Title="AMP-Activated Kinase">AMPK</abbr> Signaling → ↓ Glycogenesis in Cancer Cell Growth
-- 
+- ↓ IGF-1 → ↓ Cancer Promoting Effects
+- Genetic Reprogramming
+	- Metabolic Alterations: ↓ Cancer cell adaptability to stress
+	- Epigenetic Alterations: Regulate cell cycle arrest & apoptosis genes
+
+**Other Chemopreventive Agents**
+- Statins: ↓ Colorectal, Prostate & Breast Cancer
+- Tamoxifen & Raloxifene: <abbr Title="Selective Estrogen Receptor Modulators">SERMs</abbr> for ↓ Breast Cancer
+- Vitamin D: Regulate Cell Differentiation & Apoptosis
+
+
+#### **Vaccination Prevention**
