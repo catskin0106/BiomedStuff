@@ -40,7 +40,12 @@ Lecture Notes
 	- Platelet COX-1 Inhibition → ↑ Hemorrhagic Stroke / Bleeding
 		- Prevented with low dosage
 	- ↑ Leukotriene → <abbr Title="Aspirin-Exacerbated Respiratory Disease">AERD</abbr> → Aspirin-Sensitive Asthma & Nasal Polyps
-		- Avoid Prescription to NSAID-Hypersensitive people
+		- Avoid in NSAID-Hypersensitive people
 		- Alternatives: Paracetamol / <abbr Title="COX-2 Selective Inhibitors">Celecoxib</abbr>
 	- ↓ PG → Dysregulated Renal Perfusion → [[Lecture 2.7 (Renal System) - Other Diseases of the Urinary System|AKI & CKD]]
-		- 
+		- Avoid in CKD Patients
+		- Monitor User Creatinine Level
+
+**Metformin**
+- ↓ <abbr Title="AMP-Activated Kinase">AMPK</abbr> Signaling → ↓ Glycogenesis in Cancer Cell Growth
+- 
