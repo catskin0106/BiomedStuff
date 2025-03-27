@@ -27,6 +27,12 @@ Lecture Notes
 - Pharmalogical (Chemoprevention)
 - Immunological (Vaccination)
 
+**NCI Development of Cancer Prevention**
+- Biomarker Development & Validation
+- Clinical & Epidemiological Studies
+- Informatics
+- Collaborative Groups for Each Organ
+
 
 #### **Chemoprevention**
 - ↓ Carcinogen Impact → Treat Precancers / Mitigate Precancer Risk
@@ -85,4 +91,12 @@ Lecture Notes
 **Cervical Cancer Screening**
 - Pap test: Cervix cell collection for identifying abnormal cell changes
 
-****
+**Colorectal Cancer Screening**
+- <abbr Title="Fecal Occult Blood Test">FOBT</abbr>: Testing kit to find normally unseen blood
+- Colonoscopy: Connect camera to colon tube to look for polyps
+
+**Prostate Cancer Screening**
+- <abbr Title="Prostate Specific Antigen">PSA</abbr> Test:
+	- Normal Plasma Level: 4.0 ng/mL
+- <abbr Title="Prostate Cancer Gene 3">PCA3</abbr> Test:
+	- <abbr Title="Long Non-Coding RNA">LncRNA</abbr> with 100x increase in Prostate tumor tissues
