@@ -44,8 +44,12 @@ Lecture Notes
 - Haemoglobin (Blood Presence)
 	- <abbr Title="Fecal Occult Blood Test">FOBT</abbr>: Guaiac-Based
 	- <abbr Title="Fecal Immunochemical Test">FIT</abbr>: Antibody-Antigen Reaction
+		- Combined with DNA / Microbiome Testing
 - DNA Testing for:
 	- Methylated BMP3 & NDRG4
 	- Mutant KRAS
 - Microbiome
-	- 
+	- 4 Bacterial Biomarkers: Fn, m3, Bc, Ch
+
+
+#### **Imaging Tests**
