@@ -18,7 +18,7 @@ Lecture Notes
 
 
 #### **Pathogens**
-- Can be caused by H. Pylori & Hepatitis (B, C) Virus
+- Can be caused by H. Pylori, <abbr Title="Human Papillomavirus">HPV</abbr> & Hepatitis (B, C) Virus
 - Opportunistic Infection by Streptococcus Anginosus
 
 **Carcinogenicity of H. Pylori**
@@ -36,3 +36,10 @@ Lecture Notes
 	- Same as H. Pylori
 
 **Carcinogenicity of Hepatitis Virus**
+- Linked Hallmarks:
+	- Chronic Inflammation
+	- Oncogene Activation
+	- Viral DNA Integration → Genomic Instability
+
+**Carcinogenicity of HPV**
+- Causes almost all Cervical Cancer
