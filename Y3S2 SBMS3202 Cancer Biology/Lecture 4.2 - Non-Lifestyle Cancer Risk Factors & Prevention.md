@@ -32,5 +32,7 @@ Lecture Notes
 **Carcinogenicity of S. Anginosus**
 - S. Anginosus Adhesin TMPC binding to Gastric Epithelium ANXA2 Receptor
 	- → Parietal Cell Atrophy & Mucinous Metaplasia in <abbr Title="No microbiome in body">Germ-Free</abbr> Mice
+- Progression:
+	- Same as H. Pylori
 
 **Carcinogenicity of Hepatitis Virus**
