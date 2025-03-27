@@ -26,7 +26,11 @@ Lecture Notes
 	- Chronic Inflammation
 	- Oncogene Activation & Tumor Suppressor Loss
 	- Microbiome Eradication
-- Chronic Gastritis → Atrophy → Intestinal Metaplasia & Dysplasia → Cancer
+- Progression:
+	- Chronic Gastritis → Atrophy → Intestinal Metaplasia & Dysplasia → Cancer
 
 **Carcinogenicity of S. Anginosus**
 - S. Anginosus Adhesin TMPC binding to Gastric Epithelium ANXA2 Receptor
+	- → Parietal Cell Atrophy & Mucinous Metaplasia in <abbr Title="No microbiome in body">Germ-Free</abbr> Mice
+
+**Carcinogenicity of Hepatitis Virus**
