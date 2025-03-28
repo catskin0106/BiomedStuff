@@ -54,10 +54,11 @@ Lecture Notes
 
 #### **Imaging Tests**
 
-|                      Biomolecule                      | Description                                                                                       | Advantages | Disadvantages |
-| :---------------------------------------------------: | ------------------------------------------------------------------------------------------------- | ---------- | ------------- |
-|                      Ultrasound                       | High frequency soundwaves to produce body tissue & fluid image                                    |            |               |
-|                         X-Ray                         | Detect X-Ray <abbr Title="Bone > Fat > Air">Absorption</abbr> / Scattering by Internal Structures |            |               |
-|    <abbr Title="Computerized Tomography">CT</abbr>    | Consecutive X-Rays at different angle → Body Cross Sectional Image                                |            |               |
-|  <abbr Title="Magnetic Resonance Imaging">MRI</abbr>  | Proton Alignment with Magnet → Radiowave                                                          |            |               |
-| <abbr Title="Positron Emission Tomography">PET</abbr> |                                                                                                   |            |               |
+|                        Biomolecule                        | Description                                                                                                                                                                       | Advantages                    | Disadvantages |
+| :-------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------- |
+|                        Ultrasound                         | High frequency soundwaves to produce body tissue & fluid image                                                                                                                    | No Radiation<br>Cheap & Quick |               |
+|                           X-Ray                           | Detect X-Ray <abbr Title="Bone > Fat > Air">Absorption</abbr> / Scattering by Internal Structures                                                                                 | Cheap & Quick                 | Radiation     |
+|      <abbr Title="Computerized Tomography">CT</abbr>      | Consecutive X-Rays at different angle → Body Cross Sectional Image                                                                                                                |                               | Radiation     |
+|    <abbr Title="Magnetic Resonance Imaging">MRI</abbr>    | Proton Alignment with Magnet → Radiowave                                                                                                                                          | No Radiation                  | L             |
+| <br><abbr Title="Positron Emission Tomography">PET</abbr> | Use Radioactive Isotope to Trace Tumor Metabolism<br>- Positron-Electron collision produces γ Ray<br>- E.g. <sup>11</sup>C, <sup>18</sup>F ( [<sup>18</sup>F]Fluorodeoxyglucose ) |                               | Radiation     |
+
