@@ -6,5 +6,5 @@ Lecture Notes
 - Immune Complications
 
 ---
-#### **Factors Affecting Treatment Decisions**
+#### **Pain**
 **Necessity of Treatment**
