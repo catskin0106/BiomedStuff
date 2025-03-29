@@ -92,16 +92,20 @@ Lecture Notes
 
 
 #### **Targeted Therapy**
-|         Target         |                                    <                                    | Mechanism                               | Examples                |
-| :--------------------: | :---------------------------------------------------------------------: | :-------------------------------------- | :---------------------- |
-|  <br>Signal Pathways   |     <br><abbr Title="Receptor Tyrosine Kinase">RTK</abbr> Inhbitors     | Block Ligand Binding → No Dimerization  | Cetuximab & Trastuzumab |
-|           ^            |                                    ^                                    | Binds to ATP binding Pocket → No Kinase |                         |
-|           ^            |                          Downstream Inhbitors                           |                                         |                         |
-|    Mutant Proteins     |                               Promiscuous                               |                                         |                         |
-|           ^            |                                Selective                                |                                         |                         |
-|           ^            |                            Mutant-Selective                             |                                         |                         |
-| Overexpressed Proteins |                        Antibody-Drug Conjugates                         |                                         |                         |
-|      Angiogenesis      | <abbr Title="Vascular Endothelial Growth Factor">VEGF</abbr> Inhibitors |                                         |                         |
-| Cell Cycle Inhibitors  |                                    <                                    |                                         |                         |
-| Metabolism Inhibitors  |                                    <                                    |                                         |                         |
-|   Apoptosis Inducers   |                                    <                                    |                                         |                         |
+|         Target         |                                     Drug Type                                     | Mechanism                                                                   | Examples                                                                         |
+| :--------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
+|      <br>Hormones      |                                  Anti-Estrogens                                   | Estrogen Antagonists                                                        |                                                                                  |
+|           ^            |                                  Anti-Androgens                                   | Androgen Antagonists                                                        |                                                                                  |
+|  <br>Signal Pathways   |          <br><abbr Title="Receptor Tyrosine Kinase">RTK</abbr> Inhbitors          | Block Ligand Binding → No Dimerization                                      | Cetuxi<font color="yellow">mab</font> & Trastuzu<font color="yellow">mab</font>  |
+|           ^            |                                         ^                                         | Binds to ATP binding Pocket → No Kinase                                     | Small Molecule Inhibitors                                                        |
+|           ^            |                               Downstream Inhbitors                                | Multiple Targets (RAS, RAF, ERK, MEK)                                       | Small Molecule Inhibitors                                                        |
+|  <br>Mutant Proteins   |                                    Promiscuous                                    | ↓ Selectivity but ↑ Complete Inhibition                                     | Sorafe<font color="yellow">nib</font> (VEGFR1-3 + Kinases)                       |
+|           ^            |                                     Selective                                     | ↓ Off Target Effects                                                        | Erloti<font color="yellow">nib</font> & Gefiti<font color="yellow">nib</font>    |
+|           ^            |                                 Mutant-Selective                                  | ↑ Selectivity & Therapeutic Index                                           | Vemurafe<font color="yellow">nib</font> (BRAF<sup>V600E</sup>)                   |
+| Overexpressed Proteins |                             Antibody-Drug Conjugates                              | Target-Specific Antibodies + Cytotoxic Drugs                                |                                                                                  |
+| Pro-Angiogenic Factors | <abbr Title="Vascular Endothelial Growth Factor Receptor">VEGFR</abbr> Inhibitors | ↓ Angiogenesis                                                              | Sorafenib & Bevacizumab                                                          |
+| Cell Cycle Inhibitors  |                                         <                                         | CDK4/6 Inhibitors → G1 Cell Cycle Arrest                                    | Palbo<font color="yellow">ciclib</font> & Ribo<font color="yellow">ciclib</font> |
+| Metabolism Inhibitors  |                                         <                                         | Mutant IDH1/2 Inhibitor (Produces <abbr Title="Oncometabolite">2-HG</abbr>) | Ivo<font color="yellow">sidenib</font> & Ena<font color="yellow">sidenib</sub>   |
+|   Apoptosis Inducers   |                                         <                                         | BCL-2 Inhibitor → Apoptosis                                                 | Venetoclax                                                                       |
+
+**Advantages of Chemotherapy**
