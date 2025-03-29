@@ -7,4 +7,4 @@ Lecture Notes
 
 ---
 #### **Pain**
-**Necessity of Treatment**
+**Causes of Pain**
