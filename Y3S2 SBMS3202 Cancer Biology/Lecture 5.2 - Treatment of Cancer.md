@@ -6,6 +6,7 @@ Lecture Notes
 - Radiotherapy
 - Chemotherapy
 - Targeted Therapy
+- Combination Therapy
 
 ---
 #### **Factors Affecting Treatment Decisions**
@@ -119,3 +120,5 @@ Lecture Notes
 		- Upstream & Downstream Activation → Bypass Blockade
 
 **Role of Diagnostics in Targeted Therapy**
+- Additional mutations may grant tumors immunity to target therapies
+	- E.g. Cetuximab in KRAS-Mutation (30-40% of <abbr Title="Colorectal Cancer">CRC</abbr>) Patients
