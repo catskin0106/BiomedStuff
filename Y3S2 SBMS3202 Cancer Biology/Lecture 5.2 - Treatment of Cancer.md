@@ -92,11 +92,16 @@ Lecture Notes
 
 
 #### **Targeted Therapy**
-|     Target      |                         <                         | Mechanism                                                                                                                                      | Examples |
-| :-------------: | :-----------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
-| Signal Pathways | <abbr Title="Receptor Tyrosine Kinase">RTK</abbr> |                                                                                                                                                |          |
-|        ^        |                    Downstream                     |                                                                                                                                                |          |
-|                 |                                                   | Stop strand elongation                                                                                                                         |          |
-|                 |                                                   | <abbr Title="Responsible for DNA Unwinding">Topoisomerase I / II</abbr> Inhibitors<br>→ Double strand break at Replication Fork<br>→ Apoptosis |          |
-|                 |                                                   | Bind to Mitotic Spindle Microtubules<br>→ ↓ Polymerization                                                                                     |          |
-|                 |                                                   | ↑ Tubulin Polymerization<br>→ Freeze Cell in Metaphase                                                                                         |          |
+|         Target         |                                    <                                    | Mechanism                               | Examples                |
+| :--------------------: | :---------------------------------------------------------------------: | :-------------------------------------- | :---------------------- |
+|  <br>Signal Pathways   |     <br><abbr Title="Receptor Tyrosine Kinase">RTK</abbr> Inhbitors     | Block Ligand Binding → No Dimerization  | Cetuximab & Trastuzumab |
+|           ^            |                                    ^                                    | Binds to ATP binding Pocket → No Kinase |                         |
+|           ^            |                          Downstream Inhbitors                           |                                         |                         |
+|    Mutant Proteins     |                               Promiscuous                               |                                         |                         |
+|           ^            |                                Selective                                |                                         |                         |
+|           ^            |                            Mutant-Selective                             |                                         |                         |
+| Overexpressed Proteins |                        Antibody-Drug Conjugates                         |                                         |                         |
+|      Angiogenesis      | <abbr Title="Vascular Endothelial Growth Factor">VEGF</abbr> Inhibitors |                                         |                         |
+| Cell Cycle Inhibitors  |                                    <                                    |                                         |                         |
+| Metabolism Inhibitors  |                                    <                                    |                                         |                         |
+|   Apoptosis Inducers   |                                    <                                    |                                         |                         |
