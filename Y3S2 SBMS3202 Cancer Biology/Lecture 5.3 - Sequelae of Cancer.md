@@ -8,5 +8,7 @@ Lecture Notes
 ---
 #### **Pain**
 **Causes of Pain**
-- Tumor
-- 
+- Tumor Growth, Invasion & Metastasis
+- Nociceptor response to Damaging Stimuli
+	- Mechanical
+	- Proton
