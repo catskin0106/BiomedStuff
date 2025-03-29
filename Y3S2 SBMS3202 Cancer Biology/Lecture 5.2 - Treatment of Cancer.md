@@ -59,5 +59,11 @@ Lecture Notes
 |       X-Ray       |      Low      |    Low    |    Low    |     High     |
 |      Proton       |      Low      |   High    |   High    |     Low      |
 |    Carbon Ions    |     High      |   High    | Very High |   Very Low   |
+- X-Ray based approaches can be improved by focusing radiation dose to tumor area
+	- <abbr Title="Intensity-Modulated Radiation Therapy">IMRT</abbr>: Determine Dose Pattern through CT / MRI & Computer Calculation
+		- Precise Radiation Doses at Different Angles
+	- Gamma Knife Radiosurgery
+		- For Small / Medium Brain Tumors
 
 
+#### **Chemotherapy**
