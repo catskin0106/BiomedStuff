@@ -71,9 +71,14 @@ Lecture Notes
 	- Molecular Diagnostics
 
 **Molecular Diagnostics**
+- Risk Prediction
+	- From Detecting Germline Mutations
+		- E.g. Apc gene: <abbr Title="Hundreds of ">Familial Adenomatous Polyposis</abbr>
+- Guide Treatment Strategies
+	- Treat Patients according to Molecular Profile
+		- E.g. Early Days, Hormonal Receptors, HER2 / BRCA Mutations
 - Gene Expression Microarray
 	- Stratifies patients by carcinogenic signaling pathways for adjuvant cancer therapy
-	- E.g. Agendia Mammaprint (70 Signaling Pathways for Breast Cancer Metastasis)
+		- E.g. Agendia Mammaprint (70 Signaling Pathways for Breast Cancer Metastasis)
 - Companion Diagnostics
 	- Matches Patient to Specific Drug / Therapy
-- GF
