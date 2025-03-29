@@ -49,4 +49,15 @@ Lecture Notes
 
 #### **Radiotherapy**
 - Radiation → cancer cell DNA damage
-	- →
+	- → DNA Repair Mechanism Activation → Cell Cycle Arrest
+	- → Double Strand break → Genomic Instability & Apoptosis
+
+**Radiation Sources**
+
+| Radiation Sources | Effectiveness | Precision |   Cost    | Availability |
+| :---------------: | :-----------: | :-------: | :-------: | :----------: |
+|       X-Ray       |      Low      |    Low    |    Low    |     High     |
+|      Proton       |      Low      |   High    |   High    |     Low      |
+|    Carbon Ions    |     High      |   High    | Very High |   Very Low   |
+
+
