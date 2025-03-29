@@ -73,4 +73,7 @@ Lecture Notes
 **Molecular Diagnostics**
 - Gene Expression Microarray
 	- Stratifies patients by carcinogenic signaling pathways for adjuvant cancer therapy
-	- Agendia
+	- E.g. Agendia Mammaprint (70 Signaling Pathways for Breast Cancer Metastasis)
+- Companion Diagnostics
+	- Matches Patient to Specific Drug / Therapy
+- GF
