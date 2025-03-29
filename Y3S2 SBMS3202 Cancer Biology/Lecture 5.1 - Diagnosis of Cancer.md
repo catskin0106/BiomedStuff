@@ -71,4 +71,6 @@ Lecture Notes
 	- Molecular Diagnostics
 
 **Molecular Diagnostics**
-- 
+- Gene Expression Microarray
+	- Stratifies patients by carcinogenic signaling pathways for adjuvant cancer therapy
+	- Agendia
