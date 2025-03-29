@@ -122,3 +122,15 @@ Lecture Notes
 **Role of Diagnostics in Targeted Therapy**
 - Additional mutations may grant tumors immunity to target therapies
 	- E.g. Cetuximab in KRAS-Mutation (30-40% of <abbr Title="Colorectal Cancer">CRC</abbr>) Patients
+
+
+#### **Combination Therapy**
+- Chemotherapy + Targeted Therapy / Immune Checkpoint Therapy
+
+
+**Advantages & Disadvantages of Combination Therapy**
+- Advantages:
+	- Synergism → ↑ Efficacy in Eliminating All Cancer Cells
+	- ↓ Drug Resistance
+- Disadvantages:
+	- Potential Toxicity
