@@ -39,6 +39,14 @@ Lecture Notes
 
 **Types of Surgery**
 
-|   Surgery Type   | Description |
-| :--------------: | ----------- |
-| Curative Surgery | Completely  |
+|     Surgery Type     | Description                                         |
+| :------------------: | --------------------------------------------------- |
+| Preventative Surgery | Colon Polyp Removcal                                |
+|  Diagnostic Surgery  | Biopsy for Cancer Staging / Lab Tests               |
+|   Curative Surgery   | Complete Tumor Removal (Sometimes with Lymph Nodes) |
+|  Palliative Surgery  | Surgery to Relieve Discomfort only                  |
+
+
+#### **Radiotherapy**
+- Radiation → cancer cell DNA damage
+	- →
