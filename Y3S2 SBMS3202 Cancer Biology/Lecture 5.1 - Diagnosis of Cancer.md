@@ -66,17 +66,19 @@ Lecture Notes
 #### **Biopsy Tests**
 - Pathological Assessment of Collected Tumor Tissues
 	- Immunohistochemistry
-	- Flow Cytometry (Blood Cancers)
+	- Flow Cytometry
+		- Blood Cancers only
 	- Cytogenetics
 	- Molecular Diagnostics
 
 **Molecular Diagnostics**
 - Risk Prediction
 	- From Detecting Germline Mutations
-		- E.g. Apc gene: <abbr Title="Hundreds of ">Familial Adenomatous Polyposis</abbr>
+		- E.g. Apc gene: <abbr Title="Hundreds of Colonic Polyps that requires Colon Removal">Familial Adenomatous Polyposis</abbr> → Colon Cancer
+		- E.g. BRCA1/2 gene: Hereditary Ovarian Cancer
 - Guide Treatment Strategies
 	- Treat Patients according to Molecular Profile
-		- E.g. Early Days, Hormonal Receptors, HER2 / BRCA Mutations
+		- E.g. Breast Cancer: Early Days, <abbr Title=ER"">Hormonal Receptors</abbr>, HER2 / BRCA Mutations
 - Gene Expression Microarray
 	- Stratifies patients by carcinogenic signaling pathways for adjuvant cancer therapy
 		- E.g. Agendia Mammaprint (70 Signaling Pathways for Breast Cancer Metastasis)
