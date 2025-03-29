@@ -64,4 +64,6 @@ Lecture Notes
 
 
 #### **Biopsy Tests**
-- 
+- Pathological Assessment of Collected Tumor Tissues
+
+****
