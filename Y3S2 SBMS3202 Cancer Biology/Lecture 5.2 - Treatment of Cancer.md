@@ -67,13 +67,28 @@ Lecture Notes
 
 
 #### **Chemotherapy**
+- Induce DNA Damage to Tumor Cells
+	- Delivered Systemically
+
 **Chemotherapy Drug Types**
 
-|         Drug Type         |         <          | Mechanism                                                                                                                                      | Examples                                      |
-| :-----------------------: | :----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
-|   <br>Alkylating Drugs    |         <          | Form Interstand Crosslinks in DNA <br>→ Prevent Daughter Strand Separation in DNA Replication<br>→ Mitosis if unrepaired                       | G: Nitrogen Mustard<br>AG: Platinum Compounds |
-|    <br>Antimetabolites    |    Antifolates     | Inhibit Thymidine Biosynthesis                                                                                                                 | 5-FU & MTX                                    |
-|             ^             | Nucleotide Analogs | Stop strand elongation                                                                                                                         | Gemcitabine                                   |
-| <br>Antitumor Antibiotics |         <          | <abbr Title="Responsible for DNA Unwinding">Topoisomerase I / II</abbr> Inhibitors<br>→ Double strand break at Replication Fork<br>→ Apoptosis | Anthracyclines<br>Etoposide<br>Camptothesin   |
-|    Mitotic Inhibitors     |  Vinca Alkaloids   |                                                                                                                                                |                                               |
-|             ^             |      Taxanes:      |                                                                                                                                                |                                               |
+|         Drug Type          |         <          | Mechanism                                                                                                                                      | Examples                                      |
+| :------------------------: | :----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+|    <br>Alkylating Drugs    |         <          | Form Interstand Crosslinks in DNA <br>→ Prevent Daughter Strand Separation in DNA Replication<br>→ Mitosis if unrepaired                       | G: Nitrogen Mustard<br>AG: Platinum Compounds |
+|    <br>Antimetabolites     |    Antifolates     | Inhibit Thymidine Biosynthesis                                                                                                                 | 5-FU & MTX                                    |
+|             ^              | Nucleotide Analogs | Stop strand elongation                                                                                                                         | Gemcitabine                                   |
+| <br>Antitumor Antibiotics  |         <          | <abbr Title="Responsible for DNA Unwinding">Topoisomerase I / II</abbr> Inhibitors<br>→ Double strand break at Replication Fork<br>→ Apoptosis | Anthracyclines<br>Camptothesin<br>Etoposide   |
+| <br><br>Mitotic Inhibitors |  Vinca Alkaloids   | Bind to Mitotic Spindle Microtubules<br>→ ↓ Polymerization                                                                                     |                                               |
+|             ^              |      Taxanes       | ↑ Tubulin Polymerization<br>→ Freeze Cell in Metaphase                                                                                         |                                               |
+
+**Limitations of Chemotherapy**
+- Not universally effective
+- Toxic to normal cells (Hair loss, Skin sensitivity)
+- Drug Resistance
+	- ↓ Drug Bioavailability
+	- ↓ Apoptosis & ↑ Metabolic Detoxification
+		- ∵ Mutation / Over-expression of Gene Targets
+		- ∵ ↑ DNA Repair Capacity
+
+
+#### **Targeted Therapy**
