@@ -92,3 +92,11 @@ Lecture Notes
 
 
 #### **Targeted Therapy**
+|     Target      |                         <                         | Mechanism                                                                                                                                      | Examples |
+| :-------------: | :-----------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| Signal Pathways | <abbr Title="Receptor Tyrosine Kinase">RTK</abbr> |                                                                                                                                                |          |
+|        ^        |                    Downstream                     |                                                                                                                                                |          |
+|                 |                                                   | Stop strand elongation                                                                                                                         |          |
+|                 |                                                   | <abbr Title="Responsible for DNA Unwinding">Topoisomerase I / II</abbr> Inhibitors<br>→ Double strand break at Replication Fork<br>→ Apoptosis |          |
+|                 |                                                   | Bind to Mitotic Spindle Microtubules<br>→ ↓ Polymerization                                                                                     |          |
+|                 |                                                   | ↑ Tubulin Polymerization<br>→ Freeze Cell in Metaphase                                                                                         |          |
