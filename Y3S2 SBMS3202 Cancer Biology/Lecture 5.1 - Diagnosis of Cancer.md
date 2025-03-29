@@ -65,5 +65,10 @@ Lecture Notes
 
 #### **Biopsy Tests**
 - Pathological Assessment of Collected Tumor Tissues
+	- Immunohistochemistry
+	- Flow Cytometry (Blood Cancers)
+	- Cytogenetics
+	- Molecular Diagnostics
 
-****
+**Molecular Diagnostics**
+- 
