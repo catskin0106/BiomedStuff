@@ -52,3 +52,5 @@ Lecture Notes
 - Well-developed assay tools & collection method
 
 **Cancer Cell Line Encyclopedia Project**
+- Online Portal for:
+	- Gene dependency, expression & 
