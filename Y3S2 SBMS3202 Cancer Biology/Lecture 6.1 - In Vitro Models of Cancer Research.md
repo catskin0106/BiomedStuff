@@ -32,3 +32,9 @@ Lecture Notes
 	- Cell-Free Screening of Molecular Targets
 
 **Advantages of Cell-Free Models**
+- Cheap
+- Automated
+- High Throughput
+
+
+#### **Cancer Cell Lines**
