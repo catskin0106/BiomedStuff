@@ -22,8 +22,14 @@ Lecture Notes
 
 **Treatment of Pain**
 
-| Pain Type           | Treatment                   |
-| ------------------- | --------------------------- |
-| Moderate            | NSAIDs (Aspirin, Ibuprofen) |
-| Severe              | Opioids                     |
-| Due to Tumor Growth |                             |
+| Pain Type           | Treatment                              |
+| ------------------- | -------------------------------------- |
+| Moderate            | NSAIDs (Aspirin, Ibuprofen)            |
+| Severe              | Opioids                                |
+| Due to Tumor Growth | Palliative Radiotherapy / Chemotherapy |
+
+
+#### **Metabolic Complications**
+- <abbr Title="Muscle Loss">Cachexia</abbr>, Anorexia & Hypercalcemia
+
+**Cachexia**
