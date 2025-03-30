@@ -63,4 +63,17 @@ Lecture Notes
 
 
 #### **Immune Complications**
-- 
+- Hematologic Complications, Fever & Infection
+
+**Hematologic Complications**
+- Loss of Blood Components
+
+| Deficiency                                               | Symptom                                                                     |
+| -------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Anaemia                                                  | Pro-Inflammatory Cytokines → ↓ RBC Production<br>Autoantibodies against RBC |
+| Leukopenia                                               | Chemotherapy<br>Tumor Infiltration of Bone Marrow                           |
+| <abbr Title="Low Neutrophil Count">Neutropenia</abbr>    |                                                                             |
+| <abbr Title="Low Platelet Count">Thrombocytopenia</abbr> | Tumor Infiltration of Bone Marrow                                           |
+- Tumor-Induced Thrombosis
+	- Induce Procoagulant & Fibrin to aid Blood Clotting in Metastasis
+
