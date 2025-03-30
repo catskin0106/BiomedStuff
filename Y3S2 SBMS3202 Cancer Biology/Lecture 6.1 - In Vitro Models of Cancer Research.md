@@ -8,6 +8,12 @@ Lecture Notes
 
 ---
 #### **Cancer Models**
-- Medium for Hypothesis Testing before Conducting Human Trials
+- Simplified representation of a complex system
+	- for Hypothesis Testing before Conducting Human Trials
 
 **Criteria for Good Cancer Models**
+- Contains components relevant to the hypothesis
+- Not too complicated for facilitating understanding
+
+
+#### **Cell-Free Models**
