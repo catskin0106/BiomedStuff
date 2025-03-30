@@ -38,3 +38,4 @@ Lecture Notes
 
 
 #### **Cancer Cell Lines**
+- Easily cultured & 
