@@ -17,3 +17,5 @@ Lecture Notes
 
 
 #### **Cell-Free Models**
+- Molecular Targets of Drugs
+	- E.g. Tyrosine Kinase
