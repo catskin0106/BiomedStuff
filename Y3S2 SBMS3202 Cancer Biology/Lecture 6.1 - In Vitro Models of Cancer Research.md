@@ -19,3 +19,14 @@ Lecture Notes
 #### **Cell-Free Models**
 - Molecular Targets of Drugs
 	- E.g. Tyrosine Kinase:
+
+| Step | Description                                      |
+| ---- | ------------------------------------------------ |
+| 1    | ATP consumed by Extracellular Kinase             |
+| 2    | Remaining ATP used by Luciferin to produce light |
+| 3    | Measure brightness to determine Kinase ATP usage |
+
+- Applications:
+	- Drug Discovery & Optimization
+
+**Advantages of Cell-Free Models**
