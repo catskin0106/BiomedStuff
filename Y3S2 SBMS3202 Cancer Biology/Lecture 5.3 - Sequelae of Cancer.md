@@ -38,6 +38,9 @@ Lecture Notes
 		- Tumor-Derived <abbr Title="Proteolysis Inducing Factor">PIF</abbr>
 		- NF<sub>KB</sub>
 	- Pro-Inflammatory Cytokines
+		- IL-1α & 6
+		- TNF-α
+		- Interferon
 - Multifactorial
 	- Anorexia
 	- Vomiting
@@ -85,4 +88,19 @@ Lecture Notes
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bacterial | Common in Patients with Neutropenia / Vascular Catheter                                                                                                                                                        |
 | Fungal    | Common in Patients with Acute Leukemia / <abbr Title="Human Stem Cell">HSC</abbr> Transplants<br><abbr Title="E.g. Candidia">Commensal</abbr> / <abbr Title="E.g. Aspergillus & Fusarium">Opportunistic</abbr> |
-| Viral     | Most common form: Herpes Zoster<br>Symptoms: Hyperesthesia,                                                                                                                                                    |
+| Viral     | Most common form: Herpes Zoster<br>Symptoms: <abbr Title="Oversensitivity">Hyperesthesia</abbr>, <abbr Title="Feeling of Pins & Needles">Paresthesia</abbr>                                                    |
+
+**Fever**
+- Related to Lymphoma (Hodgkin & Non-Hodgkin), Liver & Metastatic Tumors
+	- ∵ ↑ Pro-Inflammatory Cytokines
+
+
+#### **Dermatologic Effects**
+
+| Effect                                              | Description                         |
+| --------------------------------------------------- | ----------------------------------- |
+| Hyperpigmentation                                   | Tumor Hormones<br>Chemotherapy      |
+| <abbr Title="Reddening & Flushing">Erythema</abbr>  | Lymphoma / Leukemia<br>Chemotherapy |
+| <abbr Title="Bleeding into the Skin">Purpura</abbr> | Thrombocytopenia                    |
+| <abbr Title="Itchy Skin">Pruritus</abbr>            | Lymphoma<br>Chemotherapy            |
+| <abbr Title="Abnormal Hair Growth">Hirsutism</abbr> | ↑ Male Hormones                     |
