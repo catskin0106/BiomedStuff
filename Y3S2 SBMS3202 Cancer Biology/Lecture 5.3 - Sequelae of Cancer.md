@@ -81,8 +81,8 @@ Lecture Notes
 **Infection**
 - Types of Infection
 
-| Infection | Description                                                       |
-| --------- | ----------------------------------------------------------------- |
-| Bacterial | Patients with Neutropenia / Vascular Catheter are more vulnerable |
-| Fungal    |                                                                   |
-| Viral     |                                                                   |
+| Infection | Description                                                                                                                                                                                                    |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bacterial | Common in Patients with Neutropenia / Vascular Catheter                                                                                                                                                        |
+| Fungal    | Common in Patients with Acute Leukemia / <abbr Title="Human Stem Cell">HSC</abbr> Transplants<br><abbr Title="E.g. Candidia">Commensal</abbr> / <abbr Title="E.g. Aspergillus & Fusarium">Opportunistic</abbr> |
+| Viral     | Most common form: Herpes Zoster<br>Symptoms: Hyperesthesia,                                                                                                                                                    |
