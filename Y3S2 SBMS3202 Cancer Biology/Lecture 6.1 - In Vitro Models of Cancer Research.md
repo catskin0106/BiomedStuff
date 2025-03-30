@@ -38,4 +38,11 @@ Lecture Notes
 
 
 #### **Cancer Cell Lines**
-- Easily cultured & 
+
+**Advantages of Cancer Cell Lines**
+- Easily genetically manipulated
+	- Through Lipid Transfection & Viral Transduction
+	- Achieve Gene <abbr Title="Insertion of Exogenous Gene">Knockin</abbr> & <abbr Title="Inactivation / Deletion of Gene">Knockout</abbr>
+- Easily reproduced, cultured & expanded
+- Homogenous
+- Well-developed assay tools & collection method
