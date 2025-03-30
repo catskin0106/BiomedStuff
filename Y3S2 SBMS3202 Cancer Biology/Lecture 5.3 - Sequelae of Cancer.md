@@ -81,9 +81,8 @@ Lecture Notes
 **Infection**
 - Types of Infection
 
-| Infection | Description |
-| --------- | ----------- |
-| Bacterial |             |
-| Fungal    |             |
-|           |             |
-|           |             |
+| Infection | Description                                                       |
+| --------- | ----------------------------------------------------------------- |
+| Bacterial | Patients with Neutropenia / Vascular Catheter are more vulnerable |
+| Fungal    |                                                                   |
+| Viral     |                                                                   |
