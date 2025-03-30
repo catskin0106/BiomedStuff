@@ -53,4 +53,6 @@ Lecture Notes
 
 **Cancer Cell Line Encyclopedia Project**
 - Online Portal for:
-	- Gene dependency, expression & 
+	- Gene dependency, expression & mutation
+	- Gene copy number
+	- Drug activity
