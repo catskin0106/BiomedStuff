@@ -56,3 +56,5 @@ Lecture Notes
 	- Gene dependency, expression & mutation
 	- Gene copy number
 	- Drug activity
+- Basis of CRISPR-Cas9 Knockout Screening
+	- Use CRISPR-Cas9 to Knockout Genes to observe their importance for cellular function
