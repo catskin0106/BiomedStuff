@@ -34,8 +34,25 @@ Lecture Notes
 
 **Cachexia**
 - Caused by Cancer
-	- Signaled Degradation of Muscle Proteins
+	- Signaled Degradation of Muscle Proteins into Amino Acids, Glucose, Nucleotides
 		- Tumor-Derived <abbr Title="Proteolysis Inducing Factor">PIF</abbr>
 		- NF<sub>KB</sub>
 	- Pro-Inflammatory Cytokines
-	- Breakdown into
+- Multifactorial
+	- Anorexia
+	- Vomiting
+
+**Anorexia**
+- Fatigue, Gustatory Changes, Dry Mouth & Nausea
+- Treatments:
+	- Nutritional Intervention
+	- Appetite Stimulant
+
+**Hypercalcemia**
+- Leads to malfunction in signaling pathways requiring Ca<sup>2+</sup>
+
+| Affected Organ      | Treatment                              |
+| ------------------- | -------------------------------------- |
+| Moderate            | NSAIDs (Aspirin, Ibuprofen)            |
+| Severe              | Opioids                                |
+| Due to Tumor Growth | Palliative Radiotherapy / Chemotherapy |
