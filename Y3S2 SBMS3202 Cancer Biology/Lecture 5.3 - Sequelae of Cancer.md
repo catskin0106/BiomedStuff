@@ -34,4 +34,8 @@ Lecture Notes
 
 **Cachexia**
 - Caused by Cancer
-	- 
+	- Signaled Degradation of Muscle Proteins
+		- Tumor-Derived <abbr Title="Proteolysis Inducing Factor">PIF</abbr>
+		- NF<sub>KB</sub>
+	- Pro-Inflammatory Cytokines
+	- Breakdown into
