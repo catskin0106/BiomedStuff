@@ -51,7 +51,7 @@ Lecture Notes
 - Homogenous
 - Well-developed assay tools & collection method
 
-**Disadvantages of Cancer Cell Line**
+**Conditional Disadvantages of Cancer Cell Line (Can be Advantages Sometimes)**
 - Culture Conditions deviate from physiological conditions
 	- Nutrient, O<sub>2</sub> & Drug Accessibility
 	- Mechanical Stress
@@ -72,12 +72,21 @@ Lecture Notes
 
 
 #### **3D Spheroid Culture**
+- Allows cell to grow in suspension culture without attachment
 - Mimics 3D Tumor Structure & Microenvironment
 
 **Components of 3D Spheroid Culture**
 
-| Component           | Function                                                       |
-| ------------------- | -------------------------------------------------------------- |
-| Matrigel            | Matrix Scaffold<br>Allows Self-renewal & Differentiation       |
-| Tumor Organoids<br> | Derived from Patients → maintain primary tumor characteristics |
-| Engineered          |                                                                |
+| Component            | Function                                                                                                                                 |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Matrigel             | Matrix Scaffold                                                                                                                          |
+| Tumor Organoids      | Allows Self-renewal & Differentiation<br><abbr Title="Cancer Stem Cells">CSCs</abbr> are enriched → ↑ Drug Resistance & Tumor Initiation |
+| Engineered Organoids | Simulates Tumorigenesis from normal stem cell                                                                                            |
+
+**Advantages over 2D Cultures**
+- Tumor Heterogeneity
+- Microenvironment Simulation
+
+**Disadvantages of 3D Spheroid Culture**
+- High Cost & Difficulty to use
+- Shallower Biobank
