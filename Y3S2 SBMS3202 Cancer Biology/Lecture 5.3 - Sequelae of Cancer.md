@@ -21,3 +21,9 @@ Lecture Notes
 	- Chemotherapy (Platinum Drugs): Peripheral Neuropathy
 
 **Treatment of Pain**
+
+| Pain Type           | Treatment                   |
+| ------------------- | --------------------------- |
+| Moderate            | NSAIDs (Aspirin, Ibuprofen) |
+| Severe              | Opioids                     |
+| Due to Tumor Growth |                             |
