@@ -58,6 +58,9 @@ Lecture Notes
 - Multi-clonal → Heterogenous
 - Lack other cells in tumor microenvironment
 	- Immune Cells
+	- Fibroblasts (Production of Tumor Promoting Factor)
+	- Endothelial Cells (Angiogenesis)
+- Genetic Drift & Contamination
 
 **Cancer Cell Line Encyclopedia Project**
 - Online Portal for:
@@ -66,3 +69,13 @@ Lecture Notes
 	- Drug activity
 - Basis of CRISPR-Cas9 Knockout Screening
 	- Use CRISPR-Cas9 to Knockout Genes to observe their importance for cellular function
+
+
+#### **3D Spheroid Culture**
+- Mimics 3D Tumor Structure & Microenvironment
+
+**Components of 3D Spheroid Culture**
+
+| Component | Function |
+| --------- | -------- |
+| Matrigel  |          |
