@@ -51,8 +51,16 @@ Lecture Notes
 **Hypercalcemia**
 - Leads to malfunction in signaling pathways requiring Ca<sup>2+</sup>
 
-| Affected Organ      | Treatment                              |
-| ------------------- | -------------------------------------- |
-| Moderate            | NSAIDs (Aspirin, Ibuprofen)            |
-| Severe              | Opioids                                |
-| Due to Tumor Growth | Palliative Radiotherapy / Chemotherapy |
+| Affected Organ | Symptom                   |
+| -------------- | ------------------------- |
+| Nervous System | Confusion & Coma          |
+| GI             | ↓ Motility & Protection   |
+| Kidney         | Renal Failure & Salt Loss |
+| Heart          | Cardiac Arrhythmias       |
+- Treatments:
+	- Hydration
+	- Calcitonin
+
+
+#### **Immune Complications**
+- 
