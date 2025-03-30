@@ -63,12 +63,12 @@ Lecture Notes
 
 
 #### **Immune Complications**
-- Hematologic Complications, Fever & Infection
+- Hematologic Complications, Infection & Fever
 
 **Hematologic Complications**
-- Loss of Blood Components
+- Loss of Blood Components:
 
-| Deficiency                                               | Symptom                                                                     |
+| Deficiency                                               | Causes                                                                      |
 | -------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Anaemia                                                  | Pro-Inflammatory Cytokines → ↓ RBC Production<br>Autoantibodies against RBC |
 | Leukopenia                                               | Chemotherapy<br>Tumor Infiltration of Bone Marrow                           |
@@ -77,3 +77,13 @@ Lecture Notes
 - Tumor-Induced Thrombosis
 	- Induce Procoagulant & Fibrin to aid Blood Clotting in Metastasis
 
+
+**Infection**
+- Types of Infection
+
+| Infection | Description |
+| --------- | ----------- |
+| Bacterial |             |
+| Fungal    |             |
+|           |             |
+|           |             |
