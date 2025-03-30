@@ -4,6 +4,7 @@ Lecture Notes
 - Pain
 - Metabolic Complications
 - Immune Complications
+- Dermatologic Effects
 
 ---
 #### **Pain**
