@@ -76,6 +76,8 @@ Lecture Notes
 
 **Components of 3D Spheroid Culture**
 
-| Component | Function |
-| --------- | -------- |
-| Matrigel  |          |
+| Component           | Function                                                       |
+| ------------------- | -------------------------------------------------------------- |
+| Matrigel            | Matrix Scaffold<br>Allows Self-renewal & Differentiation       |
+| Tumor Organoids<br> | Derived from Patients → maintain primary tumor characteristics |
+| Engineered          |                                                                |
