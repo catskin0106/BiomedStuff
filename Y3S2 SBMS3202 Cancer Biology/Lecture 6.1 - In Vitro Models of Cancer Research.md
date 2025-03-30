@@ -28,5 +28,7 @@ Lecture Notes
 
 - Applications:
 	- Drug Discovery & Optimization
+		- e.g. Vemurafenib for BRAF<sup>V600E</sup> Late-Stage Melanoma
+	- Cell-Free Screening of Molecular Targets
 
 **Advantages of Cell-Free Models**
