@@ -26,10 +26,10 @@ Lecture Notes
 | 2    | Remaining ATP used by Luciferin to produce light |
 | 3    | Measure brightness to determine Kinase ATP usage |
 
-- Applications:
-	- Drug Discovery & Optimization
-		- e.g. Vemurafenib for BRAF<sup>V600E</sup> Late-Stage Melanoma
-	- Cell-Free Screening of Molecular Targets
+**Applications of Cell-Free Models**
+- Drug Discovery & Optimization
+	- e.g. Vemurafenib for BRAF<sup>V600E</sup> Late-Stage Melanoma
+- Cell-Free Screening of Molecular Targets
 
 **Advantages of Cell-Free Models**
 - Cheap
@@ -38,6 +38,10 @@ Lecture Notes
 
 
 #### **Cancer Cell Lines**
+**Applications of Cell-Free Models**
+- Observe Cell Growth, Migration & Invasion
+	- e.g. <abbr Title="Epithelial-to-Mesenchymal Transition">EMT</abbr>
+- Testing / Modeling Cellular Resistance to Drug
 
 **Advantages of Cancer Cell Lines**
 - Easily genetically manipulated
@@ -46,3 +50,5 @@ Lecture Notes
 - Easily reproduced, cultured & expanded
 - Homogenous
 - Well-developed assay tools & collection method
+
+**Cancer Cell Line Encyclopedia Project**
