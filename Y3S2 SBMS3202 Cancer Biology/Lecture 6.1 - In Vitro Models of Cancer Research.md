@@ -51,6 +51,14 @@ Lecture Notes
 - Homogenous
 - Well-developed assay tools & collection method
 
+**Disadvantages of Cancer Cell Line**
+- Culture Conditions deviate from physiological conditions
+	- Nutrient, O<sub>2</sub> & Drug Accessibility
+	- Mechanical Stress
+- Multi-clonal → Heterogenous
+- Lack other cells in tumor microenvironment
+	- Immune Cells
+
 **Cancer Cell Line Encyclopedia Project**
 - Online Portal for:
 	- Gene dependency, expression & mutation
