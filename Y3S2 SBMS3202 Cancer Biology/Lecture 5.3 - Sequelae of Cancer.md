@@ -8,7 +8,16 @@ Lecture Notes
 ---
 #### **Pain**
 **Causes of Pain**
-- Tumor Growth, Invasion & Metastasis
-- Nociceptor response to Damaging Stimuli
-	- Mechanical
-	- Proton
+- Tumor 
+	- Growth, Invasion & Metastasis
+	- Nociceptor response to Damaging Stimuli
+		- Mechanical
+		- Low pH: Protons
+		- Necrosis: ATP
+		- PG
+- Treatment
+	- Invasive Procedures: Thoracotomy, Mastectomy, Amputation
+	- Radiotherapy: Radionecrosis, Radiation Myelopathy, Mucositis
+	- Chemotherapy (Platinum Drugs): Peripheral Neuropathy
+
+**Treatment of Pain**
