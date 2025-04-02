@@ -17,4 +17,4 @@ Lecture Notes
 | Impaired Adaptive & Innate                       | Partially: Innate, TB                                      | Better for Tumor Survival & Growth                            |
 | NOD-SCID mice with                               | Severely: Innate, TB                                       | Supports <abbr Title="Human Stem Cell">HSC</abbr> Engraftment |
 
-**a**
+**Pros and Cons**
