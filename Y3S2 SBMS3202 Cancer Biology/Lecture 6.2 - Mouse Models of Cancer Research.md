@@ -29,4 +29,14 @@ Lecture Notes
 - <abbr Title="Patient-Derived Xenograph">PDX</abbr>
 	- Direct injection of human tumors 
 		- For similar drug responsiveness in precision medicine
-	- 
+
+
+#### **Immunocompetent Mice**
+
+**Types of Immunocompetent Mice Models**
+
+| Model     | Description                                                                                                     |
+| --------- | --------------------------------------------------------------------------------------------------------------- |
+| Syngeneic | Used in Immune Check                                                                                            |
+| Humanized | CD34<sup>+</sup> <abbr Title="Hematopoietic Stem Cell">HSC</abbr> & Multi-lineage Human Immune Cell Engraftment |
+|           |                                                                                                                 |
