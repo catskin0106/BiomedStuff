@@ -19,3 +19,8 @@ Lecture Notes
 
 
 #### **Major Classes of Hormones**
+
+| Class   |     |
+| ------- | --- |
+| Protein |     |
+|         |     |
