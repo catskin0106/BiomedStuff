@@ -27,4 +27,6 @@ Lecture Notes
 	- Inject metastatic tumors in heterotopic site → Metastasis to organs (e.g. Tail vein → Lungs)
 	- Subcutaneous Injection: No Metastasis
 - <abbr Title="Patient-Derived Xenograph">PDX</abbr>
-	- Direct injection of human tumors
+	- Direct injection of human tumors 
+		- For similar drug responsiveness in precision medicine
+	- 
