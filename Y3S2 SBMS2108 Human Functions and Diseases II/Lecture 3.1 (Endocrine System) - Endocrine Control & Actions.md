@@ -20,7 +20,8 @@ Lecture Notes
 
 #### **Major Classes of Hormones**
 
-| Class   |     |
-| ------- | --- |
-| Protein |     |
-|         |     |
+|                                 Class                                  | Mechanism of Action |
+| :--------------------------------------------------------------------: | ------------------- |
+| Prote<font color=yellow>in</font><br><font size="2">( -in )</font><br> |                     |
+|  Am<font color="yellow">ine</font><br><font size="2">( -ine )</font>   |                     |
+|            Steroids<br><font size="2">( -ol / -one )</font>            |                     |
