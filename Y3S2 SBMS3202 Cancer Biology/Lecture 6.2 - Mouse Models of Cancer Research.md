@@ -41,3 +41,9 @@ Lecture Notes
 | <abbr Title="Genetically Engineered Mice Model">GEMM</abbr> | Gene Knockin & Knockout using CRISPR/Cas9 or Cre-LoxP                                                           |
 
 **Types of Cancer Induction**
+- Chemical
+	- e.g. Colorectal Cancer: <abbr Title="AzOxyMethane-Dextran Sodium Sulfate">AOM-DSS</abbr>
+- Carcinogen
+	- For studying carcinogenesis mechanisms & chemoprevention
+- Genetic: Gene knockin / knockout
+	- Whole body: Simple but may cause <abbr Title="The model will die before dev">embryonic lethality</abbr>
