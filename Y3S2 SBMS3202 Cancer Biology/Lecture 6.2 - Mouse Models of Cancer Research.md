@@ -19,7 +19,7 @@ Lecture Notes
 | Impaired Adaptive & Innate                       | Partially: Innate, TB                                      | Better for Tumor Survival & Growth                            |
 | NOD-SCID mice with                               | Severely: Innate, TB                                       | Supports <abbr Title="Human Stem Cell">HSC</abbr> Engraftment |
 
-**Types of Tumor Injection**
+**Types of Cancer Induction**
 - Orthotopic Injection
 	- Inject tumor cells to organs of origin
 - Primary Tumor / Metastasis
@@ -38,4 +38,6 @@ Lecture Notes
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Syngeneic                                                   | Used in Immune Checkpoint Blockade Therapy                                                                      |
 | Humanized                                                   | CD34<sup>+</sup> <abbr Title="Hematopoietic Stem Cell">HSC</abbr> & Multi-lineage Human Immune Cell Engraftment |
-| <abbr Title="Genetically Engineered Mice Model">GEMM</abbr> |                                                                                                                 |
+| <abbr Title="Genetically Engineered Mice Model">GEMM</abbr> | Gene Knockin & Knockout using CRISPR/Cas9 or Cre-LoxP                                                           |
+
+**Types of Cancer Induction**
