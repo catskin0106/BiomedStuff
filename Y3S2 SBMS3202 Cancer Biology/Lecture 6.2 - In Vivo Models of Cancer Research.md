@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Immunodeficient Mice
 - Immunocompetent Mice
+- Genetically Engineered Mice Model (GEMM)
 
 ---
 #### **Immunodeficient Mice**
