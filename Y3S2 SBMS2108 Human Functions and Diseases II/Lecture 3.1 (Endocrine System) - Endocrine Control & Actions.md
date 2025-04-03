@@ -5,7 +5,7 @@ Lecture Notes
 - Endocrine Interaction with other Chemical Messengers
 - Hormones Classes
 - Stimuli for Hormone Secretion
-- 
+- Hormonal Feedback Control
 
 ---
-#### **Glomerulonephritis**
+#### **Endocrine System**
