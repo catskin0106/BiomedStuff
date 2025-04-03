@@ -9,3 +9,4 @@ Lecture Notes
 
 ---
 #### **Endocrine System**
+- Secretion of hormones into circulation system through capillaries
