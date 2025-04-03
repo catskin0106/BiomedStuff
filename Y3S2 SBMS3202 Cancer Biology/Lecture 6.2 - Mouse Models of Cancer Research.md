@@ -4,10 +4,12 @@ Lecture Notes
 - Immunodeficient Mice
 - Immunocompetent Mice
 - Genetically Engineered Mice Model (GEMM)
+- Comparison between Models
 
 ---
 #### **Immunodeficient Mice**
 - Used for Imaging and Testing Gene Function & Drug Efficacy
+
 **Types of Immunodeficient Mice Models**
 
 | Model                                            | Absent Immune Cells                                        | Description                                                   |
@@ -18,4 +20,11 @@ Lecture Notes
 | Impaired Adaptive & Innate                       | Partially: Innate, TB                                      | Better for Tumor Survival & Growth                            |
 | NOD-SCID mice with                               | Severely: Innate, TB                                       | Supports <abbr Title="Human Stem Cell">HSC</abbr> Engraftment |
 
-**Pros and Cons**
+**Types of Tumor Injection**
+- Orthotopic Injection
+	- Inject tumor cells to organs of origin
+- Primary Tumor / Metastasis
+	- Inject metastatic tumors in heterotopic site → Metastasis to organs (e.g. Tail vein → Lungs)
+	- Subcutaneous Injection: No Metastasis
+- <abbr Title="Patient-Derived Xenograph">PDX</abbr>
+	- Direct injection of human tumors
