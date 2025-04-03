@@ -3,7 +3,6 @@ Lecture Notes
 **Lecture Coverage:**
 - Immunodeficient Mice
 - Immunocompetent Mice
-- Genetically Engineered Mice Model (GEMM)
 - Comparison between Models
 
 ---
@@ -35,8 +34,8 @@ Lecture Notes
 
 **Types of Immunocompetent Mice Models**
 
-| Model     | Description                                                                                                     |
-| --------- | --------------------------------------------------------------------------------------------------------------- |
-| Syngeneic | Used in Immune Check                                                                                            |
-| Humanized | CD34<sup>+</sup> <abbr Title="Hematopoietic Stem Cell">HSC</abbr> & Multi-lineage Human Immune Cell Engraftment |
-|           |                                                                                                                 |
+| Model                                                       | Description                                                                                                     |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Syngeneic                                                   | Used in Immune Checkpoint Blockade Therapy                                                                      |
+| Humanized                                                   | CD34<sup>+</sup> <abbr Title="Hematopoietic Stem Cell">HSC</abbr> & Multi-lineage Human Immune Cell Engraftment |
+| <abbr Title="Genetically Engineered Mice Model">GEMM</abbr> |                                                                                                                 |
