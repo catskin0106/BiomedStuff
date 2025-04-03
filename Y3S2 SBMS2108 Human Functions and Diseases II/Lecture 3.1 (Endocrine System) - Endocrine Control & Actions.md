@@ -9,4 +9,5 @@ Lecture Notes
 
 ---
 #### **Endocrine System**
+**Function of Endocrine System**
 - Secretion of hormones into circulation system through capillaries
