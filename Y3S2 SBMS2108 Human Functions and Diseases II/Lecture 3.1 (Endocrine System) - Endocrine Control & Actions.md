@@ -19,9 +19,10 @@ Lecture Notes
 
 
 #### **Major Classes of Hormones**
+**Mechanism of Actions**
 
-|                                 Class                                  | Mechanism of Action |
-| :--------------------------------------------------------------------: | ------------------- |
-| Prote<font color=yellow>in</font><br><font size="2">( -in )</font><br> | Lipophobic          |
-|  Am<font color="yellow">ine</font><br><font size="2">( -ine )</font>   | Lipophobic          |
-|            Steroids<br><font size="2">( -ol / -one )</font>            | Lipophilic          |
+|                                     Class                                     | Mechanism of Action                                                                                   |
+| :---------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------- |
+|    Prote<font color=yellow>in</font><br><font size="2">( -in )</font><br>     | <br>Lipophobic → Can't cross membrane <br>→ Binds to surface receptors<br>→ Rapid Non-genomic actions |
+| Am<font color="yellow">ine</font> & Thyroid<br><font size="2">( -ine )</font> | ^                                                                                                     |
+|               Steroids<br><font size="2">( -ol / -one )</font>                | Lipophilic → Cross membrane <br>→ Binds to intracellular receptors<br>→ Slow Genomic actions          |
