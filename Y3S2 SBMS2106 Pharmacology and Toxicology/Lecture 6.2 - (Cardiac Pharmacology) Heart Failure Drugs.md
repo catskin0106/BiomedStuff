@@ -24,11 +24,11 @@ Lecture Notes
 **Digoxin**
 - Na<sup>+</sup>/K<sup>+</sup>-ATPase Inhibitor
 
-| Step | Event                                               | Effect                          |
-| ---- | --------------------------------------------------- | ------------------------------- |
-| 1    | Na<sup>+</sup>/K<sup>+</sup>-ATPase Inhibition      | ↑ Intracellular Na<sup>+</sup>  |
-| 2    | ↑ Na<sup>+</sup>/Ca<sup>2+</sup> Exchanger Activity | ↑ Intracellular Ca<sup>2+</sup> |
-| 3    | ↑ Ca<sup>2+</sup> → Positive Inotropic Effect       | ↑ Cardiac Output                |
+| Step | Event                                                                                  | Effect                          |
+| ---- | -------------------------------------------------------------------------------------- | ------------------------------- |
+| 1    | Na<sup>+</sup>/K<sup>+</sup>-ATPase Inhibition                                         | ↑ Intracellular Na<sup>+</sup>  |
+| 2    | ↓ Na<sup>+</sup>/Ca<sup>2+</sup> Exchanger Activity                                    | ↑ Intracellular Ca<sup>2+</sup> |
+| 3    | ↑ Ca<sup>2+</sup> → Positive <abbr Title="Heart Contractility">Inotropic</abbr> Effect | ↑ Cardiac Output                |
 - Parasympathetic Activator
 	- ↑ Acetylcholine from Vagal Fibres → Arrhythmias Relief
 
