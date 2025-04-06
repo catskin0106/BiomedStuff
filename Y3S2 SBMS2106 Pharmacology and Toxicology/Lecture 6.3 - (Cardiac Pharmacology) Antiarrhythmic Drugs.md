@@ -73,7 +73,7 @@ Lecture Notes
 - Blocks L-Type Ca<sup>2+</sup> Calcium Channels → ↓ Ca<sup>2+</sup> Efflux
 	- ↓ SA & AV Depolarization Rate → ↓ HR
 	- ↓ Myocardial Contractility
-- Drug Examples
+- Drug Examples:
 	- Verapamil
 	- Diltiazem
 
