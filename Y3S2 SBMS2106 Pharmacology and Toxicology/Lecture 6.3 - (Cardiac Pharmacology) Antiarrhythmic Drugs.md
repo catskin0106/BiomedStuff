@@ -69,7 +69,7 @@ Lecture Notes
 		- ↑ Risk in Severe Heart Failure Patients
 
 
-#### **Ca²⁺ Channel Blockers**
+#### **Class IV: Ca²⁺ Channel Blockers**
 - Blocks L-Type Ca<sup>2+</sup> Calcium Channels → ↓ Ca<sup>2+</sup> Efflux
 	- ↓ SA & AV Depolarization Rate → ↓ HR
 	- ↓ Myocardial Contractility
