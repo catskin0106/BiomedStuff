@@ -47,19 +47,6 @@ Lecture Notes
 		- Hyperglycemia & Dyslipidemia → Hypertension
 		- Peptic, Liver & Kidney Injury
 
-**Methotrexates (MTX)**
-- Oral / Injection
-- Inhibitor of several nucleotide synthesis enzymes
-	- Suppress Mitosis & Inflammation
-	- Different actions in different leukocytes:
-
-|            Cell Type            |                                              Role                                               |                                                   Significance                                                   |
-| :-----------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-|           <br>T Cell            |         ↑ <abbr Title="Long Intergenic Non-Coding RNA-21">lincRNA-21</abbr> Expression          |                                                        <                                                         |
-|                ^                |                   <abbr Title="Dihydrofolate Reductase">DHFR</abbr> Inhibitor                   | ↓ <abbr Title="Dihydrobiopterin">BH<sub>2</sub></abbr> → <abbr Title="Tetrahydrobiopterin">BH<sub>4</sub></abbr> |
-|            Monocyte             |                   <abbr Title="Dihydrofolate Reductase">DHFR</abbr> Inhibitor                   |               ↓ <abbr Title="Dihydrofolate">DHF</abbr> → <abbr Title="Tetrahydrofolate">TTF</abbr>               |
-| Fibroblast-Like<br>Synoviocytes | <abbr Title="Aminoimidazole-4-Carboxamide Ribonucleotide">AICAR</abbr> Transformylase Inhibitor |           ↑ Intracellular AICAR<br>↑ <abbr Title="Anti-Inflammatory Mediator">Adenosine</abbr> Release           |
-
 **Hydroxychloroquine**
 - ↓ Production of Pro-inflammatory Cytokines
 	- Different actions on different leukocytes:
@@ -78,6 +65,19 @@ Lecture Notes
 		- ↓ NK-Cell Immunoresponses
 	- 5-Amino-Salicylic Acid
 		- Salicylate (COX Inhibitor)
+
+**Methotrexates (MTX)**
+- Oral / Injection
+- Inhibitor of several nucleotide synthesis enzymes
+	- Suppress Mitosis & Inflammation
+	- Different actions in different leukocytes:
+
+|            Cell Type            |                                              Role                                               |                                                   Significance                                                   |
+| :-----------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|           <br>T Cell            |         ↑ <abbr Title="Long Intergenic Non-Coding RNA-21">lincRNA-21</abbr> Expression          |                                                        <                                                         |
+|                ^                |                   <abbr Title="Dihydrofolate Reductase">DHFR</abbr> Inhibitor                   | ↓ <abbr Title="Dihydrobiopterin">BH<sub>2</sub></abbr> → <abbr Title="Tetrahydrobiopterin">BH<sub>4</sub></abbr> |
+|            Monocyte             |                   <abbr Title="Dihydrofolate Reductase">DHFR</abbr> Inhibitor                   |               ↓ <abbr Title="Dihydrofolate">DHF</abbr> → <abbr Title="Tetrahydrofolate">TTF</abbr>               |
+| Fibroblast-Like<br>Synoviocytes | <abbr Title="Aminoimidazole-4-Carboxamide Ribonucleotide">AICAR</abbr> Transformylase Inhibitor |           ↑ Intracellular AICAR<br>↑ <abbr Title="Anti-Inflammatory Mediator">Adenosine</abbr> Release           |
 
 **Leflunomide**
 - Converted to A771726
