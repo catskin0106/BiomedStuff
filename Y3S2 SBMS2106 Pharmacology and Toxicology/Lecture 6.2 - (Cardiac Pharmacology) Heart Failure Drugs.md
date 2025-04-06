@@ -63,11 +63,11 @@ Lecture Notes
 - Aim: ↓ Heart Workload → Easier O<sub>2</sub> Distribution
 - Mechanism:
 
-| Step | Event                                               | Effect                                                     |
-| ---- | --------------------------------------------------- | ---------------------------------------------------------- |
-| 1    | Neprilysin Inhibition                               | ↓ <abbr Title="Natriuretic Peptides">NP</abbr> Degradation |
-| 2    | <abbr Title="↑ Sodium Excretion">Natriuresis</abbr> | ↑ Cardiac Output                                           |
-| ^    | Vasodilation                                        | ↓ Heart Workload                                           |
+| Step | Event                                               | Effect                                                      |
+| ---- | --------------------------------------------------- | ----------------------------------------------------------- |
+| 1    | Neprilysin Inhibition                               | ↑ <abbr Title="Natriuretic Peptides">NP</abbr> Availability |
+| 2    | <abbr Title="↑ Sodium Excretion">Natriuresis</abbr> | ↑ Cardiac Output                                            |
+| ^    | Vasodilation                                        | ↓ Heart Workload                                            |
 
 **SGLT2 Inhibitor**
 - Mechanism:
