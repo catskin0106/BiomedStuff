@@ -7,12 +7,12 @@ Lecture Notes
 ---
 #### **Ischemic Heart Disease**
 
-|   Type    |                          <                          | Pathology                                             | Symptom                                |
-| :-------: | :-------------------------------------------------: | ----------------------------------------------------- | -------------------------------------- |
-|  Chronic  |                    Stable Angina                    | Atherosclerosis                                       | Ischemic Pain during heavy workload    |
-| <br>Acute |                   Unstable Angina                   | Atherosclerosis + Blood Clot                          | Severe Ischemic Pain during idle       |
-|     ^     | Non-ST Elevation <abbr Title="Infarction">MI</abbr> | Partial Coronary Vessel Occlusion<br>→ Infarction     | No ST elevation                        |
-|     ^     |                   ST Elevation MI                   | Full Coronary Vessel Occlusion<br>→ Severe Infarction | Sudden Cardiac Death with ST elevation |
+|     Type      |                          <                          | Pathology                                             | Symptom                                |
+| :-----------: | :-------------------------------------------------: | ----------------------------------------------------- | -------------------------------------- |
+|    Chronic    |                    Stable Angina                    | Atherosclerosis                                       | Ischemic Pain during heavy workload    |
+| <br><br>Acute |                   Unstable Angina                   | Atherosclerosis + Blood Clot                          | Severe Ischemic Pain during idle       |
+|       ^       | Non-ST Elevation <abbr Title="Infarction">MI</abbr> | Partial Coronary Vessel Occlusion<br>→ Infarction     | No ST elevation                        |
+|       ^       |                   ST Elevation MI                   | Full Coronary Vessel Occlusion<br>→ Severe Infarction | Sudden Cardiac Death with ST elevation |
 
 #### **Drugs for Ischemic Heart Disease**
 **O₂ Demand-Supply Balancing Drugs**
