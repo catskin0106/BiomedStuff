@@ -65,10 +65,10 @@ Lecture Notes
 - Suffix: -zosin (e.g. Prazosin, Terazosin & Doxazosin)
 - Mechanisms:
 
-| Step | Event              | Effect                                          |
-| ---- | ------------------ | ----------------------------------------------- |
-| 1    | α1 Blockage        | ↓ α1 Activation by Noradrenaline                |
-| 2    | ↓ Vasoconstriction | Vasodilation & ↓ Peripheral Vascular Resistance |
+| Step               | Event              | Effect                           |
+| ------------------ | ------------------ | -------------------------------- |
+| 1                  | α1 Blockage        | ↓ α1 Activation by Noradrenaline |
+| 2                  | ↓ Sympathetic Tone | ↓ HR                             |
 
 **α2 Agonists**
 - Suffix: -idine (e.g. Clonidine, Rilmenidine)
@@ -78,7 +78,7 @@ Lecture Notes
 | Step | Event              | Effect                                               |
 | ---- | ------------------ | ---------------------------------------------------- |
 | 1    | α2 Activation      | ↓ Noradrenaline Exocytosis from Preganglionic Neuron |
-| 2    | ↓ Sympathetic Tone | ↓ HR                                                 |
+| 2    | ↓ Vasoconstriction | Vasodilation & ↓ Peripheral Vascular Resistance      |
 
 **β Blockers**
 - Main Effect: Blocks β1 Receptors
