@@ -28,8 +28,9 @@ Lecture Notes
 |               Steroids<br><font size="2">( -ol / -one )</font>                | Lipophilic → Cross membrane <br>→ Binds to intracellular receptors<br>→ Slow Genomic actions      |
 **Administration & Circulation**
 - Hormones (Mainly Thyroid & Steroid) can undergo <abbr Title="Plasma Protein Binding">PPB</abbr> in circulation:
-	- Modulate hormone activity
+	- Modulate & Dampen Fluctuations in hormone activity
 	- ↓ Metabolic Clearance → ↑ Half Life
+- 
 
 |                                 Class                                  | Administration | Circulation                                            |
 | :--------------------------------------------------------------------: | -------------- | ------------------------------------------------------ |
