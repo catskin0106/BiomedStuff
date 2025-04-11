@@ -21,7 +21,7 @@ Lecture Notes
 #### **Major Classes of Hormones**
 **Synthesis & Processing**
 
-|                                 Class                                  | Synthesis                                            |                                                                       |
+|                                 Class                                  | Synthesis                                            | Processing                                                            |
 | :--------------------------------------------------------------------: | ---------------------------------------------------- | --------------------------------------------------------------------- |
 | Prote<font color=yellow>in</font><br><font size="2">( -in )</font><br> | <br>Lipophobic <br>→ Can't cross membrane            | <br><br><br>Binds to surface receptors<br>→ Rapid Non-genomic actions |
 |  Am<font color="yellow">ine</font><br><font size="2">( -ine )</font>   | ^                                                    | ^                                                                     |
