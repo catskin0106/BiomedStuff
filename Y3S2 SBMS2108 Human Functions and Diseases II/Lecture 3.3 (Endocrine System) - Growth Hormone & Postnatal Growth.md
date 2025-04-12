@@ -67,5 +67,18 @@ Lecture Notes
 
 #### **Abnormal GH Conditions & Tests**
 **GH Excess**
-- Gigantism
-- Acromegaly
+- ∵ Pituitary Adenoma / Hyperplasia
+	- GH Excess before Linear Growth Cessation → Gigantism
+	- GH Excess after Linear Growth Cessation → Acromegaly
+- Features:
+	- Insulin Resistance & Glucose Intolerance
+	- Cardiovascular Diseases
+	- Mortality
+
+**Tests for GH Excess**
+- Plasma IGF-1
+	- Reflects integrated GH Action
+	- Long Half-life & Relatively Stable level
+- Oral Glucose Tolerance Test
+	- Normal: Glucose suppression → ↓ GH
+	- Acromegaly: Glucose fail to suppress → No ↓ GH
