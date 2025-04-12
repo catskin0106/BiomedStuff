@@ -74,6 +74,10 @@ Lecture Notes
 	- Insulin Resistance & Glucose Intolerance
 	- Cardiovascular Diseases
 	- Mortality
+- Treatment:
+	- Octreotide (Somastatin Receptor Agonist)
+	- Cabergoline (D2 Receptor Agonist)
+	- Pegvisomant (GHR Antagonist)
 
 **Tests for GH Excess**
 - Plasma IGF-1
@@ -82,3 +86,23 @@ Lecture Notes
 - Oral Glucose Tolerance Test
 	- Normal: Glucose suppression → ↓ GH
 	- Acromegaly: Glucose fail to suppress → No ↓ GH
+
+**GH Deficiency**
+- ∵ Hypopituitarism / Pituitary Adenoma
+	- Deficiency / GHR Defects early in life → Dwarfism
+	- Defects later in life → Adult GH Deficiency
+- Features:
+	- Insulin Resistance
+	- ↓ Cardiac Function
+	- Chronic Fatigue
+- Treatment:
+	- Hormone Replacement Therapy
+		- Risk for Cancer / CVC
+
+**Tests for GH Deficiency**
+- Plasma IGF-1
+- GH Production Stimulation Test
+	- Direct Stimulation: GHRH-Arg
+	- Indirect Stimulation: Hypoglycemia (<abbr Title="Insulin Tolerance Test">ITT</abbr> / <abbr Title="Glucagon Stimulation Test">GST</abbr>)
+		- Normal GST: Hyperglycemia → ↑ Insulin → Hypoglycemia → GH ↑
+		- GH Deficiency GST: No GH ↑
