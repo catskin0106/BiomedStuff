@@ -4,6 +4,7 @@ Lecture Notes
 - Thyroid Gland Structure
 - Biosynthesis, Regulation & Modification of Thyroid Hormones
 - Thyroid Hormone Effects
+- Thyroid Gland Diseases
 
 ---
 #### **Thyroid Gland Structure**
@@ -40,4 +41,14 @@ Lecture Notes
 
 
 #### **Thyroid Hormone Effects**
-- Non-genomic (Membrane Receptors) & Genomic (Nuclear Receptors)
+- Both Non-genomic (Membrane Receptors) & Genomic (Nuclear Receptors) Actions
+
+|        Type        | Description                                                                                                                                                                           |
+| :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    <br><br>All     | ↑ Basal Metabolic Rate:<br>→ ↑ ATP Utilization & Mitochondria number, size<br>→ ↑ Glucose uptake, Glycolysis, Glycogenesis & Gluconeogenesis<br>→ ↑ Lipolysis<br>→ ↑ Protein Turnover |
+| <br>Cardiovascular | ↑ Cardiac Output<br>∵ Direct inotropic / chronotropic effect<br>∵ β1 Sympathetic Activation                                                                                           |
+|    Respiratory     | ↑ Respiratory Rate & Minute Ventilation                                                                                                                                               |
+|   Developmental    | Neonatal CNS Maturation<br>Postnatal Bone Maturation & CNS Function                                                                                                                   |
+
+
+#### **Thyroid Gland Diseases**
