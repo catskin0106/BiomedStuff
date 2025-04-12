@@ -3,7 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Calciotropic Organs
 - Calciotropic Hormones in Calcium Homeostasis
-- Hypercalcemia & Hypocalcemia
+- Hypocalcemia & Hypercalcemia
 
 ---
 #### **Calciotropic Organs**
@@ -29,7 +29,7 @@ Lecture Notes
 		- Produced in Kidneys
 	- Calcitonin
 		- Produced in Thyroid Glands Parafollicular Cells
-		- 
+		- Stimulated by ↑ Plasma Ca<sup>2+</sup>
 
 |  Hormone   |     Intestine Absorption     | Renal Reabsorption  |   Bone Resorption   |       Final Effect       |
 | :--------: | :--------------------------: | :-----------------: | :-----------------: | :----------------------: |
@@ -38,4 +38,15 @@ Lecture Notes
 | Calcitonin |              /               | ↓<br>(Excretion ↑)  | ↓<br>(Major Effect) | Plasma Ca<sup>2+</sup> ↓ |
 
 
-#### **Hypercalcemia & Hypocalcemia**
+#### **Hypocalcemia & Hypercalcemia**
+**Hypocalcemia**
+- ↑ Neuromuscular Excitability (Chvostek's & Trousseau's Sign)
+	- ∵ ↓ ECM Charge → Easier Depolarization
+	- → Tetany / Muscle Spasm
+
+**Hypercalcemia**
+- ↓ Neuromuscular Excitability
+	- → Muscle Weakness
+- CNS Malfunction
+	- Impaired Concentration & Memory
+	- Stupor
