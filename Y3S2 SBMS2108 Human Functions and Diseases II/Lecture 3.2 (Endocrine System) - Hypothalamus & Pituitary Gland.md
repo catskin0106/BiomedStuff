@@ -77,11 +77,11 @@ Lecture Notes
 |                 ^                  |    Causes    | Adenoma, Iatrogenic, Pregnancy, <abbr Title="Leads to Lactational Amenorrhea as a natural contraception method">Lactation</abbr>, Macroprolectinemia              |
 **Oxytocin**
 
-|           Properties            |          <           | Description                                                                        |
-| :-----------------------------: | :------------------: | :--------------------------------------------------------------------------------- |
-|          <br>Functions          |     Parturition      | ↑ PG → Myometrium Contraction → Fetus Ejection                                     |
-|                ^                |      Lactation       | Myoepithelium Contraction → Milk Ejection                                          |
-| Regulation<br>(Neuroendocrinal) | Positive<br>Feedback | <abbr Title="Fetus Ejection Reflex">Ferguson Reflex</abbr><br>Milk Ejection Reflex |
+|           Properties            |          <           | Description                                                                                                                                 |
+| :-----------------------------: | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------ |
+|          <br>Functions          |     Parturition      | ↑ PG → Myometrium Contraction → Fetus Ejection                                                                                              |
+|                ^                |      Lactation       | Myoepithelium Contraction → Milk Ejection                                                                                                   |
+| Regulation<br>(Neuroendocrinal) | Positive<br>Feedback | <abbr Title="Fetus Ejection Reflex">Ferguson Reflex</abbr><br>- Cervix sensory neurones detect uterine contractions<br>Milk Ejection Reflex |
 **Galactopoiesis**
 - Maintained by:
 	- ↑ Breast Suckling Frequency → ↑ OT & PRL
