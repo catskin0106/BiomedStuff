@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Thyroid Gland Structure
 - Biosynthesis, Regulation & Modification of Thyroid Hormones
+- Thyroid Hormone Effects
 
 ---
 #### **Thyroid Gland Structure**
@@ -23,11 +24,20 @@ Lecture Notes
 |   Intracellular   |   4   | Endocytosis & Proteolysis to release T3 & T4                                                             |
 **Regulation**
 - Hypothalamic Stimulation
-	- ↑ TRH → ↑ TSH
+	- ↑ <abbr Title="Thyrotropin-Releasing Hormone">TRH</abbr> → ↑ <abbr Title="Thyroid Stimulating Hormone">TSH</abbr>
 - Pituitary Stimulation
 	- TSH-TSHR → Gs & Gq pathways activation
 		- → ↑ Iodide Uptake, GPO & Tg Production
 - Negative Feedback
-	- 
+	- ↑ T3 & T4 → ↓ TRH & TSH
 
 **Extrathyroidal Modification**
+- Activated through 5'-Deiodination from T4 to T3 in Target Cells
+- Controlled by 3 Deiodinases:
+	- Type 1 (<abbr Title="5' (Iodotyrosine farther from COOH end)">Outer Ring</abbr>): Liver, Kidney, Skeletal Muscles & Thyroid
+	- Type 2 (Outer Ring): Pituitary, CNS & Placenta
+	- Type 3 (Inner Ring): T4 to inactive rT3
+
+
+#### **Thyroid Hormone Effects**
+- Non-genomic (Membrane Receptors) & Genomic (Nuclear Receptors)
