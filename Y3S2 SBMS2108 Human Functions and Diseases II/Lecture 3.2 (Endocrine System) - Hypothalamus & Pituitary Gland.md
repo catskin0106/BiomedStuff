@@ -30,18 +30,30 @@ Lecture Notes
 | :--------------------------------------------------------------------: | :----------: | :---------------------------: |
 |                             Gonadotropins                              | Gonadotroph  |             GnRH              |
 |  Thyrotrophin (<abbr Title="Thyroid Stimulating Hormone">TSH</abbr>)   |  Thyrotroph  |              TRH              |
-| Corticotrophin (<abbr Title="Adenocorticotrophic Hormone">ACTH</abbr>) | Corticotroph |              CRH              |
+| Corticotrophin (<abbr Title="Adenocorticotrophic Hormone">ACTH</abbr>) | Corticotroph |           CRH & ADH           |
 |         Somatotrophin (<abbr Title="Growth Hormone">GH</abbr>)         | Somatotroph  |    GHRH v.s. Somatostatin     |
 |                            Prolactin (PRL)                             |  Lactotroph  |         Dopamine (IH)         |
+
+**Prolactin**
 
 
 #### **Structural Similarities of Pituitary Hormones**
 - TSH, FSH, LH & HCG
-	- 
+	- Glycoprotein Heterodimers with different β subunits
 - Growth Hormone-Prolactin Family (GH, PRL)
+	- High homology in A.A. sequence & Disulphide bridge positions
 
 **Partial Agonist / Antagonist Activities**
+- HCG exhibit LH / TSH-like properties
 - LH & HCG both can activate the same G-Protein receptor with 3 pathways
 	- Both activates the steroidogenic pathway (cAMP/PKA)
 	- LH mainly activates proliferate signals (ERK1/2- & AKT-)
 	- HCG mainly progestational
+- GH binds to both GHR & PRLR
+	- PRL only binds to PRLR
+
+**Concentration-Dependent Effects**
+- ↑ Affinity of partial agonist / antagonist in high concentration
+
+**Cross-Reactivity in Hormone Assays**
+- → Inaccurate Results
