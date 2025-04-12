@@ -4,6 +4,7 @@ Lecture Notes
 - GH Function
 - GH Regulation
 - Hormonal Interplay in Postnatal Growth
+- Abnormal GH Conditions & Tests
 
 ---
 #### **GH Function**
@@ -53,3 +54,18 @@ Lecture Notes
 	- ↑ GH / IGF-1 Sensitivity of Target Cell
 
 **Sex Steroids & GHs in Postnatal Growth**
+- Estrogen level spurt corresponds to pubertal growth spurt
+- Favor bone formation & mineralization:
+
+| Hormone             | Function                                                                 |
+| :------------------ | :----------------------------------------------------------------------- |
+| Estrogen Only       | ↑ Pituitary GH Secretion                                                 |
+| Estrogen & Androgen | ↑ Local IGF-1 Synthesis                                                  |
+| <br>Estrogen & GH   | Low Estrogen: Chondrocyte Proliferation → Linear Growth                  |
+| ^                   | High Estrogen: Chondrocyte Terminal Differentiation → Epiphyseal Closure |
+
+
+#### **Abnormal GH Conditions & Tests**
+**GH Excess**
+- Gigantism
+- Acromegaly
