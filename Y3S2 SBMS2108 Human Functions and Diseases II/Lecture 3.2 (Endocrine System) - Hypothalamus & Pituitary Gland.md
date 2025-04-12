@@ -3,8 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Structural Relationship between Hypothalamus & Pituitary Gland
 - Hormones of the Pituitary Gland
-- Stimuli for Hormone Secretion
-- Hormonal Feedback Control
+- Structural Similarities of Pituitary Hormones
 
 ---
 #### **Structural Relationship between Hypothalamus & Pituitary Gland**
@@ -34,3 +33,6 @@ Lecture Notes
 | Corticotrophin (<abbr Title="Adenocorticotrophic Hormone">ACTH</abbr>) | Corticotroph |              CRH              |
 |         Somatotrophin (<abbr Title="Growth Hormone">GH</abbr>)         | Somatotroph  |    GHRH v.s. Somatostatin     |
 |                               Prolactin                                |  Lactotroph  |         Dopamine (IH)         |
+
+
+#### **Structural Similarities of Pituitary Hormones**
