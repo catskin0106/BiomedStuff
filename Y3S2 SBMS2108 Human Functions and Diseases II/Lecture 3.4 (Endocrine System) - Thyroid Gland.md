@@ -64,10 +64,29 @@ Lecture Notes
 	- ↑ Plasma T3 & T4 & Undetectable TSH
 	- Excessive T3/T4 Activity (Hypermetabolism, Tachycardia)
 	- Thyrotoxicosis
+- Treatment:
+	- TPO / Deiodinase Inhibitors
 - e.g. Graves' Disease
-	- Autoimmune Disease where TSH receptor agonist antibodies (TSAb) are produced → Thyroid Gland overstimulation
+	- Autoimmune Disease
+		- TSH receptor agonist antibodies (TSAb) are produced → Thyroid Gland overstimulation
 	- Detection Method: TRAb immunoassay
 		- Assessing patient serum's ability to inhibit TSH from binding to TSHR
 
 **Hypothyroidism**
-- Thyroid gland 
+- Thyroid gland hypoactivity → Underproduction of Thyroid Hormones
+- Symptoms:
+	- ↓ Plasma T3 & T4 & Undetectable TSH
+	- Deficient T3/T4 Activity (Hypometabolism, Bradycardia)
+	- Cretinism in Neonates
+- Treatment:
+	- Synthetic L-T4
+- e.g.:
+	- Hashimoto's Thyroiditis
+		- Autoimmune Disease
+			- Thyroid Gland Destruction by Autoreactive T cells & antibodies against Tg & TPO
+	- Iodine Deficiency
+
+**Tests for Hyperthyroidism & Hypothyroidism**
+- Radioactive Iodine Uptake Test
+	- Hyperthyroidism: ↑ Radioactive Iodine Uptake
+	- Hypothyroidism: ↓ Radioactive Iodine Uptake
