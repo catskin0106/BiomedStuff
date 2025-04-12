@@ -103,3 +103,12 @@ Lecture Notes
 |         ^         | <abbr Title="Binds to V3 Receptors">V3</abbr> | ↑ ACTH Secretion                                                                                                                                                      |
 |  <br>Regulation   |                       ↑                       | ↑ Plasma Osmolality , ↓ BP / Blood Volume                                                                                                                             |
 |         ^         |                       ↓                       | <abbr Title="Atrial Natriuretic Peptide">ANP</abbr>, Alcohol / Coffee Consumption & Negative Feedback                                                                 |
+**Pathology of ADH**
+
+|                          Pathology                          |          Pathophysiology          | Description                                   |
+| :---------------------------------------------------------: | :-------------------------------: | :-------------------------------------------- |
+|         <abbr Title="Diabetes Insipidus">DI</abbr>          | Inadequate / Insensitivity to ADH | Polyuria, Polydipsia & Plasma Hyperosmolarity |
+| <abbr Title="Syndrome of Inappropriate ADH Secretion">SIADH |           Excessive ADH           | Hyponatremia & Water Retention                |
+**Functional Tests for DI**
+- Water Deprivation & <abbr Title="Desmopressin">DDAVP</abbr> Administration
+	- Low urine osmolality & High plasma osmolality: Failure to concentrate urine
