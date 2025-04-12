@@ -3,12 +3,13 @@ Lecture Notes
 **Lecture Coverage:**
 - GH Function
 - GH Regulation
-- 
+- Hormonal Interplay in Postnatal Growth
 
 ---
 #### **GH Function**
 **Role of IGF in GH Function**
-- 
+- Mediates Anabolic, Mitogenic & Growth Promoting Effects of GH
+
 **Fed State**
 
 |     Hormones     |   Effector Organ   | Description                                                             |
@@ -27,3 +28,28 @@ Lecture Notes
 
 
 #### **GH Regulation**
+
+|     Nature      |         <         | Description                      |
+| :-------------: | :---------------: | -------------------------------- |
+| <br>Stimulatory |     Metabolic     | A.A.                             |
+|        ^        |   Physiological   | Puberty, Estrogen, Sleep         |
+| <br>Inhibitory  |     Metabolic     | FFA, Glucose                     |
+|        ^        |   Physiological   | Aging, Hypothyroidism            |
+|        ^        | Negative Feedback | GH (Short-Loop), IGF (Long-Loop) |
+
+
+#### **Hormonal Interplay in Postnatal Growth**
+**Hormones Involved in Postnatal Growth**
+
+|   Stage    | Hormones                                             |
+| :--------: | :--------------------------------------------------- |
+|   Fetal    | IGFs & Insulin                                       |
+|  Neonatal  | GH, IGF-1 & <abbr Title="Triiodothyronine">T3</abbr> |
+| Adolescent | GH, IGF-1 , T3 & Sex Steroids                        |
+
+**T3 & GHs in Postnatal Growth**
+- T3 effect is GH-Dependent
+	- Stimulate Somatotrophs → ↑ GH Synthesis & GHRH Sensitivity
+	- ↑ GH / IGF-1 Sensitivity of Target Cell
+
+**Sex Steroids & GHs in Postnatal Growth**
