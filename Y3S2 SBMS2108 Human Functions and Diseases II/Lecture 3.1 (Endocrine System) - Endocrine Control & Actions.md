@@ -65,3 +65,19 @@ Lecture Notes
 | Hormonal | Hypothalamic-Pituitary-Target Gland Axis                                                           |
 
 **Patterns for Hormone Secretion**
+- Pulsatile
+	- Avoid Target Cell Desensitization / Hormone Receptor Downregulation
+- Circadian Rhythm
+- Monthly / Seasonal / Yearly Cycle
+- Developmental Stages
+
+
+#### **Feedback Control of Hormone Secretion**
+**Negative Feedback Control**
+- Response can suppress Stimulus
+	- Stimulus can be end-organ effect / circulating hormone level
+	- For Homeostatic Control
+
+**Positive Feedback Control**
+- Response can finitely reinforce Stimulus
+	- Positive loop ended by removing original stimulus / limit system response to stimulus
