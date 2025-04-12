@@ -52,3 +52,16 @@ Lecture Notes
 
 
 #### **Thyroid Gland Diseases**
+**Goitre**
+- Overall / Lump Enlargement of thyroid gland
+	- Can be found in Hyper/Eu/Hypo-thyroidism
+- Can be caused by Goitrogens
+	- ↓ Thyroid hormone synthesis by ↓ Iodide uptake / Iodination
+
+**Hyperthyroidism**
+- Thyroid gland hyperactivity → Overproduction of Thyroid Hormones
+- Symptoms:
+	- ↑ Plasma T3 & T4 & Undetectable TSH
+	- Excessive T3/T4 Activity (Hypermetabolism, Tachycardia)
+	- Thyrotoxicosis
+- e.g. Graves' Disease
