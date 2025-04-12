@@ -32,7 +32,16 @@ Lecture Notes
 |  Thyrotrophin (<abbr Title="Thyroid Stimulating Hormone">TSH</abbr>)   |  Thyrotroph  |              TRH              |
 | Corticotrophin (<abbr Title="Adenocorticotrophic Hormone">ACTH</abbr>) | Corticotroph |              CRH              |
 |         Somatotrophin (<abbr Title="Growth Hormone">GH</abbr>)         | Somatotroph  |    GHRH v.s. Somatostatin     |
-|                               Prolactin                                |  Lactotroph  |         Dopamine (IH)         |
+|                            Prolactin (PRL)                             |  Lactotroph  |         Dopamine (IH)         |
 
 
 #### **Structural Similarities of Pituitary Hormones**
+- TSH, FSH, LH & HCG
+	- 
+- Growth Hormone-Prolactin Family (GH, PRL)
+
+**Partial Agonist / Antagonist Activities**
+- LH & HCG both can activate the same G-Protein receptor with 3 pathways
+	- Both activates the steroidogenic pathway (cAMP/PKA)
+	- LH mainly activates proliferate signals (ERK1/2- & AKT-)
+	- HCG mainly progestational
