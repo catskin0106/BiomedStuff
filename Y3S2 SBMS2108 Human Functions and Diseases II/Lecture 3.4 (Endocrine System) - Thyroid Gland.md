@@ -65,3 +65,9 @@ Lecture Notes
 	- Excessive T3/T4 Activity (Hypermetabolism, Tachycardia)
 	- Thyrotoxicosis
 - e.g. Graves' Disease
+	- Autoimmune Disease where TSH receptor agonist antibodies (TSAb) are produced → Thyroid Gland overstimulation
+	- Detection Method: TRAb immunoassay
+		- Assessing patient serum's ability to inhibit TSH from binding to TSHR
+
+**Hypothyroidism**
+- Thyroid gland 
