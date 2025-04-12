@@ -25,6 +25,7 @@ Lecture Notes
 | Glands innervated with<br>Autonomic Neurons | CNS → Autonomic Neurons → <abbr Title="e.g. Adrenal Medulla / Pineal Gland">Glands</abbr> |
 
 #### **Hormones of the Pituitary Gland**
+**Anterior Pituitary Hormones**
 
 |                                Hormones                                |  Cell Type   | Hypothalamic Hormonal Control |
 | :--------------------------------------------------------------------: | :----------: | :---------------------------: |
@@ -33,17 +34,31 @@ Lecture Notes
 | Corticotrophin (<abbr Title="Adenocorticotrophic Hormone">ACTH</abbr>) | Corticotroph |           CRH & ADH           |
 |         Somatotrophin (<abbr Title="Growth Hormone">GH</abbr>)         | Somatotroph  |    GHRH v.s. Somatostatin     |
 |                            Prolactin (PRL)                             |  Lactotroph  |         Dopamine (IH)         |
+**Posterior Pituitary Hormones**
+- Produced by Hypothalamic Neurones & Only Stored in Posterior Pituitary
+	- <abbr Title="Oxytocin">OT</abbr>
+	- ADH
 
 **Prolactin**
 
-|             Properties             |    <     | Description                                                                                                                                                                                       |
-| :--------------------------------: | :------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           <br>Functions            |    <     | Initiate Alveologenesis                                                                                                                                                                           |
-|                 ^                  |    ^     | ↑ Key Transcriptional Drivers for Milk Components <br>→ Promote Secretory Differentiation of Alveoli                                                                                              |
-|             Regulation             |    <     | ↑: TRH, Estrogen, Brest Suckling, Stress<br>↓: Dopamine, Cortisol                                                                                                                                 |
-| <br>Pathology:<br>Hyperprolactemia | Symptoms | Inhibits <abbr Title="GnRH, LH, FSH">Hypothalamic-Pituitary-Gonadal axis</abbr><br>→ Hypogonadism (Infertility / <abbr Title="No Menstruation">Amenorrhea</abbr>)<br>Gynaecomastia / Galactorrhea |
-|                 ^                  |  Causes  | Adenoma, Iatrogenic, Pregnancy, Macroprolectinemia                                                                                                                                                |
-|          Functional Tests          |    <     |                                                                                                                                                                                                   |
+|             Properties             |      <       | Description                                                                                                                                                       |
+| :--------------------------------: | :----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           <br>Functions            |      <       | Initiate Alveologenesis                                                                                                                                           |
+|                 ^                  |      ^       | ↑ Key Transcriptional Drivers for Milk Components <br>→ Promote Secretory Differentiation of Alveoli                                                              |
+|             Regulation             |      <       | ↑: TRH, Estrogen, Brest Suckling, Stress<br>↓: Dopamine, Cortisol                                                                                                 |
+| <br>Pathology:<br>Hyperprolactemia | <br>Symptoms | Gynaecomastia / Galactorrhea                                                                                                                                      |
+|                 ^                  |      ^       | Inhibits <abbr Title="GnRH, LH, FSH">Hypothalamic-Pituitary-Gonadal axis</abbr><br>→ Hypogonadism (Infertility / <abbr Title="No Menstruation">Amenorrhea</abbr>) |
+|                 ^                  |    Causes    | Adenoma, Iatrogenic, Pregnancy, <abbr Title="Leads to Lactational Amenorrhea as a natural contraception method">Lactation</abbr>, Macroprolectinemia              |
+**Oxytocin**
+
+|             Properties             |          <           | Description                                                                                                                                                       |
+| :--------------------------------: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           <br>Functions            |     Parturition      | ↑ PG → Myometrium Contraction → Fetus Expulsion                                                                                                                   |
+|                 ^                  |      Lactation       | Myoepithelium Contraction → Milk Ejection                                                                                                                         |
+|             Regulation             | Positive<br>Feedback |                                                                                                                                                                   |
+| <br>Pathology:<br>Hyperprolactemia |     <br>Symptoms     | Gynaecomastia / Galactorrhea                                                                                                                                      |
+|                 ^                  |          ^           | Inhibits <abbr Title="GnRH, LH, FSH">Hypothalamic-Pituitary-Gonadal axis</abbr><br>→ Hypogonadism (Infertility / <abbr Title="No Menstruation">Amenorrhea</abbr>) |
+|                 ^                  |        Causes        | Adenoma, Iatrogenic, Pregnancy, <abbr Title="Leads to Lactational Amenorrhea as a natural contraception method">Lactation</abbr>, Macroprolectinemia              |
 
 #### **Structural Similarities of Pituitary Hormones**
 - TSH, FSH, LH & HCG
