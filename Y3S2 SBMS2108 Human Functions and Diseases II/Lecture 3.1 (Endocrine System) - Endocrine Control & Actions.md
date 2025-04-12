@@ -21,12 +21,12 @@ Lecture Notes
 #### **Major Classes of Hormones**
 **Synthesis & Processing**
 
-|                                 Class                                  | Synthesis                                            | Processing                                                            |
-| :--------------------------------------------------------------------: | ---------------------------------------------------- | --------------------------------------------------------------------- |
-| Prote<font color=yellow>in</font><br><font size="2">( -in )</font><br> | <br>Lipophobic <br>→ Can't cross membrane            | <br><br><br>Binds to surface receptors<br>→ Rapid Non-genomic actions |
-|  Am<font color="yellow">ine</font><br><font size="2">( -ine )</font>   | ^                                                    | ^                                                                     |
-|               Thyroid<br><font size="2">( -ine )</font>                | Lipophilic but has Iodine <br>→ Can't cross membrane | ^                                                                     |
-|            Steroids<br><font size="2">( -ol / -one )</font>            | Lipophilic<br>→ Can Cross membrane                   | Binds to intracellular receptors<br>→ Slow Genomic actions            |
+|                                 Class                                  | Synthesis                                                                                                             | Processing                                                                                                   |
+| :--------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Prote<font color=yellow>in</font><br><font size="2">( -in )</font><br> | Transcription → Preprohormones<br>→ Signal Sequence Removal → Prohormones<br>→ Enzyme Cleavage → Bioactive Peptide(s) | Peptidase Cleavage:<br><abbr Title="Through S">Protein Folding</abbr>:<br>Glycosylation:<br>Oligomerization: |
+|  Am<font color="yellow">ine</font><br><font size="2">( -ine )</font>   |                                                                                                                       |                                                                                                              |
+|               Thyroid<br><font size="2">( -ine )</font>                | Lipophilic but has Iodine <br>→ Can't cross membrane                                                                  |                                                                                                              |
+|            Steroids<br><font size="2">( -ol / -one )</font>            | Lipophilic<br>→ Can Cross membrane                                                                                    | Binds to intracellular receptors<br>→ Slow Genomic actions                                                   |
 
 **Administration & Circulation**
 - Hormones (Mainly Thyroid & Steroid) can undergo <abbr Title="Plasma Protein Binding">PPB</abbr> in circulation:
