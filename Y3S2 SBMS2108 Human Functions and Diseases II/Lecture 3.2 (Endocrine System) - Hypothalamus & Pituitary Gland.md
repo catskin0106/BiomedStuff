@@ -36,14 +36,14 @@ Lecture Notes
 
 **Prolactin**
 
-|             Properties             |    <     | Description                                                                                          |
-| :--------------------------------: | :------: | :--------------------------------------------------------------------------------------------------- |
-|           <br>Functions            |    <     | Initiate Alveologenesis                                                                              |
-|                 ^                  |    ^     | ↑ Key Transcriptional Drivers for Milk Components <br>→ Promote Secretory Differentiation of Alveoli |
-|             Regulation             |    <     |                                                                                                      |
-| <br>Pathology:<br>Hyperprolactemia | Symptoms |                                                                                                      |
-|                 ^                  |  Causes  |                                                                                                      |
-|          Functional Tests          |    <     |                                                                                                      |
+|             Properties             |    <     | Description                                                                                                                                                                                       |
+| :--------------------------------: | :------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           <br>Functions            |    <     | Initiate Alveologenesis                                                                                                                                                                           |
+|                 ^                  |    ^     | ↑ Key Transcriptional Drivers for Milk Components <br>→ Promote Secretory Differentiation of Alveoli                                                                                              |
+|             Regulation             |    <     | ↑: TRH, Estrogen, Brest Suckling, Stress<br>↓: Dopamine, Cortisol                                                                                                                                 |
+| <br>Pathology:<br>Hyperprolactemia | Symptoms | Inhibits <abbr Title="GnRH, LH, FSH">Hypothalamic-Pituitary-Gonadal axis</abbr><br>→ Hypogonadism (Infertility / <abbr Title="No Menstruation">Amenorrhea</abbr>)<br>Gynaecomastia / Galactorrhea |
+|                 ^                  |  Causes  | Adenoma, Iatrogenic, Pregnancy, Macroprolectinemia                                                                                                                                                |
+|          Functional Tests          |    <     |                                                                                                                                                                                                   |
 
 #### **Structural Similarities of Pituitary Hormones**
 - TSH, FSH, LH & HCG
