@@ -36,6 +36,14 @@ Lecture Notes
 
 **Prolactin**
 
+|             Properties             |    <     | Description                                                                                          |
+| :--------------------------------: | :------: | :--------------------------------------------------------------------------------------------------- |
+|           <br>Functions            |    <     | Initiate Alveologenesis                                                                              |
+|                 ^                  |    ^     | ↑ Key Transcriptional Drivers for Milk Components <br>→ Promote Secretory Differentiation of Alveoli |
+|             Regulation             |    <     |                                                                                                      |
+| <br>Pathology:<br>Hyperprolactemia | Symptoms |                                                                                                      |
+|                 ^                  |  Causes  |                                                                                                      |
+|          Functional Tests          |    <     |                                                                                                      |
 
 #### **Structural Similarities of Pituitary Hormones**
 - TSH, FSH, LH & HCG
