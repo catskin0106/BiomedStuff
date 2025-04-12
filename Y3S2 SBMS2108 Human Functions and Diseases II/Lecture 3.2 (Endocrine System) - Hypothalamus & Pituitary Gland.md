@@ -26,3 +26,11 @@ Lecture Notes
 | Glands innervated with<br>Autonomic Neurons | CNS → Autonomic Neurons → <abbr Title="e.g. Adrenal Medulla / Pineal Gland">Glands</abbr> |
 
 #### **Hormones of the Pituitary Gland**
+
+|                                Hormones                                |  Cell Type   | Hypothalamic Hormonal Control |
+| :--------------------------------------------------------------------: | :----------: | :---------------------------: |
+|                             Gonadotropins                              | Gonadotroph  |             GnRH              |
+|  Thyrotrophin (<abbr Title="Thyroid Stimulating Hormone">TSH</abbr>)   |  Thyrotroph  |              TRH              |
+| Corticotrophin (<abbr Title="Adenocorticotrophic Hormone">ACTH</abbr>) | Corticotroph |              CRH              |
+|         Somatotrophin (<abbr Title="Growth Hormone">GH</abbr>)         | Somatotroph  |    GHRH v.s. Somatostatin     |
+|                               Prolactin                                |  Lactotroph  |         Dopamine (IH)         |
