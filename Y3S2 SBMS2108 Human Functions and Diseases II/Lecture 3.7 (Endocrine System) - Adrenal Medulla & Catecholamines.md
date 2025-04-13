@@ -25,3 +25,8 @@ Lecture Notes
 
 
 #### **Regulation of Catecholamine Biosynthesis & Secretion**
+**Regulation of Biosynthesis**
+- <abbr Title="Tyrosine Hydroxylase">TH</abbr> as Rate Limiting Enzyme
+	- Activated by PKA Phosphorylation under ACh Stimulation
+	- Inhibited by Catecholamines under Negative Feedback
+- 
