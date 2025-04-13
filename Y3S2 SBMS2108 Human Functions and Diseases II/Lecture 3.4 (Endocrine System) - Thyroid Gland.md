@@ -28,9 +28,10 @@ Lecture Notes
 
 |          Stage           |  <  | Description                                                                                                       |
 | :----------------------: | :-: | ----------------------------------------------------------------------------------------------------------------- |
-| Hypothalamic Stimulation |  1  | ↑ <abbr Title="Thyrotropin-Releasing Hormone">TRH</abbr> → ↑ <abbr Title="Thyroid Stimulating Hormone">TSH</abbr> |
-|  Pituitary Stimulation   |  2  | TSH-TSHR → Gs & Gq pathways activation<br>→ ↑ Iodide Uptake, GPO & Tg Production                                  |
-|    Negative Feedback     |  3  | ↑ T3 & T4 → ↓ TRH & TSH                                                                                           |
+| Hypothalamic Stimulation |  1  | ↑ <abbr Title="Thyrotropin-Releasing Hormone">TRH</abbr>                                                          |
+|  Pituitary Stimulation   |  2  | ↑ <abbr Title="Thyrotropin-Releasing Hormone">TRH</abbr> → ↑ <abbr Title="Thyroid Stimulating Hormone">TSH</abbr> |
+|   Thyroid Stimulation    |  3  | TSH-TSHR → Gs & Gq pathways activation<br>→ ↑ Iodide Uptake, GPO & Tg Production                                  |
+|    Negative Feedback     |  4  | ↑ T3 & T4 → ↓ TRH & TSH                                                                                           |
 
 **Extrathyroidal Modification**
 - Activated through 5'-Deiodination from T4 to T3 in Target Cells

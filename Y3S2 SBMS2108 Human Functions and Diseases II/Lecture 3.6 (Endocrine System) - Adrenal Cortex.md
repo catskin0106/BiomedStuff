@@ -16,9 +16,23 @@ Lecture Notes
 
 
 #### **Regulation of Hypothalamic-Pituitary-Adrenal Axis**
+**Regulation by CRH**
+- Follows Pulsatile & Diurnal Patterns
+- Pulsatile Fluctuations in HPA when CRH drive transitions from low to high
+
 |          Stage           |  <  | Description                                                                                                    |
 | :----------------------: | :-: | -------------------------------------------------------------------------------------------------------------- |
 |        Signalling        |  0  | Altered Dark/Light Cycle & <abbr Title="Hypoglycemia / Trauma">Stress</abbr>                                   |
 | Hypothalamic Stimulation |  1  | Parvocellular neurones release <abbr Title="Corticotropin-releasing Hormone">CRH</abbr> into the portal system |
-|  Pituitary Stimulation   |  2  | Anterior Pituitary releases ACTH                                                                               |
-|    Negative Feedback     |  3  |                                                                                                                |
+|  Pituitary Stimulation   |  2  | Anterior Pituitary releases ACTH to Zona Fasciculata                                                           |
+|   Adrenal Stimulation    |  3  | Zona Fasciculata cells produce Cortisol                                                                        |
+|    Negative Feedback     |  4  | Cortisol                                                                                                       |
+
+**Regulation by ADH**
+- Stimulates production of ACTH or Aldosterone depending on production site
+
+|     Production Site      | Magnocellular Neurons | Parvocellular Neurons |
+| :----------------------: | :-------------------: | --------------------- |
+|                          |                       |                       |
+| Hypothalamic Stimulation |                       |                       |
+|  Pituitary Stimulation   |                       |                       |
