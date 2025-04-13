@@ -3,6 +3,8 @@ Lecture Notes
 **Lecture Coverage:**
 - Organization of Adrenal Cortex
 - Regulation of Hypothalamic-Pituitary-Adrenal Axis
+- Functions of Cortisol
+- Cortisol Abnormalities
 
 ---
 #### **Organization of Adrenal Cortex**
@@ -29,9 +31,9 @@ Lecture Notes
 |    Negative Feedback     |  4  | Cortisol                                                                                                       |
 
 **Regulation by ADH**
-- Stimulates production of ACTH or Aldosterone depending on production site
+- ADH Stimulates production of ACTH or Aldosterone depending on production site
 
-|            Production Site             | Magnocellular Neurons |                Parvocellular Neurons                |
+|     Production Site (Hypothalamus)     | Magnocellular Neurons |                Parvocellular Neurons                |
 | :------------------------------------: | :-------------------: | :-------------------------------------------------: |
 |          Receptors Activated           |     Adrenal V1aR      |                   Pituitary V1bR                    |
 |                Effects                 |     ↑ Aldosterone     |                       ↑ ACTH                        |
@@ -39,3 +41,24 @@ Lecture Notes
 
 
 #### **Functions of Cortisol**
+- Alleviate Hypoglycemia & Hypotension
+
+|      Type       | Action                                                                                                                                                  |
+| :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   <br>Direct    | ↑ Gluconeogenesis, Lipolysis & Proteolysis &<br>↓ Glucose Uptake<br>→ ↑ Plasma Glucose                                                                  |
+|  <br>Hormonal   | ↑ Adrenaline & Glucagon Action<br>↓ Insulin Action (↑ Resistance)<br>→ ↑ Plasma Glucose                                                                 |
+| Cardiovascular  | ↑ Vascular sensitivity to vasoconstrictors & ↑ Kidney Na<sup>2+</sup> Reabsorption<br>→ ↑ Blood Pressure                                                |
+|  Immune System  | <abbr Title="↓ NK, T and Antibody">Immunosuppression</abbr> & <abbr Title="↑ Anti-inflammatory & ↓ Pro-inflammatory Cytokines">Anti-inflammation</abbr> |
+| Skeletal System | ↑ Bone Resorption → ↓ Bone Mineralization                                                                                                               |
+
+
+#### **Cortisol Abnormalities**
+**Cortisol Excess: Cushing Syndrome**
+
+|      Type       | Symptoms                                                                                                                                                |
+| :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     Direct      | ↑ Proteolysis → Muscle Wasting                                                                                                                          |
+|  <br>Hormonal   | ↑ Ins<br><br>→ ↑ Plasma Glucose                                                                                                                         |
+| Cardiovascular  | ↑ Vascular sensitivity to vasoconstrictors & ↑ Kidney Na<sup>2+</sup> Reabsorption<br>→ ↑ Blood Pressure                                                |
+|  Immune System  | <abbr Title="↓ NK, T and Antibody">Immunosuppression</abbr> & <abbr Title="↑ Anti-inflammatory & ↓ Pro-inflammatory Cytokines">Anti-inflammation</abbr> |
+| Skeletal System | ↑ Bone Resorption → ↓ Bone Mineralization                                                                                                               |
