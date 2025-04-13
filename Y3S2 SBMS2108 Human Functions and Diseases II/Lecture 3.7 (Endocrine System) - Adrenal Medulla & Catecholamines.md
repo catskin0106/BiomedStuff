@@ -4,6 +4,7 @@ Lecture Notes
 - Adrenal Medulla Structure
 - Effects of Catecholamines
 - Regulation of Catecholamine Biosynthesis & Secretion
+- Medullary Abnormalities
 
 ---
 #### **Adrenal Medulla Structure & Function**
@@ -41,4 +42,13 @@ Lecture Notes
 	- Medullary Arterioles
 
 
-#### ****
+#### **Medullary Abnormalities**
+**Pheochromocytoma**
+- Chromaffin Cell Tumors in Adrenal Medulla
+- Symptoms due to high plasma Adrenaline:
+	- High BP & HR
+	- Excessive Sweating
+- Biochemical Test:
+	- Measurement of Adrenaline Metabolites:
+		- Metanephrines
+		- Vanillymandelic Acid
