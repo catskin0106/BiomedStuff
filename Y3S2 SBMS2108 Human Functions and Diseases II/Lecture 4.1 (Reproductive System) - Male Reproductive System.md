@@ -2,7 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Key Organs in the Male Reproductive System
-- Sperm Composition
+- Semen Composition & Spermatogenesis
 
 ---
 #### **Key Organs in the Male Reproductive System**
@@ -20,19 +20,35 @@ Lecture Notes
 
 **Testis Compartments**
 
-| Compartment      | Interstitial Space                                      | Intratubular Space                                               |
-| ---------------- | ------------------------------------------------------- | ---------------------------------------------------------------- |
+|   Compartment    | Interstitial Space                                      | Seminiferous Tubule                                              |
+| :--------------: | ------------------------------------------------------- | ---------------------------------------------------------------- |
 | Major Cell Types | Leydig Cells                                            | Sertoli Cells                                                    |
 | Minor Cell Types | Peritubular Myoid Cells<br>Blood Vessels & Immune Cells | Germ Cells                                                       |
-| Function         | Endocrine: Steroidogenesis                              | Exocrine: Spermatogenesis                                        |
+|     Function     | Endocrine: Steroidogenesis                              | Exocrine: Spermatogenesis                                        |
 | Trophic Hormone  | LH                                                      | FSH                                                              |
 | Gonadal Hormone  | Testosterone                                            | Estradiol, <abbr Title="Dihydrotestosterone">DHT</abbr>, Inhibin |
 - Roles of Leydig Cells & Sertoli Cells:
 
-|           Roles            | Leydig Cells                               | Sertoli Cells                                                                                                                                                    |
-| :------------------------: | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       <br>Endocrine        | LH Stimulation<br>→ Testosterone Synthesis | FSH Stimulation<br>→ Testosterone Conversion to DHT                                                                                                              |
-|             ^              | Aromatase: Testosterone → Estradiol        | <                                                                                                                                                                |
-| Spermatogenesis<br>Support |                                            | Physical, Nutritional & Trophic Support<br>Form Blood-Testis Barrier for Immunity<br>Guide Sperm Migration & Spermiation<br>Phagocytosis of Apoptotic Germ Cells |
-|                            |                                            |                                                                                                                                                                  |
-|                            |                                            |                                                                                                                                                                  |
+|             Roles              | Leydig Cells                               | Sertoli Cells                                       |
+| :----------------------------: | ------------------------------------------ | --------------------------------------------------- |
+|         <br>Endocrine          | LH Stimulation<br>→ Testosterone Synthesis | FSH Stimulation<br>→ Testosterone Conversion to DHT |
+|               ^                | Aromatase: Testosterone → Estradiol        | <                                                   |
+| <br>Spermatogenesis<br>Support | /                                          | Physical, Nutritional & Trophic Support             |
+|               ^                | ^                                          | Form Blood-Testis Barrier for Immunity              |
+|               ^                | ^                                          | Guide Sperm Migration & Spermiation                 |
+|               ^                | ^                                          | Phagocytosis of Apoptotic Germ Cells                |
+
+
+#### **Semen Composition & Spermatogenesis**
+- Cellular Component from Seminiferous Tubules
+- Acellular Component from Accessory Glands
+
+**Spermatogenesis**
+
+|      Stage      | Description                                                                                                                                               |
+| :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     Mitotic     | Spermatogonia → Stem Cells & Progenies                                                                                                                    |
+|     Meiotic     | Primary Spermatocytes undergo <abbr Title="Crossing Over occurs">1st</abbr> & <abbr Title="Reduction Division into Haploids">2nd</abbr> Meiotic Divisions |
+| Spermatogenesis |                                                                                                                                                           |
+|   Spermiation   |                                                                                                                                                           |
+|                 |                                                                                                                                                           |
