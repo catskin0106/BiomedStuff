@@ -76,4 +76,19 @@ Lecture Notes
 - Investigation:
 	- Late night salivary test & 24h free cortisol test
 
+**Hypoaldosteronism**
+- Causes:
+	- Hyporeninemic (Primary): <abbr Title="Diabetes & Nephritis">Kidney Diseases</abbr>
+	- Hypereninemic (Secondary): Primary Adrenal Insufficiency
+- Symptoms:
+	- ↓ Na<sup>+</sup> Reabsorption & K<sup>+</sup> Excretion → Hyponatremia & Hyperkalemia
+	- ↓ H<sup>+</sup> Excretion → Metabolic Acidosis
+
 **Adrenal Insufficiency**
+- Types:
+
+| Type      | Deficient Organ | Affected Hormones                | Symptoms |
+| --------- | --------------- | -------------------------------- | -------- |
+| Primary   | Adrenal Cortex  | Cortisol, Aldosterone & Androgen |          |
+| Secondary | Pituitary Gland | Cortisol & Androgen              |          |
+| Tertiary  | Hypothalamus    | Cortisol & Androgen              |          |
