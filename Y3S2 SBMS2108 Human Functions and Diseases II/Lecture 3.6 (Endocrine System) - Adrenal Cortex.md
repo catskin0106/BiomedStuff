@@ -31,8 +31,11 @@ Lecture Notes
 **Regulation by ADH**
 - Stimulates production of ACTH or Aldosterone depending on production site
 
-|     Production Site      | Magnocellular Neurons | Parvocellular Neurons |
-| :----------------------: | :-------------------: | --------------------- |
-|                          |                       |                       |
-| Hypothalamic Stimulation |                       |                       |
-|  Pituitary Stimulation   |                       |                       |
+|            Production Site             | Magnocellular Neurons |                Parvocellular Neurons                |
+| :------------------------------------: | :-------------------: | :-------------------------------------------------: |
+|          Receptors Activated           |     Adrenal V1aR      |                   Pituitary V1bR                    |
+|                Effects                 |     ↑ Aldosterone     |                       ↑ ACTH                        |
+| Negative Feedback <br>on ADH Synthesis |          Yes          | Yes<br>Also increases V1bR Expression & Sensitivity |
+
+
+#### **Functions of Cortisol**
