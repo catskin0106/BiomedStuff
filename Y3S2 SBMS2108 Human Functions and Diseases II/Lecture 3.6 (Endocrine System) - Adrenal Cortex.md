@@ -4,7 +4,8 @@ Lecture Notes
 - Organization of Adrenal Cortex
 - Regulation of Hypothalamic-Pituitary-Adrenal Axis
 - Functions of Cortisol
-- Cortisol Abnormalities
+- Functions of Aldosterone
+- Adrenal Abnormalities
 
 ---
 #### **Organization of Adrenal Cortex**
@@ -52,13 +53,24 @@ Lecture Notes
 | Skeletal System | ↑ Bone Resorption → ↓ Bone Mineralization                                                                                                               |
 
 
-#### **Cortisol Abnormalities**
+#### **Functions of Aldosterone**
+sad
+
+#### **Adrenal Abnormalities**
 **Cortisol Excess: Cushing Syndrome**
+- Causes:
+	- High ACTH from Adenoma
+	- Iatrogenic
+- Symptoms:
 
 |      Type       | Symptoms                                                                                                                                                |
 | :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     Direct      | ↑ Proteolysis → Muscle Wasting                                                                                                                          |
-|  <br>Hormonal   | ↑ Ins<br><br>→ ↑ Plasma Glucose                                                                                                                         |
-| Cardiovascular  | ↑ Vascular sensitivity to vasoconstrictors & ↑ Kidney Na<sup>2+</sup> Reabsorption<br>→ ↑ Blood Pressure                                                |
+|    Hormonal     | ↑ Chronic Insulin Resistance                                                                                                                            |
+| Cardiovascular  | ↑ Vascular sensitivity to vasoconstrictors & ↑ Kidney Na<sup>2+</sup> Reabsorption<br>→ ↑ Hypertension                                                  |
 |  Immune System  | <abbr Title="↓ NK, T and Antibody">Immunosuppression</abbr> & <abbr Title="↑ Anti-inflammatory & ↓ Pro-inflammatory Cytokines">Anti-inflammation</abbr> |
-| Skeletal System | ↑ Bone Resorption → ↓ Bone Mineralization                                                                                                               |
+| Skeletal System | ↑ Bone Resorption → Osteoporosis                                                                                                                        |
+- Investigation:
+	- Late night salivary test & 24h free cortisol test
+
+**Adrenal Insufficiency**
