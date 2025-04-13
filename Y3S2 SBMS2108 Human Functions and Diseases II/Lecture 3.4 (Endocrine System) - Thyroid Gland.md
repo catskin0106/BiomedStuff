@@ -24,13 +24,13 @@ Lecture Notes
 |         ^         |   3   | 2 Iodotyrosine → Iodothyronine                                                                           |
 |   Intracellular   |   4   | Endocytosis & Proteolysis to release T3 & T4                                                             |
 **Regulation**
-- Hypothalamic Stimulation
-	- ↑ <abbr Title="Thyrotropin-Releasing Hormone">TRH</abbr> → ↑ <abbr Title="Thyroid Stimulating Hormone">TSH</abbr>
-- Pituitary Stimulation
-	- TSH-TSHR → Gs & Gq pathways activation
-		- → ↑ Iodide Uptake, GPO & Tg Production
-- Negative Feedback
-	- ↑ T3 & T4 → ↓ TRH & TSH
+- Hypothalamic-Pituitary-Thyroid Axis
+
+|          Stage           |  <  | Description                                                                                                       |
+| :----------------------: | :-: | ----------------------------------------------------------------------------------------------------------------- |
+| Hypothalamic Stimulation |  1  | ↑ <abbr Title="Thyrotropin-Releasing Hormone">TRH</abbr> → ↑ <abbr Title="Thyroid Stimulating Hormone">TSH</abbr> |
+|  Pituitary Stimulation   |  2  | TSH-TSHR → Gs & Gq pathways activation<br>→ ↑ Iodide Uptake, GPO & Tg Production                                  |
+|    Negative Feedback     |  3  | ↑ T3 & T4 → ↓ TRH & TSH                                                                                           |
 
 **Extrathyroidal Modification**
 - Activated through 5'-Deiodination from T4 to T3 in Target Cells
