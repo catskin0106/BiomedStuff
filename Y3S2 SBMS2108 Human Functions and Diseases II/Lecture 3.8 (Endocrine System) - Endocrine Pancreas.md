@@ -17,3 +17,16 @@ Lecture Notes
 
 
 #### **Control of Insulin & Glucagon Secretion**
+**Stimulation**
+
+|         Factor         | Insulin (β cells)                                                                                                                                                                                | Glucagon (α cells) |
+| :--------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| <br><br>Plasma Glucose | Hyperglycemia                                                                                                                                                                                    | Hypoglycemia       |
+|           ^            | → Metabolism & ATP level change<br>→ ATP Sensitive-K<sup>+</sup> Channel Closure<br>→ ↑ Intracellular K<sup>+</sup> & Membrane Depolarization<br>→ ↑ Ca<sup>2+</sup> Influx & Hormone Exocytosis | <                  |
+|      Plasma A.A.       |                                                                                                                                                                                                  |                    |
+|  Parasympathetic Tone  |                                                                                                                                                                                                  |                    |
+|    GIP Potentiation    |                                                                                                                                                                                                  |                    |
+
+
+**Inhibition**
+
