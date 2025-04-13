@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Key Organs in the Male Reproductive System
 - Semen Composition & Spermatogenesis
+- Control of Erection & Ejaculation
 
 ---
 #### **Key Organs in the Male Reproductive System**
@@ -45,10 +46,22 @@ Lecture Notes
 
 **Spermatogenesis**
 
-|      Stage      | Description                                                                                                                                               |
-| :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     Mitotic     | Spermatogonia → Stem Cells & Progenies                                                                                                                    |
-|     Meiotic     | Primary Spermatocytes undergo <abbr Title="Crossing Over occurs">1st</abbr> & <abbr Title="Reduction Division into Haploids">2nd</abbr> Meiotic Divisions |
-| Spermatogenesis |                                                                                                                                                           |
-|   Spermiation   |                                                                                                                                                           |
-|                 |                                                                                                                                                           |
+|          Stage          | Description                                                                                                                                               |
+| :---------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         Mitotic         | Spermatogonia → Stem Cells & Progenies                                                                                                                    |
+|         Meiotic         | Primary Spermatocytes undergo <abbr Title="Crossing Over occurs">1st</abbr> & <abbr Title="Reduction Division into Haploids">2nd</abbr> Meiotic Divisions |
+| <br><br>Spermatogenesis | Conversion of Spermatid into Spermatozoa:                                                                                                                 |
+|            ^            | Acrosome Formation <br>→ Nuclear Polarization & Condensation<br>→ Flagellum Development<br>→ Cytoplasmic Reduction                                        |
+|       Spermiation       | Breakage of <abbr Title="Adhesion Junction between Sertoli cells & Spermatozoa">Ectoplasmic Specialization</abbr><br>→ Release of Spermatozoa into Lumen  |
+
+**Accessory Glands and Semen Components**
+- Secreted by Epithelial Cells
+
+|     Secretion      | Seminal Vesicles                                                                                      | Prostate                                                                                                                                   | Cowper's Gland                                |
+| :----------------: | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
+|   Energy Source    | Fructose                                                                                              | Citrate                                                                                                                                    |                                               |
+|   Sperm Motility   | Prostaglandin                                                                                         | Zinc & Spermine                                                                                                                            |                                               |
+| Conception Support | Semenogelins<br>→ Semen <abbr Title="Longer duration in Female Reproductive Tract">Coagulation</abbr> |                                                                                                                                            | Alkaline ions<br>→ Neutralize Vaginal Acidity |
+|     Lubricant      |                                                                                                       | Kallikreins (<abbr Title="Prostate Specific Antigen">PSA</abbr>, <abbr Title="Prostate Acid Phosphate">PAP</abbr>)<br>→ Semen Liquefaction | Mucin                                         |
+
+
