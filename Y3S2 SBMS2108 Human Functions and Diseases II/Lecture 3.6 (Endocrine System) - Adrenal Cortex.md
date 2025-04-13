@@ -18,6 +18,7 @@ Lecture Notes
 #### **Regulation of Hypothalamic-Pituitary-Adrenal Axis**
 |          Stage           |  <  | Description |
 | :----------------------: | :-: | ----------- |
-| Hypothalamic Stimulation |  1  | Alter       |
+|        Signalling        |  0  |             |
+| Hypothalamic Stimulation |  1  |             |
 |  Pituitary Stimulation   |  2  |             |
 |    Negative Feedback     |  3  |             |
