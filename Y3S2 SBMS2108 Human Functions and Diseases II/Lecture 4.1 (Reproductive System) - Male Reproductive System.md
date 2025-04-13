@@ -4,6 +4,7 @@ Lecture Notes
 - Key Organs in the Male Reproductive System
 - Semen Composition & Spermatogenesis
 - Control of Erection & Ejaculation
+- Hormonal Control in the Hypothalamus-Pituitary-Testicular Axis
 
 ---
 #### **Key Organs in the Male Reproductive System**
@@ -67,8 +68,20 @@ Lecture Notes
 
 #### **Control of Erection & Ejaculation**
 **Control of Erection**
-- Flaccid: Helicine Arteries Contraction → 
+- Flaccid: Helicine Arteries Contraction → ↓ Blood Flow into Cavernous Spaces
 
-| Stage                      | Description |
-| -------------------------- | ----------- |
-| Parasympathetic Activation |             |
+| Stage                      | Description                                                                                                                  |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Parasympathetic Activation | Neuron ↑ <abbr Title="Nitric Oxide">NO</abbr> & cGMP                                                                         |
+| Vasodilation               | Blood flow into Cavernous Spaces                                                                                             |
+| <br>Vein Blockage          | Engorged Tissue press the veins against outer fascia<br>& Muscle Contraction from Somatic Stimulation<br>→ ↓ Venous Drainage |
+
+**Control of Ejaculation**
+
+| Stage         | Description                                                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Emission      | Peristaltic Contractions of Vas Deferens Muscularis<br>→ Drive Semen into Prostatic Urethra                              |
+| <br>Expulsion | Coordinated Contraction & Relaxation of Pelvic Muscles:<br>- Bulbospongiosus<br>- Internal & External Urethral Sphincter |
+
+
+#### **Hormonal Control in the Hypothalamus-Pituitary-Testicular Axis**
