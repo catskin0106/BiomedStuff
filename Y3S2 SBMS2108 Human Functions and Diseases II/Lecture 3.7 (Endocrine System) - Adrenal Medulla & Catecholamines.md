@@ -33,4 +33,12 @@ Lecture Notes
 	- Transcription Induced by Activated Glucocorticoid Receptors as <abbr Title="Transcriptional Factors">TF</abbr>s
 
 **Regulation of Secretion**
-- 
+- Chromaffin Cell Muscarinic Receptor Activation → Depolarization → Ca<sup>2+</sup> Influx → Catecholamine Exocytosis
+- Constitutive Secretory Pathway
+- <abbr Title="Towards Organ Centre">Centripetal</abbr> Blood Flow
+	- From Cortex-Medulla Junction Sinusoids
+		- Allows Cortisol from Cortex to induce PMNT Transcription
+	- Medullary Arterioles
+
+
+#### ****
