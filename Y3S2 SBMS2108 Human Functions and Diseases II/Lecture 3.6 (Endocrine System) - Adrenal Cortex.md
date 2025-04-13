@@ -1,14 +1,14 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Organization of Adrenal Cortex
+- Adrenal Cortex Structure
 - Regulation of Hypothalamic-Pituitary-Adrenal Axis
 - Functions of Cortisol
 - Functions of Aldosterone
 - Adrenal Abnormalities
 
 ---
-#### **Organization of Adrenal Cortex**
+#### **Adrenal Cortex Structure**
 - Steroid-secreting Endocrine Gland above the Kidney
 
 |       Zone       | Major Hormone |                       Regulated by                        |
@@ -87,8 +87,14 @@ Lecture Notes
 **Adrenal Insufficiency**
 - Types:
 
-| Type      | Deficient Organ | Affected Hormones                | Symptoms |
-| --------- | --------------- | -------------------------------- | -------- |
-| Primary   | Adrenal Cortex  | Cortisol, Aldosterone & Androgen |          |
-| Secondary | Pituitary Gland | Cortisol & Androgen              |          |
-| Tertiary  | Hypothalamus    | Cortisol & Androgen              |          |
+| Type      | Deficient Organ | Affected Hormones                    |
+| --------- | --------------- | ------------------------------------ |
+| Primary   | Adrenal Cortex  | Cortisol, Aldosterone & Androgen     |
+| Secondary | Pituitary Gland | ACTH → Cortisol & Androgen           |
+| Tertiary  | Hypothalamus    | CRH/ADH → ACTH → Cortisol & Androgen |
+- Symptoms of Primary Adrenal Insufficiency:
+	- ↑ ACTH → Hyperpigmentation
+	- ↓ Cortisol → Hypotension Hypoglycemia
+- Stimulation Test: <abbr Title="Synthetic ACTH">Synacthen</abbr> Stimulation Test → Test Cortisol Production through Plasma Cortisol
+	- Secondary / Tertiary: Subnormal ↑ Cortisol
+	- Primary: Nearly no ↑ Cortisol
