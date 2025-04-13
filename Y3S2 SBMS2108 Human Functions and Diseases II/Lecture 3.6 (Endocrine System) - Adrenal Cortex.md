@@ -54,7 +54,10 @@ Lecture Notes
 
 
 #### **Functions of Aldosterone**
-sad
+- Secretion stimulated by Angiotensin II, K<sup>+</sup> & ACTH
+- Function: ↑ Renal ENaC & Na<sup>+</sup>/ K<sup>+</sup>-ATPase
+	- → ↑ Na<sup>+</sup> Reabsorption & K<sup>+</sup> & H<sup>+</sup> Excretion
+	- Regulation of ECF Ionic Concentration, Volume & Blood Pressure
 
 #### **Adrenal Abnormalities**
 **Cortisol Excess: Cushing Syndrome**
@@ -67,7 +70,7 @@ sad
 | :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     Direct      | ↑ Proteolysis → Muscle Wasting                                                                                                                          |
 |    Hormonal     | ↑ Chronic Insulin Resistance                                                                                                                            |
-| Cardiovascular  | ↑ Vascular sensitivity to vasoconstrictors & ↑ Kidney Na<sup>2+</sup> Reabsorption<br>→ ↑ Hypertension                                                  |
+| Cardiovascular  | ↑ Vascular sensitivity to vasoconstrictors & ↑ Kidney Na<sup>+</sup> Reabsorption<br>→ ↑ Hypertension                                                   |
 |  Immune System  | <abbr Title="↓ NK, T and Antibody">Immunosuppression</abbr> & <abbr Title="↑ Anti-inflammatory & ↓ Pro-inflammatory Cytokines">Anti-inflammation</abbr> |
 | Skeletal System | ↑ Bone Resorption → Osteoporosis                                                                                                                        |
 - Investigation:
