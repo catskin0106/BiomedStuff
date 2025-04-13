@@ -29,4 +29,8 @@ Lecture Notes
 - <abbr Title="Tyrosine Hydroxylase">TH</abbr> as Rate Limiting Enzyme
 	- Activated by PKA Phosphorylation under ACh Stimulation
 	- Inhibited by Catecholamines under Negative Feedback
+- <abbr Title="Phenyl-Ethanolamine N-Methyl Transferase">PNMT</abbr>: Noradrenaline → Adrenaline
+	- Transcription Induced by Activated Glucocorticoid Receptors as <abbr Title="Transcriptional Factors">TF</abbr>s
+
+**Regulation of Secretion**
 - 
