@@ -16,9 +16,9 @@ Lecture Notes
 
 
 #### **Regulation of Hypothalamic-Pituitary-Adrenal Axis**
-|          Stage           |  <  | Description |
-| :----------------------: | :-: | ----------- |
-|        Signalling        |  0  |             |
-| Hypothalamic Stimulation |  1  |             |
-|  Pituitary Stimulation   |  2  |             |
-|    Negative Feedback     |  3  |             |
+|          Stage           |  <  | Description                                                                                                    |
+| :----------------------: | :-: | -------------------------------------------------------------------------------------------------------------- |
+|        Signalling        |  0  | Altered Dark/Light Cycle & <abbr Title="Hypoglycemia / Trauma">Stress</abbr>                                   |
+| Hypothalamic Stimulation |  1  | Parvocellular neurones release <abbr Title="Corticotropin-releasing Hormone">CRH</abbr> into the portal system |
+|  Pituitary Stimulation   |  2  | Anterior Pituitary releases ACTH                                                                               |
+|    Negative Feedback     |  3  |                                                                                                                |
