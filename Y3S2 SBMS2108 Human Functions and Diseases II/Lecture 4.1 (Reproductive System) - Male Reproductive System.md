@@ -65,3 +65,10 @@ Lecture Notes
 |     Lubricant      |                                                                                                       | Kallikreins (<abbr Title="Prostate Specific Antigen">PSA</abbr>, <abbr Title="Prostate Acid Phosphate">PAP</abbr>)<br>→ Semen Liquefaction | Mucin                                         |
 
 
+#### **Control of Erection & Ejaculation**
+**Control of Erection**
+- Flaccid: Helicine Arteries Contraction → 
+
+| Stage                      | Description |
+| -------------------------- | ----------- |
+| Parasympathetic Activation |             |
