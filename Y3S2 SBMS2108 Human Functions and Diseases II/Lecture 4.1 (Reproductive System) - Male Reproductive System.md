@@ -5,6 +5,7 @@ Lecture Notes
 - Semen Composition & Spermatogenesis
 - Control of Erection & Ejaculation
 - Hormonal Control in the Hypothalamus-Pituitary-Testicular Axis
+- Temperature Control for Spermatogenesis
 
 ---
 #### **Key Organs in the Male Reproductive System**
@@ -70,11 +71,11 @@ Lecture Notes
 **Control of Erection**
 - Flaccid: Helicine Arteries Contraction → ↓ Blood Flow into Cavernous Spaces
 
-| Stage                      | Description                                                                                                                  |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+|           Stage            | Description                                                                                                                  |
+| :------------------------: | ---------------------------------------------------------------------------------------------------------------------------- |
 | Parasympathetic Activation | Neuron ↑ <abbr Title="Nitric Oxide">NO</abbr> & cGMP                                                                         |
-| Vasodilation               | Blood flow into Cavernous Spaces                                                                                             |
-| <br>Vein Blockage          | Engorged Tissue press the veins against outer fascia<br>& Muscle Contraction from Somatic Stimulation<br>→ ↓ Venous Drainage |
+|        Vasodilation        | Blood flow into Cavernous Spaces                                                                                             |
+|     <br>Vein Blockage      | Engorged Tissue press the veins against outer fascia<br>& Muscle Contraction from Somatic Stimulation<br>→ ↓ Venous Drainage |
 
 **Control of Ejaculation**
 
@@ -86,10 +87,28 @@ Lecture Notes
 
 #### **Hormonal Control in the Hypothalamus-Pituitary-Testicular Axis**
 
-|           Stage            |   <   | Description                                                                  |
-| :------------------------: | :---: | ---------------------------------------------------------------------------- |
-|  Hypothalamic Stimulation  |   1   | Pulsatile GnRH<br>- Higher frequency                                         |
-|   Pituitary Stimulation    |   2   | LH → Leydig Cells<br>FSH → Sertoli Cells                                     |
-| <br>Testicular Stimulation | <br>3 | LH on Leydig Cells → Androgen                                                |
-|             ^              |   ^   | FSH & Androgen on Sertoli Cells → Spermatogenesis<br>Sertoli Cells → Inhibin |
-|     Negative Feedback      |   4   | Androgen & Estrogen → ↓ GnRH, LH & FSH<br>Inhibin → ↓ FSH                    |
+|            Stage             |   <   | Description                                                                        |
+| :--------------------------: | :---: | ---------------------------------------------------------------------------------- |
+| <br>Hypothalamic Stimulation |   1   | Pulsatile GnRH<br>- Higher frequency (1/hr): LH<br>- Lower frequency (1/3 hr): FSH |
+|    Pituitary Stimulation     |   2   | LH → Leydig Cells<br>FSH → Sertoli Cells                                           |
+|  <br>Testicular Stimulation  | <br>3 | LH on Leydig Cells → Androgen                                                      |
+|              ^               |   ^   | FSH & Androgen on Sertoli Cells → Spermatogenesis<br>Sertoli Cells → Inhibin       |
+|      Negative Feedback       |   4   | Androgen & Estrogen → ↓ GnRH, LH & FSH<br>Inhibin → ↓ FSH                          |
+
+**Effects of Androgen**
+- E.g. Testosterone
+
+|    Type    | Action                                                                                                                     |
+| :--------: | -------------------------------------------------------------------------------------------------------------------------- |
+| Androgenic | Spermatogenesis Initiation & Maintenance<br>Development of Sexual Organs, Accessory Organs & Secondary Sex Characteristics |
+|  Anabolic  | ↑ Erythropoietin → ↑ RBC<br>↑ LDL                                                                                          |
+
+**Effects of Estrogen**
+- Libido & Erectile & Spermatogenic Function
+- Bone mineralization → Organ Integrity
+
+
+#### **Temperature Control for Spermatogenesis**
+- Maintained constantly lower than core body temperature (32-35°C):
+	- Pampiniform Plexus: Counter-current heat exchange system to cool surrounding testicular arterial blood
+	- 
