@@ -85,3 +85,11 @@ Lecture Notes
 
 
 #### **Hormonal Control in the Hypothalamus-Pituitary-Testicular Axis**
+
+|           Stage            |   <   | Description                                                                  |
+| :------------------------: | :---: | ---------------------------------------------------------------------------- |
+|  Hypothalamic Stimulation  |   1   | Pulsatile GnRH<br>- Higher frequency                                         |
+|   Pituitary Stimulation    |   2   | LH → Leydig Cells<br>FSH → Sertoli Cells                                     |
+| <br>Testicular Stimulation | <br>3 | LH on Leydig Cells → Androgen                                                |
+|             ^              |   ^   | FSH & Androgen on Sertoli Cells → Spermatogenesis<br>Sertoli Cells → Inhibin |
+|     Negative Feedback      |   4   | Androgen & Estrogen → ↓ GnRH, LH & FSH<br>Inhibin → ↓ FSH                    |
