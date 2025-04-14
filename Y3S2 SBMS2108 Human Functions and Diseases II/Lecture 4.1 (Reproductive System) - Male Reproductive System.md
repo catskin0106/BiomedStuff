@@ -71,11 +71,11 @@ Lecture Notes
 **Control of Erection**
 - Flaccid: Helicine Arteries Contraction → ↓ Blood Flow into Cavernous Spaces
 
-|           Stage            | Description                                                                                                                  |
-| :------------------------: | ---------------------------------------------------------------------------------------------------------------------------- |
-| Parasympathetic Activation | Neuron ↑ <abbr Title="Nitric Oxide">NO</abbr> & cGMP                                                                         |
-|        Vasodilation        | Blood flow into Cavernous Spaces                                                                                             |
-|     <br>Vein Blockage      | Engorged Tissue press the veins against outer fascia<br>& Muscle Contraction from Somatic Stimulation<br>→ ↓ Venous Drainage |
+|                         Stage                          | Description                                                                                                                  |
+| :----------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------- |
+|               Parasympathetic Activation               | Neuron ↑ <abbr Title="Nitric Oxide">NO</abbr> & cGMP                                                                         |
+| <abbr Title="of Helicine Arteries">Vasodilation</abbr> | Blood flow into Cavernous Spaces                                                                                             |
+|                   <br>Vein Blockage                    | Engorged Tissue press the veins against outer fascia<br>& Muscle Contraction from Somatic Stimulation<br>→ ↓ Venous Drainage |
 
 **Control of Ejaculation**
 
@@ -110,5 +110,9 @@ Lecture Notes
 
 #### **Temperature Control for Spermatogenesis**
 - Maintained constantly lower than core body temperature (32-35°C):
-	- Pampiniform Plexus: Counter-current heat exchange system to cool surrounding testicular arterial blood
-	- 
+
+|           Feature           | Explanation                                                                                       |
+| :-------------------------: | ------------------------------------------------------------------------------------------------- |
+|     Pampiniform Plexus      | Counter-current heat exchange system to cool surrounding testicular arterial blood                |
+| Cremaster Muscle Relaxation | Hang testes farther from body                                                                     |
+|         Scrotal Sac         | Darker pigmentation, Larger sweat glands, Minimal subcutaneous fat & hair<br>→ ↑ Heat Dissipation |
