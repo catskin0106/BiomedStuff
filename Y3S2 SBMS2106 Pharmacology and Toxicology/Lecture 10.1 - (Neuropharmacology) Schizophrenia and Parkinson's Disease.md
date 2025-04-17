@@ -41,5 +41,6 @@ Lecture Notes
 	- Enhance remaining Dopamine transmission in Nigrostriatal Pathway
 
 **L-DOPA Enhancing Drugs**
-- Peripheral DDC Inhibitors
-	- 
+- Peripheral DDC Inhibitors (Carbidopa, Benserazide)
+	- Inhibits <abbr Title="e.g. Gut, Liver">Peripheral</abbr> DDC
+	- Side Effect: 
