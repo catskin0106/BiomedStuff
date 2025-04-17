@@ -56,4 +56,15 @@ Lecture Notes
 #### **Depression & Antidepressants**
 **Depression**
 - Anhedonia, Low Energy & Mood for >2 weeks
-- Monoamine Theory: Depr Functional Deficiency in Monoamine
+- Monoamine Theory: Depressive Symptoms are due to Functional Deficiency in CNS <abbr Title="e.g. NA, 5-HT">Monoamine</abbr> Transmission
+	- → Current Antidepressants mostly works by ↑ Synaptic <abbr Title="e.g. NA, 5-HT">Monoamine</abbr> Transmission
+	- Limitations: Time lag & Limited responsiveness in current antidepressants
+
+**Major Classes of Antidepressants**
+- Monoamine Reuptake Inhibitors → ↑ Synaptic Availability
+
+| Type | Monoamine Inhibited | Selectivity | Advantages | Disadvantages |
+| ---- | ------------------- | ----------- | ---------- | ------------- |
+| TCA  |                     |             |            |               |
+| SSRI |                     |             |            |               |
+|      |                     |             |            |               |
