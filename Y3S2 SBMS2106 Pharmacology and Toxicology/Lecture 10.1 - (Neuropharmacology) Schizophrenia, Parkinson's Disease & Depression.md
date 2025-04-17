@@ -60,16 +60,17 @@ Lecture Notes
 **Monoamine Theory**
 - Depressive Symptoms are due to Functional Deficiency in CNS <abbr Title="e.g. NA, 5-HT">Monoamine</abbr> Transmission
 	- → Current Antidepressants mostly works by ↑ Synaptic <abbr Title="e.g. NA, 5-HT">Monoamine</abbr> Transmission
-- Contradiction: Time lag & Limited responsiveness in current antidepressants despite antidepressants should have immediate effects
-	- ∵ 5-HT Reuptake Inhibition also activates Inhibitory 
+- Contradiction: Time lag & Limited responsiveness in current antidepressants despite antidepressants should have immediate effect
+	- ∵ 5-HT Reuptake Inhibition also activates Inhibitory Presynaptic 5-HT1A Autoreceptors → ↓ Presynaptic 5-HT Exocytosis → ↓ Immediate Effect
+	- ∵ Chronic Antidepressant Usage → Sustained ↑ 5-HT → ↓ Sensitivity & Expression of 5-HT1A → ↑ Long Term Effectiveness & Time Lag
 
 
 **Major Classes of Antidepressants**
 - <abbr Title="Neuronal Norepinephrine Transporter">NET</abbr>(NA Reuptake) / <abbr Title="Neuronal Serotonin Transporter">SERT</abbr>(5-HT Reuptake) / <abbr Title="Neuronal Dopamine Transporter">DAT</abbr>(DA) Inhibitors → ↑ Synaptic Availability
 
-| Type                                                                      | Transporters Inhibited | Advantages                                      | Disadvantages                                                             |
-| ------------------------------------------------------------------------- | ---------------------- | ----------------------------------------------- | ------------------------------------------------------------------------- |
-| <abbr Title="Selective Serotonin Reuptake Inhibitors">SSRI</abbr>         | SERT                   | Safer in Overdose<br>Less Side Effects than TCA | GI Upset<br>Sexual Dysfunction<br>↑ Suicidal Thoughts in Youth            |
-| <abbr Title="Classical Tricyclic Antidepressants">TCA</abbr>              | SERT / NET             | Effective<br>Analgesic                          | ↓ Selectivity → Side Effects<br>- Cardiac Toxicity<br>- Fatal in Overdose |
-| <abbr Title="Dual Serotonin/Noradrenaline Reuptake Inhibitor">SNRI</abbr> | SERT / NET             | Dual Action → ↑ Efficacy<br>for Neurologic Pain | SSRI-like Side Effects<br>                                                |
-| <abbr Title="Noradrenaline/Dopamine Reuptake Inhibitor">NDRI</abbr>       | DAT / NET              | ↓ Sexual Dysfunction<br>for Smoking Cessation   | Agitation & Insomnia                                                      |
+|                                   Type                                    | Examples |   Inhibition   | Advantages                                      | Disadvantages                                                             |
+| :-----------------------------------------------------------------------: | :------: | :------------: | ----------------------------------------------- | ------------------------------------------------------------------------- |
+|   <br><abbr Title="Selective Serotonin Reuptake Inhibitors">SSRI</abbr>   |          |    <br>SERT    | Safer in Overdose<br>Less Side Effects than TCA | GI Upset<br>Sexual Dysfunction<br>↑ Suicidal Thoughts in Youth            |
+|     <br><abbr Title="Classical Tricyclic Antidepressants">TCA</abbr>      |          | <br>SERT / NET | Effective<br>Analgesic                          | ↓ Selectivity → Side Effects<br>- Cardiac Toxicity<br>- Fatal in Overdose |
+| <abbr Title="Dual Serotonin/Noradrenaline Reuptake Inhibitor">SNRI</abbr> |          |   SERT / NET   | Dual Action → ↑ Efficacy<br>for Neurologic Pain | SSRI-like Side Effects<br>                                                |
+|    <abbr Title="Noradrenaline/Dopamine Reuptake Inhibitor">NDRI</abbr>    |          |   DAT / NET    | ↓ Sexual Dysfunction<br>for Smoking Cessation   | Agitation & Insomnia                                                      |
