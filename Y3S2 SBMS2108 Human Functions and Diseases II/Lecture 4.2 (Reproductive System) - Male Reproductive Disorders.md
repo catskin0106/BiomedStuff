@@ -11,6 +11,6 @@ Lecture Notes
 #### **Erectile Dysfunction**
 **Pathophysiology**
 
-|     |     |
-| --- | --- |
-|     |     |
+| Category          | Description |
+| ----------------- | ----------- |
+| Background Causes |             |
