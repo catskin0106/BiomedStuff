@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Schizophrenia & Antipsychotics
 - Parkinson's Disease & L-DOPA
+- Depression & Antidepressants
 
 ---
 #### **Schizophrenia & Antipsychotics**
@@ -42,5 +43,17 @@ Lecture Notes
 
 **L-DOPA Enhancing Drugs**
 - Peripheral DDC Inhibitors (Carbidopa, Benserazide)
-	- Inhibits <abbr Title="e.g. Gut, Liver">Peripheral</abbr> DDC
-	- Side Effect: 
+	- Inhibits <abbr Title="e.g. Gut, Liver">Peripheral</abbr> DDC → ↑ L-DOPA reaching the brain
+	- Does not Cross BBB
+- <abbr Title="Monoamine Oxidase-B">MAO-B</abbr> Inhibitors (Sele<font color=yellow>giline</font>, Rasa<font color=yellow>giline</abbr>)
+	- Selective & Irreversible MAO-B Inhibition → ↓ Neuronal Dopamine Catabolism
+- <abbr Title="Catachol-O-Methyltransferase">COMT</abbr> Inhibitors (Enta<font color=yellow>capone</font>, Tol<font color=yellow>capone</font>)
+	- COMT Inhibition → ↓ L-DOPA & Dopamine Catabolism
+		- Entacapone: Acts Peripherally
+		- Tolcapone: Acts <abbr Title="Crosses BBB">Centrally</abbr> & Peripherally
+
+
+#### **Depression & Antidepressants**
+**Depression**
+- Anhedonia, Low Energy & Mood for >2 weeks
+- Monoamine Theory: Depr Functional Deficiency in Monoamine
