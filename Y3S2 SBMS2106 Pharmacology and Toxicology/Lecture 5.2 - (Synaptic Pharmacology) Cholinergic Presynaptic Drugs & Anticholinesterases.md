@@ -49,11 +49,11 @@ Lecture Notes
 
 **Clinical Applications of Anticholinesterases**
 
-|  **Drug**   |           **Effect**            | **Application**                                                                                                                  |
-| :---------: | :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------- |
-| Edrophonium | ↑ Muscular strength transiently | <abbr Title="Muscle Weakness due to ↓ NMJ Nicotinic ACh Receptors">Myasthenia Gravis</abbr> Diagnosis                            |
-| Neostigmine |       ↑ Muscular strength       | Myasthenia Gravis Treatment<br>Reverse Effect of Non-depolarizing NMJ <abbr Title="Nicotinic ACh Receptor">nAChR</abbr> blockers |
-|   Dyflos    |        Severe poisoning         | Insecticides & Biological weapon                                                                                                 |
+|  **Drug**   |           **Effect**            | **Application**                                                                                                                 |
+| :---------: | :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------ |
+| Edrophonium | ↑ Muscular strength transiently | <abbr Title="Muscle Weakness due to ↓ NMJ Nicotinic ACh Receptors">Myasthenia Gravis</abbr> Diagnosis                           |
+| Neostigmine |       ↑ Muscular strength       | Myasthenia Gravis Treatment<br>Revert Effect of Non-depolarizing NMJ <abbr Title="Nicotinic ACh Receptor">nAChR</abbr> blockers |
+|   Dyflos    |        Severe poisoning         | Insecticides & Biological weapon                                                                                                |
 
 **Anticholinesterase Poisoning**
 - Excessive muscarinic effects:
