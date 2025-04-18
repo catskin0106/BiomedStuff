@@ -38,10 +38,10 @@ Lecture Notes
 
 **GABA<sub>A</sub> Enhancing Drugs**
 
-|                  Type                  |           Drug Examples           | Description                                                              |
-| :------------------------------------: | :-------------------------------: | ------------------------------------------------------------------------ |
+|                  Type                  |           Drug Examples           | Description                                                               |
+| :------------------------------------: | :-------------------------------: | ------------------------------------------------------------------------- |
 | GABA<sub>A</sub> Allosteric Modulators | Phenobarbitone<br>Benzodiazepines | [[Lecture 10.2A - (Neuropharmacology) Anxiolytic & Hypnotic Drugs\|Here]] |
-|      GABA Transaminase Inhibitor       |            Vigabatrin             | Irreversible Inhibition<br>→ ↓ GABA Catabolism in Astrocytes & Synapses  |
+|      GABA Transaminase Inhibitor       |            Vigabatrin             | Irreversible Inhibition<br>→ ↓ GABA Catabolism in Astrocytes & Synapses   |
 **Voltage-Gated Na<sup>+</sup> Channel Inhibitors**
 
 |                                                     Drug Examples                                                     | Description                                                                                            |
