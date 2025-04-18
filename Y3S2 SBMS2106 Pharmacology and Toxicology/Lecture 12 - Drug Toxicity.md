@@ -44,4 +44,22 @@ Lecture Notes
 	- ∵ High concentration of polar drug metabolites in drug excretion
 	- Vulnerable to drugs affecting renal blood flow
 		- NSAIDs blocking vasodilatory PGs
-		- ACE Inhibitors 
+		- ACE Inhibitors blocking Ang-II in efferent vasoconstriction
+
+
+#### **Relationship between Mutagenesis & Carcinogenicity**
+- Mutagens are not always Carcinogens, but Carcinogens are most likely Mutagens
+- Carcinogenesis are often initiated by mutagenesis
+	- Particularly genes regulating cell growth: Proto-oncogenes & Tumor Suppressor genes
+	- Multiple mutations are required
+
+**Carcinogens**
+- Genotoxic Carcinogens: Mutagens dealing DNA damage
+	- Primary (Radiation, Cisplatin): Direct damage
+	- Secondary (Aflatoxin B1): Damage after metabolic activation into reactive form
+- Epigenetic Carcinogens: Alter Gene Regulation & Expression for Carcinogenesis
+	- Smoking, Hormone Replacement Therapy
+
+**Testing for Carcinogenicity**
+- In Vitro Ames Test: Positive result suggests potential carcinogen
+	- Doesn't detect Epigenetic Promoters → Need In Vivo testing
