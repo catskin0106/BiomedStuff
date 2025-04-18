@@ -31,8 +31,24 @@ Lecture Notes
 
 
 #### **Anti-Epileptic Drugs**
-- To Inhibit Abnormal Neuronal Discharge through:
+- Aim: To Inhibit Abnormal Neuronal Discharge through:
 	- ↑ GABA<sub>A</sub> Action
 	- ↓ Voltage-Gated Na<sup>+</sup> & Ca<sup>2+</sup> (P, Q & T) Channels
 
 **GABA<sub>A</sub> Enhancing Drugs**
+
+|                  Type                  |           Drug Examples           | Description                                                              |
+| :------------------------------------: | :-------------------------------: | ------------------------------------------------------------------------ |
+| GABA<sub>A</sub> Allosteric Modulators | Phenobarbitone<br>Benzodiazepines | [[Lecture 10.2 - (Neuropharmacology) Anxiolytic & Hypnotic Drugs\|Here]] |
+|      GABA Transaminase Inhibitor       |            Vigabatrin             | Irreversible Inhibition<br>→ ↓ GABA Catabolism in Astrocytes & Synapses  |
+**Voltage-Gated Na<sup>+</sup> Channel Inhibitors**
+
+|                             Drug Examples                             | Description                                                                                            |
+| :-------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ |
+| Carbamazepine<br>Oxcarzepine<br>Phenytoin<br>Valproate<br>Lamotrigine | Use-Dependent Na<sup>+</sup> Channel Blockade<br>→ Blocks Excessive Firing while sparing Normal Firing |
+**Voltage-Gated Ca<sup>2+</sup> Channel Inhibitors
+
+| Inhibited Ca²⁺ Channels |                                Drug Examples                                 | Description |
+| :---------------------: | :--------------------------------------------------------------------------: | ----------- |
+|           P,Q           | <font color=yellow>Gaba</font>pentin<br>Pre<font color=yellow>gaba</font>lin |             |
+|            T            |                           Valproate<br>Lamotrigine                           |             |
