@@ -28,12 +28,27 @@ Lecture Notes
 
 #### **Traditional Chemotherapy Drugs**
 
-|           Type           |                                Drug Examples                                 | Mechanism of Action                                                                                       |
-| :----------------------: | :--------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------- |
-|  <br>Alkylating Agents   | Cis<font color=yellow>platin</font><br>Carbo<font color=yellow>platin</font> | Covalent Alkylation & Cross-Link Formation in DNA<br>→ No DNA Replication & Transcription<br>→ Cell Death |
-| <br><br>Antimetabolites  |                   <abbr Title="5-Fluorouracil">5-FU</abbr>                   | Thymidylate Synthase Inhibitor<br>→ No Thymine for Nucleotide Synthesis                                   |
-|            ^             |                                 Methotrexate                                 | Dihydrofolate Reductase Inhibitor<br>→ No Folate for Nucleotide Synthesis                                 |
-|       Antibiotics        |                                  Bleomycin                                   | Free Radical Generation → DNA Strand Break                                                                |
-| Topoisomerase Inhibitors |                         Anthracyclines<br>Etoposide                          |                                                                                                           |
-|  Microtubule Inhibitors  |                        Vinca Alkaloids (Vincristine)                         |                                                                                                           |
-|            ^             |                             Taxanes (Paclitaxel)                             |                                                                                                           |
+|              Type              |                                Drug Examples                                 | Mechanism of Action                                                                                       |
+| :----------------------------: | :--------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------- |
+|     <br>Alkylating Agents      | Cis<font color=yellow>platin</font><br>Carbo<font color=yellow>platin</font> | Covalent Alkylation & Cross-Link Formation in DNA<br>→ No DNA Replication & Transcription<br>→ Cell Death |
+|    <br><br>Antimetabolites     |                   <abbr Title="5-Fluorouracil">5-FU</abbr>                   | Thymidylate Synthase Inhibitor<br>→ ↓ Thymine for Nucleotide Synthesis                                    |
+|               ^                |                                 Methotrexate                                 | Dihydrofolate Reductase Inhibitor<br>→ ↓ Folate for Nucleotide Synthesis                                  |
+|          Antibiotics           |                                  Bleomycin                                   | Free Radical Generation → DNA Strand Break                                                                |
+|    Topoisomerase Inhibitors    |                         Anthracyclines<br>Etoposide                          | No regulation on DNA supercoiling & tangles<br>→ DNA Strand Break                                         |
+| <br><br>Microtubule Inhibitors |                        Vinca Alkaloids (Vincristine)                         | ↓ Microtubule Polymerization in Mitosis<br>→ Mitosis Arrest                                               |
+|               ^                |                             Taxanes (Paclitaxel)                             | ↓ Microtubule Depolymerization in Mitosis<br>→ Mitosis Arrest                                             |
+|      <br>Hormone Therapy       |                          Anti-Estrogens (Tamoxifen)                          | <br>Hormone Receptor Antagonists / Inhibitors in Synthesis<br>→ Suppress Cancer Growth                    |
+|               ^                |                          Anti-Androgens (Flutamide)                          | ^                                                                                                         |
+|               ^                |                            Anti-LHRH (Degarelix)                             | ^                                                                                                         |
+
+
+#### **Precision Drugs against Cancer Hallmarks**
+|    Hallmark Targeted    |         Drug Type          |                               Drug Examples                               | Mechanism of Action |
+| :---------------------: | :------------------------: | :-----------------------------------------------------------------------: | ------------------- |
+| Proliferative Signaling | Tyrosine Kinase Inhibitors | Ima<font color=yellow>tinib</font><br>Gefi<font color=yellow>tinib</font> |                     |
+|                         |         Antibodies         |                               Cetuximab<br>                               |                     |
+|       Cell Cycle        |                            |                                                                           |                     |
+|   Genome Instability    |                            |                                                                           |                     |
+|      Immune Escape      |                            |                                                                           |                     |
+|      Angiogenesis       |                            |                                                                           |                     |
+
