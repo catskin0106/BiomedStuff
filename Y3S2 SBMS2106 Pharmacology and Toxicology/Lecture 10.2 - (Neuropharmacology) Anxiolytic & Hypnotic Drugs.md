@@ -21,12 +21,12 @@ Lecture Notes
 #### **Anxiolytic & Hypnotic Drugs**
 **Mechanism of Action**
 - Inhibitory GABA<sub>A</sub> Allosteric Modulators
-	- ↑ Cl<sup>-</sup> Channel Opening → Hyperpolarization → ↓ Neuron Firing
+	- ↑ Cl<sup>-</sup> Channel Opening in GABA presence → Hyperpolarization → ↓ Neuron Firing
 
 **Types of Anxiolytics & Hypnotics**
 
-|            Type            | Examples                                                                  | Effect | Allosteric Site |
-| :------------------------: | ------------------------------------------------------------------------- | ------ | --------------- |
-| Benzodiazepines <br>(BZDs) | Lore<font color=yellow>zepam</font><br>Dia<font color=yellow>zepam</font> |        |                 |
-|         "Z" Drugs          |                                                                           |        |                 |
-|         Pregabalin         |                                                                           |        |                 |
+|            Type            | Examples                                                                  |           Effect           | Allosteric Site       |
+| :------------------------: | ------------------------------------------------------------------------- | :------------------------: | --------------------- |
+| Benzodiazepines <br>(BZDs) | Lore<font color=yellow>zepam</font><br>Dia<font color=yellow>zepam</font> |   Anxiolytic<br>Hypnotic   |                       |
+|         "Z" Drugs          |                                                                           | Hypnotic<br>(Short-Acting) | α<sub>1</sub> Subunit |
+|         Pregabalin         |                                                                           |         Anxiolytic         |                       |
