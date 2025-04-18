@@ -45,6 +45,6 @@ Lecture Notes
 
 **Anatomy**
 
-|                  | Mechanosensory                                                    | Proprioceptive | Nociceptive |
-| ---------------- | ----------------------------------------------------------------- | -------------- | ----------- |
-| Mechanoreceptors | <abbr Title="Encapsulated Nerve Endings in Skin">Cutaneous</abbr> |                |             |
+|                  | Mechanosensory                                                                                                                                                                                                                    | Proprioceptive | Nociceptive |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- |
+| Mechanoreceptors | <abbr Title="Encapsulated Nerve Endings in Skin">Cutaneous</abbr>: Detects Mechanical Deformation<br>Types: Receptive Field Size, Adaptation Speed & Stimulus<br>- Merkel: Texture<br>- Ruffini: Stretch<br>- Pacinian: Vibration | Muscle Spindle |             |
