@@ -25,4 +25,20 @@ Lecture Notes
 | 2    | Endolymph lags → Push Cupula                            |
 | 3    | Hair Cell Bending (Mechanical Stimulus) → Neural Signal |
 
-- Otolith Organs (Utricle & Saccule): Detect Linear Acceleration
+- Otolith Organs (Utricle & Saccule): Detect Linear Acceleration (Translation)
+
+**Vestibulo-Ocular Reflex**
+- Reflex for Stabilizing Gaze during Head Movement
+	- Compensatory eye movement in opposite direction of head movement
+
+| Step | Process                                                                             |
+| ---- | ----------------------------------------------------------------------------------- |
+| 1    | Head Movement Signals from Semicircular Canals → Vestibular Nuclei → Motor Nuclei   |
+| 2    | ↑ Firing from Direction of Head Movement<br>↓ Firing from Direction of Eye Movement |
+
+
+#### **Somatosensory System**
+**Purpose**
+- <abbr Title="Neural Encoding of Noxious Stimuli">Nociception</abbr>
+- Prioperception: Kinaesthesia
+**Anatomy**
