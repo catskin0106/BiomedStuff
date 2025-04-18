@@ -43,12 +43,12 @@ Lecture Notes
 |      GABA Transaminase Inhibitor       |            Vigabatrin             | Irreversible Inhibition<br>→ ↓ GABA Catabolism in Astrocytes & Synapses  |
 **Voltage-Gated Na<sup>+</sup> Channel Inhibitors**
 
-|                             Drug Examples                             | Description                                                                                            |
-| :-------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ |
-| Carbamazepine<br>Oxcarzepine<br>Phenytoin<br>Valproate<br>Lamotrigine | Use-Dependent Na<sup>+</sup> Channel Blockade<br>→ Blocks Excessive Firing while sparing Normal Firing |
+|                                                     Drug Examples                                                     | Description                                                                                            |
+| :-------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ |
+| Carbamazepine<br>Oxcarzepine<br>Phenytoin<br><font color=lime>Valproate</font><br><font color=lime>Lamotrigine</font> | Use-Dependent Na<sup>+</sup> Channel Blockade<br>→ Blocks Excessive Firing while sparing Normal Firing |
 **Voltage-Gated Ca<sup>2+</sup> Channel Inhibitors
 
-| Inhibited Ca²⁺ Channels |                                Drug Examples                                 | Description |
-| :---------------------: | :--------------------------------------------------------------------------: | ----------- |
-|           P,Q           | <font color=yellow>Gaba</font>pentin<br>Pre<font color=yellow>gaba</font>lin |             |
-|            T            |                           Valproate<br>Lamotrigine                           |             |
+| Inhibited Ca²⁺ Channels |                                Drug Examples                                 | Description                                               |
+| :---------------------: | :--------------------------------------------------------------------------: | --------------------------------------------------------- |
+|           P,Q           | <font color=yellow>Gaba</font>pentin<br>Pre<font color=yellow>gaba</font>lin | Inhibits Rhythmic Thalamic Discharges in Absence Seizures |
+|            T            |   <font color=lime>Valproate</font><br><font color=lime>Lamotrigine</font>   |                                                           |
