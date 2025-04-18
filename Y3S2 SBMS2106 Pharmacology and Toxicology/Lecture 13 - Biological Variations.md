@@ -3,8 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Key Factors Affecting Drug Actions
 - Age
-- Genetics
-- Ethnicity
+- Genetics & Ethnicity
 
 ---
 #### **Key Factors Affecting Drug Actions**
@@ -49,6 +48,10 @@ Lecture Notes
 |                ^                |           5-HT<sub>3</sub> Receptors            | Homopentamer v.s. Heteropentamer | Affect Channel Conductance<br>→ SSRI Response Variation & Side Effects |
 |          Immune System          |      HLA-B\*58:01 (Common in Han Chinese)       |                <                 | SCARs with Allopurinol                                                 |
 
+**Ethnicity**
+- Population-level Genetic variations
 
-#### **Ethnicity**
-- Population-level Genetics
+|         Protein         |                        <                        |     Polymorphism     | Description                                    |
+| :---------------------: | :---------------------------------------------: | :------------------: | ---------------------------------------------- |
+| Metabolizing<br>Enzymes | Alcohol Dehydrogenase<br>Aldehyde Dehydrogenase |                      | Acetaldehyde Buildup<br>→ Asian Flush Syndrome |
+|        Drug PPB         |                 Propranolol PPB                 | Asian < White in PPB | ↑ Free Propranolol level                       |
