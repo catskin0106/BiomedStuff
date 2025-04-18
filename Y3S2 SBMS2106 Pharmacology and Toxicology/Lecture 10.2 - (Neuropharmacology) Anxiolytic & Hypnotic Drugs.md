@@ -25,6 +25,8 @@ Lecture Notes
 
 **Types of Anxiolytics & Hypnotics**
 
-| Type | Examples | Effect | Allosteric Site |
-| ---- | -------- | ------ | --------------- |
-|      |          |        |                 |
+|            Type            | Examples                                                                  | Effect | Allosteric Site |
+| :------------------------: | ------------------------------------------------------------------------- | ------ | --------------- |
+| Benzodiazepines <br>(BZDs) | Lore<font color=yellow>zepam</font><br>Dia<font color=yellow>zepam</font> |        |                 |
+|         "Z" Drugs          |                                                                           |        |                 |
+|         Pregabalin         |                                                                           |        |                 |
