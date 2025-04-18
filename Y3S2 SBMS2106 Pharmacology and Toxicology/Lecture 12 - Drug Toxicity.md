@@ -13,7 +13,7 @@ Lecture Notes
 |                 Cause                 |                                             <                                              | Examples                                                                                                                                                                                                                  |
 | :-----------------------------------: | :----------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |        Type A<br>(Predictable)        |                                <br>Extension of Drug Effect                                | Warfarin: Excessive Bleeding<br>β Blockers: Cardiac Depression<br>Sedatives: Respiratory Depression                                                                                                                       |
-| <br><br><br>Type B<br>(Idiosyncratic) |                                      Genetic Factors                                       | Carbamazepine on <abbr Title="Human Leukocyte Antigen">HLA</abbr>-B* 1502: <abbr Title="Stevens-Johnson Syndrome">SJS</abbr><br>Allopurinol on HLA-B* 58:01: <abbr Title="Severe Cutaneous Adverse Reactions">SCAR</abbr> |
+| <br><br><br>Type B<br>(Idiosyncratic) |                                      Genetic Factors                                       | Carbamazepine on <abbr Title="Human Leukocyte Antigen">HLA</abbr>-B\*1502: <abbr Title="Stevens-Johnson Syndrome">SJS</abbr><br>Allopurinol on HLA-B\*58:01: <abbr Title="Severe Cutaneous Adverse Reactions">SCAR</abbr> |
 |                   ^                   |                                 Toxins in Drug Metabolism                                  | Paracetamol: NAPQI Formation                                                                                                                                                                                              |
 |                   ^                   |                                     Allergic Responses                                     | Penicillin: Allergy<br>TGN1412: Cytokine Storm                                                                                                                                                                            |
 |                   ^                   | <abbr Title="Drug Interaction with Unintended Molecular Targets">Off-Target Effects</abbr> |                                                                                                                                                                                                                           |
@@ -26,3 +26,22 @@ Lecture Notes
 
 
 #### **Cell, Tissue & Organ Specific Toxicity**
+**Cytotoxicity**
+- ROS Generation: <abbr Title="Superoxide Anion">O₂<sup>-</sup>•</abbr> , <abbr Title="Hydrogen Peroxide">H<sub>2</sub>O<sub>2</sub></abbr> , <abbr Title="Hydroxyl Radicals">OH•</abbr>
+	- → Lipid Peroxidation → Cell Membrane Destruction
+	- → <abbr Title="Reduced Glutathione">GSH</abbr> Depletion → Antioxidant Defense Compromise
+	- → Protein <abbr Title="Sulfhydryl">-SH</abbr> Oxidation → Protein Structure Disruption → Enzyme Inactivation
+- Covalent Interactions from Reactive Metabolites
+	- Bioactivated reactive metabolites can form covalent bonds with cellular macromolecules
+		- → Cell function Disruption → Cell Death
+	- Can be Detoxified by GSH
+
+**Tissue / Organ-Specific Toxicity**
+- Hepatotoxicity
+	- ∵ High concentration drug & metabolite exposition in drug metabolism
+	- → Hepatic Necrosis, Jaundice & Cirrhosis
+- Nephrotoxicity
+	- ∵ High concentration of polar drug metabolites in drug excretion
+	- Vulnerable to drugs affecting renal blood flow
+		- NSAIDs blocking vasodilatory PGs
+		- ACE Inhibitors 
