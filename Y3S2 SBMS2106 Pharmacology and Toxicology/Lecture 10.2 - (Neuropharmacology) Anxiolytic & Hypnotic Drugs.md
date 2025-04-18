@@ -14,4 +14,9 @@ Lecture Notes
 
 **Chronic Anxiety**
 - <abbr Title="Generalized Anxiety Disorder">GAD</abbr>
-- 
+- Society Anxiety Disorder
+- PTSD & OCD
+
+
+#### **Anxiolytic & Hypnotic Drugs**
+**Types of
