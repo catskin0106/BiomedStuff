@@ -51,4 +51,32 @@ Lecture Notes
 | Inhibited Ca²⁺ Channels |                                Drug Examples                                 | Description                                               |
 | :---------------------: | :--------------------------------------------------------------------------: | --------------------------------------------------------- |
 |           P,Q           | <font color=yellow>Gaba</font>pentin<br>Pre<font color=yellow>gaba</font>lin | Inhibits Rhythmic Thalamic Discharges in Absence Seizures |
-|            T            |   <font color=lime>Valproate</font><br><font color=lime>Lamotrigine</font>   |                                                           |
+|            T            |   <font color=lime>Valproate</font><br><font color=lime>Lamotrigine</font>   | ↓ Ca<sup>2+</sup>-dependent neurotransmitter exocytosis   |
+
+
+#### **Pharmacokinetic & Pharmacodynamic Properties of Anti-Epileptic Drugs**
+**Pharmacokinetic Properties**
+
+|           Properties           | Drug                                         | Description                                                            |
+| :----------------------------: | -------------------------------------------- | ---------------------------------------------------------------------- |
+| <br><br>Drug-Drug Interactions | Phenobarbitone<br>Phenytoin<br>Carbamazepine | <br>P450 Enzyme Induction → ↑ Drug Metabolism → ↓ Drug Efficacy        |
+|               ^                | Valproate                                    | P450 Enzyme Inhibition → ↓ Drug Metabolism → ↑ Drug Toxicity           |
+|      Non-Linear Kinetics       | Phenytoin                                    | Disproportionate ↑ in Toxicity once Liver Capacity is Saturated        |
+|       Therapeutic Window       | Phenytoin                                    | Narrow Therapeutic Window<br>→ Caution in Dosage Monitoring            |
+|        Excretion Method        | Gabapentin<br>Pregabalin                     | Renal Excretion<br>→ Dose Adjustment in Patients with Renal Impairment |
+**Pharmacodynamic Properties**
+- Activity Spectrum
+
+|                    Drugs                     | Indications                              |
+| :------------------------------------------: | ---------------------------------------- |
+|                  Valproate                   | Partial, Generalized & Absence Seizures  |
+| Phenobarbitone<br>Phenytoin<br>Carbamazepine | <br>Partial & Tonic-Clonic Seizures only |
+|                 Ethosuximide                 | Absence Seizures only                    |
+
+- Side Effects
+
+|                    Drugs                     | Indications                              |
+| :------------------------------------------: | ---------------------------------------- |
+|                  Valproate                   | Partial, Generalized & Absence Seizures  |
+| Phenobarbitone<br>Phenytoin<br>Carbamazepine | <br>Partial & Tonic-Clonic Seizures only |
+|                 Ethosuximide                 | Absence Seizures only                    |
