@@ -25,11 +25,11 @@ Lecture Notes
 
 **Types of Anxiolytics & Hypnotics**
 
-|            Type            | Examples                                                                                                                |                  Effect                  | Allosteric Site                                                  |
-| :------------------------: | ----------------------------------------------------------------------------------------------------------------------- | :--------------------------------------: | ---------------------------------------------------------------- |
-| Benzodiazepines <br>(BZDs) | Lora<font color=yellow>zepam</font> (t<sub>1/2</sub>: 10h)<br>Dia<font color=yellow>zepam</font>                        | Anxiolytic<br>Hypnotic<br>Anticonvulsant |                                                                  |
-|         "Z" Drugs          | <font color=yellow>Z</font>olpidem (t<sub>1/2</sub>: 2.5h)<br><font color=yellow>Z</font>opiclone (t<sub>1/2</sub>: 5h) |        Hypnotic<br>(Short-Acting)        | α<sub>1</sub> Subunit                                            |
-|         Pregabalin         | Lyrica                                                                                                                  |          Anxiolytic<br>Hypnotic          | α<sub>2</sub>δ Subunit of Voltage Gated Ca<sup>2+</sub> Channels |
+|            Type            | Examples                                                                                                                |                  Effect                  | Allosteric Site                                                      |
+| :------------------------: | ----------------------------------------------------------------------------------------------------------------------- | :--------------------------------------: | -------------------------------------------------------------------- |
+| Benzodiazepines <br>(BZDs) | Lora<font color=yellow>zepam</font> (t<sub>1/2</sub>: 10h)<br>Dia<font color=yellow>zepam</font>                        | Anxiolytic<br>Hypnotic<br>Anticonvulsant |                                                                      |
+|         "Z" Drugs          | <font color=yellow>Z</font>olpidem (t<sub>1/2</sub>: 2.5h)<br><font color=yellow>Z</font>opiclone (t<sub>1/2</sub>: 5h) |        Hypnotic<br>(Short-Acting)        | α<sub>1</sub> Subunit                                                |
+|         Pregabalin         | Lyrica                                                                                                                  |          Anxiolytic<br>Hypnotic          | α<sub>2</sub>δ Subunit of P&Q Voltage Gated Ca<sup>2+</sup> Channels |
 **Side Effects of Benzodiazepines**
 - Unwanted Effects
 	- CNS Depressant Effect: Headache, Ataxia
