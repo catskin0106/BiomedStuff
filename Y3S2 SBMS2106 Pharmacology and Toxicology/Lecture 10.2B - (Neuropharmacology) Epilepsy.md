@@ -3,6 +3,7 @@ Lecture Notes
 **Lecture Coverage:**
 - Epilepsy
 - Anti-Epileptic Drugs
+- Pharmacokinetic & Pharmacodynamic Properties of Anti-Epileptic Drugs
 
 ---
 #### **Epilepsy**
@@ -39,7 +40,7 @@ Lecture Notes
 
 |                  Type                  |           Drug Examples           | Description                                                              |
 | :------------------------------------: | :-------------------------------: | ------------------------------------------------------------------------ |
-| GABA<sub>A</sub> Allosteric Modulators | Phenobarbitone<br>Benzodiazepines | [[Lecture 10.2 - (Neuropharmacology) Anxiolytic & Hypnotic Drugs\|Here]] |
+| GABA<sub>A</sub> Allosteric Modulators | Phenobarbitone<br>Benzodiazepines | [[Lecture 10.2A - (Neuropharmacology) Anxiolytic & Hypnotic Drugs\|Here]] |
 |      GABA Transaminase Inhibitor       |            Vigabatrin             | Irreversible Inhibition<br>→ ↓ GABA Catabolism in Astrocytes & Synapses  |
 **Voltage-Gated Na<sup>+</sup> Channel Inhibitors**
 
@@ -75,8 +76,11 @@ Lecture Notes
 
 - Side Effects
 
-|                    Drugs                     | Indications                              |
-| :------------------------------------------: | ---------------------------------------- |
-|                  Valproate                   | Partial, Generalized & Absence Seizures  |
-| Phenobarbitone<br>Phenytoin<br>Carbamazepine | <br>Partial & Tonic-Clonic Seizures only |
-|                 Ethosuximide                 | Absence Seizures only                    |
+|             Side Effect              | Drugs                                                                                                                      |
+| :----------------------------------: | -------------------------------------------------------------------------------------------------------------------------- |
+| Sedation<br>Cognitive Impairment<br> | All Except Phenytoin                                                                                                       |
+|  Dependence<br>Withdrawal Syndrome   | Benzodiazepines                                                                                                            |
+|           <br><br>Toxicity           | Phenobarbitone: <abbr Title="Severe Rash in Han Chinese with HLA-B*1502">Stevens-Johnson Syndrome</abbr>, Aplastic Anaemia |
+|                  ^                   | Phenytoin: Teratogenicity, Gum Hyperplasia& Bone Marrow Suppression                                                        |
+|                  ^                   | Carbamazepine: Fatal in Overdose                                                                                           |
+|                  ^                   | Valproate: Teratogenicity, Hepatoxicity                                                                                    |
