@@ -5,7 +5,6 @@ Lecture Notes
 - Age
 - Genetics
 - Ethnicity
-- Other Factors
 
 ---
 #### **Key Factors Affecting Drug Actions**
@@ -39,4 +38,17 @@ Lecture Notes
 
 
 #### **Genetics**
-- Heritable common DNA variation → Subtle alterations on protein function
+- Heritable common DNA variation → Subtle alterations on protein function that significantly affect drug response
+
+|             Protein             |                        <                        |           Polymorphism           | Description                                                            |
+| :-----------------------------: | :---------------------------------------------: | :------------------------------: | ---------------------------------------------------------------------- |
+|   <br>Metabolizing<br>Enzymes   | <abbr Title="N-Acetyltransferase 2">NAT2</abbr> |    Fast v.s. Slow Acetylators    | Affect Isoniazid Metabolism                                            |
+|                ^                |              Plasma Cholinesterase              |            Deficiency            | Affect Suxamethonium Metabolism                                        |
+|                ^                |                     CYP450                      |          Many Variants           | Affect Metabolism of Various Drugs                                     |
+| <br>Drug Targets<br>(Receptors) |           5-HT<sub>2</sub> Receptors            |        -1438G/G in HTR2A         | SSRI Response Variation & Side Effects                                 |
+|                ^                |           5-HT<sub>3</sub> Receptors            | Homopentamer v.s. Heteropentamer | Affect Channel Conductance<br>→ SSRI Response Variation & Side Effects |
+|          Immune System          |      HLA-B\*58:01 (Common in Han Chinese)       |                <                 | SCARs with Allopurinol                                                 |
+
+
+#### **Ethnicity**
+- Population-level Genetics
