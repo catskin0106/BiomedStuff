@@ -19,4 +19,12 @@ Lecture Notes
 
 
 #### **Anxiolytic & Hypnotic Drugs**
-**Types of
+**Mechanism of Action**
+- Inhibitory GABA<sub>A</sub> Allosteric Modulators
+	- ↑ Cl<sup>-</sup> Channel Opening → Hyperpolarization → ↓ Neuron Firing
+
+**Types of Anxiolytics & Hypnotics**
+
+| Type | Examples | Effect | Allosteric Site |
+| ---- | -------- | ------ | --------------- |
+|      |          |        |                 |
