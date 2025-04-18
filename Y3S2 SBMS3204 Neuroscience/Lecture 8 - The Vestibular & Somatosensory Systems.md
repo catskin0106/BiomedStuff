@@ -39,6 +39,12 @@ Lecture Notes
 
 #### **Somatosensory System**
 **Purpose**
+- <abbr Title="Touch, Pressure & Vibration">Mechanosensation</abbr>
+- <abbr Title="Sense of Body Part Movement">Prioperception</abbr>: <abbr Title="Sense of Joint movement direction & velocity">Kinaesthesia</abbr>
 - <abbr Title="Neural Encoding of Noxious Stimuli">Nociception</abbr>
-- Prioperception: Kinaesthesia
+
 **Anatomy**
+
+|                  | Mechanosensory                                                    | Proprioceptive | Nociceptive |
+| ---------------- | ----------------------------------------------------------------- | -------------- | ----------- |
+| Mechanoreceptors | <abbr Title="Encapsulated Nerve Endings in Skin">Cutaneous</abbr> |                |             |
