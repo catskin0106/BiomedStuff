@@ -37,4 +37,4 @@ Lecture Notes
 #### **Relevance to Alzheimer's Disease**
 - Hippocampal Shrinkage, Amyloid-β Plagues & Phospho-τ Neurofibrillary Tangles
 	- → Disrupted Place Cell Function → Impaired remapping to new environments → Memory Deficit
-	- 
+	- Compensatory ↑ Hippocampal Activation in <abbr Title="Mild Cognitive Impairment">MCI</abbr> (AD Precursor)
