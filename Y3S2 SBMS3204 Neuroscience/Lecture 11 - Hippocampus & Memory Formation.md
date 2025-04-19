@@ -21,6 +21,7 @@ Lecture Notes
 | Retained declarative memories from before surgery | MTL is not the ultimate storage site of Long-Term Declarative Memories<br>- Real Storage Site: Distributed Networks in Neocortex                                          |
 | Able to form new immediate & procedural memories  | MTL is not required for Immediate & Procedural Memories                                                                                                                   |
 **Hippocampus in Long-Term Declarative Memory Formation**
+- Stages of Memory Formation
 
 |       Stage       | Description                                                                                                                                                                 |
 | :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
