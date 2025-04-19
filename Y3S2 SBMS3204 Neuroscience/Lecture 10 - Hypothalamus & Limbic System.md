@@ -27,4 +27,15 @@ Lecture Notes
 #### **Limbic System**
 - Bridge between External & Internal Worlds (Mesulam Model)
 	- Integration of External Sensory Stimuli & Internal Prioperception
-	- Generate Appropriate Emotional States
+	- Generate Appropriate Emotional States (≈ Motivational States + Feelings)
+	- Guide Behavior & Memory Formation based on Goal & Past Experiences
+
+**Key Structures**
+
+|                  Structure                  |     Function     |                                     <                                     |
+| :-----------------------------------------: | :--------------: | :-----------------------------------------------------------------------: |
+| Orbitofrontal & Medial<br>Prefrontal Cortex |   <br>Emotion    |      <abbr Title="Pride, Guilt & Empathy">Complex Social Emotions<>       |
+|           Midbrain Limbic Regions           |        ^         |                                                                           |
+|                 Hippocampus                 |      Memory      |                                                                           |
+|                  Amygdala                   | Emotion & Memory |                                                                           |
+|                Hypothalamus                 |   Integration    | Central Integration of External Sensory Stimuli & Internal Prioperception |
