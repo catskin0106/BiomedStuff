@@ -46,6 +46,12 @@ Lecture Notes
 
 #### **Modulation of Voluntary Movement**
 - Carried out by Cerebellum & Basal Ganglia
+- Essential for Movement Correction in Feedback Motor Control
 
 **Cerebellum**
 - Refiner of movement in coordination, timing, accuracy & motor learning
+- Functional Zones:
+
+| Functional Zone |     |
+| --------------- | --- |
+|                 |     |
