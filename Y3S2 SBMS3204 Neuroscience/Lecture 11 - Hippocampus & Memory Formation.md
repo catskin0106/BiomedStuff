@@ -29,4 +29,4 @@ Lecture Notes
 |   Consolidation   | Reorganize & Strengthen Direct Connections between Neocortical Neuron                                                                                                       |
 | Long-Term Storage | Memory resides within Neocortex<br>- Hippocampus no longer required in Retrieval                                                                                            |
 - Cellular Mechanisms: Place Cells in Hippocampus CA1 & CA3
-	- Form a <abbr Title="Internal Representation of Space">cognitive map</abbr> in which specific neurons fire when an animal is in a specific location
+	- Form a <abbr Title="Internal Representation of Space">cognitive map</abbr> in which specific neurons fire when an animal is in a specific <abbr Title="Square area (?) mapped by a single neuron">place field</abbr>
