@@ -32,6 +32,7 @@ Lecture Notes
 - 2 Modes: Feedforward / Feedback Motor Control
 
 **Feedforward Motor Control (Open-Looped)**
+- Uses the Corticospinal Descending System
 - Pre-planned Commands Sent to Muscles without Regard to Sensory Feedback during Movement
 	- → Fast & Efficient for well-trained tasks
 	- → Can't correct for unexpected errors during execution
@@ -39,6 +40,7 @@ Lecture Notes
 	- → Rapid & Direct generation of feedforward commands
 
 **Feedback Motor Control (Close-Looped)
+- Uses the Cortico-cerebellar Loop
 - Detect Deviations from Desired State of Movement through Sensory Information
 	- Accurate & Adaptable but Slower
 	- → Adjustments in Motor Command to Correct the Movement
@@ -62,7 +64,7 @@ Lecture Notes
 - Selects Appropriate Motor Strategies
 	- Facilitates Initiation of desired movements & Inhibition of undesired movements
 	- Habitual Motor Sequences
-- 2 Main Pathways to Communicate with the Cortex:
+- 2 Main Pathways in Cortico-Basal-Ganglia Loops to Communicate with the Cortex:
 	- Dopamine excites the Direct pathway & inhibits the Indirect pathway → Movement Promotion
 
 |         Pathway          | Thalamus / Cortex State  |

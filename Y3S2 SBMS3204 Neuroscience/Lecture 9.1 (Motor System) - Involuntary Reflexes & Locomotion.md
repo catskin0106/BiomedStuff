@@ -11,13 +11,13 @@ Lecture Notes
 **Hierarchal Control**
 - Involves multiple CNS regions:
 
-| CNS Region    | Function                                                                                                                                                      |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  CNS Region   | Function                                                                                                                                                      |
+| :-----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Motor Cortex  | Planning & Executing Voluntary Actions<br>(Not major in Reflexes & Locomotion)                                                                                |
-| Spinal Cord   | Generating <abbr Title="Stereotypical Motor Patterns">Reflexes</abbr> & Rhythmic Locomotion Patterns<br>Executing Voluntary Actions Initiated by Motor Cortex |
-| Brainstem     | ^                                                                                                                                                             |
+|  Spinal Cord  | Generating <abbr Title="Stereotypical Motor Patterns">Reflexes</abbr> & Rhythmic Locomotion Patterns<br>Executing Voluntary Actions Initiated by Motor Cortex |
+|   Brainstem   | ^                                                                                                                                                             |
 | Basal Ganglia | <br>Modulate Motor Output                                                                                                                                     |
-| Cerebellum    | ^                                                                                                                                                             |
+|  Cerebellum   | ^                                                                                                                                                             |
 
 **Motor Unit Execution**
 - Motor Unit = Motor Neuron + Muscle Fibre it innervates
