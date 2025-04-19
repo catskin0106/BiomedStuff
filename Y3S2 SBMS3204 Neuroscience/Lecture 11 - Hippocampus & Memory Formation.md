@@ -22,8 +22,8 @@ Lecture Notes
 | Able to form new immediate & procedural memories  | MTL is not required for Immediate & Procedural Memories                                                                                                                   |
 **Hippocampus in Long-Term Declarative Memory Formation**
 
-|       Stage       | Description                                                                                                                                                     |
-| :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Initial Encoding  | Distributed Neocortical Neurons bound together to form an <abbr Title="Enduring physical / chemical changes in the brain that underlies a memory">Engram</abbr> |
-|   Consolidation   |                                                                                                                                                                 |
-| Long-Term Storage |                                                                                                                                                                 |
+|       Stage       | Description                                                                                                                                                                 |
+| :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Initial Encoding  | Hippocampus Binds Distributed Neocortical Neurons together to form an <abbr Title="Enduring physical / chemical changes in the brain that underlies a memory">Engram</abbr> |
+|   Consolidation   |                                                                                                                                                                             |
+| Long-Term Storage |                                                                                                                                                                             |
