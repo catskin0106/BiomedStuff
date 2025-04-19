@@ -48,6 +48,11 @@ Lecture Notes
 
 #### **Central Pattern Generator**
 - CNS Neural Network (Especially Spinal Cord) capable of generating rhythmic motor patterns without continuous rhythmic sensory input
-	- Experimental Evidence: Rhythmic Activity persisting after cutting Sensory Roots (Deafferantation)
+	- Experimental Evidence: Rhythmic Activity persisting after cutting Sensory Roots (Deafferentation)
 
 **Half-Centre Model**
+- CPG is comprised of 2 mutually inhibitory neuronal populations
+	- Active half inhibits the other until fatigue, in which case the two halves alternate
+- Rhythm is not rigid and requires modulation from:
+	- Descending signals from the brain: Start, Stop & Modify Speed
+	- Sensory Feedback: Adapt rhythm to Environment
