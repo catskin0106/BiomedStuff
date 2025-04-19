@@ -52,6 +52,20 @@ Lecture Notes
 - Refiner of movement in coordination, timing, accuracy & motor learning
 - Functional Zones:
 
-| Functional Zone |     |
-| --------------- | --- |
-|                 |     |
+|   Functional Zone   |                         Input Source                          |                  Output Destination                  |
+| :-----------------: | :-----------------------------------------------------------: | :--------------------------------------------------: |
+|   Spinocerebellum   | Motor & Somatosensory Cortex<br>Prioperceptive Spinal Neurons | Brainstem Nuclei & Motor Cortex → Spinal Neurons<br> |
+| Vestibulocerebellum |                       Vestibular Nuclei                       |                          <                           |
+|  Cerebrocerebellum  |                (Pre)motor & Association Cortex                |                          <                           |
+
+**Basal Ganglia**
+- Selects Appropriate Motor Strategies
+	- Facilitates Initiation of desired movements & Inhibition of undesired movements
+	- Habitual Motor Sequences
+- 2 Main Pathways to Communicate with the Cortex:
+	- Dopamine excites the Direct pathway & inhibits the Indirect pathway → Movement Promotion
+
+|         Pathway          | Thalamus / Cortex State  |
+| :----------------------: | :----------------------: |
+|   Direct Pathway (Go)    |  Excitation → Movement   |
+| Indirect Pathway (No-go) | Inhibition → No Movement |
