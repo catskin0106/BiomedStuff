@@ -11,4 +11,15 @@ Lecture Notes
 
 **Anatomy**
 - Located under the Thalamus in the Diencephalon
-- Interconnected nuclei groups
+- Interconnected nuclei groups across Anterior, Posterior & Tubular regions
+- Connections:
+	- Input:
+
+|           Connection           |                Source / Destination                | Function                                  |
+| :----------------------------: | :------------------------------------------------: | ----------------------------------------- |
+| Output &<br>Input (Reciprocal) |                  Pituitary Gland                   | Endocrine                                 |
+|               ^                |                    Spinal Cord                     | Autonomic Regulation<br>Somatic Motor     |
+|                                |                 Limbic Structures                  | Bridge between External & Internal Worlds |
+|             Input              | Retinal Ganglion Cells<br>(to SCN in Hypothalamus) | Circadian Rhythm                          |
+
+**Functions**
