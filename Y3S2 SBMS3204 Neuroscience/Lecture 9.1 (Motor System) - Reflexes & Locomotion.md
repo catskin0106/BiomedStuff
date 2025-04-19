@@ -38,3 +38,16 @@ Lecture Notes
 
 
 #### **Locomotion**
+- Rhythmic & Cyclical Movements (e.g. Walking, Running & Swimming)
+- Spinal Cord can generate basic locomotion patterns without forebrain input
+	- Experimental Evidence: Decerebrated cat
+
+**Gait Cycle**
+- Walking involves alternating between Stance & Swing phases
+
+
+#### **Central Pattern Generator**
+- CNS Neural Network (Especially Spinal Cord) capable of generating rhythmic motor patterns without continuous rhythmic sensory input
+	- Experimental Evidence: Rhythmic Activity persisting after cutting Sensory Roots (Deafferantation)
+
+**Half-Centre Model**
