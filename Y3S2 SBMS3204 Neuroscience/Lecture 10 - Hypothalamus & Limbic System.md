@@ -6,3 +6,5 @@ Lecture Notes
 
 ---
 #### **Hypothalamus**
+- Coordination of Autonomic, Endocrine & Somatic Motor Responses with Affective States (Feelings)
+	- 
