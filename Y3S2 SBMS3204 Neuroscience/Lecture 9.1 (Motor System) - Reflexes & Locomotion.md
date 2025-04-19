@@ -20,4 +20,16 @@ Lecture Notes
 | Cerebellum    | ^                                                                                                                                                             |
 
 **Motor Unit Execution**
-- 
+- Motor Unit = Motor Neuron + Muscle Fibre it innervates
+	- Motor Neuron: Located in Ventral Horn of Spinal Cord
+
+
+#### **Reflexes**
+- Stereotypical & Usually involuntary motor responses
+- Due to specific sensory stimuli
+
+**Functions of Reflexes**
+
+|     |     |
+| --- | --- |
+|     |     |
