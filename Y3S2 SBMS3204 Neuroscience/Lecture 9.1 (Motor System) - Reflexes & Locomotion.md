@@ -25,11 +25,16 @@ Lecture Notes
 
 
 #### **Reflexes**
-- Stereotypical & Usually involuntary motor responses
-- Due to specific sensory stimuli
+- Stereotypical & Usually involuntary motor responses from specific sensory stimuli
 
 **Functions of Reflexes**
 
-|     |     |
-| --- | --- |
-|     |     |
+|          Function           |            Explanation            | Examples                                                                                                                                            |
+| :-------------------------: | :-------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <br>Stereotypical Responses |          For Protection           | Withdrawal Reflex                                                                                                                                   |
+|              ^              |          For Orientation          | Righting Reflex                                                                                                                                     |
+|       Limb Stability        |  Resisting Muscle Length Change   | Monosynaptic Stretch Reflex (Knee Jerk Reflex)<br>- Muscle Spindle → Ia Afferent → Agonist Motoneuron Excitation & Antagonist Motoneuron Inhibition |
+|  Preventing Muscle Damage   | Protection from Excessive Tension | Autogenic Inhibition Reflex<br>- GTO → Ib Afferent → Ib Inhibitory Interneuron → Agonist Motoneuron Inhibition                                      |
+
+
+#### **Locomotion**
