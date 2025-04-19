@@ -2,7 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Hippocampus in Memory Formation
-- Limbic System
+- Relevance to Alzheimer's Disease
 
 ---
 #### **Hippocampus in Memory Formation**
@@ -30,4 +30,11 @@ Lecture Notes
 | Long-Term Storage | Memory resides within Neocortex<br>- Hippocampus no longer required in Retrieval                                                                                            |
 - Cellular Mechanisms: Place Cells in Hippocampus CA1 & CA3
 	- Form a <abbr Title="Internal Representation of Space">cognitive map</abbr> in which specific neurons fire when an animal is in a specific <abbr Title="Square area (?) mapped by a single neuron">place field</abbr>
-	- Firing → Bind neocortical neurons 
+	- Firing → Bind neocortical neurons associated with their respective place field
+	- <abbr Title="Long-Term Potentiation">LTP</abbr>: Synaptic Plasticity maintaining stability of the place fields
+
+
+#### **Relevance to Alzheimer's Disease**
+- Hippocampal Shrinkage, Amyloid-β Plagues & Phospho-τ Neurofibrillary Tangles
+	- → Disrupted Place Cell Function → Impaired remapping to new environments → Memory Deficit
+	- 
