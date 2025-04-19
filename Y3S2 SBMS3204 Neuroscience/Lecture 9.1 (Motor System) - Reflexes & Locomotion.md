@@ -19,4 +19,4 @@ Lecture Notes
 | Basal Ganglia | <br>Modulate Motor Output                                                                                                                                     |
 | Cerebellum    | ^                                                                                                                                                             |
 
-**
+**Motor Unit Execution**
