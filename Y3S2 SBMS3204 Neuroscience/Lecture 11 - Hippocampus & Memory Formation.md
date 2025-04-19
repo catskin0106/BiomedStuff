@@ -26,5 +26,7 @@ Lecture Notes
 |       Stage       | Description                                                                                                                                                                 |
 | :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Initial Encoding  | Hippocampus Binds Distributed Neocortical Neurons together to form an <abbr Title="Enduring physical / chemical changes in the brain that underlies a memory">Engram</abbr> |
-|   Consolidation   |                                                                                                                                                                             |
-| Long-Term Storage |                                                                                                                                                                             |
+|   Consolidation   | Reorganize & Strengthen Direct Connections between Neocortical Neuron                                                                                                       |
+| Long-Term Storage | Memory resides within Neocortex<br>- Hippocampus no longer required in Retrieval                                                                                            |
+- Cellular Mechanisms: Place Cells in Hippocampus CA1 & CA3
+	- Form a <abbr Title="Internal Representation of Space">cognitive map</abbr> in which specific neurons fire when an animal is in a specific location
