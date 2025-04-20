@@ -32,4 +32,5 @@ Lecture Notes
 
 
 #### **Circuit Wiring, Targeting & Refinement**
-- Neurotrophic 
+- Synaptic Competition
+
