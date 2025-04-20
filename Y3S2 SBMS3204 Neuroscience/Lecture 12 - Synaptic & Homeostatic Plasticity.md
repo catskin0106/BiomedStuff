@@ -50,4 +50,5 @@ Lecture Notes
 
 
 #### **Heterosynaptic Plasticity**
-- Synapses converging on the same postsynaptic neuron
+- Synapses converging on the same postsynaptic neuron can affect one another's strength
+	- e.g. LTP at one synapse may lead to LTD on another
