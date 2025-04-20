@@ -32,5 +32,8 @@ Lecture Notes
 
 
 #### **Circuit Wiring, Targeting & Refinement**
-- Synaptic Competition
+- Synaptic Competition (Analogy: PUBG)
 
+| Stage | Description |
+| ----- | ----------- |
+|       |             |
