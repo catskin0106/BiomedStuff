@@ -20,3 +20,10 @@ Lecture Notes
 
 #### **Cortex Development**
 - Lamination & Migration
+
+|  Process   | Description                                                                                 |
+| :--------: | --------------------------------------------------------------------------------------- |
+| Lami Layered Structure<br>- Inside-Out Pattern: Later-born neurons migrate past earlier-born t  n  :  -  |
+|                                                                                                          |
+
+- 
