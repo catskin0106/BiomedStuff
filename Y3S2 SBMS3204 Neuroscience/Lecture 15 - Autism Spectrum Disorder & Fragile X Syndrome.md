@@ -18,10 +18,46 @@ Lecture Notes
 
 
 #### **Factors of Autism Spectrum Disorder**
-**Genetic**
+**Genetic Factors**
 - Highly Heritable
 - Genetically Heterogenous: From >102 Synaptic / Regulatory genes
 	- Most cases are common polygenic variants
+		- Deletion of Chromosomal Region: 16p11.2 Microdeletion Syndrome
 	- Rare cases include:
 		- <abbr Title="Single Nucleotide Variants">SNV</abbr>s
-		- <abbr Title="Copy Number Variants">CNV</abbr>s
+		- <abbr Title="Copy Number Variants">CNV</abbr>s: Fragile X Syndrome
+		- Mitochondrial DNA Variants
+
+**Environmental Factors**
+- Evidence Levels Vary:
+
+|    Certainty     | Factors                                        |
+| :--------------: | ---------------------------------------------- |
+| <br><br><br>High | Advanced Paternal / Maternal Age               |
+|        ^         | Short Interval between Pregnancies             |
+|        ^         | Maternal Diabetes                              |
+|        ^         | In Utero Valproate Exposure                    |
+|        ^         | Neonatal Hypoxia                               |
+| <br>Inconclusive | Pesticide / Polluted Air Exposure              |
+|        ^         | Family History of Autoimmune Disorders         |
+|     <br>Low      | C-Section / Assisted Reproductive Technologies |
+|        ^         | Smoking & Vaccination                          |
+
+
+#### **Pathophysiology of Autism Spectrum Disorder**
+- Affected Biological Pathways in Neuronal Connectivity Development & Function:
+	- → Altered early brain development trajectories: Faster in year 1-2 → Subsequent Normalization / Slow Growth
+
+| Affected Components  |        Examples         | Description                                     |
+| :------------------: | :---------------------: | ----------------------------------------------- |
+|   Gene Regulation    |      CHD8 & MECP2       | Affects Chromatin Remodeling & Transcription    |
+|   mRNA Processing    |          FMRP           | Particularly Affects Synaptic Protein Synthesis |
+|  Synaptic Proteins   | Neurexins & Neuroligins | Affects Synapse Structure & Plasticity          |
+| Synthesized Proteins |          UBE3A          | Degrades Synthesized Proteins                   |
+
+
+**Features of ASD Pathophysiology**
+- Genetic Convergence: Many identified ASD risk genes converge on specific biological pathways
+- Spatiotemporal Impact: Impact of ASD risk genes mostly concentrate in specific time windows & brain regions
+	- Time Window: Mid-Gestation
+	- Brain Regions: Frontal & Temporal Cortex
