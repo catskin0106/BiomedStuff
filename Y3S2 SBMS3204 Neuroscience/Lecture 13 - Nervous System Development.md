@@ -46,8 +46,8 @@ Lecture Notes
 	- Critical Period: Specific Development Time Window when Neural Circuit is maximally sensitive to modification by experience
 - Properties exhibited by Developmental Plasticity:
 
-|      Properties      | Description                                                                                                       |
-| :------------------: | ----------------------------------------------------------------------------------------------------------------- |
-| Experience-Dependent | Neural Circuits are Highly Adaptable to Experiences                                                               |
-|     Cross-Modal      | Rerouting Visual Input to the Auditory Cortex can lead to Development of Visual-like responses in Auditory Cortex |
-|   Ocular-Dominant    | <abbr Title="Loss of Vision in one eye">Monocular Deprivation</abbr> leads to ↓                                   |
+|      Properties      | Description                                                                                                                                                                |
+| :------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Experience-Dependent | Neural Circuits are Highly Adaptable to Experiences                                                                                                                        |
+|     Cross-Modal      | Rerouting Visual Input to the Auditory Cortex can lead to Development of Visual-like responses in Auditory Cortex                                                          |
+| <br>Ocular-Dominant  | <abbr Title="Loss of Vision in one eye">Monocular Deprivation</abbr><br>→ ↓ Cortical Neuron Responsiveness<br>→ ↓ Area of Ocular Dominance Column in Visual Cortex Layer 4 |
