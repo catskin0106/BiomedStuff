@@ -21,9 +21,15 @@ Lecture Notes
 #### **Cortex Development**
 - Lamination & Migration
 
-|  Process   | Description                                                                                 |
-| :--------: | --------------------------------------------------------------------------------------- |
-| Lami Layered Structure<br>- Inside-Out Pattern: Later-born neurons migrate past earlier-born t  n  :  -  |
-|                                                                                                          |
+|            Process             | Description                                                                                                                                                                                                                      |
+| :----------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   Lamination &<br>Migration    | Layered Structure: Typically 6 Layers<br>Neuron Generation in VZ → Migration guided by Radial Glia after Generation in VZ<br>- Inside-Out Pattern: Later-born neurons migrate past earlier-born to more superficial layers (Pia) |
+| Cortical Expansion<br>(Humans) | Prolonged Symmetrical Expansion → ↑ Cortical Area in Humans<br>Prolonged Asymmetrical Expansion → ↑ Cortical Thickness in Humans                                                                                                 |
 
-- 
+**Defects in Abnormal Cortex Development**
+- Microcephaly
+- Lissencephaly: Failed Migration / Layering → Smooth Brain
+
+
+#### **Circuit Wiring, Targeting & Refinement**
+- Neurotrophic 
