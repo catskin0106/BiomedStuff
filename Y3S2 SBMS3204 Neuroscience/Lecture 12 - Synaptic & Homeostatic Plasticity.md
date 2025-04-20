@@ -43,9 +43,10 @@ Lecture Notes
 
 **Differences between Hebbian and Homeostatic Plasticity**
 
-|     |     |
-| --- | --- |
-|     |     |
+|     Differences      | Hebbian Plasticity | Homeostatic Plasticity |
+| :------------------: | :----------------: | :--------------------: |
+|    Induction Time    |       Faster       |         Slower         |
+| Synaptic Homeostatis |      Deviates      |       Maintains        |
 
 
 #### **Heterosynaptic Plasticity**
