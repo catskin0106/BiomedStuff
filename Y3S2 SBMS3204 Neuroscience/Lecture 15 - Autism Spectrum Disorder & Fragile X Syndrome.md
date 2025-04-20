@@ -4,6 +4,7 @@ Lecture Notes
 - Definition of Autism Spectrum Disorder
 - Factors of Autism Spectrum Disorder
 - Pathophysiology of Autism Spectrum Disorder
+- Fragile X Syndrome
 
 ---
 #### **Definition of Autism Spectrum Disorder**
