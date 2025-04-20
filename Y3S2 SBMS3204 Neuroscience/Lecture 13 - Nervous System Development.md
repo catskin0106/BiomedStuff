@@ -4,7 +4,7 @@ Lecture Notes
 - Early Development
 - Cortex Development
 - Circuit Wiring, Targeting & Refinement
-- Development Plasticity & Critical Periods
+- Development Plasticity
 
 ---
 #### **Early Development**
@@ -41,4 +41,13 @@ Lecture Notes
 | <br>Synaptic Competition | Activity-dependent Competition<br>- Winner inputs are strengthened<br>- Loser inputs are retracted               |
 
 
-#### **Developmental Plasticity & Critical Periods**
+#### **Developmental Plasticity**
+- Interplay between Genetic Blueprints and Experience-borne Refinements
+	- Critical Period: Specific Development Time Window when Neural Circuit is maximally sensitive to modification by experience
+- Properties exhibited by Developmental Plasticity:
+
+|      Properties      | Description                                                                                                       |
+| :------------------: | ----------------------------------------------------------------------------------------------------------------- |
+| Experience-Dependent | Neural Circuits are Highly Adaptable to Experiences                                                               |
+|     Cross-Modal      | Rerouting Visual Input to the Auditory Cortex can lead to Development of Visual-like responses in Auditory Cortex |
+|   Ocular-Dominant    | <abbr Title="Loss of Vision in one eye">Monocular Deprivation</abbr> leads to ↓                                   |
