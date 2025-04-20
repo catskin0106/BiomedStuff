@@ -50,3 +50,4 @@ Lecture Notes
 
 
 #### **Heterosynaptic Plasticity**
+- Synapses converging on the same postsynaptic neuron
