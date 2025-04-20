@@ -33,11 +33,13 @@ Lecture Notes
 #### **Evolution of Brain Structures**
 **Similarity in Brain Structures across Vertebrae**
 - Major CNS Divisions are conserved across all vertebrae
+- Small-World Architecture Wiring: Evolutionary Optimization between:
+	- Minimizing Total Axonal Wiring Length → Fast Global Communication
+	- Maximizing Clustering → High Local Communication
 
 **Differences in Brain Structures across Vertebrae**
-- Division Sizes Vary
-	- Larger Regions = ↑ Extensive Connections & Dominant Role (↑ Influence)
-		- Metabolically Expensive → Needs to provide significant fitness advantage to outweigh the cost
+- Division Sizes Vary: Larger Regions = ↑ Extensive Connections & Dominant Role (↑ Influence)
+	- Metabolically Expensive → Needs to provide significant fitness advantage to outweigh the cost
 	- → Epigenetic Cascade: Trophic Factor Dependencies across regions during development
 		- → Size changes in one region can "propagate" to synaptically connected regions
 	- → Invasional Connections: Disproportionately large regions can form novel connections to smaller areas previously not innervated by that region
@@ -46,4 +48,4 @@ Lecture Notes
 		- → Change independently of one another
 	- Concerted Evolution (Dominant in Mammals): Brain region size scales according to an observable rule predicting region size
 		- e.g. Absolute Brain Volume
-		- e.g. Late-Equals-Larger Rule: Later born regions have larger sizes due to larger Absolute Brain Volume
+		- e.g. Late-Equals-Larger Rule: Later born regions have larger sizes due to ↑ Absolute Brain Volume
