@@ -32,9 +32,13 @@ Lecture Notes
 
 
 #### **Circuit Wiring, Targeting & Refinement**
-- Synaptic Competition (Analogy: PUBG)
+- Cellular & Synaptic Competition (Analogy: PUBG)
 
-| Stage                          | Description                                                                  |
-| ------------------------------ | ---------------------------------------------------------------------------- |
-| Initial Connection             | Excessive                                                                    |
-| Activity-Dependent Competition | Target Cells Secrete Neurotropic Factors (NGF) that Neurons compete for<br>- |
+| Stage                    | Description                                                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| Initial Connection       | Excessive                                                                                                        |
+| Cellular Competition     | Target Cells Secrete Neurotropic Factors (NGF) that Neurons compete for<br>- Losers undergo Programmed Apoptosis |
+| <br>Synaptic Competition | Activity-dependent Competition<br>- Winner inputs are strengthened<br>- Loser inputs are retracted               |
+
+
+#### **Developmental Plasticity & Critical Periods**
