@@ -47,12 +47,14 @@ Lecture Notes
 
 **Types of Spatial Biology**
 
-|            Type             | Description                                    | Goal                |
-| :-------------------------: | :--------------------------------------------- | ------------------- |
-|    Microdissection-Based    | Mild Tissue Digestion into Groups of 2-3 Cells | Discover new niches |
-| In-Situ Hybridization-Based | Fluorescent Probe with                         | Detect              |
-|  In-Situ Sequencing-Based   |                                                |                     |
-|   In-Situ Capturing-Based   |                                                |                     |
+|                 Type                  | Description                                                                                                                                                                                                                                            | Goal                                    |
+| :-----------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+|         Microdissection-Based         | Mild Tissue Digestion into Groups of 2-3 Cells                                                                                                                                                                                                         | Discover new niches                     |
+|    <br>In-Situ Hybridization-Based    | Fluorescent Probe Complementary to Target RNA                                                                                                                                                                                                          | Detect Target RNA Presence & Location   |
+|                   ^                   | Analogy: Put <abbr Title="Probe">Flags of a color</abbr> on the <abbr Title="Tumor Tissue Slice">Map</abbr> to Represent <abbr Title="Target RNA">Landmark</abbr><br>- Multiplexed Version: Flags of different colors to represent different landmarks | <                                       |
+| In-Situ Sequencing-Based<br>(STARmap) | Padlock Probes to cDNA product of RNA reverse transcription → <abbr Title="Rolling Circle Amplification">RCA</abbr>                                                                                                                                    | Read Sequence of RNAs in Tissue Section |
+|                                       | Analogy: Put <abbr Title="Padlock Probes">Reading Machines</abbr> on the Map to read                                                                                                                                                                   |                                         |
+|        In-Situ Capturing-Based        |                                                                                                                                                                                                                                                        |                                         |
 
 **Applications of 3D Tumor Mapping**
 - Understand Spatial Organization of Tumor Cell Types
