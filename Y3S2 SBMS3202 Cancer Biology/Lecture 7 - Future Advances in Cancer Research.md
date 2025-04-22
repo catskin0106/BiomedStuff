@@ -27,13 +27,29 @@ Lecture Notes
 
 
 #### **Synthetic Biosensors in Early Detection**
-- Engineered Molecular Probes / Cells that Amplifies Signals from Early Cancer → Overcome Natural Biomarker Limitations:
+- Engineered Molecular Probes / Cells that Amplifies Signals (Reporters) from Early Cancer → Overcome Natural Biomarker Limitations:
 	- Variable Biomarker Release & Specificity
 		- ∵ Interpatient Variation
 	- Tumor Heterogenicity
 	- Background Noises
 
 **Applications of Synthetic Biosensors**
-- Overexpression of <abbr Title="e.g. Matrix Metalloproteinase">Proteases</abbr> in Cancer can cleave Peptide Synthetic Biosensors into Reporters in Blood / Urine
+- Overexpression of <abbr Title="e.g. Matrix Metalloproteinase">Proteases</abbr> in Cancer can cleave Peptide Synthetic Biosensors into Reporters
 	- Multiplexed using Barcoding
-- Tumor-Specific / Microenvironment Transcription Signals can induce Synthetic Cells / Vectors to release 
+- Tumor-Specific / Microenvironment Transcription Signals can induce Synthetic Cells / Vectors to release Reporters
+
+**Challenges of Synthetic Biosensors**
+- Same as cfDNA
+
+
+#### **3D Mapping of Tumors**
+- Single-Cell Resolution (<abbr Title="Single-Cell RNA Sequencing">scRNA-seq</abbr>) + Spatial Information (Spatial Biology / Transcriptomics) = 3D Mapping of Tumors
+
+**Types of Spatial Biology**
+
+| Type                        | Description |
+| --------------------------- | ----------- |
+| Microdissection-Based       |             |
+| In-Situ Hybridization-Based |             |
+| In-Situ Sequencing-Based    |             |
+| In-Situ Capturing-Based     |             |
