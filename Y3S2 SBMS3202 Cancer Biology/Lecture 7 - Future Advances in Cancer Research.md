@@ -76,4 +76,4 @@ Lecture Notes
 	- Immune-related Adverse Events
 - Lack Personalization
 	- Neoantigen Personalized Vaccines
-	- Combinat
+	- Combinatorial Immunotherapies
