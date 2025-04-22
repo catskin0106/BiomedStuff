@@ -75,7 +75,7 @@ Lecture Notes
 
 |         Drug Type          |         <          | Mechanism                                                                                                                                      | Examples                                      |
 | :------------------------: | :----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
-|    <br>Alkylating Drugs    |         <          | Form Interstand Crosslinks in DNA <br>→ Prevent Daughter Strand Separation in DNA Replication<br>→ Mitosis if unrepaired                       | G: Nitrogen Mustard<br>AG: Platinum Compounds |
+|    <br>Alkylating Drugs    |         <          | Form Interstrand Crosslinks in DNA <br>→ Prevent Daughter Strand Separation in DNA Replication<br>→ Apoptosis if unrepaired                    | G: Nitrogen Mustard<br>AG: Platinum Compounds |
 |    <br>Antimetabolites     |    Antifolates     | Inhibit Thymidine Biosynthesis                                                                                                                 | 5-FU & MTX                                    |
 |             ^              | Nucleotide Analogs | Stop strand elongation                                                                                                                         | Gemcitabine                                   |
 | <br>Antitumor Antibiotics  |         <          | <abbr Title="Responsible for DNA Unwinding">Topoisomerase I / II</abbr> Inhibitors<br>→ Double strand break at Replication Fork<br>→ Apoptosis | Anthracyclines<br>Camptothesin<br>Etoposide   |
