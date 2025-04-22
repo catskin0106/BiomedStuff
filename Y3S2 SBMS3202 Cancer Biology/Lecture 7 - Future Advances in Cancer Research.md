@@ -47,9 +47,12 @@ Lecture Notes
 
 **Types of Spatial Biology**
 
-| Type                        | Description |
-| --------------------------- | ----------- |
-| Microdissection-Based       |             |
-| In-Situ Hybridization-Based |             |
-| In-Situ Sequencing-Based    |             |
-| In-Situ Capturing-Based     |             |
+|            Type             | Description                                    | Goal                |
+| :-------------------------: | :--------------------------------------------- | ------------------- |
+|    Microdissection-Based    | Mild Tissue Digestion into Groups of 2-3 Cells | Discover new niches |
+| In-Situ Hybridization-Based |                                                |                     |
+|  In-Situ Sequencing-Based   |                                                |                     |
+|   In-Situ Capturing-Based   |                                                |                     |
+
+**Applications of 3D Tumor Mapping**
+- Understand tumor cell 
