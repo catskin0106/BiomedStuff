@@ -78,14 +78,13 @@ Lecture Notes
 - Leads to Obesity
 - Red / Processed Meat
 	- ↑ ROS & Gut Inflammation
-- Plant / Fiber-rich & Mediterranean Diet Pattern
-	- Antioxidant Effect
 
 **Cancer Prevention on Diet**
 - Limit Portion Sizes
 - Balanced Diet
 	- ↓ Red / Processed Meat
-	- ↑ Plant / Fiber-rich Diet
+	- ↑ Plant / Fiber-rich & Mediterranean Diet Pattern
+		- Antioxidant Effect
 - Avoid Sugary & Alcoholic Drinks
 
 
