@@ -19,11 +19,15 @@ Lecture Notes
 - Monitor Therapy Response, Relapse / Resistance
 
 **Challenges of cfDNA**
-- Variable cfDNA Release & Specificity
-	- ∵ Interpatient Variation
-- Tumor Heterogenicity
-- Background Noises
+- Test Imperfections
+- Finding <abbr Title="Showing Little to No Progression">Indolent</abbr> Diseases
+- Patient Anxiety
+	- ↓ Adherence to Standard Screening / Validation after Positive Results
 
 
 #### **Synthetic Biosensors in Early Detection**
-- 
+- Engineered Molecular Probes / Cells that Amplifies Signals from Early Cancer → Overcome Natural Biomarker Limitations:
+	- Variable Biomarker Release & Specificity
+		- ∵ Interpatient Variation
+	- Tumor Heterogenicity
+	- Background Noises
