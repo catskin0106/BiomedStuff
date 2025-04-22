@@ -78,7 +78,7 @@ Lecture Notes
 		- E.g. BRCA1/2 gene: Hereditary Ovarian Cancer
 - Guide Treatment Strategies
 	- Treat Patients according to Molecular Profile
-		- E.g. Breast Cancer: Early Days, <abbr Title=ER"">Hormonal Receptors</abbr>, HER2 / BRCA Mutations
+		- E.g. Breast Cancer: Early Days, <abbr Title="ER">Hormonal Receptors</abbr>, HER2 / BRCA Mutations
 - Gene Expression Microarray
 	- Stratifies patients by carcinogenic signaling pathways for adjuvant cancer therapy
 		- E.g. Agendia Mammaprint (70 Signaling Pathways for Breast Cancer Metastasis)
