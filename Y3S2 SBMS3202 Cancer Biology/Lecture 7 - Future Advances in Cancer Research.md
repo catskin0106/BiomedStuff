@@ -50,9 +50,11 @@ Lecture Notes
 |            Type             | Description                                    | Goal                |
 | :-------------------------: | :--------------------------------------------- | ------------------- |
 |    Microdissection-Based    | Mild Tissue Digestion into Groups of 2-3 Cells | Discover new niches |
-| In-Situ Hybridization-Based |                                                |                     |
+| In-Situ Hybridization-Based | Fluorescent Probe with                         | Detect              |
 |  In-Situ Sequencing-Based   |                                                |                     |
 |   In-Situ Capturing-Based   |                                                |                     |
 
 **Applications of 3D Tumor Mapping**
-- Understand tumor cell 
+- Understand Spatial Organization of Tumor Cell Types
+	- e.g. Mapping Hypoxic Macrophages in Glioblastomas → Improve Drug Delivery
+- Map cell-cell & TME-cell interactions
