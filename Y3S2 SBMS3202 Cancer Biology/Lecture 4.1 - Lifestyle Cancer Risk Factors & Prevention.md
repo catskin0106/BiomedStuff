@@ -46,7 +46,7 @@ Lecture Notes
 	- ↑ Tobacco Absorption
 	- Weaken Mucosa & Gut Microbiome
 		- ↑ HPV & GI Inflammation Risk
-- Chronic Inflammation → Immunoescape
+			- Chronic Inflammation → Immunoescape
 
 **Cancer Prevention on Alcohol**
 - Same as Tobacco MPOWER but on alcohol
