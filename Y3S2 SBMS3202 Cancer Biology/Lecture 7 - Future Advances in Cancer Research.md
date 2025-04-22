@@ -20,6 +20,7 @@ Lecture Notes
 
 **Challenges of cfDNA**
 - Test Imperfections
+- Unable in ↓ Mortality
 - Finding <abbr Title="Showing Little to No Progression">Indolent</abbr> Diseases
 - Patient Anxiety
 	- ↓ Adherence to Standard Screening / Validation after Positive Results
@@ -31,3 +32,8 @@ Lecture Notes
 		- ∵ Interpatient Variation
 	- Tumor Heterogenicity
 	- Background Noises
+
+**Applications of Synthetic Biosensors**
+- Overexpression of <abbr Title="e.g. Matrix Metalloproteinase">Proteases</abbr> in Cancer can cleave Peptide Synthetic Biosensors into Reporters in Blood / Urine
+	- Multiplexed using Barcoding
+- Tumor-Specific / Microenvironment Transcription Signals can induce Synthetic Cells / Vectors to release 
