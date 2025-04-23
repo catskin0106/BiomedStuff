@@ -38,7 +38,7 @@ Lecture Notes
 
 
 #### **Cancer Cell Lines**
-**Applications of Cell-Free Models**
+**Applications of Cancer Cell Lines**
 - Observe Cell Growth, Migration & Invasion
 	- e.g. <abbr Title="Epithelial-to-Mesenchymal Transition">EMT</abbr>
 - Testing / Modeling Cellular Resistance to Drug
