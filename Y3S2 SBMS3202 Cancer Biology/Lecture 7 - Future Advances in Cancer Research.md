@@ -20,7 +20,7 @@ Lecture Notes
 
 **Challenges of cfDNA**
 - Test Imperfections
-- Unable in ↓ Mortality
+- Unable to ↓ Mortality
 - Finding <abbr Title="Showing Little to No Progression">Indolent</abbr> Diseases
 - Patient Anxiety
 	- ↓ Adherence to Standard Screening / Validation after Positive Results
