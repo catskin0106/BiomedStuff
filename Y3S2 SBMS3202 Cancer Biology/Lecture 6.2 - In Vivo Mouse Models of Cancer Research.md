@@ -33,11 +33,11 @@ Lecture Notes
 
 **Types of Immunocompetent Mice Models**
 
-| Model                                                       | Description                                                                                                     |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Syngeneic                                                   | Used in Immune Checkpoint Blockade Therapy                                                                      |
-| Humanized                                                   | CD34<sup>+</sup> <abbr Title="Hematopoietic Stem Cell">HSC</abbr> & Multi-lineage Human Immune Cell Engraftment |
-| <abbr Title="Genetically Engineered Mice Model">GEMM</abbr> | Gene Knockin & Knockout using different systems                                                                 |
+| Model                                                                                | Description                                                                                                     |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| <abbr Title="Genetically Identical enough to allow Transplantation">Syngeneic</abbr> | Used in Immune Checkpoint Blockade Therapy                                                                      |
+| Humanized                                                                            | CD34<sup>+</sup> <abbr Title="Hematopoietic Stem Cell">HSC</abbr> & Multi-lineage Human Immune Cell Engraftment |
+| <abbr Title="Genetically Engineered Mice Model">GEMM</abbr>                          | Gene Knockin & Knockout using different systems                                                                 |
 
 **Types of Cancer Induction**
 - Chemical
