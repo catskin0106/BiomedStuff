@@ -49,7 +49,7 @@ Lecture Notes
 
 
 #### **Radiotherapy**
-- Radiation → cancer cell DNA damage
+- Radiation → Cancer cell DNA damage
 	- → DNA Repair Mechanism Activation → Cell Cycle Arrest
 	- → Double Strand break → Genomic Instability & Apoptosis
 
