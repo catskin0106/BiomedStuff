@@ -45,7 +45,7 @@ Lecture Notes
 - Peripheral DDC Inhibitors (Carbidopa, Benserazide)
 	- Inhibits <abbr Title="e.g. Gut, Liver">Peripheral</abbr> DDC → ↑ L-DOPA reaching the brain
 	- Does not Cross BBB
-- <abbr Title="Monoamine Oxidase-B">MAO-B</abbr> Inhibitors (Sele<font color=yellow>giline</font>, Rasa<font color=yellow>giline</abbr>)
+- <abbr Title="Monoamine Oxidase-B">MAO-B</abbr> Inhibitors (Sele<font color=yellow>giline</font>, Rasa<font color=yellow>giline</font>)
 	- Selective & Irreversible MAO-B Inhibition → ↓ Neuronal DA Catabolism
 - <abbr Title="Catachol-O-Methyltransferase">COMT</abbr> Inhibitors (Enta<font color=yellow>capone</font>, Tol<font color=yellow>capone</font>)
 	- COMT Inhibition → ↓ L-DOPA & DA Catabolism
