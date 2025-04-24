@@ -81,6 +81,6 @@ Lecture Notes
 | Sedation<br>Cognitive Impairment<br> | All Except Phenytoin                                                                                                       |
 |  Dependence<br>Withdrawal Syndrome   | Benzodiazepines                                                                                                            |
 |           <br><br>Toxicity           | Phenobarbitone: <abbr Title="Severe Rash in Han Chinese with HLA-B*1502">Stevens-Johnson Syndrome</abbr>, Aplastic Anaemia |
-|                  ^                   | Phenytoin: Teratogenicity, Gum Hyperplasia& Bone Marrow Suppression                                                        |
+|                  ^                   | Phenytoin: Teratogenicity, Gum Hyperplasia & Bone Marrow Suppression                                                       |
 |                  ^                   | Carbamazepine: Fatal in Overdose                                                                                           |
 |                  ^                   | Valproate: Teratogenicity, Hepatoxicity                                                                                    |
