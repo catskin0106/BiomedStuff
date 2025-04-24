@@ -47,7 +47,7 @@ Lecture Notes
 |                                                     Drug Examples                                                     | Description                                                                                            |
 | :-------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ |
 | Carbamazepine<br>Oxcarzepine<br>Phenytoin<br><font color=lime>Valproate</font><br><font color=lime>Lamotrigine</font> | Use-Dependent Na<sup>+</sup> Channel Blockade<br>→ Blocks Excessive Firing while sparing Normal Firing |
-**Voltage-Gated Ca<sup>2+</sup> Channel Inhibitors
+**Voltage-Gated Ca<sup>2+</sup> Channel Inhibitors**
 
 | Inhibited Ca²⁺ Channels |                                Drug Examples                                 | Description                                               |
 | :---------------------: | :--------------------------------------------------------------------------: | --------------------------------------------------------- |
