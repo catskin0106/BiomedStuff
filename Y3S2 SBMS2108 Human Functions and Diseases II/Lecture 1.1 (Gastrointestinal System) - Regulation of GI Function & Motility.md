@@ -10,17 +10,17 @@ Lecture Notes
 **GI Tract**
 - Mouth → Esophagus → Stomach → Duodenum → Ileum → Cecum → <abbr Title="Ascending → Transverse → Descending">Colon</abbr> → Jejunum → Anus
 
-| **Structure**      | <                         | **Function**                                                       |
-| :----------------- | :------------------------ | ------------------------------------------------------------------ |
-| Mucosa             | Epithelium                |                                                                    |
-| ^                  | Lamina Propria            |                                                                    |
-| ^                  | Muscularis Mucosa         |                                                                    |
-| Submucosa          | Blood & Lymphatic Vessels |                                                                    |
-| ^                  | Submucosal Plexus         | <abbr Title="Enteric Nervous System">ENS</abbr>: Control Secretion |
-| Muscularis Externa | Circular Muscle           |                                                                    |
-| ^                  | Myenteric Plexus          | <abbr Title="Enteric Nervous System">ENS</abbr>: Control Motility  |
-| ^                  | Longitudinal Muscle       |                                                                    |
-| Serosa             | <                         | Tough Connective Tissues                                           |
+|     **Structure**      |             <             | **Function**                                                       |
+| :--------------------: | :-----------------------: | ------------------------------------------------------------------ |
+|       <br>Mucosa       |        Epithelium         |                                                                    |
+|           ^            |      Lamina Propria       |                                                                    |
+|           ^            |     Muscularis Mucosa     |                                                                    |
+|     <br>Submucosa      | Blood & Lymphatic Vessels |                                                                    |
+|           ^            |     Submucosal Plexus     | <abbr Title="Enteric Nervous System">ENS</abbr>: Control Secretion |
+| <br>Muscularis Externa |      Circular Muscle      |                                                                    |
+|           ^            |     Myenteric Plexus      | <abbr Title="Enteric Nervous System">ENS</abbr>: Control Motility  |
+|           ^            |    Longitudinal Muscle    |                                                                    |
+|         Serosa         |             <             | Tough Connective Tissues                                           |
 
 **GI Accessory Organs**
 - Salivary Glands
