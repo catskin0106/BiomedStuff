@@ -17,10 +17,10 @@ Lecture Notes
 #### **Gastric Motility**
 
 | **Motor Function** | **Muscle Action** | **Function**                                |
-| ------------------ | ----------------- | ------------------------------------------- |
-| Receptive          | Relaxation        | Accommodate ingested meal (0.5 → 1.5L)      |
-| Churning           | Contraction       | Mix bolus with gastric juice & ↓ bolus size |
-| Emptying           | Contraction       | Propel chyme into duodenum                  |
+| :----------------: | :---------------: | ------------------------------------------- |
+|     Receptive      |    Relaxation     | Accommodate ingested meal (0.5 → 1.5L)      |
+|      Churning      |    Contraction    | Mix bolus with gastric juice & ↓ bolus size |
+|      Emptying      |    Contraction    | Propel chyme into duodenum                  |
 
 **Regulation of Gastric Emptying**
 - Regulated to maintain Optimal Rate for Digestion & Absorption
