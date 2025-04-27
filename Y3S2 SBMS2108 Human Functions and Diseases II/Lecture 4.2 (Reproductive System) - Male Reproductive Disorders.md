@@ -28,4 +28,16 @@ Lecture Notes
 |            ^            | Pathophysiology | HPG Axis Disruption → Low Testosterone & Sperm Production                                                                                                                                                 |
 |            ^            |   Progression   |                                                                                                                                                                                                           |
 |        Diagnosis        |        <        | Clinical Signs → Serum Testosterone Levels<br>LH/FSH Levels Differentiate Primary / Secondary                                                                                                             |
-|      <br>Treatment      |        <        |                                                                                                                                                                                                           |
+|      <br>Treatment      |        <        | <abbr Title="Testosterone Replacement Therapy">TRT</abbr> & Hormonal Therapy through Patches / Injections                                                                                                 |
+
+
+#### **Cryptorchidism**
+
+|     Characteristic      |        <        | Description                                                                    |
+| :---------------------: | :-------------: | ------------------------------------------------------------------------------ |
+|       Definition        |        <        | Testes fail to descend into Scrotum                                            |
+| <br><br>Pathophysiology |   Risk Factor   | Hormonal:                                                                      |
+|            ^            | Pathophysiology |                                                                                |
+|            ^            |   Progression   | Heals within 3 months after birth<br>↑ Risk of Infertility / Testicular Cancer |
+|        Diagnosis        |        <        |                                                                                |
+|      <br>Treatment      |        <        |                                                                                |
