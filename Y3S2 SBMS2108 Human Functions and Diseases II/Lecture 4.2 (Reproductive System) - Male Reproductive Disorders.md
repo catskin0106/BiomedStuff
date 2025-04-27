@@ -9,8 +9,12 @@ Lecture Notes
 
 ---
 #### **Erectile Dysfunction**
-**Pathophysiology**
 
-| Category          | Description |
-| ----------------- | ----------- |
-| Background Causes |             |
+|   Characteristic    |        <        | Description                             |
+| :-----------------: | :-------------: | --------------------------------------- |
+|     Definition      |        <        | Repeated Inability to Maintain Erection |
+| <br>Pathophysiology |   Risk Factor   |                                         |
+|          ^          | Pathophysiology |                                         |
+|          ^          |   Progression   |                                         |
+|      Diagnosis      |        <        |                                         |
+|      Treatment      |        <        |                                         |
