@@ -30,7 +30,7 @@ Lecture Notes
 **Regulation of Pancreatic Secretion**
 - Endocrine Hormone Stimulation with Negative Feedback
 
-|      Regulation Target      |            Regulatory Hormone            | Hormone Secreting Cell |
+|      Regulation Target      |           Stimulatory Hormone            | Hormone Secreting Cell |
 | :-------------------------: | :--------------------------------------: | :--------------------: |
 | HCO<sub>3</sub><sup>-</sup> |             Plasma Secretin              |     Ileum S Cells      |
 |           Enzymes           | <abbr Title="Cholecystokinin">CCK</abbr> |     Ileum I Cells      |
