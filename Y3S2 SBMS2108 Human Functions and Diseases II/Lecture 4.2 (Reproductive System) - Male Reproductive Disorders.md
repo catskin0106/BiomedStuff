@@ -54,11 +54,11 @@ Lecture Notes
 
 #### **Benign Prostatic Hyperplasia (BPH)**
 
-|     Characteristic      |        <        | Description                                                                                                                                                                                               |
-| :---------------------: | :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       Definition        |        <        | Low libido, ED & Infertility                                                                                                                                                                              |
-| <br><br>Pathophysiology |   Risk Factor   | <abbr Title="Hypergonadotropic">Primary</abbr>: Testicular Failure → ↓ -ve Feedback → ↑ LH/FSH Level<br><abbr Title="Hypogonadotropic">Secondary</abbr>: Pituitary / Hypothalamus Failure → Normal LH/FSH |
-|            ^            | Pathophysiology | HPG Axis Disruption → Low Testosterone & Sperm Production                                                                                                                                                 |
-|            ^            |   Progression   |                                                                                                                                                                                                           |
-|        Diagnosis        |        <        | Clinical Signs → Serum Testosterone Levels<br>LH/FSH Levels Differentiate Primary / Secondary                                                                                                             |
-|      <br>Treatment      |        <        | <abbr Title="Testosterone Replacement Therapy">TRT</abbr> / <abbr Title="to Stimulate Testosterone Production">HCG</abbr> Therapy through Patches / Injections                                            |
+|     Characteristic      |        <        | Description                                                                                                  |
+| :---------------------: | :-------------: | ---------------------------------------------------------------------------------------------------------- |
+|       Definition        |        <        | Non-malignant prostate gland gr                                                                              |
+| <br><br>Pathophysiology |   Risk Factor   | Aging & ↑ Dihydrotestos                                                                                      |
+|            ^            | Pathophys Urethra compressed by enlarged prostate → Bladder outlet destruction<br>- Voiding: Weak stream & Post-void ng:  e →  |
+|            ^            |   Progre                                                                                                                       |
+|        Diagnosis        |                                                                                                                                |
+|      <br>Treatment      |                                                                                                                                |
