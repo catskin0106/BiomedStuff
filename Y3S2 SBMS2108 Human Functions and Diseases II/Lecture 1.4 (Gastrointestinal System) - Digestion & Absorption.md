@@ -64,9 +64,9 @@ graph TD;
 
 **Absorption of Lipids**
 
-| **Step** | **Event**              | **Description**                                                                                                                                                |
-| -------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1        | Diffusion              | Lipid Diffuse into <abbr Title="Brush Border Membrane">BBM</abbr> from Micelles                                                                                |
+| **Step** |       **Event**        | **Description**                                                                                                                                                |
+| -------- | :--------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        |       Diffusion        | Lipid Diffuse into <abbr Title="Brush Border Membrane">BBM</abbr> from Micelles                                                                                |
 | <br>2    | <br>Re-esterification  | Monoglyceride + <abbr Title="Long Chain Fatty Acid">LCFA</abbr> → Triglyceride<br>Cholesterol + LCFA → Cholesterol Ester<br>Lysolecithin + LCFA → Phospholipid |
 | 3        | Chylomicron Formation  | Lipids are packaged with apoprotein                                                                                                                            |
 | 4        | Chylomicron Exocytosis | Chylomicron cross the <abbr Title="Basolateral Membrane">BLM</abbr> into Lacteal                                                                               |
