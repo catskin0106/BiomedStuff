@@ -21,11 +21,11 @@ Lecture Notes
 
 #### **Male Hypogonadism**
 
-|       Characteristic        |        <        | Description                                               |
-| :-------------------------: | :-------------: | --------------------------------------------------------- |
-|         Definition          |        <        | HPG Axis Disruption → Low Testosterone & Sperm Production |
-| <br><br><br>Pathophysiology | <br>Risk Factor |                                                           |
-|              ^              | Pathophysiology |                                                           |
-|              ^              |   Progression   |                                                           |
-|          Diagnosis          |        <        |                                                           |
-|        <br>Treatment        |        <        |                                                           |
+|     Characteristic      |        <        | Description                                                                                                                                                                                               |
+| :---------------------: | :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       Definition        |        <        | Low libido, ED & Infertility                                                                                                                                                                              |
+| <br><br>Pathophysiology |   Risk Factor   | <abbr Title="Hypergonadotropic">Primary</abbr>: Testicular Failure → ↓ -ve Feedback → ↑ LH/FSH Level<br><abbr Title="Hypogonadotropic">Secondary</abbr>: Pituitary / Hypothalamus Failure → Normal LH/FSH |
+|            ^            | Pathophysiology | HPG Axis Disruption → Low Testosterone & Sperm Production                                                                                                                                                 |
+|            ^            |   Progression   |                                                                                                                                                                                                           |
+|        Diagnosis        |        <        | Clinical Signs → Serum Testosterone Levels<br>LH/FSH Levels Differentiate Primary / Secondary                                                                                                             |
+|      <br>Treatment      |        <        |                                                                                                                                                                                                           |
