@@ -26,9 +26,8 @@ Lecture Notes
 |       Definition        |        <        | Low libido, ED & Infertility                                                                                                                                                                              |
 | <br><br>Pathophysiology |   Risk Factor   | <abbr Title="Hypergonadotropic">Primary</abbr>: Testicular Failure → ↓ -ve Feedback → ↑ LH/FSH Level<br><abbr Title="Hypogonadotropic">Secondary</abbr>: Pituitary / Hypothalamus Failure → Normal LH/FSH |
 |            ^            | Pathophysiology | HPG Axis Disruption → Low Testosterone & Sperm Production                                                                                                                                                 |
-|            ^            |   Progression   |                                                                                                                                                                                                           |
 |        Diagnosis        |        <        | Clinical Signs → Serum Testosterone Levels<br>LH/FSH Levels Differentiate Primary / Secondary                                                                                                             |
-|      <br>Treatment      |        <        | <abbr Title="Testosterone Replacement Therapy">TRT</abbr> & Hormonal Therapy through Patches / Injections                                                                                                 |
+|      <br>Treatment      |        <        | <abbr Title="Testosterone Replacement Therapy">TRT</abbr> / <abbr Title="to Stimulate Testosterone Production">HCG</abbr> Therapy through Patches / Injections                                            |
 
 
 #### **Cryptorchidism**
@@ -36,8 +35,30 @@ Lecture Notes
 |     Characteristic      |        <        | Description                                                                    |
 | :---------------------: | :-------------: | ------------------------------------------------------------------------------ |
 |       Definition        |        <        | Testes fail to descend into Scrotum                                            |
-| <br><br>Pathophysiology |   Risk Factor   | Hormonal:                                                                      |
-|            ^            | Pathophysiology |                                                                                |
+| <br><br>Pathophysiology | Pathophysiology | Hormonal: ↓ Testosterone<br>Anatomical: Short Spermatic Cord                   |
 |            ^            |   Progression   | Heals within 3 months after birth<br>↑ Risk of Infertility / Testicular Cancer |
-|        Diagnosis        |        <        |                                                                                |
-|      <br>Treatment      |        <        |                                                                                |
+|        Diagnosis        |        <        | Newborn Physical Examination<br>Diagnostic Laparoscopy                         |
+|        Treatment        |        <        | Observation → HCG Therapy + Inguinal Orchiopexy                                |
+
+
+#### **Varicocele**
+
+| Characteristic  |        <        | Description                                                                                                        |
+| :-------------: | :-------------: | ------------------------------------------------------------------------------------------------------------------ |
+|   Definition    |        <        | Scrotum Pampiniform Plexus Swelling → Painless but Heaviness                                                       |
+| Pathophysiology | Pathophysiology | Detective / Blocked Veins                                                                                          |
+|        ^        |   Progression   | ↓ Blood Flow → Testicular Atrophy<br>↓ Countercurrent Heat Exchange → ↑ Testicular Temperature → ↓ Spermatogenesis |
+|    Diagnosis    |        <        | Physical Examination → Scrotal Ultrasound                                                                          |
+|    Treatment    |        <        | Often not required / supportive underwear<br>Embolization if symptoms are severe                                   |
+
+
+#### **Benign Prostatic Hyperplasia (BPH)**
+
+|     Characteristic      |        <        | Description                                                                                                                                                                                               |
+| :---------------------: | :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       Definition        |        <        | Low libido, ED & Infertility                                                                                                                                                                              |
+| <br><br>Pathophysiology |   Risk Factor   | <abbr Title="Hypergonadotropic">Primary</abbr>: Testicular Failure → ↓ -ve Feedback → ↑ LH/FSH Level<br><abbr Title="Hypogonadotropic">Secondary</abbr>: Pituitary / Hypothalamus Failure → Normal LH/FSH |
+|            ^            | Pathophysiology | HPG Axis Disruption → Low Testosterone & Sperm Production                                                                                                                                                 |
+|            ^            |   Progression   |                                                                                                                                                                                                           |
+|        Diagnosis        |        <        | Clinical Signs → Serum Testosterone Levels<br>LH/FSH Levels Differentiate Primary / Secondary                                                                                                             |
+|      <br>Treatment      |        <        | <abbr Title="Testosterone Replacement Therapy">TRT</abbr> / <abbr Title="to Stimulate Testosterone Production">HCG</abbr> Therapy through Patches / Injections                                            |
