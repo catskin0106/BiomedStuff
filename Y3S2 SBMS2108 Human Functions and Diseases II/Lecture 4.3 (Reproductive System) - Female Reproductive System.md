@@ -100,10 +100,12 @@ Lecture Notes
 	- ∵ Follicle Depletion (~ Age 50)
 	- ∵ Poor Quality of Remaining Follicles → Refractory to Gonadotropins
 
-**Sym
-- Symptoms:
-	- ↓ Estrogen & Inhibin → ↓ Negative Feedback → ↑ FSH & LH
-	- Hot Flashes & Sweating
-	- Urogenital Atrophy & Osteoporosis
-	- Mood & Sleep Disturbances
-- Assessment
+**Symptoms**
+- ↓ Estrogen & Inhibin → ↓ Negative Feedback → ↑ FSH & LH
+- Hot Flashes & Sweating
+- Urogenital Atrophy & Osteoporosis
+- Mood & Sleep Disturbances
+
+**Assessment**
+- <abbr Title="Anti-Mullerian Hormone">AMH</abbr> Levels
+- Ultrasound <abbr Title="Antral Follicle Count">AFC</abbr>
