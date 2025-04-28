@@ -64,13 +64,13 @@ graph TD;
 #### **Regulation of Water Balance**
 **Water Reabsorption by ADH**
 
-| Stage             | Description                                                                                                           |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Production        | In Hypothalamus (Paraventricular / Supraoptic Nuclei)                                                                 |
-| Stimulation       | By ↑ Plasma Osmolality (Osmoreceptors)<br>By ↓ Blood Volume / Pressure (Baroreceptors in Aortic Arch & Carotid Sinus) |
+|       Stage       | Description                                                                                                           |
+| :---------------: | --------------------------------------------------------------------------------------------------------------------- |
+|    Production     | In Hypothalamus (Paraventricular / Supraoptic Nuclei)                                                                 |
+|    Stimulation    | By ↑ Plasma Osmolality (Osmoreceptors)<br>By ↓ Blood Volume / Pressure (Baroreceptors in Aortic Arch & Carotid Sinus) |
 | Storage & Release | In Posterior Pituitary                                                                                                |
-| Action            | Inducing AQP2 Insertion in Apical Membrane of Collecting Duct Principal Cells                                         |
-| Effect            | ↑ Water reabsorption → Concentrated Urine → Water Balance                                                             |
+|      Action       | Inducing AQP2 Insertion in Apical Membrane of Collecting Duct Principal Cells                                         |
+|      Effect       | ↑ Water reabsorption → Concentrated Urine → Water Balance                                                             |
 
 **Thirst Control by Angiotensin II**
 
