@@ -77,11 +77,11 @@ Lecture Notes
 #### **Folliculogenesis & Oogenesis**
 **Folliculogenesis**
 
-|            Phase             | Description                                                                                 |
-| :--------------------------: | ------------------------------------------------------------------------------------------- |
-|     Primordial Follicles     | Gonadotropin-Independent                                                                    |
-|   <br>Secondary Follicles    | Theca layers form → LH Sensitive<br>Granulosa Cells form → FSH Sensitive<br>Antrum Develops |
-| Graafin Follicle<br>(Only 1) | 1 Follicle Become Dominant<br>- Others undergo Atresia                                      |
+|            Phase             | Description                                                                                                       |
+| :--------------------------: | ----------------------------------------------------------------------------------------------------------------- |
+|     Primordial Follicles     | Gonadotropin-Independent                                                                                          |
+|   <br>Secondary Follicles    | Theca layers form → LH Sensitive<br>Granulosa Cells form → FSH Sensitive<br>Antrum Develops                       |
+| Graafin Follicle<br>(Only 1) | 1 Follicle Become Dominant<br>- Others undergo <abbr Title="Degeneration by Programmed Cell Death">Atresia</abbr> |
 
 **Oogenesis**
 - Oocyte pool is fixed at birth
