@@ -70,7 +70,7 @@ Lecture Notes
 | :--------------------------------: | :----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           <br>Functions            |      <       | Initiate Alveologenesis                                                                                                                                           |
 |                 ^                  |      ^       | ↑ Key Transcriptional Drivers for Milk Components <br>→ Promote Secretory Differentiation of Alveoli                                                              |
-|           <br>Regulation           |      ↑       | TRH, Estrogen, Brest Suckling                                                                                                                                     |
+|           <br>Regulation           |      ↑       | TRH, Estrogen, Breast Suckling                                                                                                                                    |
 |                 ^                  |      ↓       | Dopamine, Cortisol                                                                                                                                                |
 | <br>Pathology:<br>Hyperprolactemia | <br>Symptoms | Gynaecomastia / Galactorrhea                                                                                                                                      |
 |                 ^                  |      ^       | Inhibits <abbr Title="GnRH, LH, FSH">Hypothalamic-Pituitary-Gonadal axis</abbr><br>→ Hypogonadism (Infertility / <abbr Title="No Menstruation">Amenorrhea</abbr>) |
