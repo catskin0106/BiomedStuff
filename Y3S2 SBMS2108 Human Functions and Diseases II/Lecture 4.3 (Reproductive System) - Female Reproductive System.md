@@ -2,9 +2,9 @@ Lecture Notes
 
 **Lecture Coverage:**
 - Key Organs in the Female Reproductive System
+- Hormonal Control in the Hypothalamus-Pituitary-Ovarian Axis
 - Fertilization Cycle
 - Folliculogenesis & Oogenesis
-- Hormonal Control in the Hypothalamus-Pituitary-Ovarian Axis
 - Menopause
 
 ---
@@ -21,6 +21,9 @@ Lecture Notes
 |     Cervix     |      <      | Cyclic Mucus Production → Sperm Inhibition / Facilitation          |
 |     Vagina     |      <      | Coitus & Birth Canal                                               |
 
+#### **Hormonal Control in the Hypothalamus-Pituitary-Ovarian Axis**
+
+
 #### **Fertilization Cycle**
 - Menstrual Cycle: Ovarian Cycle + Uterine Cycle
 	- Day 1: First day of Menses
@@ -36,11 +39,21 @@ Lecture Notes
 **Uterine Cycle**
 - Governed by Estrogen & Progesterone
 
-| Phase         | Event                                                         |
-| ------------- | ------------------------------------------------------------- |
-| Menstrual     | Estrogen & Progesterone<br>→ Uterus Functional Layer Shedding |
-| Proliferative | ↑ Estrogen → Endometrium Regrowth                             |
-| Secretory     | ↑ Progesterone →                                              |
+| Phase         | Event                                                              |
+| ------------- | ------------------------------------------------------------------ |
+| Menstrual     | ↓ Estrogen & Progesterone<br>→ Uterus Functional Layer Shedding    |
+| Proliferative | ↑ Estrogen → Endometrium Regrowth                                  |
+| Secretory     | ↑ Progesterone → Endometrium Glandular Secretion & Vascularization |
 
+**Fertile Window**
+- Highest Viability : Near Ovulation
+	- Sperm: 4-5 Days
+	- Oocyte: 24-36 Hours Post-Ovulation
+- Indicators: 
+	- Clear & Watery Cervical Mucus
+	- ↑ 0.3-0.5°C <abbr Title="Basal Body Temperature">BBT</abbr>
+- Contraceptives:
+	- Synthetic Estrogen → ↓ FSH & Ovulation
+	- Synthetic Progestin → ↓ Ovulation
 
 #### **Folliculogenesis & Oogenesis**
