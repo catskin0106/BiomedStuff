@@ -5,7 +5,6 @@ Lecture Notes
 - Fertilization Cycle
 - Folliculogenesis & Oogenesis
 - Hormonal Control in the Hypothalamus-Pituitary-Ovarian Axis
-- Fertilization
 - Menopause
 
 ---
@@ -37,11 +36,11 @@ Lecture Notes
 **Uterine Cycle**
 - Governed by Estrogen & Progesterone
 
-| Phase         | Event                                                            |
-| ------------- | ---------------------------------------------------------------- |
-| Menstrual     | Steroid Hormone Withdrawal<br>→ Uterus Functional Layer Shedding |
-| Proliferative |                                                                  |
-| Secretory     |                                                                  |
+| Phase         | Event                                                         |
+| ------------- | ------------------------------------------------------------- |
+| Menstrual     | Estrogen & Progesterone<br>→ Uterus Functional Layer Shedding |
+| Proliferative | ↑ Estrogen → Endometrium Regrowth                             |
+| Secretory     | ↑ Progesterone →                                              |
 
 
 #### **Folliculogenesis & Oogenesis**
