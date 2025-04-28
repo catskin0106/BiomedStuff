@@ -11,9 +11,9 @@ Lecture Notes
 - Distribution in ECF (~2%) & ICF (~98%) must be maintained
 
 | Compartment | Importance                                     |
-| ----------- | ---------------------------------------------- |
-| ECF         | Maintain RMP of nerve & muscle cells           |
-| ICF         | Maintain Intracellular pH & Cellular Functions |
+| :---------: | ---------------------------------------------- |
+|     ECF     | Maintain RMP of nerve & muscle cells           |
+|     ICF     | Maintain Intracellular pH & Cellular Functions |
 
 **Mechanisms of K<sup>+</sup> Balance**
 - Between Different Body Compartments
@@ -25,10 +25,10 @@ Lecture Notes
 #### **K<sup>+</sup> Transcellular Movement**
 **Factors Stimulating Cell K<sup>+</sup> Uptake / Release**
 
-| Factor            | Description                                                                                                                                                                                               |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      Factor       | Description                                                                                                                                                                                               |
+| :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Acid-Base Balance | Cross-membrane movement requires: Cation Counter-movement / Anion Parallel Movement<br>e.g. Secreted into Plasma to maintain pH (Plasma Acidosis → H<sup>+</sup> enter cell & K<sup>+</sup> enter plasma) |
-| Aldosterone       | Promotes Cell K<sup>+</sup> Uptake<br>Also Promotes K<sup>+</sup> Excretion from Kidneys                                                                                                                  |
+|    Aldosterone    | Promotes Cell K<sup>+</sup> Uptake<br>Also Promotes K<sup>+</sup> Excretion from Kidneys                                                                                                                  |
 
 **Factors Stimulating Cell K<sup>+</sup> Uptake**
 -  Insulin
