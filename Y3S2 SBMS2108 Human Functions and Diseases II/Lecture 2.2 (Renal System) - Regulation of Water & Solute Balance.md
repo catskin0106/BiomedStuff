@@ -74,9 +74,9 @@ graph TD;
 
 **Thirst Control by Angiotensin II**
 
-| Stage              | Description                                                                                                           |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| Stimulation        | By ↑ Plasma Osmolality (Osmoreceptors)<br>By ↓ Blood Volume / Pressure (Baroreceptors in Aortic Arch & Carotid Sinus) |
+|       Stage        | Description                                                                                                           |
+| :----------------: | --------------------------------------------------------------------------------------------------------------------- |
+|    Stimulation     | By ↑ Plasma Osmolality (Osmoreceptors)<br>By ↓ Blood Volume / Pressure (Baroreceptors in Aortic Arch & Carotid Sinus) |
 | Central Processing | By CNS Thrist Centre                                                                                                  |
-| Action             | Thirst Stimulated by Angiotensin II                                                                                   |
-| Effect             | ↑ Water Intake → Water Balance                                                                                        |
+|       Action       | Thirst Stimulated by Angiotensin II                                                                                   |
+|       Effect       | ↑ Water Intake → Water Balance                                                                                        |
