@@ -22,7 +22,14 @@ Lecture Notes
 |     Vagina     |      <      | Coitus & Birth Canal                                               |
 
 #### **Hormonal Control in the Hypothalamus-Pituitary-Ovarian Axis**
-
+|            Stage             |   <   | Description                          |
+| :--------------------------: | :---: | ------------------------------------ |
+|          Signalling          |   0   | Kisspeptin: Mediates Feedback Loop   |
+|   Hypothalamic Stimulation   |   1   | Hypothalamus release GnRH            |
+|    Pituitary Stimulation     |   2   | Anterior Pituitary Releases LH & FSH |
+|    <br>Ovary Stimulation     | <br>3 | LH:                                  |
+|              ^               |   ^   | FSH:                                 |
+| Negative / Positive Feedback |   4   | Cortisol                             |
 
 #### **Fertilization Cycle**
 - Menstrual Cycle: Ovarian Cycle + Uterine Cycle
