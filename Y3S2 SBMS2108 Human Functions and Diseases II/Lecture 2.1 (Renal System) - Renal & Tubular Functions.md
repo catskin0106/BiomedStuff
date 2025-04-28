@@ -9,13 +9,13 @@ Lecture Notes
 #### **Kidney Function & Structure**
 **Functions of the Kidney**
 
-| Function      | <                   | Examples                                                                                                               |
-| :------------ | :------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| Excretion     | Metabolic Product   | Urea, Uric Acid & Creatinine                                                                                           |
-| ^             | Excessive Substance | Water                                                                                                                  |
-| Balance       | <                   | Water / Electrolyte, Acid / Base & Blood Pressure                                                                      |
-| <br>Secretion | Hormone             | Renin                                                                                                                  |
-| ^             | Enzyme              | Erythropoietin: Blood Cell Formation<br><abbr Title="1,25-Dihydroxyl-Vitamin D3">Calcitriol</abbr>: Ca & Pi Absorption |
+|   Function    |          <          | Examples                                                                                                               |
+| :-----------: | :-----------------: | ---------------------------------------------------------------------------------------------------------------------- |
+|   Excretion   |  Metabolic Product  | Urea, Uric Acid & Creatinine                                                                                           |
+|       ^       | Excessive Substance | Water                                                                                                                  |
+|    Balance    |          <          | Water / Electrolyte, Acid / Base & Blood Pressure                                                                      |
+| <br>Secretion |       Hormone       | Renin                                                                                                                  |
+|       ^       |       Enzyme        | Erythropoietin: Blood Cell Formation<br><abbr Title="1,25-Dihydroxyl-Vitamin D3">Calcitriol</abbr>: Ca & Pi Absorption |
 
 **Structure of the Kidney**
 - Loop of Henle
@@ -23,11 +23,11 @@ Lecture Notes
 	- Ascending Limb: Only permeable to solutes (Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransporter)
 - Juxtaglomerular Apparatus
 
-| Cell           | Location           | Function                                                                           |
-| :------------- | ------------------ | ---------------------------------------------------------------------------------- |
-| Macula Densa   | Distal Tubule      | Senses Na                                                                          |
+|      Cell      |      Location      | Function                                                                           |
+| :------------: | :----------------: | ---------------------------------------------------------------------------------- |
+|  Macula Densa  |   Distal Tubule    | Senses Na                                                                          |
 | Granular Cell  | Afferent Arteriole | Produces Renin under:<br>↓ NaCl / ↓ Afferent Arteriole BP / Sympathetic Activation |
-| Mesangial Cell | Extraglomerular    |                                                                                    |
+| Mesangial Cell |  Extraglomerular   |                                                                                    |
 
 
 #### **Renal Clearance**

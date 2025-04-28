@@ -52,12 +52,12 @@ Lecture Notes
 |    Pathogenesis     | Pancreatic / Gastric <abbr Title="Gastrin-Producing Neuroendocrine Tumor">Gastrinoma</abbr> → Hypergastrinemia |
 |      Pathology      | Gastrin has no HCl Negative Feedback → HCl Hypersecretion                                                      |
 |      Symptoms       | low pH → Lipase Inactivation → Lipid Malabsorption                                                             |
-| Disease Progression | PUD                                                                                                            |
+| Disease Progression | <abbr Title="Peptic Ulcer Disease">PUD</abbr>                                                                  |
 |      Diagnosis      | Secretin Stimulation Test<br>(Positive: Abnormally high Serum Gastrin level)                                   |
 |      Treatment      | Suppress HCl Production<br>Remove Tumor                                                                        |
 
 
-**Peptic Ulcer Disease**
+**Peptic Ulcer Disease (PUD)**
 
 |      Property       |             <             | Description                                                                                                                                                            |
 | :-----------------: | :-----------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

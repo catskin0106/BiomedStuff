@@ -61,11 +61,11 @@ Lecture Notes
 
 #### **Polycystic Ovarian Syndrome (PCOS)**
 
-|     Characteristic      |        <        | Description                                                                                                                   |
-| :---------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------------------------- |
-|       Definition        |        <        | Endometrial Glands outside the Uterus                                                                                         |
-| <br><br>Pathophysiology |   Risk Factor   | Genetics / Family History<br>Late Menopause / <abbr Title="Never been Pregnant">Nulliparity</abbr>                            |
-|            ^            | Pathophysiology | Retrograde Menstruation: Endometrial Fragments flowing back through fallopian tubes<br>→ Implantation in Ovaries / Peritonium |
-|            ^            |   Progression   | Secondary Dysmenorrhea                                                                                                        |
-|        Diagnosis        |        <        | Pelvic Exam, Ultrasound → Laparoscopy                                                                                         |
-|      <br>Treatment      |        <        | NSAIDs → ↓ Pain<br>Surgery (Laparotomy)                                                                                       |
+|     Characteristic      |        <        | Description                                                                                               |
+| :---------------------: | :-------------: | --------------------------------------------------------------------------------------------------------- |
+|     <br>Definition      |        <        | More than 1 of:<br>- Hyperandrogenism<br>- Polycystic Ovary on Ultrasound<br>- Ovulatory Dysfunction      |
+| <br><br>Pathophysiology | <br>Risk Factor | Genetic Factors<br>Insulin Resistance<br>Low-Grade Inflammation                                           |
+|            ^            | Pathophysiology | Disrupted Follicular Development → Anovulation                                                            |
+|            ^            |   Progression   | Metabolic / Cardiovascular Diseases                                                                       |
+|        Diagnosis        |        <        | Physical Exams, Blood Tests, Pelvic Ultrasound                                                            |
+|      <br>Treatment      |        <        | Insulin Resistance: Weight Loss / Metformin<br>↓ Androgen: Oral Contraceptives<br>Anovulation: Clomiphene |
