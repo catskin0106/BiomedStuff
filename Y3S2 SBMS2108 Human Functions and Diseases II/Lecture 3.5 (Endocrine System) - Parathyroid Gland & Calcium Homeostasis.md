@@ -16,7 +16,7 @@ Lecture Notes
 |       Organ       | Function                                                                                      |
 | :---------------: | :-------------------------------------------------------------------------------------------- |
 | Parathyroid Gland | Chief Cells: Produces <abbr Title="Parathyroid Hormone">PTH</abbr> to ↑ Blood Ca<sup>2+</sup> |
-|       Bone        | Storage of Bone Ca<sup>2+</sup><br>Osteoclast Resorption of Bone Ca<sup>2+</sup>              |
+|     <br>Bone      | Storage of Bone Ca<sup>2+</sup><br>Osteoclast Resorption of Bone Ca<sup>2+</sup>              |
 |     Intestine     | Ca<sup>2+</sup> Absorption                                                                    |
 |      Kidney       | Ca<sup>2+</sup> Reabsorption & Excretion                                                      |
 
