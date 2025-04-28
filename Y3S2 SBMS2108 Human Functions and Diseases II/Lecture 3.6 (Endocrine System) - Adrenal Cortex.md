@@ -94,7 +94,7 @@ Lecture Notes
 | Tertiary  | Hypothalamus    | CRH/ADH → ACTH → Cortisol & Androgen |
 - Symptoms of Primary Adrenal Insufficiency:
 	- ↑ ACTH → Hyperpigmentation
-	- ↓ Cortisol → Hypotension Hypoglycemia
+	- ↓ Cortisol → Hypotension & Hypoglycemia
 - Stimulation Test: <abbr Title="Synthetic ACTH">Synacthen</abbr> Stimulation Test → Test Cortisol Production through Plasma Cortisol
 	- Secondary / Tertiary: Subnormal ↑ Cortisol
 	- Primary: Nearly no ↑ Cortisol
