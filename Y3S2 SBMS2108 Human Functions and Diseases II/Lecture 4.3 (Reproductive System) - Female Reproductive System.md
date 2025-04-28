@@ -22,14 +22,25 @@ Lecture Notes
 |     Vagina     |      <      | Coitus & Birth Canal                                               |
 
 #### **Hormonal Control in the Hypothalamus-Pituitary-Ovarian Axis**
-|            Stage             |   <   | Description                          |
-| :--------------------------: | :---: | ------------------------------------ |
-|          Signalling          |   0   | Kisspeptin: Mediates Feedback Loop   |
-|   Hypothalamic Stimulation   |   1   | Hypothalamus release GnRH            |
-|    Pituitary Stimulation     |   2   | Anterior Pituitary Releases LH & FSH |
-|    <br>Ovary Stimulation     | <br>3 | LH:                                  |
-|              ^               |   ^   | FSH:                                 |
-| Negative / Positive Feedback |   4   | Cortisol                             |
+|                        Stage                         |        <         | Description                                                                                                    |
+| :--------------------------------------------------: | :--------------: | -------------------------------------------------------------------------------------------------------------- |
+|                      Signalling                      |        0         | Kisspeptin: Controls Pulsatile GnRH Release & Stimulate LH Release                                             |
+|               Hypothalamic Stimulation               |        1         | Hypothalamus release GnRH                                                                                      |
+|                Pituitary Stimulation                 |        2         | Anterior Pituitary Releases LH & FSH                                                                           |
+| <br><br>Ovary Stimulation<br>(2 Cell-2 Gonadotropin) |    <br><br>3     | LH: Stimulate Theca Cells <br>- Secrete Androgen                                                               |
+|                          ^                           |        ^         | FSH: Stimulate Granulose Cells <br>- Secrete Inhibin A & B<br>- Aromatase: Convert Thecal Androgen to Estrogen |
+|     <br><br><br>Negative / Positive <br>Feedback     | Early Follicular | Mid Estrogen & Inhibin B →<br>↓ GnRH, LH & FSH                                                                 |
+|                          ^                           | Late Follicular  | High Estrogen → <br>↑ LH                                                                                       |
+|                          ^                           |      Luteal      | Mid Estrogen, Progesterone & Inhibin A →<br>↓ GnRH, LH & FSH                                                   |
+
+**Key Hormones**
+
+|    Hormone    |                           Production Site                            | Function |
+| :-----------: | :------------------------------------------------------------------: | -------- |
+| Estrogen (E2) | <abbr Title="Thecal Androgen to Estrogen">Granulose Cells</abbr><br> |          |
+| Progesterone  |                                                                      |          |
+|   Androgens   |                                                                      |          |
+|      HCG      |                                                                      |          |
 
 #### **Fertilization Cycle**
 - Menstrual Cycle: Ovarian Cycle + Uterine Cycle
