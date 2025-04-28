@@ -50,9 +50,9 @@ graph TD;
 **Vasa Recta as Countercurrent Exchanger**
 - Capillaries lining along Loop of Henle
 - Interstitium Osmolality increases along with Descending Vessel
-	- → Vessel water efflux & NaCl influx to Interstitium
+	- → Vessel water efflux to & NaCl influx from Interstitium
 - Interstitium Osmolality decreases along with Ascending Vessel
-	- → Vessel NaCl efflux & water influx to Interstitium after equilibrium
+	- → Vessel NaCl efflux to & water influx from Interstitium after equilibrium
 - Purpose: Prevents rapid removal of NaCl from Interstitium
 	- → Maintain Osmotic Gradient in the Interstitium
 
