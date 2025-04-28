@@ -54,11 +54,11 @@ Lecture Notes
 
 #### **Benign Prostatic Hyperplasia (BPH)**
 
-|     Characteristic      |        <        | Description                                                                                                  |
-| :---------------------: | :-------------: | ---------------------------------------------------------------------------------------------------------- |
-|       Definition        |        <        | Non-malignant prostate gland gr                                                                              |
-| <br><br>Pathophysiology |   Risk Factor   | Aging & ↑ Dihydrotestos                                                                                      |
-|            ^            | Pathophys Urethra compressed by enlarged prostate → Bladder outlet destruction<br>- Voiding: Weak stream & Post-void ng:  e →  |
-|            ^            |   Progre                                                                                                                       |
-|        Diagnosis        |                                                                                                                                |
-|      <br>Treatment      |                                                                                                                                |
+|     Characteristic      |        <        | Description                                                                                                                                 |
+| :---------------------: | :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------- |
+|       Definition        |        <        | Non-malignant prostate gland growth                                                                                                         |
+| <br><br>Pathophysiology |   Risk Factor   | Aging & ↑ Dihydrotestosterone                                                                                                               |
+|            ^            | Pathophysiology | Urethra compressed by enlarged prostate → Bladder outlet destruction<br>- Storage: Nocturia<br>- Voiding: Weak stream & Post-void dribbling |
+|            ^            |   Progression   | Urinary Stasis → Infection / Bladder stones                                                                                                 |
+|        Diagnosis        |        <        | AUA Symptom Index → Ductal Rectal Exam & Urinalysis                                                                                         |
+|      <br>Treatment      |        <        | Avoid Alcohol & Caffeine<br>Medication: α-blockers, 5-α-Reductase / PDE5 Inhibitors<br>Open Prostatectomy                                   |
