@@ -39,7 +39,7 @@ Lecture Notes
 - Population Vector Hypothesis: Movement direction is encoded by combined activity of a large motor cortex neuron population
 	- → Rapid & Direct generation of feedforward commands
 
-**Feedback Motor Control (Close-Looped)
+**Feedback Motor Control (Close-Looped)**
 - Uses the Cortico-cerebellar Loop
 - Detect Deviations from Desired State of Movement through Sensory Information
 	- Accurate & Adaptable but Slower
