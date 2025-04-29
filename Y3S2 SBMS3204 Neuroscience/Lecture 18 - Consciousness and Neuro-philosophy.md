@@ -54,3 +54,5 @@ Lecture Notes
 | Unconscious      | Remains Localized                                             |
 
 **Integrated Information Theory**
+- Consciousness are intrinsic to cognitive networks that exerts causal power on themselves:
+	- Past states can influence Future decisions through feedback loops
