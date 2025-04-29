@@ -3,6 +3,8 @@ Lecture Notes
 **Lecture Coverage:**
 - Human Brain Evolution
 - Consciousness
+- Theories on Consciousness
+- Questions on Neuro-philosophy
 
 ---
 #### **Human Brain Evolution**
@@ -40,4 +42,15 @@ Lecture Notes
 
 **Neural Correlates of Consciousness (NCC)**
 - Minimal Neuronal Mechanisms jointly sufficient for any specific Conscious Experience
-	- Demands a theory on consci
+	- Demands a theory on consciousness but no current consensus
+
+
+#### **Theories on Consciousness**
+**Global Neuronal Workspace Theory**
+
+| Information Type | Processing                                                    |
+| ---------------- | ------------------------------------------------------------- |
+| Conscious        | Broadcasted from Specialized Processors to Many Brain Regions |
+| Unconscious      | Remains Localized                                             |
+
+**Integrated Information Theory**
