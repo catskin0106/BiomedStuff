@@ -4,7 +4,6 @@ Lecture Notes
 - Human Brain Evolution
 - Consciousness
 - Theories on Consciousness
-- Questions on Neuro-philosophy
 
 ---
 #### **Human Brain Evolution**
