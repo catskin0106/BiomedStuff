@@ -4,6 +4,7 @@ Lecture Notes
 - Virus Structure
 - Virus Classification
 - Virus Life Cycle
+- Virus Pathogenesis
 
 ---
 #### **Virus Structure**
@@ -35,11 +36,14 @@ Lecture Notes
 
 #### **Virus Life Cycle**
 
-| Stage            | <           |     |
-| ---------------- | ----------- | --- |
-| Entry            | Attachment  |     |
-| ^                | Penetration |     |
-| ^                | Trafficking |     |
-| ^                | Uncoating   |     |
-| Gene Expression  | <           |     |
-| Gene Replication |             |     |
+|      Stage       |      <      | Enveloped Virus                                                                            |
+| :--------------: | :---------: | ------------------------------------------------------------------------------------------ |
+|  <br><br>Entry   | Attachment  | Binds to Host Cell Receptor (+ Auxiliary Factors)<br>- Determines Host Range               |
+|        ^         | Penetration | Enveloped Virus: Direct Fusion / Receptor-Mediated Endocytosis<br>Naked Virus: Endocytosis |
+|        ^         | Trafficking | Move through Microtubules to Replication Site                                              |
+|        ^         |  Uncoating  | Releases Viral Genome from Capsid                                                          |
+| Gene Expression  |      <      | Hijacks host ribosomes & translation machinery<br>→ Viral mRNA & Protein                   |
+| Gene Replication |      <      | Specific to Baltimore Class<br>- Eclipse Period: Time between Entry & New Virion Appear    |
+|     <br>Exit     |  Assembly   | Packages New Genomes into New Capsids                                                      |
+|        ^         |   Release   | Naked Virus: Lytic<br>Enveloped Virus: Lysogenic                                           |
+|        ^         | Maturation  | Final Modifications for Virulence                                                          |
