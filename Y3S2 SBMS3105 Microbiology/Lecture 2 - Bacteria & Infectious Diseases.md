@@ -83,9 +83,10 @@ Lecture Notes
 
 **Pathogenesis Mechanisms**
 
-|     Step      | Description |
-| :-----------: | ----------- |
-|   Adherence   |             |
-|   Invasion    |             |
-| Toxin Release |             |
-|               |             |
+|          Step          |     <      | Description                                                                                                        |
+| :--------------------: | :--------: | ------------------------------------------------------------------------------------------------------------------ |
+|       Adherence        |     <      | Mediated by Pili, Capsules, Glycocalyx & Adhesins                                                                  |
+|        Invasion        |     <      | Spread in Tissues enabled by <abbr Title="Collagenase & Hyaluronidase">Membrane Enzymes</abbr>                     |
+|   <br>Toxin Release    | Exotoxins  | Secreted Proteins: <abbr Title="Macrophage, Inflammation & Coagulation ">Widespread Immunoactivation via TLRs      |
+|           ^            | Endotoxins | Part of Gram -ve Cell Wall: <abbr Title="↓ Protein Synthesis; ↑ cAMP, Neurotoxin & Superantigens">Specific Actions |
+| Intracellular Survival |     <      | Inhibits Phagosome-Lysosome Fusion                                                                                 |
