@@ -2,7 +2,7 @@ Lecture Notes
 
 **Lecture Coverage:
 - Bacterial Classification
-- a
+- Human-Microbe Relationship
 
 ---
 #### **Bacterial Classification**
@@ -14,6 +14,9 @@ Lecture Notes
 |       Staining        | Gram (+/-)      |
 |  Antigenic Structure  | O Antigen       |
 | Biochemical Reactions | Coagulase       |
+- Gram Staining: Identifies bacteria by cell wall structure
+	- Gram +: Thick peptido
+	- Gram -:
 
 **Molecular Classification**
 - Genetic Relatedness
@@ -36,4 +39,11 @@ Lecture Notes
 | Pathogenic    | <abbr Title="50% Infectious Dose">ID50</abbr> & <abbr Title="50% Lethal Dose">LD50</abbr>: Measures of pathogenicity |
 | Opportunistic | Causes disease in compromised hosts                                                                                  |
 
-****
+**Pathogenesis Hallmarks**
+- Entry, Establishment & Evade Resistance in Host
+- Nutrient Acquisition, Replication & Transmission
+
+**Pathogenesis Mechanisms**
+
+
+#### **Bacterial Structures**
