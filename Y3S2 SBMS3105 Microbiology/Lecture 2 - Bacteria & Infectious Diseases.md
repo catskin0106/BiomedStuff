@@ -9,12 +9,32 @@ Lecture Notes
 #### **Bacterial Structure**
 **Polysaccharide Layers**
 
-| Polysaccharide Layer | Compoen | Description                                                                         |
-| :------------------: | :-----: | ----------------------------------------------------------------------------------- |
-|       Capsule        |         | Virulence Factor                                                                    |
-|      Cell Wall       |         | Peptidoglycan: Identification<br>Has (Lipo)teichoic Acids: Inflammation & Adherence |
-|                      |         |                                                                                     |
+|     Layer     |      Component       | Description                                              |
+| :-----------: | :------------------: | -------------------------------------------------------- |
+|    Biofilm    |      Glycocalyx      | Film-like surface for Bacteria to adhere to host tissues |
+|    Capsule    |   Virulence Factor   | Antigen that Inhibits Phagocytosis                       |
+| <br>Cell Wall |    Peptidoglycan     | Identification                                           |
+|       ^       | (Lipo)teichoic Acids | Inflammation & Adherence                                 |
+**Cell Membrane**
 
+|       Component        |  Segment  | Description                                      |
+| :--------------------: | :-------: | ------------------------------------------------ |
+| <br>Lipopolysaccharide |  Lipid A  | Toxic: Released upon Cell Lysis for Septic Shock |
+|           ^            | O Antigen | Lab Diagnosis                                    |
+**Motility Components**
+
+| Component |      Segment       | Description              |
+| :-------: | :----------------: | ------------------------ |
+| Flagella  | Flagellar Proteins | Motility & Lab Diagnosis |
+| <br>Pili  |      Sex Pili      | Conjugation              |
+|     ^     |      Adhesin       | Mediate Attachment       |
+**Genetic Components**
+
+| Component |      Segment       | Description              |
+| :-------: | :----------------: | ------------------------ |
+| Flagella  | Flagellar Proteins | Motility & Lab Diagnosis |
+| <br>Pili  |      Sex Pili      | Conjugation              |
+|     ^     |      Adhesin       | Mediate Attachment       |
 
 
 #### **Bacterial Classification**
@@ -26,7 +46,7 @@ Lecture Notes
 |       Staining        | Gram (+/-)      |
 |  Antigenic Structure  | O Antigen       |
 | Biochemical Reactions | Coagulase       |
-- Gram Staining: Identifies bacteria by cell wall structure
+- Gram Staining: Identifies bacteria by Cell Wall Structure
 
 | Cell Wall Characteristics |              Gram +               |             Gram -             |
 | :-----------------------: | :-------------------------------: | :----------------------------: |
