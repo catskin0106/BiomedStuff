@@ -7,12 +7,39 @@ Lecture Notes
 
 ---
 #### **Laboratory Detection of Virus**
-- Detection of Viral Morphology / Antigen / Antibody / Gene
+- Purposes:
+	- Diagnosis: Detection of Viral Morphology / Antigen / Antibody / Gene
+	- Isolation: For Research / Testing
 
-**Microscopy (Detection of Morphology)**
+**Microscopy (Morphology Detection)**
 
-|    Microscopy Type     | Description                                                                                              |
-| :--------------------: | -------------------------------------------------------------------------------------------------------- |
-|    Light Microscopy    |                                                                                                          |
-|  Electron Microscopy   | Electron Beams:<br>- Visualize Morphology in High Magnification<br>- ↑ Cost, ↓ Sensitivity & Specificity |
-| Fluorescent Microscopy | Direct Immunofluorescence:<br>- Viral Antigen Detection in Clinical Samples                              |
+|    Microscopy Type     | Description                                                                                                                                 |
+| :--------------------: | ------------------------------------------------------------------------------------------------------------------------------------------- |
+|    Light Microscopy    | Detect Virus-Induced Cytopathic Effects (Inclusion Bodies):<br>- Can't resolve virions (Antigen Visualization by Immunoperoxidase Staining) |
+|  Electron Microscopy   | Electron Beams:<br>- Visualize Morphology in High Magnification<br>- ↑ Cost<br>- ↓ Sensitivity & Specificity (Improved by Immuno-EM)        |
+| Fluorescent Microscopy | Direct Immunofluorescence:<br>- Viral Antigen Detection in Clinical Samples                                                                 |
+
+**Antigen Detection**
+- Detects viral protein in sample
+	- <abbr Title="Enzyme-Linked Immunosorbent Assay">ELISA</abbr>
+	- Immunochromatography
+		- <abbr Title="Rapid Antigen Test">RAT</abbr>: <abbr Title="Hepatitis B surface Antigen">HBsAg</abbr> / HIV
+
+**Antibody Detection**
+- Detects host antibody production to infection
+	- ELISA
+	- Flow-Through Assays
+- IgG & IgM levels reflect infection recency:
+
+| Antibody Level     | Indication                             |
+| ------------------ | -------------------------------------- |
+| IgM + 4x IgG titer | Recent Infection                       |
+| IgG Presence       | Chronic / Past Infection & Vaccination |
+
+**Molecular Diagnostics (Gene Detection)**
+- ↑ Sensitivity, Specificity & Efficiency
+
+| Technique           | Description                                                               |
+| ------------------- | ------------------------------------------------------------------------- |
+| PCR / RT-PCR        | Amplifies viral DNA / RNA for detection<br>- RT-PCR allows Quantification |
+| Nucleic Acid Probes |                                                                           |
