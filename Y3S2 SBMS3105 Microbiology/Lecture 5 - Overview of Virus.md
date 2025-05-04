@@ -36,14 +36,21 @@ Lecture Notes
 
 #### **Virus Life Cycle**
 
-|      Stage       |      <      | Enveloped Virus                                                                            |
-| :--------------: | :---------: | ------------------------------------------------------------------------------------------ |
-|  <br><br>Entry   | Attachment  | Binds to Host Cell Receptor (+ Auxiliary Factors)<br>- Determines Host Range               |
-|        ^         | Penetration | Enveloped Virus: Direct Fusion / Receptor-Mediated Endocytosis<br>Naked Virus: Endocytosis |
-|        ^         | Trafficking | Move through Microtubules to Replication Site                                              |
-|        ^         |  Uncoating  | Releases Viral Genome from Capsid                                                          |
-| Gene Expression  |      <      | Hijacks host ribosomes & translation machinery<br>→ Viral mRNA & Protein                   |
-| Gene Replication |      <      | Specific to Baltimore Class<br>- Eclipse Period: Time between Entry & New Virion Appear    |
-|     <br>Exit     |  Assembly   | Packages New Genomes into New Capsids                                                      |
-|        ^         |   Release   | Naked Virus: Lytic<br>Enveloped Virus: Lysogenic                                           |
-|        ^         | Maturation  | Final Modifications for Virulence                                                          |
+|       Stage       |      <      | Enveloped Virus                                                                                                                                                                        |
+| :---------------: | :---------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <br><br><br>Entry | Attachment  | Binds to Host Cell Receptor (+ Auxiliary Factors)<br>- Determines Host Range                                                                                                           |
+|         ^         | Penetration | Enveloped Virus: Direct Fusion / Receptor-Mediated Endocytosis<br>Naked Virus: Endocytosis                                                                                             |
+|         ^         | Trafficking | Move through Microtubules to Replication Site                                                                                                                                          |
+|         ^         |  Uncoating  | Releases Viral Genome from Capsid                                                                                                                                                      |
+|  Gene Expression  |      <      | Hijacks host ribosomes & translation machinery<br>→ Viral mRNA & Protein                                                                                                               |
+| Gene Replication  |      <      | Specific to Baltimore Class<br>- Eclipse Period: Time between Entry & New Virion Appear                                                                                                |
+|   <br><br>Exit    |  Assembly   | Packages New Genomes into New Capsids                                                                                                                                                  |
+|         ^         |   Release   | Naked Virus: <abbr Title="Host Cell Lysis">Lytic</abbr><br>Enveloped Virus: Genome Integrate into Host Cell → <abbr Title="Make New Envelope with Host Cell Membrane">Lysogenic</abbr> |
+|         ^         | Maturation  | Final Modifications for Virulence                                                                                                                                                      |
+
+
+
+#### **Virus Pathogenesis**
+**Types of Infection**
+- Depends on whether a Progeny Virus is produced
+	- 
