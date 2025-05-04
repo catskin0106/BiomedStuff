@@ -8,3 +8,7 @@ Lecture Notes
 #### **Bacterial Classification**
 **Phylogenetic Classification**
 
+| Classification | Description     |
+| -------------- | --------------- |
+| Morphology     | Cocci / Bacilli |
+|                |                 |
