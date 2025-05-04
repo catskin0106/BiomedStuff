@@ -29,8 +29,11 @@ Lecture Notes
 
 #### **Human-Microbe Relationship**
 
-| Relationship | Description |
-| ------------ | ----------- |
-| Commensal    |             |
-| Mutualistic  |             |
-|              |             |
+| Relationship  | Description                                                                                                          |
+| ------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Commensal     | Can still cause disease if displaced to other body parts                                                             |
+| Mutualistic   | Protective                                                                                                           |
+| Pathogenic    | <abbr Title="50% Infectious Dose">ID50</abbr> & <abbr Title="50% Lethal Dose">LD50</abbr>: Measures of pathogenicity |
+| Opportunistic | Causes disease in compromised hosts                                                                                  |
+
+****
