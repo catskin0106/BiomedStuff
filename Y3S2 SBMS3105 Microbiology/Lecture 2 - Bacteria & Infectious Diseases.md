@@ -1,10 +1,22 @@
 Lecture Notes
 
 **Lecture Coverage:
+- Bacterial Structure
 - Bacterial Classification
 - Human-Microbe Relationship
 
 ---
+#### **Bacterial Structure**
+**Polysaccharide Layers**
+
+| Polysaccharide Layer | Compoen | Description                                                                         |
+| :------------------: | :-----: | ----------------------------------------------------------------------------------- |
+|       Capsule        |         | Virulence Factor                                                                    |
+|      Cell Wall       |         | Peptidoglycan: Identification<br>Has (Lipo)teichoic Acids: Inflammation & Adherence |
+|                      |         |                                                                                     |
+
+
+
 #### **Bacterial Classification**
 **Phylogenetic Classification**
 
@@ -15,8 +27,12 @@ Lecture Notes
 |  Antigenic Structure  | O Antigen       |
 | Biochemical Reactions | Coagulase       |
 - Gram Staining: Identifies bacteria by cell wall structure
-	- Gram +: Thick peptido
-	- Gram -:
+
+| Cell Wall Characteristics |              Gram +               |             Gram -             |
+| :-----------------------: | :-------------------------------: | :----------------------------: |
+|           Stain           |              Purple               |              Pink              |
+|    Peptidoglycan Layer    |               Thick               |              Thin              |
+|      Other Features       | (Lipo)teichoic Acids on Cell Wall | Lipopolysaccharide on Membrane |
 
 **Molecular Classification**
 - Genetic Relatedness
@@ -44,6 +60,3 @@ Lecture Notes
 - Nutrient Acquisition, Replication & Transmission
 
 **Pathogenesis Mechanisms**
-
-
-#### **Bacterial Structures**
