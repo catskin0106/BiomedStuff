@@ -42,4 +42,19 @@ Lecture Notes
 | Technique           | Description                                                               |
 | ------------------- | ------------------------------------------------------------------------- |
 | PCR / RT-PCR        | Amplifies viral DNA / RNA for detection<br>- RT-PCR allows Quantification |
-| Nucleic Acid Probes |                                                                           |
+| Nucleic Acid Probes | Detects viral genomes via Hybridization                                   |
+| Genomic Sequencing  | Identifies Virus Variant & Track Transmission                             |
+
+**Culture (Virus Isolation)**
+- Culture → Detection
+- Culture Methods:
+	- Inoculation of Embryonated Egg / Animal
+	- Tissue / Cell Culture
+- Detection Methods:
+	- Plaque Assays: Measures <abbr Title="Plaque Forming Units">pfu</abbr>
+	- <abbr Title="50% Tissue Culture Infectious Dose">TCID<sub>50</sub></abbr> Assays: Replication Kinetics are represented by One-Step Growth Curves
+
+
+#### **Virus as Gene Delivery Vector**
+- For Research & Gene Therapy
+- Uses modified virus as vehicles to deliver genetic material
