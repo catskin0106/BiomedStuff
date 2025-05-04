@@ -9,7 +9,10 @@ Lecture Notes
 #### **Virus Structure**
 - Virion: Complete virus particle that requires host to reproduce
 
-| Component | Description |
-| :-------: | ----------- |
-|           |             |
+|    Component    | Description |
+| :-------------: | ----------- |
+|    Envelope     |             |
+| Matrix Proteins |             |
+|     Capsid      |             |
+|                 |             |
 
