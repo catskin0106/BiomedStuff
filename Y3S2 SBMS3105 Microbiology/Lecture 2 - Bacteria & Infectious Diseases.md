@@ -1,12 +1,13 @@
 Lecture Notes
 
 **Lecture Coverage:
-- Bacterial Structure
+- Bacteria Structure
+- Mycoplasma Structure
 - Bacterial Classification
 - Human-Microbe Relationship
 
 ---
-#### **Bacterial Structure**
+#### **Bacteria Structure**
 **Polysaccharide Layers**
 
 |     Layer     |      Component       | Description                                              |
@@ -34,9 +35,21 @@ Lecture Notes
 	- Transduction: Bacteriophage Transfer of Toxin Genes
 	- Transformation: Uptake of Dead Cell DNA
 
-|  Component  |                  Nature                   | Transgenic Method | Genes carried                |
-| :---------: | :---------------------------------------: | :---------------: | ---------------------------- |
-|   Plasmid   |       Self-Replicating Circular DNA       |    Conjugation    | Resistance, Exotoxins & Pili |
+| Component |            Nature             | Transgenic Method | Genes carried                |
+| :-------: | :---------------------------: | :---------------: | ---------------------------- |
+|  Plasmid  | Self-Replicating Circular DNA |    Conjugation    | Resistance, Exotoxins & Pili |
+
+#### **Mycoplasma Structure**
+- Causes:
+	- Atypical Pneumonia
+	- Upper Respiratory Infections
+	- Genitourinary Infections
+
+|          Feature          | Description                                                       |
+| :-----------------------: | ---------------------------------------------------------------- |
+|       No Cell Wall        | Can't be gram stained & Penicillin Resistan                       |
+| Pleomorphic Cell Membrane | Has Ste                                                           |
+|  Adhesion by P1 Adhesin Produces H<sub>2</sub>O<sub>2</sub> → Inhibits Respiratory Cilia its  |
 
 
 #### **Bacterial Classification**
@@ -83,10 +96,10 @@ Lecture Notes
 
 **Pathogenesis Mechanisms**
 
-|          Step          |     <      | Description                                                                                                        |
-| :--------------------: | :--------: | ------------------------------------------------------------------------------------------------------------------ |
-|       Adherence        |     <      | Mediated by Pili, Capsules, Glycocalyx & Adhesins                                                                  |
-|        Invasion        |     <      | Spread in Tissues enabled by <abbr Title="Collagenase & Hyaluronidase">Membrane Enzymes</abbr>                     |
-|   <br>Toxin Release    | Exotoxins  | Secreted Proteins: <abbr Title="Macrophage, Inflammation & Coagulation ">Widespread Immunoactivation via TLRs      |
-|           ^            | Endotoxins | Part of Gram -ve Cell Wall: <abbr Title="↓ Protein Synthesis; ↑ cAMP, Neurotoxin & Superantigens">Specific Actions |
-| Intracellular Survival |     <      | Inhibits Phagosome-Lysosome Fusion                                                                                 |
+|          Step          |     <      | Description                                                                                                         |
+| :--------------------: | :--------: | ------------------------------------------------------------------------------------------------------------------- |
+|       Adherence        |     <      | Mediated by Pili, Capsules, Glycocalyx & Adhesins                                                                   |
+|        Invasion        |     <      | Spread in Tissues enabled by <abbr Title="Collagenase & Hyaluronidase">Membrane Enzymes</abbr>                      |
+|   <br>Toxin Release    | Exotoxins  | Secreted Proteins: <abbr Title="Macrophage, Inflammation & Coagulation">Widespread Immunoactivation</abbr> via TLRs |
+|           ^            | Endotoxins | Part of Gram -ve Cell Wall: <abbr Title="↓ Protein Synthesis; ↑ cAMP, Neurotoxin & Superantigens">Specific Actions  |
+| Intracellular Survival |     <      | Inhibits Phagosome-Lysosome Fusion                                                                                  |
