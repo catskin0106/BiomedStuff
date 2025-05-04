@@ -6,5 +6,10 @@ Lecture Notes
 - Virus Life Cycle
 
 ---
-#### **Bacteria Structure**
-- Virion
+#### **Virus Structure**
+- Virion: Complete virus particle that requires host to reproduce
+
+| Component | Description |
+| :-------: | ----------- |
+|           |             |
+
