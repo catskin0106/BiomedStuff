@@ -7,4 +7,12 @@ Lecture Notes
 
 ---
 #### **Laboratory Detection of Virus**
-- Detection of Viral Virion / Antigen / Antibody / Gene
+- Detection of Viral Morphology / Antigen / Antibody / Gene
+
+**Microscopy (Detection of Morphology)**
+
+|    Microscopy Type     | Description                                                                                              |
+| :--------------------: | -------------------------------------------------------------------------------------------------------- |
+|    Light Microscopy    |                                                                                                          |
+|  Electron Microscopy   | Electron Beams:<br>- Visualize Morphology in High Magnification<br>- ↑ Cost, ↓ Sensitivity & Specificity |
+| Fluorescent Microscopy | Direct Immunofluorescence:<br>- Viral Antigen Detection in Clinical Samples                              |

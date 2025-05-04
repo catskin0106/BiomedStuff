@@ -62,6 +62,7 @@ Lecture Notes
 - Effects of Viral Replication
 	- Protein Synthesis Inhibition
 	- Cell Fusion / Lysis
+	- Inclusion Bodies: Viral Replication Sites / Capsid Accumulation
 	- Transformation (Cancer)
 - Effects of Immunoresponses
 	- Inflammation → ↑ ROS → Tissue Damage
