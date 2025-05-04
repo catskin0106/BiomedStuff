@@ -51,6 +51,17 @@ Lecture Notes
 
 
 #### **Virus Pathogenesis**
+- Virus Entry → Local Replication → Spread to Target Organs → Shedding
+
 **Types of Infection**
 - Depends on whether a Progeny Virus is produced
-	- 
+	- Productive: Lytic / Persistent
+	- Non-productive: Latent / Abortive / Transforming
+
+**Pathogenic Effects**
+- Effects of Viral Replication
+	- Protein Synthesis Inhibition
+	- Cell Fusion / Lysis
+	- Transformation (Cancer)
+- Effects of Immunoresponses
+	- Inflammation → ↑ ROS → Tissue Damage
