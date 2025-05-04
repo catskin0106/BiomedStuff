@@ -27,14 +27,16 @@ Lecture Notes
 | :-------: | :----------------: | ------------------------ |
 | Flagella  | Flagellar Proteins | Motility & Lab Diagnosis |
 | <br>Pili  |      Sex Pili      | Conjugation              |
-|     ^     |      Adhesin       | Mediate Attachment       |
+|     ^     |      Adhesin       | Mediate Adherence        |
 **Genetic Components**
+- Can be transferred across bacteria through:
+	- Conjugation: Plasmid Transfer through direct contact of Sex Pili
+	- Transduction: Bacteriophage Transfer of Toxin Genes
+	- Transformation: Uptake of Dead Cell DNA
 
-| Component |      Segment       | Description              |
-| :-------: | :----------------: | ------------------------ |
-| Flagella  | Flagellar Proteins | Motility & Lab Diagnosis |
-| <br>Pili  |      Sex Pili      | Conjugation              |
-|     ^     |      Adhesin       | Mediate Attachment       |
+|  Component  |                  Nature                   | Transgenic Method | Genes carried                |
+| :---------: | :---------------------------------------: | :---------------: | ---------------------------- |
+|   Plasmid   |       Self-Replicating Circular DNA       |    Conjugation    | Resistance, Exotoxins & Pili |
 
 
 #### **Bacterial Classification**
@@ -80,3 +82,10 @@ Lecture Notes
 - Nutrient Acquisition, Replication & Transmission
 
 **Pathogenesis Mechanisms**
+
+|     Step      | Description |
+| :-----------: | ----------- |
+|   Adherence   |             |
+|   Invasion    |             |
+| Toxin Release |             |
+|               |             |
