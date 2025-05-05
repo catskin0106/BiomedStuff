@@ -17,5 +17,17 @@ Lecture Notes
 **Forms**
 - Unicellular (Yeast)
 - Multicellular (Molds / Hyphae)
-	- Septate / 
+	- Septate / Coenocytic: Presence of Septa between Yeast Cells
+	- Vegetative / Reproductive: Function
 - Dimorphic
+	- Switch between Yeast & Mold depending on temperature / environment
+	- Pathogenic in one form
+
+**Reproduction**
+- Asexual / Mitosis: For Rapid Dissemination
+- Sexual / Meiosis: For Genetic Diversity under Poor Conditions
+
+
+#### **Fungal Culture & Diagnosis**
+**Culture Methods**
+
