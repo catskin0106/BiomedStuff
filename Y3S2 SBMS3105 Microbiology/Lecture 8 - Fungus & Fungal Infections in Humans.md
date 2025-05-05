@@ -38,9 +38,9 @@ Lecture Notes
 
 **Diagnosis Methods**
 
-| Diagnosis Method | Description                                                                                 |
-| :--------------: | ------------------------------------------------------------------------------------------- |
-|   Microscopic    | Direct Examination of Specimens under Staining<br>- KOH, Gram, India Ink & Calcofluor White |
-|    Immunology    |                                                                                             |
-|    Molecular     |                                                                                             |
-|    Automation    |                                                                                             |
+| Diagnosis Method | Description                                                                                                                                                                         |
+| :--------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   Microscopic    | Direct Examination of Specimens under Staining<br>- <abbr Title="">KOH</abbr>, <abbr Title="">Gram</abbr>, <abbr Title="">India Ink</abbr> & <abbr Title="">Calcofluor White</abbr> |
+|    Immunology    |                                                                                                                                                                                     |
+|    Molecular     |                                                                                                                                                                                     |
+|    Automation    |                                                                                                                                                                                     |
