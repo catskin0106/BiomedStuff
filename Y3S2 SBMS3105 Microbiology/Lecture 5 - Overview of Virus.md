@@ -53,14 +53,17 @@ Lecture Notes
 #### **Virus Pathogenesis**
 **Stages of Pathogenesis**
 
-|  Stage   |           <           | Enveloped Virus                                                              |
-| :------: | :-------------------: | ---------------------------------------------------------------------------- |
-|  Local   |         Entry         | Binds to Host Cell Receptor (+ Auxiliary Factors)<br>- Determines Host Range |
-|          |  Primary Replication  |                                                                              |
-|          |    Cellular Injury    |                                                                              |
-| Systemic |        Spread         |                                                                              |
-|          | Secondary Replication |                                                                              |
-|          |                       |                                                                              |
+|         Stage          |           <           | Enveloped Virus |
+| :--------------------: | :-------------------: | --------------- |
+| <br><br>Local Invasion |         Entry         |                 |
+|           ^            |  Primary Replication  |                 |
+|           ^            |    Cellular Injury    |                 |
+| <br>Systemic Invasion  |        Spread         |                 |
+|           ^            | Secondary Replication |                 |
+|   <br>Host Immunity    |        Innate         |                 |
+|           ^            |       Adaptive        |                 |
+|           ^            |        Outcome        |                 |
+|        Shedding        |           <           |                 |
 
 **Types of Infection**
 - Depends on whether a Progeny Virus is produced
