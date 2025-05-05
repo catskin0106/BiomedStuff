@@ -51,7 +51,16 @@ Lecture Notes
 
 
 #### **Virus Pathogenesis**
-- Virus Entry → Local Replication → Spread to Target Organs → Shedding
+**Stages of Pathogenesis**
+
+|  Stage   |           <           | Enveloped Virus                                                              |
+| :------: | :-------------------: | ---------------------------------------------------------------------------- |
+|  Local   |         Entry         | Binds to Host Cell Receptor (+ Auxiliary Factors)<br>- Determines Host Range |
+|          |  Primary Replication  |                                                                              |
+|          |    Cellular Injury    |                                                                              |
+| Systemic |        Spread         |                                                                              |
+|          | Secondary Replication |                                                                              |
+|          |                       |                                                                              |
 
 **Types of Infection**
 - Depends on whether a Progeny Virus is produced
