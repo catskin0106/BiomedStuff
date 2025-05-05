@@ -46,4 +46,8 @@ Lecture Notes
 |    Automation    | MALDI-TOF / VITEK                                                                                                                                                                                                                          |
 
 
-#### ****
+#### **Fungal Diseases**
+**Causes**
+- Fungal Entry: Inhalation, Skin Penetration & Mucosal Overgrowth
+	- Virulence Factors: Adhesion Proteins, Mycotoxins & Dimorphism
+- Host Factors: Immunosuppression (NSAIDs & )
