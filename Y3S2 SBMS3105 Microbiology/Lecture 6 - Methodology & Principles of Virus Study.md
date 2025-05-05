@@ -55,6 +55,9 @@ Lecture Notes
 	- <abbr Title="50% Tissue Culture Infectious Dose">TCID<sub>50</sub></abbr> Assays: Replication Kinetics are represented by One-Step Growth Curves
 
 
+#### **Saf**
+
+
 #### **Virus as Gene Delivery Vector**
 - Uses modified virus as vehicles to deliver genetic material
 	- For Research & Gene Therapy
@@ -63,7 +66,7 @@ Lecture Notes
 - <abbr Title="Adeno-Associated Virus">AAV</abbr>: Small non-integrating ssRNA virus
 	- Recombinant AAV produced by replacing viral genes with gene of interest + Rep/Cap/helper genes
 	- Used in *in vivo* & clinical trials
-- <abbr Title="HIV-based">Lentivirus</abbr> / <abbr Title="γ Retrovirus">Retrovirus</abbr>: Integrating RNA viruses
-	- Lentivirus infects dividing & non-dividing cells
-	- Retrovirus infects dividing cells
+	- BSL 1-2
+- <abbr Title="HIV-based: Infects Dividing & Non-Dividing Cells">Lentivirus</abbr> / <abbr Title="γ Retrovirus: Infects Dividing Cells">Retrovirus</abbr>: Integrating RNA viruses
 	- Used in *ex vivo* & research
+	- BSL 2
