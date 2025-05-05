@@ -39,5 +39,8 @@ Lecture Notes
 **Diagnosis Methods**
 
 | Diagnosis Method | Description |
-| ---------------- | ----------- |
+| :--------------: | ----------- |
+|   Microscopic    |             |
+|    Immunology    |             |
+|    Molecular     |             |
 |                  |             |
