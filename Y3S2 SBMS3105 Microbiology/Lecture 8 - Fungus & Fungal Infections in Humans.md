@@ -70,9 +70,14 @@ Lecture Notes
 
 **Major Classes of Antifungal Drugs**
 
-|     Class     | Description                                     | Examples |
-| :-----------: | ----------------------------------------------- | -------- |
-| Echinocandins | ↓ β-glucan Synthase<br>→ ↓ Cell Wall Synthesis  |          |
-|   Polyenes    | Binds Ergosterol<br>→ ↑ Membrane Pore           |          |
-|    Azoles     | ↓ P450 for Ergosterol<br>→ ↓ Membrane Synthesis |          |
-|  Flucytosine  |                                                 |          |
+|     Class     | Description                                                                         | Examples                                                                          |
+| :-----------: | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Echinocandins | ↓ β-glucan Synthase<br>→ ↓ Cell Wall Synthesis                                      | Caspofungin                                                                       |
+|   Polyenes    | Binds Ergosterol<br>→ ↑ Membrane Pore                                               | Amphotericin B: ↑ Spectrum & Nephrotoxicity<br>Nystatin: Topical                  |
+|    Azoles     | ↓ P450 for Ergosterol<br>→ ↓ Membrane Synthesis                                     | Fluconazole: Hepatotoxic & Teratogenic<br>Voriconazole: Hepatotoxic & Teratogenic |
+|  Flucytosine  | Converted to <abbr Title="5-Fluorouracil">5-FU</abbr><br>→ ↓ Nucleic Acid Synthesis | Used in Combination                                                               |
+
+**Drug Resistance**
+- Target Modification / Overexpression
+- Efflux Pumps to Eject Drugs
+- Formation of Biofilm as Physical Barrier
