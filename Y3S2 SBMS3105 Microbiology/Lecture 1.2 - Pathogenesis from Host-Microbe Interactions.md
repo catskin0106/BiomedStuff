@@ -1,6 +1,6 @@
 Lecture Notes
 
-**Lecture Coverage:
+**Lecture Coverage:**
 - Staphylococcus Aureus
 - Pathogenesis of Eczema
 - Eczema Therapies
