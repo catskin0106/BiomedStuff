@@ -11,6 +11,7 @@ Lecture Notes
 **Structure**
 - Eukaryotic: True Nucleus
 	- Chitin Cell Wall
+	- Ergosterol in Cell Membrane
 - Absorptive Heterotrophs
 	- Non-photosynthetic Decomposers
 
@@ -54,9 +55,24 @@ Lecture Notes
 
 **Types of Mycosis**
 
-|     Type      | Description | Example |
-| :-----------: | ----------- | ------- |
-|  Superficial  |             |         |
-| Subcutaneous  |             |         |
-|   Systemic    |             |         |
-| Opportunistic |             |         |
+|     Type      | Description                                             | Example                                                                                 |
+| :-----------: | ------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+|  Superficial  | Caused by Dermatophytes<br>- Affects Skin, Hair & Nails | Ringworm, Athlete's Foot, Jock Itch & Onychomycosis                                     |
+| Subcutaneous  | Beneath the Skin                                        | <abbr Title="Rose Gardener's Disease">Sporotrichosis</abbr>                             |
+|   Systemic    | Invade Organs; Life Threatening                         | Endemic Dimorphic Fungi & Opportunists                                                  |
+| Opportunistic | Normal fungi in Immunocompromised people                | Candidiasis (Thrush / Vaginal Infection)<br>Cryptococcosis (Meningitis in HIV Patients) |
+
+
+#### **Antifungal Drugs**
+- Selective Toxicity by Inhibiting:
+	- Fungal-specific Structures (Cell wall / Membrane Ergosterol)
+	- Fungal-specific Pathways (Nucleic Acid Synthesis)
+
+**Major Classes of Antifungal Drugs**
+
+|     Class     | Description                                     | Examples |
+| :-----------: | ----------------------------------------------- | -------- |
+| Echinocandins | ↓ β-glucan Synthase<br>→ ↓ Cell Wall Synthesis  |          |
+|   Polyenes    | Binds Ergosterol<br>→ ↑ Membrane Pore           |          |
+|    Azoles     | ↓ P450 for Ergosterol<br>→ ↓ Membrane Synthesis |          |
+|  Flucytosine  |                                                 |          |
