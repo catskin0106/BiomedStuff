@@ -2,8 +2,8 @@ Lecture Notes
 
 **Lecture Coverage:
 - Laboratory Detection of Virus
-- Virus as Gene Delivery Vector
 - Safety in Virus Study
+- Virus as Gene Delivery Vector
 
 ---
 #### **Laboratory Detection of Virus**
@@ -62,8 +62,8 @@ Lecture Notes
 **Types of Virus Used**
 - <abbr Title="Adeno-Associated Virus">AAV</abbr>: Small non-integrating ssRNA virus
 	- Recombinant AAV produced by replacing viral genes with gene of interest + Rep/Cap/helper genes
-	- Used in 
+	- Used in *in vivo* & clinical trials
 - <abbr Title="HIV-based">Lentivirus</abbr> / <abbr Title="γ Retrovirus">Retrovirus</abbr>: Integrating RNA viruses
 	- Lentivirus infects dividing & non-dividing cells
 	- Retrovirus infects dividing cells
-	- 
+	- Used in *ex vivo* & research
