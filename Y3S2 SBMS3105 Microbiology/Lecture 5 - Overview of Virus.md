@@ -53,17 +53,17 @@ Lecture Notes
 #### **Virus Pathogenesis**
 **Stages of Pathogenesis**
 
-|         Stage          |           <           | Enveloped Virus |
-| :--------------------: | :-------------------: | --------------- |
-| <br><br>Local Invasion |         Entry         |                 |
-|           ^            |  Primary Replication  |                 |
-|           ^            |    Cellular Injury    |                 |
-| <br>Systemic Invasion  |        Spread         |                 |
-|           ^            | Secondary Replication |                 |
-|   <br>Host Immunity    |        Innate         |                 |
-|           ^            |       Adaptive        |                 |
-|           ^            |        Outcome        |                 |
-|        Shedding        |           <           |                 |
+|         Stage          |           <           | Enveloped Virus                                                                                                         |
+| :--------------------: | :-------------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| <br><br>Local Invasion |         Entry         | Adherence to specific cell receptors at portal of entry<br>- Determines Tropism                                         |
+|           ^            |  Primary Replication  | At Epithelial Cells near the entry site                                                                                 |
+|           ^            |    Cellular Injury    | Pathogenic Effects                                                                                                      |
+| <br>Systemic Invasion  |        Spread         | Via Lymph, Blood & Nerves to Target Tissue                                                                              |
+|           ^            | Secondary Replication | Occurs in Target Tissue                                                                                                 |
+|   <br>Host Immunity    |        Innate         | <abbr Title="Interferons">IFNs</abbr> induce <abbr Title="Interferon-Stimulated Genes">ISG</abbr> → ↓ Viral Replication |
+|           ^            |       Adaptive        | T & B Cell Actions<br>- Chronic Responses → Tissue Damage                                                               |
+|           ^            |        Outcome        | Viral Clearance                                                                                                         |
+|        Shedding        |           <           | Virus Release from Body → Transmission                                                                                  |
 
 **Types of Infection**
 - Depends on whether a Progeny Virus is produced
@@ -77,4 +77,10 @@ Lecture Notes
 	- Inclusion Bodies: Viral Replication Sites / Capsid Accumulation
 	- Transformation (Cancer)
 - Effects of Immunoresponses
-	- Inflammation → ↑ ROS → Tissue Damage
+	- T Cells: NK & CTLs
+	- B Cells: Antibody Neutralization
+	- Chronic Inflammation → ↑ ROS → Tissue Damage
+- Virus-mediated Carcinogenesis
+	- Direct Oncogene Expression
+	- ↑ Apoptosis Resistance
+	- Modify Host DNA Repair
