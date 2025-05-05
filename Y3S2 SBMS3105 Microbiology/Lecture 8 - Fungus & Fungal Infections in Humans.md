@@ -50,4 +50,13 @@ Lecture Notes
 **Causes**
 - Fungal Entry: Inhalation, Skin Penetration & Mucosal Overgrowth
 	- Virulence Factors: Adhesion Proteins, Mycotoxins & Dimorphism
-- Host Factors: Immunosuppression (NSAIDs & )
+- Host Factors: Immunosuppression (NSAIDs & HIV/AIDs)
+
+**Types of Mycosis**
+
+|     Type      | Description | Example |
+| :-----------: | ----------- | ------- |
+|  Superficial  |             |         |
+| Subcutaneous  |             |         |
+|   Systemic    |             |         |
+| Opportunistic |             |         |
