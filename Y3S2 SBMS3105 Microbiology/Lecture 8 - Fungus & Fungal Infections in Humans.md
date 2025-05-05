@@ -44,3 +44,6 @@ Lecture Notes
 |    Immunology    | Detection of Antibodies / Antigens                                                                                                                                                                                                         |
 |    Molecular     | PCR / DNA Sequencing                                                                                                                                                                                                                       |
 |    Automation    | MALDI-TOF / VITEK                                                                                                                                                                                                                          |
+
+
+#### ****
