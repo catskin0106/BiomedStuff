@@ -56,5 +56,14 @@ Lecture Notes
 
 
 #### **Virus as Gene Delivery Vector**
-- For Research & Gene Therapy
 - Uses modified virus as vehicles to deliver genetic material
+	- For Research & Gene Therapy
+
+**Types of Virus Used**
+- <abbr Title="Adeno-Associated Virus">AAV</abbr>: Small non-integrating ssRNA virus
+	- Recombinant AAV produced by replacing viral genes with gene of interest + Rep/Cap/helper genes
+	- Used in 
+- <abbr Title="HIV-based">Lentivirus</abbr> / <abbr Title="γ Retrovirus">Retrovirus</abbr>: Integrating RNA viruses
+	- Lentivirus infects dividing & non-dividing cells
+	- Retrovirus infects dividing cells
+	- 
