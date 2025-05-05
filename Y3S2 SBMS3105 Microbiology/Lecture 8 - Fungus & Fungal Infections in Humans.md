@@ -38,9 +38,9 @@ Lecture Notes
 
 **Diagnosis Methods**
 
-| Diagnosis Method | Description                                                                                                                                                                         |
-| :--------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   Microscopic    | Direct Examination of Specimens under Staining<br>- <abbr Title="">KOH</abbr>, <abbr Title="">Gram</abbr>, <abbr Title="">India Ink</abbr> & <abbr Title="">Calcofluor White</abbr> |
-|    Immunology    |                                                                                                                                                                                     |
-|    Molecular     |                                                                                                                                                                                     |
-|    Automation    |                                                                                                                                                                                     |
+| Diagnosis Method | Description                                                                                                                                                                                                                                |
+| :--------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   Microscopic    | Direct Examination of Specimens under Staining<br>- <abbr Title="Clears Keratin">KOH</abbr>, <abbr Title="Mold = Gram +">Gram</abbr>, <abbr Title="Capsules (e.g. Cryptococcus)">India Ink</abbr> & <abbr Title="">Calcofluor White</abbr> |
+|    Immunology    | Detection of Antibodies                                                                                                                                                                                                                    |
+|    Molecular     |                                                                                                                                                                                                                                            |
+|    Automation    |                                                                                                                                                                                                                                            |
