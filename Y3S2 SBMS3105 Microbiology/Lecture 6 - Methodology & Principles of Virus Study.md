@@ -55,7 +55,17 @@ Lecture Notes
 	- <abbr Title="50% Tissue Culture Infectious Dose">TCID<sub>50</sub></abbr> Assays: Replication Kinetics are represented by One-Step Growth Curves
 
 
-#### **Saf**
+#### **Safety in Virus Study**
+**Risks**
+- Infection, Contamination & Security Breaches
+	- Personnel are classified with Risk Group
+		- RG1 to RG4
+	- Environments are classified with Biohazard Safety Level
+		- BSL1 to BSL4
+
+**Risk Management**
+- Hazard Identification → Risk Assessment → Risk Management Strategies
+	- Priority: Elimination / Substitution > Engineering Controls > Administration Controls > <abbr Title="Personal Protective Equipment">PPE</abbr>
 
 
 #### **Virus as Gene Delivery Vector**
