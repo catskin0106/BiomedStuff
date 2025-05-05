@@ -30,4 +30,14 @@ Lecture Notes
 
 #### **Fungal Culture & Diagnosis**
 **Culture Methods**
+- Requirements:
+	- Specific media (SDA) & antibiotics
+	- Lower temperature (25-30°C)
+	- Longer incubation (Weeks)
+- Might be slow & has contamination risks
 
+**Diagnosis Methods**
+
+| Diagnosis Method | Description |
+| ---------------- | ----------- |
+|                  |             |
