@@ -33,4 +33,16 @@ Lecture Notes
 
 
 #### **Antimicrobial Resistance**
-- Unresponsi
+- Unresponsiveness of Microorganism to AMA
+	- Due to Misuse & Overuse of Antibiotics → Bacterial Chromosomal Mutation / Horizontal Transfer of Resistance Gene
+
+**Mechanisms of Antimicrobial Resistance**
+
+|       Mechanism       | Description                   | Examples        |
+| :-------------------: | ----------------------------- | --------------- |
+|    ↓ Permeability     | Loss of Outer Membrane Porins | Gram - Bacteria |
+|   Drug Inactivation   | Drug Destruction by Enzymes   |                 |
+|  Target Modification  |                               |                 |
+| Target Overproduction |                               |                 |
+|     Target Bypass     |                               |                 |
+|     Efflux Pumps      |                               |                 |
