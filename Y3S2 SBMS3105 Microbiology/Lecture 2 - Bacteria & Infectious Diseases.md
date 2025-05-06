@@ -1,6 +1,6 @@
 Lecture Notes
 
-**Lecture Coverage:
+**Lecture Coverage:**
 - Bacteria Structure
 - Mycoplasma Structure
 - Bacterial Classification

@@ -1,6 +1,6 @@
 Lecture Notes
 
-**Lecture Coverage:
+**Lecture Coverage:**
 - Virus Structure
 - Virus Classification
 - Virus Life Cycle

@@ -1,6 +1,6 @@
 Lecture Notes
 
-**Lecture Coverage:
+**Lecture Coverage:**
 - Classification of Viral Diseases
 - Pathogenesis of Viral Diseases
 - Diagnosis of Viral Diseases

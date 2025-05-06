@@ -1,6 +1,6 @@
 Lecture Notes
 
-**Lecture Coverage:
+**Lecture Coverage:**
 - Vaccine Targets
 - History of Vaccine Development
 - Impact of Vaccination

@@ -1,6 +1,6 @@
 Lecture Notes
 
-**Lecture Coverage:
+**Lecture Coverage:**
 - Introduction to Fungi
 - Fungal Culture & Diagnosis
 - Fungal Diseases

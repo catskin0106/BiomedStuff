@@ -1,6 +1,6 @@
 Lecture Notes
 
-**Lecture Coverage:
+**Lecture Coverage:**
 - Immunology of Vaccination
 - Evaluation of Vaccine Performance
 
@@ -42,3 +42,18 @@ Lecture Notes
 
 
 #### **Application Strategies**
+**Vaccine Choice**
+- Based on Multiple Factors & Outbreak Situation
+
+|    Factor     |          Description           |
+| :-----------: | :----------------------------: |
+| Availability  | Stock Amount & Ease of Storage |
+|     Cost      |  Cost of Handling & Synthesis  |
+| Dose Required |                                |
+
+| Outbreak Situation in COVID-19 |  Description   | <                                                                                     |
+| :----------------------------: | :------------: | ------------------------------------------------------------------------------------- |
+|   <br>Initial (Wuhan Strain)   |      Goal      | High Antibody Levels → ↓ Infection                                                    |
+|               ^                | Vaccine Choice | Balance Efficacy & Side Effects                                                       |
+|     <br>Revised (Omicron)      |   Situation    | Omicron evaded neutralization antibodies but not T-Cell <br>→ Breakthrough Infections |
+|               ^                |      Goal      | ↓ Severe Infection & Death                                                            |
