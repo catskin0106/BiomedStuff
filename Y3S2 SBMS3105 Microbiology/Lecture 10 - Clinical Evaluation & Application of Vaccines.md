@@ -18,8 +18,8 @@ Lecture Notes
 
 #### **Evaluation of Vaccine Performance**
 
-| Criteria | Description |
-| :------: | ----------- |
-| Efficacy |             |
-| Duration |             |
-|          |             |
+|                     Criteria                     | Description                                                                |
+| :----------------------------------------------: | -------------------------------------------------------------------------- |
+|                     Efficacy                     | % Reduction in Disease Risk for Vaccinated Individuals in Controlled Trial |
+|                     Duration                     |                                                                            |
+| <abbr Title="Correlate of Protection">CoP</abbr> |                                                                            |
