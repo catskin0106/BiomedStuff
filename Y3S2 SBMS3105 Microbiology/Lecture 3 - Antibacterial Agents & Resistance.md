@@ -1,10 +1,10 @@
 Lecture Notes
 
 **Lecture Coverage:**
-- Bacteria Structure
-- Mycoplasma Structure
-- Bacterial Classification
-- Human-Microbe Relationship
+- Antimicrobial Agents
+- Classification of Antimicrobial Agents
+- Antimicrobial Resistance
+- Antimicrobial Stewardship
 
 ---
 #### **Bacteria Structure**
