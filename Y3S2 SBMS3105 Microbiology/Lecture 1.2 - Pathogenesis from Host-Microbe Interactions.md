@@ -36,18 +36,18 @@ Lecture Notes
 **Virulence Factors of S. Aureus**
 - Bold = Pathogenic Effects
 
-|       Structure       | Factor                                                    | Function                                                                                                                               |
-| :-------------------: | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| <br><br><br>Cell Wall | A Protein                                                 | **<abbr Title="by Keratinocytes">↑ Proinflammatory Cytokines</abbr>**<br><abbr Title="By binding to IgG Fc region">Anti-opsonin</abbr> |
-|           ^           | Polysaccharide Capsule                                    | Prevent Phagocytosis                                                                                                                   |
-|           ^           | Peptidoglycan                                             | Activate chemotaxis of <abbr Title="Polymorphonuclear Lymphocytes">PMNs</abbr>                                                         |
-|           ^           | <abbr Title="Fibronectin Binding Protein">FnBP</abbr>     | Microbe Clumping Factor<br>                                                                                                            |
-|      <br>Enzymes      | Catalase                                                  | H₂O₂ → H₂O + <abbr Title="Favors Aerobic Environment">O₂</abbr>                                                                        |
-|           ^           | Coagulase                                                 | Clots oxalated / citrated plasma                                                                                                       |
-|  <br><br><br>Toxins   | <abbr Title="Toxic Shock Syndrome Toxins 1">TSST-1</abbr> | **<abbr Title="Binds to MHC-II">T-Cell mediated Inflammation</abbr>**<br>**Basophil Activation**                                       |
-|           ^           | Hemolysin (αβγδ)                                          | **δ: <abbr Title="Release proinflammatory molecules (e.g. Histamine)">Mast Cell Degranulation</abbr>**<br>Hemolysis                    |
-|           ^           | Panton-Valentine Leukocidin                               | Leukocide                                                                                                                              |
-|           ^           | Enterotoxins (A-P except F)                               | Heat stable Gut Toxins                                                                                                                 |
+|       Structure       | Factor                                                    | Function                                                                                                                           |
+| :-------------------: | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| <br><br><br>Cell Wall | A Protein                                                 | <abbr Title="by Keratinocytes">↑ Proinflammatory Cytokines</abbr><br><abbr Title="By binding to IgG Fc region">Anti-opsonin</abbr> |
+|           ^           | Polysaccharide Capsule                                    | Prevent Phagocytosis                                                                                                               |
+|           ^           | Peptidoglycan                                             | Activate chemotaxis of <abbr Title="Polymorphonuclear Lymphocytes">PMNs</abbr>                                                     |
+|           ^           | <abbr Title="Fibronectin Binding Protein">FnBP</abbr>     | Microbe Clumping Factor<br>                                                                                                        |
+|      <br>Enzymes      | Catalase                                                  | H₂O₂ → H₂O + <abbr Title="Favors Aerobic Environment">O₂</abbr>                                                                    |
+|           ^           | Coagulase                                                 | Clots oxalated / citrated plasma                                                                                                   |
+|  <br><br><br>Toxins   | <abbr Title="Toxic Shock Syndrome Toxins 1">TSST-1</abbr> | **<abbr Title="Binds to MHC-II">T-Cell mediated Inflammation</abbr>**<br>**Basophil Activation**                                   |
+|           ^           | Hemolysin (αβγδ)                                          | **δ: <abbr Title="Release proinflammatory molecules (e.g. Histamine)">Mast Cell Degranulation</abbr>**<br>Hemolysis                |
+|           ^           | Panton-Valentine Leukocidin                               | Leukocide                                                                                                                          |
+|           ^           | Enterotoxins (A-P except F)                               | Heat stable Gut Toxins                                                                                                             |
 
 
 #### **Eczema Therapies**
