@@ -21,5 +21,5 @@ Lecture Notes
 |                     Criteria                     | Description                                                                |
 | :----------------------------------------------: | -------------------------------------------------------------------------- |
 |                     Efficacy                     | % Reduction in Disease Risk for Vaccinated Individuals in Controlled Trial |
-|                     Duration                     |                                                                            |
+|                     Duration                     | Antibody Waning (Might necessitate Boosters)                               |
 | <abbr Title="Correlate of Protection">CoP</abbr> |                                                                            |
