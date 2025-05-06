@@ -7,7 +7,7 @@ Lecture Notes
 #### **Immunology of Vaccination**
 - Goal: Exploit Specificity & Memory of Adaptive Immunity to provide Immunity without Causing Disease
 
-| Response Type | Description |
-| :-----------: | ----------- |
-|    Primary    | Slow        |
-|   Secondary   |             |
+| Immunity Mechanism | Description |
+| :----------------: | ----------- |
+|                    |             |
+
