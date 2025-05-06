@@ -4,7 +4,7 @@ Lecture Notes
 - Vaccine Targets
 - History of Vaccine Development
 - Impact of Vaccination
-- Immunology of Vaccination
+- Vaccine Surveillance
 
 ---
 #### **Vaccine Targets**
@@ -55,4 +55,13 @@ Lecture Notes
 - ↓ Treatment Cost & ↑ Productivity → ↓ Poverty & ↑ Global Stability
 
 
-#### **Immunology of Vaccination**
+#### **Vaccine Surveillance**
+- Aims:
+	- To protect high-risk individuals
+	- To Control / Eliminate / Eradicate Diseases
+
+|     Timeframe      | Type of Surveillance                   |
+| :----------------: | -------------------------------------- |
+| Before Elimination | Burden Estimate                        |
+| During Elimination | Effectiveness, Impact & Adverse Events |
+|  Near Elimination  | Identify Susceptible Pockets           |
