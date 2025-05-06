@@ -18,8 +18,8 @@ Lecture Notes
 
 #### **Evaluation of Vaccine Performance**
 
-|                     Criteria                     | Description                                                                |
-| :----------------------------------------------: | -------------------------------------------------------------------------- |
-|                     Efficacy                     | % Reduction in Disease Risk for Vaccinated Individuals in Controlled Trial |
-|                     Duration                     | Antibody Waning (Might necessitate Boosters)                               |
-| <abbr Title="Correlate of Protection">CoP</abbr> |                                                                            |
+|                     Criteria                     | Description                                                                                                                   |
+| :----------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------- |
+|                     Efficacy                     | % Reduction in Disease Risk for Vaccinated Individuals in Controlled Trial                                                    |
+|                     Duration                     | Antibody Waning (Might necessitate Boosters)                                                                                  |
+| <abbr Title="Correlate of Protection">CoP</abbr> | Statistical Relationship between Immunological Measure (e.g. Antibody Level) & Protection<br>- Used in Efficacy Prediction /  |
