@@ -13,7 +13,7 @@ Lecture Notes
 |      Component       | Description                                                                                                         |
 | :------------------: | ------------------------------------------------------------------------------------------------------------------- |
 |       Envelope       | Glycoprotein in Lipid Bilayer<br>- Attachment & Delivery to Host Cell                                               |
-|   Matrix Proteins    | Structural & Assembly Support; Between                                                                              |
+|   Matrix Proteins    | Structural & Assembly Support                                                                                       |
 |        Capsid        | Capsomere Proteins<br>- Genome Protection & Delivery to Host Cell                                                   |
 |    Viral Enzymes     | <abbr Title="e.g. Reverse Transcriptase, Integrase & Protease">Essential Enzymes</abbr> for Early Replication Steps |
 | <br>Genetic Material | Lack introns<br>Overlapping genes<br>Poly(A) Tails only in (+)ssRNA viruses                                         |
