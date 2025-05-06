@@ -4,6 +4,7 @@ Lecture Notes
 - Vaccine Targets
 - History of Vaccine Development
 - Impact of Vaccination
+- Immunology of Vaccination
 
 ---
 #### **Vaccine Targets**
@@ -42,5 +43,16 @@ Lecture Notes
 
 #### **Impact of Vaccination**
 **Disease Control**
-- Herd Immunity
+- Herd Immunity: Indirect protection to unvaccinated individuals in a highly immune population
 
+| Type of Disease Control | Examples                  |
+| :---------------------: | ------------------------- |
+|       Eradication       | Smallpox                  |
+|       Elimination       | Near-Eradication of Polio |
+|         Control         | Measles & Pertussis       |
+
+**Social Benefits**
+- ↓ Treatment Cost & ↑ Productivity → ↓ Poverty & ↑ Global Stability
+
+
+#### **Immunology of Vaccination**
