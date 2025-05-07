@@ -62,7 +62,7 @@ Lecture Notes
 |           ^            | Secondary Replication | Occurs in Target Tissue                                                                                                 |
 |   <br>Host Immunity    |        Innate         | <abbr Title="Interferons">IFNs</abbr> induce <abbr Title="Interferon-Stimulated Genes">ISG</abbr> → ↓ Viral Replication |
 |           ^            |       Adaptive        | T & B Cell Actions<br>- Chronic Responses → Tissue Damage                                                               |
-|           ^            |        Outcome        | Viral Clearance                                                                                                         |
+|           ^            |        Outcome        | Viral Clearance / Persistence                                                                                           |
 |        Shedding        |           <           | Virus Release from Body → Transmission                                                                                  |
 
 **Types of Infection**
