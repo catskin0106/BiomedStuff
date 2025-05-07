@@ -40,6 +40,7 @@ Lecture Notes
 |  Plasmid  | Self-Replicating Circular DNA |    Conjugation    | Resistance, Exotoxins & Pili |
 
 #### **Mycoplasma Structure**
+- A type of Atypical Bacteria
 - Causes:
 	- Atypical Pneumonia
 	- Upper Respiratory Infections
