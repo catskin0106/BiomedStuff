@@ -46,11 +46,11 @@ Lecture Notes
 	- Upper Respiratory Infections
 	- Genitourinary Infections
 
-|          Feature          | Description                                                                    |
-| :-----------------------: | ------------------------------------------------------------------------------ |
-|       No Cell Wall        | Can't be gram stained & Penicillin Resistance                                  |
-| Pleomorphic Cell Membrane | Has Sterol                                                                     |
-|         Adhesion          | by P1 Adhesin Produces H<sub>2</sub>O<sub>2</sub> → Inhibits Respiratory Cilia |
+|          Feature          | Description                                                                     |
+| :-----------------------: | ------------------------------------------------------------------------------- |
+|       No Cell Wall        | Can't be gram stained & Penicillin Resistance                                   |
+| Pleomorphic Cell Membrane | Has Sterol                                                                      |
+|         Adhesion          | by P1 Adhesin: Produces H<sub>2</sub>O<sub>2</sub> → Inhibits Respiratory Cilia |
 
 
 #### **Bacterial Classification**
