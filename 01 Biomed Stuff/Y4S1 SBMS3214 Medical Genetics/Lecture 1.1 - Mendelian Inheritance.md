@@ -3,6 +3,8 @@ Lecture Notes
 **Lecture Coverage:**
 - Fundamental Concepts in Genetics
 - Mendel's Laws of Inheritance
+- Modes of Mendelian Inheritance
+- Complications to Mendelian Inheritance
 
 ---
 #### **Fundamental Concepts in Genetics**
@@ -34,7 +36,6 @@ Lecture Notes
 
 
 #### **Mendel's Laws of Inheritance**
-
 **Mendel's Law of Dominance**
 - In a Heterozygote, the dominant allele can mask the effect of the recessive allele
 
@@ -51,10 +52,15 @@ Lecture Notes
 
 #### **Mode of Mendelian Inheritance**
 
-| Inheritance Pattern    | Features in Pedigree                                                                                                             |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| <br>Autosomal Dominant | - Disease Phenotype in Every Generation<br>- Affected Individuals have at least 1 Affected Parent<br>- Male-to-Male Transmission |
-| Autosomal Recessive    | - Affected Individual might have Healthy Parents & Offspring<br>- Likelihood increased by Consanguinity                          |
-| X-Linked Dominant      |                                                                                                                                  |
-| X-Linked Recessive     |                                                                                                                                  |
-| Y-Linked               |                                                                                                                                  |
+|  Inheritance Pattern   | Features in Pedigree                                                                                                   |
+| :--------------------: | ---------------------------------------------------------------------------------------------------------------------- |
+|   Autosomal Dominant   | - Doesn't Skip Generations<br>- Male-to-Male Transmission                                                              |
+|  Autosomal Recessive   | - Skip Generations<br>- Likelihood increased by Consanguinity                                                          |
+|   X-Linked Dominant    | - Affected Fathers must have Affected Daughters<br>- Mostly Males Affected                                             |
+| <br>X-Linked Recessive | - Unaffected Female Carriers<br>- Affected Daughters must have 2 Affected / Carrier Parents<br>- Mostly Males Affected |
+|        Y-Linked        | - Only Affect Males<br>- Affected Fathers must have Affected Sons                                                      |
+
+([Quiz](https://lantsandlaminins.com/guide-to-identifying-mode-of-inheritance-from-genetic-pedigrees/))
+
+#### **Complications to Mendelian Inheritance**
+**Penetrance & Expressivity**
